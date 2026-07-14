@@ -1,0 +1,14 @@
+.git
+.venv
+venv
+env
+__pycache__
+*.py[cod]
+.pytest_cache
+.ipynb_checkpoints
+.env
+notebooks
+tests
+vectorstore
+data/raw
+.DS_Store

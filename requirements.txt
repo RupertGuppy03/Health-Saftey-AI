@@ -1,0 +1,30 @@
+# Health & Safety AI — Python dependencies
+#
+# After the first `pip install -r requirements.txt`, pin exact versions
+# (run `pip freeze`) so everyone on the team uses the same ones.
+
+# --- LLM + orchestration ---
+langchain
+langchain-openai
+openai
+
+# --- Vector store + embeddings ---
+chromadb
+
+# --- PDF text extraction ---
+pymupdf
+pdfplumber
+
+# --- Backend API ---
+fastapi
+uvicorn
+
+# --- Frontend UI ---
+streamlit
+
+# --- Config / environment ---
+python-dotenv
+
+# --- Testing + evaluation ---
+pytest
+deepeval
