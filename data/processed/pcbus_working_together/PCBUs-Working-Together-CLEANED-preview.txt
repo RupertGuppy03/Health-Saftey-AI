@@ -1,0 +1,1659 @@
+[p1 | prose | PCBUs working together]
+PCBUs working together
+
+[p1 | prose | ADVICE WHEN CONTRACTING]
+ADVICE WHEN CONTRACTING
+
+[p1 | prose | ADVICE WHEN CONTRACTING]
+June 2019
+
+[p2 | prose | ADVICE WHEN CONTRACTING]
+These guidelines are for Persons Conducting
+
+[p2 | prose | ADVICE WHEN CONTRACTING]
+a Business or Undertaking (PCBUs) who are
+
+[p2 | prose | ADVICE WHEN CONTRACTING]
+sharing a workplace with other businesses,
+
+[p2 | prose | ADVICE WHEN CONTRACTING]
+or are working as part of a contracting chain.
+
+[p2 | prose | ADVICE WHEN CONTRACTING]
+They provide advice on how you can meet
+
+[p2 | prose | your duties under the Health and Safety at]
+your duties under the Health and Safety at
+
+[p2 | prose | Work Act 2015 (HSWA), illustrate different]
+Work Act 2015 (HSWA), illustrate different
+
+[p2 | prose | Work Act 2015 (HSWA), illustrate different]
+and provide examples of ways you can build
+
+[p2 | prose | health and safety into contract management.]
+health and safety into contract management.
+
+[p3 | prose | health and safety into contract management.]
+PCBUs working together
+
+[p3 | prose | KEY POINTS]
+KEY POINTS
+
+[p3 | prose | KEY POINTS]
+You must consult, cooperate and coordinate with
+
+[p3 | prose | KEY POINTS]
+other PCBUs when working in a shared workplace,
+
+[p3 | prose | or as part of a contracting chain]
+or as part of a contracting chain
+
+[p3 | prose | or as part of a contracting chain]
+You can’t contract out of health and safety duties
+
+[p3 | prose | or as part of a contracting chain]
+You should always build health and safety into
+
+[p3 | prose | contract management]
+contract management
+
+[p7 | prose | contract management]
+PCBUs must consult, cooperate and coordinate with other PCBUs when they are working in a shared workplace or working as part of a contracting chain.
+
+[p7 | prose | contract management]
+What this guide is about
+
+[p7 | prose | contract management]
+The Health and Safety at Work Act 2015 (HSWA) is the key work health and safety law in New Zealand. A guiding principle of HSWA is that workers and other persons should be given the highest level of protection against harm to their health, safety, and welfare from work risks so far as is reasonably practicable.
+
+[p7 | prose | contract management]
+Contracting is when a PCBU1 (the contracting PCBU) hires someone else (the contractor – also a PCBU) to carry out temporary work under contract. Contractors may be individuals or businesses. Contractors, their subcontractors, and their employees are classed as the workers of the lead contracting PCBU.
+
+[p7 | prose | contract management]
+Contract types may include:
+
+[p7 | prose | contract management]
+projects (such as construction, installation or upgrade work)
+
+[p7 | prose | contract management]
+maintenance and repair activities
+
+[p7 | prose | contract management]
+service and cleaning contracts.
+
+[p7 | prose | contract management]
+PCBUs that work together will often share health and safety duties in relation to the same matter. These are called overlapping duties. PCBUs have a duty to consult, cooperate with and coordinate activities with all other PCBUs they share overlapping duties with, so far as is reasonably practicable.
+
+[p7 | prose | contract management]
+This guide explains:
+
+[p7 | prose | contract management]
+Section 1: How PCBUs can work together to meet shared duties
+
+[p7 | prose | contract management]
+Section 2: How to build health and safety into contracting tendering practices.
+
+[p7 | prose | contract management]
+This guide is for all PCBUs who share overlapping duties with other PCBUs, either in a shared workplace or as part of a contracting chain.
+
+[p7 | prose | contract management]
+While this guide focusses mainly on contracts that are awarded by tender, the information can be applied to other contracting situations.
+
+[p7 | prose | contract management]
+1 PCBU is a ‘person conducting a business or undertaking’. They may be an individual, but more often, a PCBU will be a company.
+
+[p7 | prose | contract management]
+The business or undertaking may be commercial or non-commercial in nature. For more information on HSWA, PCBUs and Workers, see our guidance Introduction to the Health and Safety at Work Act 2015.
+
+[p8 | prose | contract management]
+What you need to know before reading this guide
+
+[p8 | prose | contract management]
+If you share duties with other PCBUs, what must you do?
+
+[p8 | prose | contract management]
+You must consult, cooperate with and coordinate activities with all other PCBUs you share duties with, so far as is reasonably practicable.
+
+[p8 | prose | contract management]
+Where duties are shared, all PCBUs have a responsibility to meet those duties, to the extent that they have the ability to influence or control the matter.
+
+[p8 | prose | contract management]
+If you’re self-employed
+
+[p8 | prose | contract management]
+If a self-employed person is working for another PCBU (for example, a self- employed welder who is contracted by a labour hire company), they both share duties as a PCBU. If the self-employed person decides how their own work is done and creates and controls risks, they are considered to have the ability to influence or control the matter. However, if a self-employed person is working for another PCBU, and the PCBU decides what they do, and how and when they do it, then that PCBU is considered to have the ability to influence or control the matter.
+
+[p8 | prose | contract management]
+How can you work out if you share health and safety duties with other PCBUs?
+
+[p8 | prose | contract management]
+PCBUs that work together, either in a shared workplace or in a contracting chain, will often share health and safety duties in relation to the same matter.
+
+[p8 | prose | SHARED WORKPLACE]
+SHARED WORKPLACE
+
+[p8 | prose | SHARED WORKPLACE]
+This is where several different contractors are working in the same place, such as a construction site, shopping centre or port. They will not usually share contractual relationships with each other. More than one contractor may control or influence the work onsite.
+
+[p8 | prose | SHARED WORKPLACE]
+Example: A concert venue is an example of a shared workplace. There are usually multiple PCBUs, including contractors and subcontractors, working at the venue before, during and after a concert. Although the PCBUs carry out different jobs, they all share health and safety duties.
+
+[p8 | prose | CONTRACTING CHAIN]
+CONTRACTING CHAIN
+
+[p8 | prose | CONTRACTING CHAIN]
+This is where several different contractors are all working together on the same project, although not necessarily in the same workplace. Usually, one PCBU will have the most influence and control over the work. These contractors need to enter into reasonable arrangements with each other to make sure that everyone’s health and safety duties are met.
+
+[p8 | prose | CONTRACTING CHAIN]
+Example: A Hawkes Bay winemaker contracts a harvesting company to harvest grapes from a Blenheim-based vineyard and transport them to the winemaker’s Hawkes Bay plant. The harvesting company sub-contracts a trucking company to pick up the grapes once they are harvested and transport them to the Hawkes Bay plant.
+
+[p8 | prose | CONTRACTING CHAIN]
+Even though the winemaker, the harvesting company and the trucking company don’t share the same workplace, they still have to work together to meet all their health and safety duties.
+
+[p8 | prose | CONTRACTING CHAIN]
+Examples of possible common shared duties are listed in Table 1.
+
+[p9 | table | CONTRACTING CHAIN]
+| WHAT IS THE DUTY? | WHAT IS THE REQUIREMENT? |
+| --- | --- |
+| Primary duty of PCBUs Section 36 Health and Safety at Work Act 2015 | You must ensure, so far as is reasonably practicable, that the health and safety of workers and other people are not put at risk work. This is called the of care’. |
+| This means ensuring, so far as is reasonably practicable: - the health and safety of workers while they are at work |  |
+| (including contractors, subcontractors and their workers) the health and safety of workers whose work activities are influenced or directed by you (eg a franchise company whose franchise requirements influence or direct the workers of the |  |
+| by your ‘primary duty franchisee) that the health and safety of other persons are not put at risk by the work of your business or undertaking (eg a visitor to the workplace, or members of the public who could be affected by your work). For the other duties - see our guidance: Introduction to the Health and Safety at Work Act 2015 |  |
+|  |  |
+|  |  |
+| Managing risk Section 30 Health and Safety at Work Act 2015 | You must, so far as is reasonably practicable, eliminate risks that arise from your work. If the risk cannot be eliminated, you must minimise it, so far as is reasonably practicable. |
+| You must comply to the extent to which you have, or would reasonably be expected to have, the ability to influence and |  |
+| control the matter to which the risk relates. For more information on managing risk, see our guidance: Identifying, assessing and managing work risks |  |
+| Worker engagement, participation and representation | You must ensure, so far as is reasonably practicable, that workers can raise concerns and express their views on work health and safety matters and that those views are taken into account. |
+| Part 3 Health and Safety at Work Act 2015 | You must also have practices that provide reasonable opportunities for workers to participate effectively in improving work health and safety on an ongoing basis. |
+| For more information on worker engagement, participation and representation, see our guidance: Worker engagement, participation and representation |  |
+| Notification | If a notifiable event occurs, you must notify WorkSafe as soon |
+| Section 56 Health and Safety at Work Act 2015 | as you become aware of the event. For more information on the notification duty, see our website: Notifiable Event |
+| First aid Health and Safety at Work General | You must ensure that your workers have access to adequate first aid equipment, facilities for the administration of first aid and trained first aiders. If you share a workplace with other PCBUs, you can coordinate sharing first aid resources with them. |
+| Risk and Workplace Management Regulations 2016 | For more information on first aid requirements, see our guidance: Workplace first aid |
+| Emergency plans Health and Safety at Work General Risk and Workplace | You have a duty to prepare, maintain and implement an emergency plan at your work. You must consult, cooperate and coordinate with other PCBUs that you share overlapping duties with to coordinate emergency procedures. |
+| Management Regulations 2016 | For more information, see our guidance: Emergency plans |
+
+[p9 | prose | CONTRACTING CHAIN]
+TABLE 1:
+
+[p9 | prose | CONTRACTING CHAIN]
+Common shared duties
+
+[p10 | prose | 1.3 What WorkSafe expects in contracting situations]
+1.3 What WorkSafe expects in contracting situations
+
+[p10 | prose | 1.3 What WorkSafe expects in contracting situations]
+There can be several different levels in a contracting situation; either in a shared workplace, or in a contracting chain. Figure 1 shows an example of how a contracting situation could look, including a lead PCBU, a lead contractor, contractors, subcontractors and their workers.
+
+[p11 | prose | 1.3 What WorkSafe expects in contracting situations]
+LEVEL IN CONTRACTING CHAIN
+
+[p11 | prose | 1.3 What WorkSafe expects in contracting situations]
+WHAT WORKSAFE EXPECTS FROM THIS PCBU
+
+[p11 | table | 1.3 What WorkSafe expects in contracting situations]
+| Lead PCBU | To be a health and safety leader |
+| --- | --- |
+| Example: The owners of a large mall that is being refurbished | To set clear health and safety expectations and incorporate these into contracts with contractors To work with designers to eliminate risks so far as is reasonably practicable, or minimise risks if they cannot be eliminated To choose the best contractors and site managers for the job using prequalification, not simply choosing them based on cost To check health and safety records of potential contractors To put clear and effective reporting procedures in place so they can be confident all duties are being met To set up a clear framework for information sharing for the duration of the project |
+| company | based on cost To check health and safety records of potential contractors To be in charge of inductions on-site To be in charge of communication about health and safety at the start of each day (eg toolbox talks) To coordinate and communicate the on-site rules and procedures to everyone who accesses the work site To work with subcontractors to create a health and safety plan To monitor their workers and/or subcontractors they hire To put clear and effective reporting procedures in place so they can be confident all duties are being met To make sure they have all of the required information from the lead PCBU To make sure, so far as is reasonably practicable, that the health and safety of workers and other people are not put at risk by their work The lead contractor will likely have the most influence and control over the workplace. |
+| Contractor (working as a PCBU) | To hold high health and safety expectations of the subcontractors that they hire To choose the best subcontractors for the job using prequalification, not simply choosing |
+| Example: A large welding company | them based on cost To check health and safety records of potential subcontractors To monitor their workers and the subcontractors they hire To ensure that their workers and the subcontractors they hire have all of the relevant information, and are aware of the onsite rules and procedures, inductions, toolbox talks, safety plans and reporting procedures To ensure, so far as is reasonably practicable, that the health and safety of workers and other people are not put at risk by their work |
+| Subcontractor (working as a PCBU) | To ensure, so far as is reasonably practicable, that the health and safety of workers and other people are not put at risk by their work |
+| Example: A self-employed welder | To monitor their workers and the subcontractors they hire To ensure that their workers and the subcontractors they hire have all of the relevant information, and are aware of the onsite rules and procedures, inductions, toolbox talks, safety plans and reporting procedures To work closely with other contractors, including the lead contractor, to help manage risks |
+
+[p11 | prose | 1.3 What WorkSafe expects in contracting situations]
+TABLE 2: What WorkSafe expects from PCBUs
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+Example: Safe Smash, a famous rock band from the USA, is performing at a sports stadium in Wellington for one night only. There are multiple PCBUs (including contractors) working to ensure the concert runs smoothly, and they all share health and safety duties.
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+There are two lead PCBUs in this shared workplace situation: the event promoter (Music Masters) and the venue management (Extreme Venues Ltd).
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+Some of the PCBUs and contractors working to set up the concert include:
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+Music Masters (Geoff is the manager)
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+Extreme Venues Ltd (Julie is the manager)
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+Best Snacks Daily (food – Jamal is the manager)
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+Bright Lights (lighting – Susie is the manager)
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+Beatz Sound Crew (sound – Wiremu is the manager)
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+Super Clean Services (cleaning – Jack is the manager)
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+Ultra Security Ltd (security – Tatiana is the manager)
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+In A Row (temporary seating – Deepali is the manager)
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+Some of these PCBUs and contractors also have their own workers and subcontractors. Each PCBU has to work with the others to make sure everyone is meeting their health and safety duties.
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+Working with other PCBUs
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+We recommend that you make a record of any discussions you have, and agreements you reach around how work will be carried out.
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+There are four main points to remember about overlapping duties:
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+You have a duty to consult, cooperate with and coordinate activities with all other PCBUs you share overlapping duties with, so far as is reasonably practicable.
+
+[p12 | prose | 1.3 What WorkSafe expects in contracting situations]
+You can’t contract out of your health and safety duties, or push risk onto
+
+[p12 | prose | others in a contracting chain.]
+others in a contracting chain.
+
+[p12 | prose | others in a contracting chain.]
+You can enter into reasonable agreements with other PCBUs to make sure
+
+[p12 | prose | others in a contracting chain.]
+that everyone’s health and safety duties are met.
+
+[p12 | prose | others in a contracting chain.]
+The more influence and control your business has over a workplace or a health and safety matter, the more responsibility you are likely to have.
+
+[p12 | prose | others in a contracting chain.]
+These points are explained in more detail below.
+
+[p12 | prose | others in a contracting chain.]
+You must consult, cooperate and coordinate with other PCBUs
+
+[p12 | prose | others in a contracting chain.]
+You must, so far as is reasonably practicable, consult, cooperate and coordinate with other PCBUs that you share health and safety duties with.
+
+[p12 | prose | others in a contracting chain.]
+Consulting, cooperating and coordinating can avoid you unnecessarily duplicating each other’s efforts, and help prevent any gaps in managing health and safety risks.
+
+[p12 | prose | others in a contracting chain.]
+Some ways that you can meet this duty and avoid gaps include (but aren’t limited to):
+
+[p12 | prose | others in a contracting chain.]
+planning ahead by thinking through every stage of the work
+
+[p12 | prose | others in a contracting chain.]
+thinking about how the work could affect other PCBUs and the public
+
+[p12 | prose | others in a contracting chain.]
+identifying the risks that need to be managed
+
+[p12 | prose | others in a contracting chain.]
+consulting with other PCBUs to agree on how those risks will be managed
+
+[p12 | prose | others in a contracting chain.]
+consulting with other PCBUs to decide who is best placed to manage each
+
+[p12 | prose | risk, and]
+risk, and
+
+[p12 | prose | risk, and]
+clearly defining roles, responsibilities and actions, so that everyone knows
+
+[p13 | prose | Example: First aid]
+Example: First aid
+
+[p13 | prose | Example: First aid]
+Several different PCBUs, including contractors and their workers, are working at the sports stadium in Wellington to prepare for the Safe Smash rock concert. They are located in different parts of the stadium, and working on different jobs. All the PCBUs have a duty to ensure that workers and other people at the workplace have access to first aid facilities and equipment, as well as trained first aiders.
+
+[p13 | prose | Example: First aid]
+Extreme Venues Ltd nominates Julie to organise a meeting with the other PCBUs and contractors before any work starts, to discuss the best way to meet the first aid duty. All the PCBUs and contractors state that as well as fully equipped first aid kits, they all have at least one trained first aider in their teams who will be onsite every day. Julie is satisfied with this, but as a representative of a lead PCBU she decides to:
+
+[p13 | prose | Example: First aid]
+check that the first aid qualifications of the workers are up-to-date
+
+[p13 | prose | Example: First aid]
+make sure that the venue provides equipment for more serious injuries
+
+[p13 | prose | or illnesses, such as a defibrillator]
+or illnesses, such as a defibrillator
+
+[p13 | prose | or illnesses, such as a defibrillator]
+make sure that every morning at the daily activity briefing, the PCBUs
+
+[p13 | prose | or illnesses, such as a defibrillator]
+discuss who the first aiders are for that day and how they can be contacted if needed.
+
+[p13 | prose | or illnesses, such as a defibrillator]
+This is an example of one PCBU consulting, cooperating and coordinating with other PCBUs, to ensure workers and other people at the workplace have access to first aid facilities, first aid equipment and trained first aiders.
+
+[p13 | prose | Example: Noise]
+Example: Noise
+
+[p13 | prose | Example: Noise]
+Geoff (the representative for the event promoter Music Masters) and Wiremu (the representative for the sound company Beatz Sound Crew) are discussing the activities planned for the day, and any risks that the work may create. Wiremu tells Geoff there will be a sound check and workers may be exposed to loud noise levels. Geoff and Wiremu identify this as a risk, and agree to work together to eliminate or minimise this risk so far as is reasonably practicable.
+
+[p13 | prose | Example: Noise]
+Wiremu explains to Geoff that the sound check is compulsory, so the risk can’t be completely eliminated. To minimise the risk of hearing damage for workers and other people in the area, Geoff:
+
+[p13 | prose | Example: Noise]
+asks Wiremu to carry out the sound check at lunch time, when most people
+
+[p13 | prose | Example: Noise]
+have left the venue to have their lunch
+
+[p13 | prose | Example: Noise]
+asks Wiremu to send warning announcements over the loudspeaker 15
+
+[p13 | prose | Example: Noise]
+minutes before, 5 minutes before and 1 minute before the sound check is carried out, so that workers have time to leave the immediate area if possible
+
+[p13 | prose | Example: Noise]
+provides each of the contractors with a written notice of the time of the sound check the day before, so that they can ensure as many of their workers are off-site as possible at the time
+
+[p13 | prose | Example: Noise]
+provides adequate hearing protection for any workers or other people that are unable to leave the immediate area when the sound check is carried out (having checked with Wiremu what the correct class of hearing protection to provide would be).
+
+[p13 | prose | Example: Noise]
+This is an example of one PCBU consulting, cooperating and coordinating with other PCBUs to minimise risks to health and safety, so far as is reasonably practicable.
+
+[p14 | prose | Example: Worker engagement, participation and representation (WEPR)]
+Example: Worker engagement, participation and representation (WEPR)
+
+[p14 | prose | Example: Worker engagement, participation and representation (WEPR)]
+PCBUs have a duty to, so far as is reasonably practicable, make sure that workers’ views on health and safety matters are asked for and taken into account. They must also have clear, effective and ongoing ways for workers to suggest improvements or raise concerns on a day-to-day basis. Multiple PCBUs, including contractors, are working to prepare the stadium for the concert, and it takes several days beforehand to get everything ready. Geoff and Julie (as representatives of the lead PCBUs) decide that every morning before the day’s work starts, they will hold a daily activity briefing with all the contractors working onsite that day. In this daily briefing, Geoff and Julie will discuss with contractors and workers:
+
+[p14 | prose | Example: Worker engagement, participation and representation (WEPR)]
+the work activity planned for that day
+
+[p14 | prose | Example: Worker engagement, participation and representation (WEPR)]
+health and safety risks and the best ways to manage these cooperatively
+
+[p14 | prose | Example: Worker engagement, participation and representation (WEPR)]
+which first aiders are onsite that day and how they can be contacted.
+
+[p14 | prose | Example: Worker engagement, participation and representation (WEPR)]
+At the end of each daily activity briefing, all PCBUs, contractors and workers will agree on their actions for that day.
+
+[p14 | prose | Example: Worker engagement, participation and representation (WEPR)]
+This is an example of all PCBUs consulting, cooperating and coordinating with other PCBUs to minimise risks to health and safety, so far as is reasonably practicable.
+
+[p14 | prose | Example: Worker engagement, participation and representation (WEPR)]
+You can’t contract out of health and safety duties
+
+[p14 | prose | Example: Worker engagement, participation and representation (WEPR)]
+If you are sharing a workplace with other PCBUs, or working together in a contracting chain, you are likely to share overlapping duties. Each PCBU in the contracting chain should be aware of overlaps and manage risks that are appropriate and reasonably practicable for them to control.
+
+[p14 | prose | You cannot:]
+You cannot:
+
+[p14 | prose | You cannot:]
+contract out of your health and safety duties, or
+
+[p14 | prose | You cannot:]
+push risk down the contracting chain to another PCBU.
+
+[p14 | prose | You cannot:]
+You are not only responsible for your own workers; your responsibility also extends to workers whose work you influence and direct, and other people at the workplace. This includes supporting those people to meet their health and safety duties, and not passing on or increasing risk through your arrangements with them.
+
+[p14 | prose | You cannot:]
+WorkSafe expects PCBUs at the top of a contracting chain to be leaders in encouraging good health and safety practices throughout the chain. We also expect them to use sound contract management processes.
+
+[p14 | prose | You cannot:]
+These processes may include:
+
+[p14 | prose | You cannot:]
+choosing competent contractors
+
+[p14 | prose | You cannot:]
+exchanging information
+
+[p14 | prose | You cannot:]
+planning and monitoring carefully
+
+[p14 | prose | You cannot:]
+doing post-contract reviews.
+
+[p15 | prose | Example: Hazardous substances]
+Example: Hazardous substances
+
+[p15 | prose | Example: Hazardous substances]
+In preparation for the Safe Smash concert, Extreme Venues Ltd contracts Super Clean Services to clean the stadium and seating. The Extreme Venues Ltd representative, Julie, instructs Super Clean Services to use the cleaning agents that are stored in the stadium’s maintenance cupboard. However, she fails to pass on the instructions for usage of the chemicals to Jack (the representative from Super Clean Services), and Jack fails to follow this up with her. As a result, the workers from Super Clean Services don’t know they need to dilute the cleaning agents before using them. A worker is splashed with the cleaning agent while carrying out her work and develops a chemical burn.
+
+[p15 | prose | Example: Hazardous substances]
+When Jack reports this incident to Julie, she says that it was his responsibility to pass the usage instructions onto his workers, and that it was nothing to do with her. Extreme Venues Ltd attempts to push the risk down the chain to Super Clean Services. However, both Extreme Venues Ltd and Super Clean Services share the duty to protect the health and safety of workers and others. This includes ensuring the safe handling of substances.
+
+[p15 | prose | Example: Hazardous substances]
+Some things that Julie could have done to meet her duty include:
+
+[p15 | prose | Example: Hazardous substances]
+1. Before awarding the contract to Super Clean, Julie should have checked that their workers were trained to use and handle the substances they would be using at the venue. She could have asked what sort of training they received, including the classes of substances they are trained to use.
+
+[p15 | prose | Example: Hazardous substances]
+2. Asking workers if they were provided with personal protective equipment
+
+[p15 | prose | Example: Hazardous substances]
+(PPE), and had access to appropriate first aid facilities.
+
+[p15 | prose | Example: Hazardous substances]
+3. Providing the relevant information ahead of time, including safety data sheets.
+
+[p15 | prose | Example: Hazardous substances]
+4. Checking the containers the hazardous substances were stored in were
+
+[p15 | prose | Example: Hazardous substances]
+labelled correctly.
+
+[p15 | prose | Example: Hazardous substances]
+This is an example of both PCBUs failing to meet their duties, with the larger PCBU trying to push the blame onto a smaller PCBU.
+
+[p15 | prose | Example: Hazardous substances]
+You can enter reasonable agreements with other PCBUs
+
+[p15 | prose | Example: Hazardous substances]
+You can’t contract out of your health and safety duties. However, you can enter reasonable agreements with other PCBUs that you’re working with, to make sure everyone’s duties (including yours) are met. Usually, the PCBU who has the greatest ability to influence and control the work or workplace will have the most responsibility.
+
+[p15 | prose | Example: Hazardous substances]
+These agreements can be documented in contracts between the PCBUs. PCBUs must monitor each other, to make sure each PCBU continues to do what was agreed. WorkSafe may check that these arrangements are working well, and consider enforcement action if PCBUs are not meeting their health and safety duties.
+
+[p16 | prose | Example: Notifying WorkSafe]
+Example: Notifying WorkSafe
+
+[p16 | prose | Example: Notifying WorkSafe]
+Multiple PCBUs, including contractors, are preparing for the Safe Smash rock concert in Wellington. PCBUs have a duty to notify WorkSafe when:
+
+[p16 | prose | Example: Notifying WorkSafe]
+– a death occurs as a result of work
+
+[p16 | prose | Example: Notifying WorkSafe]
+– a notifiable illness or injury occurs as a result of work
+
+[p16 | prose | Example: Notifying WorkSafe]
+– a notifiable incident occurs as a result of work.
+
+[p16 | prose | Example: Notifying WorkSafe]
+Geoff (the representative from Music Masters) and Julie (the representative from Extreme Venues Ltd) hold a meeting with all the PCBUs involved in preparing for the concert, before the work begins. To make sure that the notification duty is met, they decide to nominate one PCBU to notify WorkSafe if a notifiable event happens. After consulting with each other, they all agree that Extreme Venues Ltd is the most appropriate PCBU to notify WorkSafe in the case of a notifiable event, because they have the most influence and control over the workplace. Extreme Venues Ltd would then inform the other PCBUs that a notification had been made to WorkSafe.
+
+[p16 | prose | Example: Notifying WorkSafe]
+The other PCBUs should check with Extreme Venues Ltd, in the event of a notifiable event, that the notification has been made. If Extreme Venues Ltd has not notified WorkSafe within 48 hours, another PCBU should notify.
+
+[p16 | prose | Example: Notifying WorkSafe]
+This is an example of several PCBUs entering a reasonable agreement with each other to ensure that the notification duty to WorkSafe is fulfilled.
+
+[p16 | prose | You must carry out your duties to the extent you have the ability to influence or control the matter]
+You must carry out your duties to the extent you have the ability to influence or control the matter
+
+[p16 | prose | You must carry out your duties to the extent you have the ability to influence or control the matter]
+The extent of your responsibility to meet your health and safety duties will likely be different to other PCBUs you share duties with. This will depend on what ability they have to influence and control the health and safety matter.
+
+[p16 | prose | You must carry out your duties to the extent you have the ability to influence or control the matter]
+The more influence and control you have over a health and safety matter, the more responsibility you are likely to have. There are three ways you can have influence and control over health and safety matters:
+
+[p16 | prose | CONTROL OVER WORK ACTIVITY]
+CONTROL OVER WORK ACTIVITY
+
+[p16 | prose | CONTROL OVER WORK ACTIVITY]
+A PCBU in control of the work activity may be in the best position to control the health and safety risks.
+
+[p16 | prose | CONTROL OF THE WORKPLACE]
+CONTROL OF THE WORKPLACE
+
+[p16 | prose | CONTROL OF THE WORKPLACE]
+A PCBU in control over the workplace, including plant and structures, has some influence and control over health and safety matters.
+
+[p16 | prose | CONTROL OF THE WORKPLACE]
+A PCBU has more influence and control over its own workers and contractors than those of another PCBU.
+
+[p16 | prose | CONTROL OF THE WORKPLACE]
+Ability to influence and control
+
+[p17 | prose | CONTROL OF THE WORKPLACE]
+The size of the PCBU, or its financial resources, does not automatically equate to its ability to influence and control health and safety matters. You need to consult, cooperate and coordinate with other PCBUs to make sure everyone is meeting their health and safety duties.
+
+[p17 | prose | Example: Emergency planning]
+Example: Emergency planning
+
+[p17 | prose | Example: Emergency planning]
+PCBUs must prepare an emergency plan for their workplace. Extreme Venues Ltd is the PCBU with the most influence and control over how the stadium is set up during the Safe Smash concert, and so must carry out their duties to the extent that they have the ability to influence and control the matter.
+
+[p17 | prose | For example, they:]
+For example, they:
+
+[p17 | prose | For example, they:]
+make sure exit points are clearly marked, easy to access and wide enough
+
+[p17 | prose | For example, they:]
+to allow crowds of people through
+
+[p17 | prose | For example, they:]
+make sure clearways are easily accessible and clear for emergency services
+
+[p17 | prose | For example, they:]
+make sure that ambulance or other first aid services are in attendance at
+
+[p17 | prose | the venue.]
+the venue.
+
+[p17 | prose | the venue.]
+For the night of the concert, Ultra Security are contracted by Extreme Venues Ltd, and they have several responsibilities. Some of these include:
+
+[p17 | prose | the venue.]
+patrolling the stadium
+
+[p17 | prose | the venue.]
+closely monitoring the crowd for signs of disorderly or dangerous behaviour
+
+[p17 | prose | the venue.]
+keeping pathways, exits and clearways open and clear
+
+[p17 | prose | the venue.]
+notifying emergency services if needed.
+
+[p17 | prose | the venue.]
+These responsibilities are recorded in the emergency plan. On the night of the concert, Ultra Security has the most influence and control over the crowd in the event of an emergency, because they are on the ground and will be in the best position to respond in the first instance. Julie from Extreme Venues Ltd discusses these points with Ultra Security the day before the concert, making sure that everyone knows their responsibilities. She also monitors the situation during the concert by staying in touch with Ultra Security.
+
+[p17 | prose | the venue.]
+This is an example of two PCBUs carrying out their health and safety duties, to the extent that they have the ability to influence and control the matter.
+
+[p17 | prose | the venue.]
+For more information on overlapping duties, see our guidance: Overlapping duties
+
+[p18 | prose | 2.0 Building health and safety into contract management]
+2.0 Building health and safety into contract management
+
+[p18 | prose | 2.0 Building health and safety into contract management]
+2.1 Scoping the work
+
+[p18 | prose | 2.0 Building health and safety into contract management]
+2.2 Pre-qualifying the contractor
+
+[p18 | prose | 2.0 Building health and safety into contract management]
+2.3 Choosing a contractor
+
+[p18 | prose | 2.0 Building health and safety into contract management]
+2.4 Awarding the contract
+
+[p18 | prose | 2.0 Building health and safety into contract management]
+2.5 Monitoring the contract
+
+[p18 | prose | 2.6 Post-contract review]
+2.6 Post-contract review
+
+[p19 | prose | 2.6 Post-contract review]
+Lead PCBUs should follow these steps when building health and safety into contract management.
+
+[p19 | prose | 2.6 Post-contract review]
+Scoping the work
+
+[p19 | prose | 2.6 Post-contract review]
+At the beginning of any project, think about health and safety before work starts. This is a crucial first step to choosing the best contractors for your job.
+
+[p19 | prose | 2.6 Post-contract review]
+You need to be satisfied that the contractors you choose are able to carry out the work in a safe and healthy manner. You should check that they:
+
+[p19 | prose | 2.6 Post-contract review]
+are competent, and
+
+[p19 | prose | 2.6 Post-contract review]
+are qualified to carry out the work.
+
+[p19 | prose | 2.6 Post-contract review]
+Examples of how you might satisfy yourself of this could include considering whether they (if they are well established) have a good health and safety record and (if they are not well established) whether they can otherwise demonstrate competency to carry out the work in a healthy and safe manner.
+
+[p19 | prose | 2.6 Post-contract review]
+Thinking about health and safety during the tendering process
+
+[p19 | prose | 2.6 Post-contract review]
+Throughout the tendering process you must share information with your potential tenderers. This may involve:
+
+[p19 | prose | 2.6 Post-contract review]
+talking to them about what outcomes you want
+
+[p19 | prose | 2.6 Post-contract review]
+the potential tenderers explaining to you how these could be achieved
+
+[p19 | prose | 2.6 Post-contract review]
+talking about what the risks are, and how they will be managed.
+
+[p19 | prose | 2.6 Post-contract review]
+The nature of the contract, including the type of work and the level of risk involved, will affect the procedures required. You should consider the broader health and safety implications and give advice on the safety standards to follow.
+
+[p19 | prose | Pre-tendering]
+Pre-tendering
+
+[p19 | prose | Pre-tendering]
+Before going out for tender, you may wish to carry out preparatory checks and information-sharing, including pre-qualification of potential tenderers. However, pre-qualification is not compulsory.
+
+[p19 | prose | Pre-tendering]
+At this stage, think about:
+
+[p19 | prose | Pre-tendering]
+the work covered by the contract, and potential health and safety risks
+
+[p19 | prose | Pre-tendering]
+how health and safety issues will be included in the tender documents
+
+[p19 | prose | Pre-tendering]
+what health and safety information should be provided to potential tenderers
+
+[p19 | prose | Pre-tendering]
+whether potential tenderers will be expected to submit a health and safety plan
+
+[p19 | prose | Pre-tendering]
+how you will assess the health and safety capability of potential tenderers.
+
+[p19 | prose | Pre-tendering]
+Looking at the health and safety management of potential tenderers at the pre- tendering stage emphasises the importance of health and safety. It also means that only contractors with appropriate health and safety practices will be invited to tender for the contract.
+
+[p20 | prose | Pre-tendering]
+Pre-qualifying the contractor
+
+[p20 | prose | Pre-tendering]
+Pre-qualification is used to establish a shortlist of potential tenderers, looking at the general ability and competence of contractors for the work. You can use this process to help determine how well contractors manage health and safety. It asks potential tenderers to demonstrate an effective health and safety management system, and asks them for information on managing specific risks. You can also use pre-qualification as an opportunity to assist and support contractors to improve their health and safety practices.
+
+[p20 | prose | Pre-tendering]
+The level of detail required for pre-qualification should be appropriate for the type of project, taking its size and complexity into account.
+
+[p20 | prose | Pre-tendering]
+If you choose not to use pre-qualification, health and safety information will still need to be requested and examined in the later stages of the tender.
+
+[p20 | prose | Pre-tendering]
+Information shared in pre-qualification
+
+[p20 | prose | Pre-tendering]
+Appendix 1 shows the type of information that could be requested in a pre- qualification questionnaire. Health and safety information gained (along with information on financials, credit ratings, contract performance and technical information) can be used to develop a profile of potential contractors. Remember that supporting documentation will need to be provided as evidence that good health and safety procedures are in place and are being carried out.
+
+[p20 | prose | Pre-tendering]
+You should encourage tenderers to provide specific answers to your questions, especially when the questionnaire relates to health and safety.
+
+[p20 | prose | Pre-tendering]
+If contractors pass the pre-qualification, they may be placed onto a list of preferred tenderers. Approval may be restricted to certain tasks or occasional activities, depending on the type of work.
+
+[p20 | prose | Pre-tendering]
+Using the pre-tender information
+
+[p20 | prose | Pre-tendering]
+Information gained from pre-tender questionnaires may be recorded and, after the contract has been signed, used to develop and implement a health and safety plan (this is completed by the chosen contractor). It may also be used for selecting future contractors for contracts not requiring a tender process.
+
+[p20 | prose | Pre-tendering]
+Choosing a contractor
+
+[p20 | prose | Pre-tendering]
+During the tendering stage (whether or not pre-qualification has been used), you should:
+
+[p20 | prose | Pre-tendering]
+describe potential health and safety risks
+
+[p20 | prose | Pre-tendering]
+collect information from tenderers on how they intend to manage specific
+
+[p20 | prose | Pre-tendering]
+work risks related to the contract. This information should be combined with that from the pre-qualification process.
+
+[p20 | prose | Pre-tendering]
+If pre-qualification has not been used, you also need to gather information from tenderers that will help you assess their competence for the job. Look at their health and safety records to give you an idea of their performance in this area in the past.
+
+[p20 | prose | Tender documents]
+Tender documents
+
+[p20 | prose | Tender documents]
+You should provide an ‘information for tenderer’ document to potential tenderers that includes health and safety information. The purpose of this document may include:
+
+[p20 | prose | Tender documents]
+bringing health and safety to the forefront of the project
+
+[p20 | prose | Tender documents]
+making sure potential tenderers are fully aware of the health and safety
+
+[p20 | prose | requirements]
+requirements
+
+[p21 | prose | requirements]
+understanding how potential tenderers will manage contract-specific health
+
+[p21 | prose | and safety risks]
+and safety risks
+
+[p21 | prose | and safety risks]
+providing a benchmark against which to measure tender applications
+
+[p21 | prose | and safety risks]
+providing a basis for the chosen contractor’s health and safety plan.
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+WHAT TO INCLUDE IN TENDER DOCUMENTS
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+Each ‘information for tenderers’ document will be different as the information it contains will depend on the size and nature of the project, and the types of risks involved. The health and safety information included should be tailored to the specific contract, and the needs of those receiving the information. However, there are some common points that should be included an ‘information for tenderers’ document. Figure 3 illustrates these points.
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+Any specific arrangements that would allow the contractor to work within your health and safety management system
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+A section for the tenderer to describe their risk management processes, and identify specific risks that you may not be aware of
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+Details of permit-to-work systems (if the project is high-hazard), or specific procedures to manage risks from hazardous work
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+FIGURE 3: What to include in tender documents
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+Health and safety information for tenderers can be included in tender documents in a variety of ways. It could be:
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+included as part of the specifications for a project
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+presented as a separate health and safety document
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+a documented discussion with potential contractors, for smaller jobs.
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+The information should be appropriate to the project, so that health and safety requirements are built into the tender documents in some form. They should address health and safety from the beginning of the process, clearly defining and acknowledging the health and safety requirements throughout the tendering and awarding process.
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+The information in the tender documents should mainly come from you. Designers and technical experts can also provide supplementary information about known health and safety risks.
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+See Appendix 2 for an example of an ‘Information for tenderer’ document that could be adapted for your use. You should use a form like this one to record job details, including related health and safety risks, as preliminary information for contractors.
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+Tender review, evaluation and choosing a contractor
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+You should evaluate and assess all tender submissions. Make sure that potential contractors:
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+have complied with the tender documents
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+have complied with the health and safety requirements for the project
+
+[p21 | prose | WHAT TO INCLUDE IN TENDER DOCUMENTS]
+are competent to carry out the contract.
+
+[p22 | prose | ASSESSING HEALTH AND SAFETY COMPETENCE]
+ASSESSING HEALTH AND SAFETY COMPETENCE
+
+[p22 | prose | ASSESSING HEALTH AND SAFETY COMPETENCE]
+You should give full and careful consideration to the information gained from tenderers at the pre-qualification/tendering stages. This will help you assess the level of competence that each potential contractor holds, and judge their capability where this is critical to health and safety. Ask a competent person for advice if you’re unsure about the competence of potential contractors.
+
+[p22 | prose | ASSESSING HEALTH AND SAFETY COMPETENCE]
+Compliance with health and safety requirements must be a precondition to any tender being successful. Address any deviations before accepting the tender.
+
+[p22 | prose | KEY CONSIDERATIONS WHEN CHOOSING A CONTRACTOR]
+KEY CONSIDERATIONS WHEN CHOOSING A CONTRACTOR
+
+[p22 | prose | KEY CONSIDERATIONS WHEN CHOOSING A CONTRACTOR]
+There are several things you should look at when choosing a contractor. Table 4 illustrates some of the key considerations you might take into account, but is not a complete list as each contracting situation will differ.
+
+[p22 | prose | KEY CONSIDERATIONS WHEN CHOOSING A CONTRACTOR]
+Cost may be a factor that you consider, but you should never prioritise this over health and safety. You have a duty to manage risks so far as is reasonably practicable. Don’t choose a contractor based on cost alone.
+
+[p22 | prose | KEY CONSIDERATIONS]
+KEY CONSIDERATIONS
+
+[p22 | prose | KEY CONSIDERATIONS]
+Past performance/experience in health and safety
+
+[p22 | prose | KEY CONSIDERATIONS]
+Experience in the type and complexity of work to be carried out
+
+[p22 | prose | KEY CONSIDERATIONS]
+Resources to carry out the work safely
+
+[p22 | prose | KEY CONSIDERATIONS]
+How health and safety risks will be eliminated/minimised
+
+[p22 | prose | KEY CONSIDERATIONS]
+Accreditation under health and safety management programmes
+
+[p22 | prose | KEY CONSIDERATIONS]
+Health and safety certificates of competence issued by training institutions or similar
+
+[p22 | prose | KEY CONSIDERATIONS]
+Compliance with relevant standards, where applicable
+
+[p22 | prose | KEY CONSIDERATIONS]
+Policies and procedures, including whether they have effective WEPR practices in place
+
+[p22 | prose | KEY CONSIDERATIONS]
+Organisation and arrangements (including assignment of responsibility for health and
+
+[p22 | prose | safety issues, and worker engagement, participation and representation)]
+safety issues, and worker engagement, participation and representation)
+
+[p22 | prose | safety issues, and worker engagement, participation and representation)]
+Subcontractor selection and management
+
+[p22 | prose | safety issues, and worker engagement, participation and representation)]
+What information, training and supervision is provided to workers
+
+[p22 | prose | safety issues, and worker engagement, participation and representation)]
+What performance standards are planned and set
+
+[p22 | prose | safety issues, and worker engagement, participation and representation)]
+Risk assessment processes
+
+[p22 | prose | safety issues, and worker engagement, participation and representation)]
+Accident reporting, recording and investigation methods
+
+[p22 | prose | safety issues, and worker engagement, participation and representation)]
+Performance monitoring processes
+
+[p22 | prose | safety issues, and worker engagement, participation and representation)]
+Review methods
+
+[p22 | prose | SUBCONTRACTORS]
+SUBCONTRACTORS
+
+[p22 | prose | SUBCONTRACTORS]
+You should also closely monitor the selection of subcontractors. If your project has specific health and safety requirements, such as a permit-to-work system or high hazards, you can nominate subcontractors yourself to ensure they are competent to carry out the work. You can assess the competence of individuals by looking at their training, qualifications and past experience. Contractors should seek approval from you before subcontracting any work other than that indicated in the tender.
+
+[p22 | prose | SUBCONTRACTORS]
+If your contractors tender for or select their own subcontractors, they must provide potential candidates with information about the project, the site, existing health and safety plans, and any other relevant information. Most of this information will be relayed from the pre-qualification and/or tendering materials you’ve supplied to the lead contractors. Contractors who are hiring their own subcontractors must make sure that they have enough information to ensure site-specific provision for health and safety in their own tendering documents.
+
+[p22 | prose | SUBCONTRACTORS]
+TABLE 4: Key considerations when choosing a contractor
+
+[p23 | prose | EVALUATION]
+EVALUATION
+
+[p23 | prose | EVALUATION]
+You should ensure that:
+
+[p23 | prose | EVALUATION]
+tenders are assessed by competent people, with skills and knowledge
+
+[p23 | prose | relevant to the health and safety requirements of the project]
+relevant to the health and safety requirements of the project
+
+[p23 | prose | relevant to the health and safety requirements of the project]
+tender evaluation includes adequate consideration of health and
+
+[p23 | prose | safety requirements]
+safety requirements
+
+[p23 | prose | safety requirements]
+enough time is allocated to assess the health and safety requirements
+
+[p23 | prose | of tenders]
+of tenders
+
+[p23 | prose | of tenders]
+the proposed schedule for the project would not pose a risk to health
+
+[p23 | prose | and safety]
+and safety
+
+[p23 | prose | and safety]
+the health and safety performance of potential contractors is adequately
+
+[p23 | prose | and safety]
+assessed
+
+[p23 | prose | and safety]
+all tenders are thoroughly reviewed, benchmarking the potential contractor’s
+
+[p23 | prose | health and safety competence against tender requirements.]
+health and safety competence against tender requirements.
+
+[p23 | prose | health and safety competence against tender requirements.]
+Awarding the contract
+
+[p23 | prose | health and safety competence against tender requirements.]
+Once you have chosen your contractor/s, you should start sharing information with them straight away. The lead contractor should develop a contract-specific health and safety plan, and give this to you as soon as possible. Use the plan to monitor the health and safety performance of the contractor for the duration of the project. It may also be included in health and safety documentation and/or the written contract.
+
+[p23 | prose | health and safety competence against tender requirements.]
+Before choosing your contractor, you can hold post-tender meetings with potential contractors to assess whether they are competent in managing health and safety.
+
+[p23 | prose | health and safety competence against tender requirements.]
+We recommend that you make a record of any discussions you have, and agreements you reach around how work will be carried out.
+
+[p23 | prose | Documentation]
+Documentation
+
+[p23 | prose | Documentation]
+Health and safety requirements should be documented, and become part of the written contract. These requirements may include:
+
+[p23 | prose | Documentation]
+managing project-specific risks
+
+[p23 | prose | Documentation]
+conforming with standards
+
+[p23 | prose | Documentation]
+coordination and reporting requirements
+
+[p23 | prose | Documentation]
+other project-specific information.
+
+[p23 | prose | Briefing the contractor]
+Briefing the contractor
+
+[p23 | prose | Briefing the contractor]
+You must make sure that your workers, contractors and their workers, and others, are provided training, information, instruction and supervision to protect them from risks to health and safety arising from the work. This may include induction training regarding the site or type of work, and the opportunity to ask about health and safety risks. The type of training needed will be unique to each project, the worksite and the type of work being carried out.
+
+[p23 | prose | Briefing the contractor]
+If you’re sharing information with your contractor, you can use a job registration form. This form can work as a collaborative tool between lead PCBUs and their contractors, to assess the risks associated with the work and decide on the control measures to be put in place.
+
+[p23 | prose | Briefing the contractor]
+See Appendix 3 for an example of a job registration form that could be adapted for your use. The type and number of questions will depend on the nature of each individual project, and the example form should only be used as a guide.
+
+[p24 | prose | Information sharing]
+Information sharing
+
+[p24 | prose | Information sharing]
+Effective information sharing between you and your contractors is essential at all stages of a project.
+
+[p24 | prose | Information sharing]
+Table 5 illustrates some key points that could be included in information shared between parties involved in a project.
+
+[p24 | table | Information sharing]
+| KEY POINT | EXPLANATION |
+| --- | --- |
+| Nominated contacts for the lead PCBU and contractors | Representatives nominated should: - have a suitable level of knowledge for the role = hold a level of authority in the organisation = be well resourced 0 be available to carry out the role effectively. |
+| Planning and running of joint meetings | Joint meetings should: ' be regular ' be held in a way that allows free and open exchange of information ' incorporate health and safety issues i be documented in writing. |
+| Procedures for reporting risks | For effective risk management and reporting, there should be: - efficient information transfer between the PCBU and the contractors - clearly designated reporting lines. |
+| Notifiable work | You must notify WorkSafe before you carry out certain types of work, such as asbestos removal. You should: - be aware of any work notification requirements - make sure your contractors comply with these requirements. |
+| Accident and incident reporting | You should make sure that: - all accidents and incidents are reported to you, including near-misses - you have a reasonable agreement with your contractors about how accidents and incidents will be reported. |
+
+[p24 | prose | TABLE 5:]
+TABLE 5:
+
+[p24 | prose | TABLE 5:]
+Key points to include in information sharing
+
+[p24 | prose | 2.5 Monitoring the contract]
+2.5 Monitoring the contract
+
+[p24 | prose | 2.5 Monitoring the contract]
+You, or someone you nominate, should monitor the contract for its duration. This includes:
+
+[p24 | prose | 2.5 Monitoring the contract]
+– monitoring the performance of contractors and subcontractors, including their health and safety performance
+
+[p24 | prose | 2.5 Monitoring the contract]
+– monitoring work conditions and practices
+
+[p24 | prose | 2.5 Monitoring the contract]
+– bringing unsafe conditions or practices to the attention of the contractors
+
+[p24 | prose | 2.5 Monitoring the contract]
+– making sure that unsafe conditions or practices are managed.
+
+[p24 | prose | 2.5 Monitoring the contract]
+The person monitoring the contract should be appropriately trained to carry out the monitoring.
+
+[p24 | prose | Actions when monitoring a contract]
+Actions when monitoring a contract
+
+[p24 | prose | Actions when monitoring a contract]
+Monitoring a contract is part of your overlapping duty to consult, cooperate and coordinate with the other PCBUs that you share duties with. Monitoring the contract can include (this list is not exhaustive):
+
+[p24 | prose | Actions when monitoring a contract]
+– managing the PCBU/contractor relationship
+
+[p24 | prose | Actions when monitoring a contract]
+– making sure all parties are aware of their roles and responsibilities throughout the contractual framework
+
+[p24 | prose | Actions when monitoring a contract]
+– taking overall responsibility for the control and coordination of the contract
+
+[p24 | prose | Actions when monitoring a contract]
+– holding regular meetings to review health and safety performance
+
+[p24 | prose | Actions when monitoring a contract]
+– carrying out regular inspections, as appropriate
+
+[p25 | prose | Actions when monitoring a contract]
+raising issues that require attention by the contractor
+
+[p25 | prose | Actions when monitoring a contract]
+investigating and responding to accidents and incidents
+
+[p25 | prose | Actions when monitoring a contract]
+recording health and safety progress for use in future contracting situations
+
+[p25 | prose | Actions when monitoring a contract]
+regularly reporting to the contractor on performance
+
+[p25 | prose | Actions when monitoring a contract]
+carrying out a post-contract review.
+
+[p25 | prose | Post-contract review]
+Post-contract review
+
+[p25 | prose | Post-contract review]
+When the work has been completed, you should review the quality of the work against the job specification and the performance of the contractors. You should consider, among other things:
+
+[p25 | prose | Post-contract review]
+how well the contractor fulfilled the health and safety plan
+
+[p25 | prose | Post-contract review]
+how well the contractor managed health and safety while completing the work
+
+[p25 | prose | Post-contract review]
+any improvements that could be made
+
+[p25 | prose | Post-contract review]
+whether the contractor is suitable for future contracts.
+
+[p26 | prose | Appendices]
+Appendices
+
+[p26 | appendix | Appendix 1: Pre-qualification questionnaire – example]
+Appendix 1: Pre-qualification questionnaire – example
+
+[p26 | appendix | Appendix 2: Information for tenderer form – example]
+Appendix 2: Information for tenderer form – example
+
+[p26 | appendix | Appendix 3: Job registration form – example]
+Appendix 3: Job registration form – example
+
+[p26 | glossary | Appendix 4: Glossary]
+Appendix 4: Glossary
+
+[p27 | appendix | Appendix 1]
+Appendix 1
+
+[p27 | prose | Pre-qualification questionnaire]
+Pre-qualification questionnaire
+
+[p27 | prose | Pre-qualification questionnaire]
+Example
+
+[p27 | prose | 1. Key information]
+1. Key information
+
+[p27 | prose | 1. Key information]
+Tender title:
+
+[p27 | prose | Business information]
+Business information
+
+[p27 | prose | Business information]
+Number of workers in your business: Corporate structure: A summary of experience relevant to the work being tendered for: References:
+
+[p27 | prose | Key personnel]
+Key personnel
+
+[p27 | prose | Key personnel]
+Name: Qualifications: Experience of nominated person representing the lead contractor: Key workers on the project: Their health and safety qualifications:
+
+[p27 | prose | Compliance with standards]
+Compliance with standards
+
+[p27 | prose | Compliance with standards]
+Provide evidence that you are complying with the appropriate health and safety standards:
+
+[p27 | prose | Associations and/or memberships]
+Associations and/or memberships
+
+[p27 | prose | Associations and/or memberships]
+Provide details of any trade or employers’ associations or health and safety organisations that you belong to:
+
+[p27 | prose | Health and safety experience]
+Health and safety experience
+
+[p27 | prose | Health and safety experience]
+Worker engagement, participation and representation practices in your organisation: Safety records such as accident and risk registers:
+
+[p27 | prose | Health and safety experience]
+Relevant hazard information: (such as Safety Data Sheets)
+
+[p27 | prose | Health and safety experience]
+Where necessary, also supply records for the last five years of health and safety interventions, such as: Fatalities: Lost days from injury to workers: Accidents resulting in environmental damage or pollution: Notices, warnings or prosecutions by WorkSafe:
+
+[p27 | prose | 2. Details and procedures]
+2. Details and procedures
+
+[p27 | prose | Insurance and accident compensation]
+Insurance and accident compensation
+
+[p27 | prose | Insurance and accident compensation]
+Public liability insurance held: Accreditation in injury prevention programmes:
+
+[p28 | prose | Pre-qualification questionnaire]
+Pre-qualification questionnaire
+
+[p28 | prose | Policy]
+Policy
+
+[p28 | prose | Policy]
+Written health and safety policies:
+
+[p28 | prose | Policy]
+Procedures for maintaining plant, equipment, structures and vehicles in a safe condition:
+
+[p28 | prose | Policy]
+How these policies are communicated to workers:
+
+[p28 | prose | Subcontractors]
+Subcontractors
+
+[p28 | prose | Subcontractors]
+Subcontractors that will be used on this project, and which tasks they will carry out:
+
+[p28 | prose | Subcontractors]
+Your assessment of their competency:
+
+[p28 | prose | Subcontractors]
+Personal protective equipment supplied to workers:
+
+[p28 | prose | Information, training and supervision]
+Information, training and supervision
+
+[p28 | prose | Information, training and supervision]
+Health and safety training and information that managers/ supervisors receive:
+
+[p28 | prose | Information, training and supervision]
+Whether health and safety was considered in their selection:
+
+[p28 | prose | Information, training and supervision]
+Health and safety information, instruction, supervision and training that workers receive:
+
+[p28 | prose | Information, training and supervision]
+Induction programmes for new subcontractors:
+
+[p28 | prose | Information, training and supervision]
+Induction programmes for new workers:
+
+[p28 | prose | Information, training and supervision]
+Health and safety representatives in your organisation:
+
+[p28 | prose | Information, training and supervision]
+Procedures for controlling the safety performance of subcontractors:
+
+[p28 | prose | Organisation]
+Organisation
+
+[p28 | prose | Organisation]
+How the work will be supervised:
+
+[p28 | prose | Emergency procedures]
+Emergency procedures
+
+[p28 | prose | Emergency procedures]
+Provide details of your emergency procedures and planning.
+
+[p28 | prose | Emergency procedures]
+Roles and responsibilities in an emergency:
+
+[p28 | prose | Emergency procedures]
+Emergency training that workers receive:
+
+[p28 | prose | Emergency procedures]
+Who will be responsible for supervision:
+
+[p28 | prose | Emergency procedures]
+Emergency drills that have been carried out in the last 12 months:
+
+[p28 | prose | Arrangements]
+Arrangements
+
+[p28 | prose | Arrangements]
+Provide an outline of the procedures in place to ensure a safe system of work. Include details on.
+
+[p28 | prose | Arrangements]
+Documented work practices and safety instructions, including how often they are audited:
+
+[p28 | prose | Planning and setting performance standards]
+Planning and setting performance standards
+
+[p28 | prose | Planning and setting performance standards]
+Provide details on planning and setting performance standards for complex or high-risk projects:
+
+[p29 | prose | Pre-qualification questionnaire]
+Pre-qualification questionnaire
+
+[p29 | prose | Risk assessment]
+Risk assessment
+
+[p29 | prose | Risk assessment]
+Formal risk assessments that you have carried out in the past
+
+[p29 | prose | Plant and equipment]
+Plant and equipment
+
+[p29 | prose | Plant and equipment]
+Provide details on procedures for inspecting, testing, examining and maintaining plant and equipment to a safe standard for use, as well as the records that show this:
+
+[p29 | prose | Plant and equipment]
+Systems to identify and assess risks to health and safety:
+
+[p29 | prose | Plant and equipment]
+Procedures to manage risks to health and safety:
+
+[p29 | prose | Health monitoring]
+Health monitoring
+
+[p29 | prose | Health monitoring]
+Provide details on any health monitoring of workers with regards to specific risks relating to the work:
+
+[p29 | prose | Accident investigation]
+Accident investigation
+
+[p29 | prose | Accident investigation]
+Procedures for investigating accidents and near-misses:
+
+[p29 | prose | Measuring and improving health and safety]
+Measuring and improving health and safety
+
+[p29 | prose | Measuring and improving health and safety]
+How performance is assessed:
+
+[p29 | prose | Measuring and improving health and safety]
+Procedures for notifying WorkSafe when a notifiable event occurs:
+
+[p29 | prose | Measuring and improving health and safety]
+Safety meetings and committees:
+
+[p29 | prose | Measuring and improving health and safety]
+Safety inspections or audits:
+
+[p29 | prose | Measuring and improving health and safety]
+Procedures for notifying the lead PCBU when an accident occurs:
+
+[p29 | prose | 3. Review]
+3. Review
+
+[p29 | prose | 3. Review]
+Provide details on what happens to the results of checks, investigations and audits.
+
+[p29 | prose | Hazardous substances]
+Hazardous substances
+
+[p29 | prose | Hazardous substances]
+Any hazardous substances used while carrying out the work:
+
+[p29 | prose | Hazardous substances]
+Safety Data Sheets for the hazardous substances:
+
+[p29 | prose | Hazardous substances]
+Compliance certificates for required sites:
+
+[p29 | prose | Hazardous substances]
+Which workers are certified handlers of hazardous substances:
+
+[p29 | prose | Completed by]
+Completed by
+
+[p29 | prose | Completed by]
+Contact details:
+
+[p29 | prose | Completed by]
+Signed:
+
+[p30 | prose | Completed by]
+Appendix 2
+
+[p30 | prose | Information for tenderer]
+Information for tenderer
+
+[p30 | prose | Information for tenderer]
+Example
+
+[p30 | prose | 1. Key information]
+1. Key information
+
+[p30 | prose | 1. Key information]
+Tender title:
+
+[p30 | prose | 1. Key information]
+Reference number:
+
+[p30 | prose | Description of project]
+Description of project
+
+[p30 | prose | Description of project]
+Describe the nature and extent of the project.
+
+[p30 | prose | Description of project]
+Location:
+
+[p30 | prose | Description of project]
+Type of work:
+
+[p30 | prose | Description of project]
+Timetable:
+
+[p30 | prose | Description of project]
+Performance standards:
+
+[p30 | prose | Description of project]
+Other details:
+
+[p30 | prose | Description of project]
+Outline the design of the project so that tenderers are aware of all the health and safety issues involved. This may include information on the project beyond the scope of the work being tendered for.
+
+[p30 | prose | Description of project]
+Overhead lines or cranes:
+
+[p30 | prose | Description of project]
+Machinery or vehicles:
+
+[p30 | prose | Description of project]
+Work at heights:
+
+[p30 | prose | Description of project]
+Electrical or chemical risks:
+
+[p30 | prose | Materials/equipment to be used]
+Materials/equipment to be used
+
+[p30 | prose | Materials/equipment to be used]
+List any particular materials or equipment that could present health and safety risks: (includes things like flammable or toxic substances, or heavy/bulky items)
+
+[p30 | prose | 2. Specific information]
+2. Specific information
+
+[p30 | prose | Identified risks to health and safety]
+Identified risks to health and safety
+
+[p30 | prose | Identified risks to health and safety]
+Describe the health and safety risks likely to be associated with the job under tender. Risks described may not necessarily be part of the tender itself:
+
+[p30 | prose | Site/place of work]
+Site/place of work
+
+[p30 | prose | Site/place of work]
+Describe the site/place of work with regard to location and relevant issues, including factors.
+
+[p30 | prose | Site/place of work]
+Provision of services:
+
+[p30 | prose | Site/place of work]
+Existing or coinciding uses:
+
+[p30 | prose | Site/place of work]
+Access and traffic systems and restriction:
+
+[p30 | prose | Work processes]
+Work processes
+
+[p30 | prose | Work processes]
+Welding/hot work:
+
+[p30 | prose | Work processes]
+Electrical work:
+
+[p30 | prose | Work processes]
+Confined spaces:
+
+[p30 | prose | Work processes]
+Working at height:
+
+[p30 | prose | Work processes]
+Proximity of overhead wires or cranes:
+
+[p30 | prose | Work processes]
+Excavation:
+
+[p30 | prose | Work processes]
+Demolition:
+
+[p31 | prose | Special requirements]
+Special requirements
+
+[p31 | table | Special requirements]
+| Access for the public: |
+| --- |
+| Positioning of the site access and exit points: |
+| Location of unloading or storage areas: |
+| Temporary site accommodation: |
+| Restrictions on working hours: |
+| Vehicle access: |
+| Difficult or restricted access to the work area: |
+| Permits to work: |
+| Special requirements for hazardous substances or work environments: |
+| Emergency procedures: |
+| Provision of barriers or signs: |
+| Any required health monitoring: |
+
+[p31 | prose | Design information or specification documents]
+Design information or specification documents
+
+[p31 | table | Design information or specification documents]
+| Available: | <input class="Checkbox" type="checkbox"/> Yes | <input class="Checkbox" type="checkbox"/> No |
+| --- | --- | --- |
+| Provided: | <input class="Checkbox" type="checkbox"/> Yes | <input class="Checkbox" type="checkbox"/> No |
+| Detail the relevant information that is available to the tenderer: |  |  |
+
+[p31 | prose | Drawings]
+Drawings
+
+[p31 | table | Drawings]
+| Available: | <input class="Checkbox" type="checkbox"/> Yes | <input class="Checkbox" type="checkbox"/> No |
+| --- | --- | --- |
+| Provided: | <input class="Checkbox" type="checkbox"/> Yes | <input class="Checkbox" type="checkbox"/> No |
+| Detail the drawings that you have prepared for the tender, as well as any pre-existing drawings, plans, specifications or other documents that are relevant. |  |  |
+| Provided with invitation to tender: | <input class="Checkbox" type="checkbox"/> Yes | <input class="Checkbox" type="checkbox"/> No |
+
+[p31 | prose | Project-specific rules]
+Project-specific rules
+
+[p31 | table | Project-specific rules]
+| Specific rules related to the project: |
+| --- |
+| Any overlaps with the lead PCBU’s activities: |
+
+[p31 | prose | Emergency procedures]
+Emergency procedures
+
+[p31 | table | Emergency procedures]
+| Describe the emergency procedures for the site/place of work, and rules for emergencies that the tenderer must follow: |
+| --- |
+
+[p31 | prose | 3. Contact details]
+3. Contact details
+
+[p31 | table | 3. Contact details]
+| Describe the process for liaison and coordination for health and safety:(include a delegate for multi-employer site meetings as appropriate) |
+| --- |
+| Include a procedure for dealing with design changes after the work has started: |
+| Detail the responsibilities for notifying work or reporting accidents or serious harm to WorkSafe: |
+| Provide details of how the work methods are supervised, and who will be responsible for supervision: |
+| Name of tenderer’s contact: |
+| Contact details: |
+
+[p31 | prose | Completed by]
+Completed by
+
+[p31 | table | Completed by]
+| Name: |
+| --- |
+| Contact details: |
+| Date:DD / MM / YEAR |
+| Signed: |
+
+[p32 | prose | Completed by]
+Appendix 3
+
+[p32 | prose | Job registration]
+Job registration
+
+[p32 | prose | Job registration]
+Example
+
+[p32 | prose | 1. Responsibilities]
+1. Responsibilities
+
+[p32 | prose | 1. Responsibilities]
+Example: The senior manager with responsibility for health and safety, the names of those responsible for different aspects or areas of work activity, agreed lines of communication etc:
+
+[p32 | prose | 2. Hazardous conditions]
+2. Hazardous conditions
+
+[p32 | prose | 3. Work equipment]
+3. Work equipment
+
+[p32 | table | 3. Work equipment]
+| Ladders/access equipment | Grinding equipment |
+| --- | --- |
+| Welding/cutting equipment | Portable electrical equipment |
+| Lasers | Vehicles |
+| Machinery | Powder powered tools |
+| Lifting equipment | Pneumatic equipment |
+| Other: |  |
+
+[p32 | prose | 4. Materials/substances]
+4. Materials/substances
+
+[p32 | prose | 4. Materials/substances]
+2Asbestos
+
+[p32 | prose | 4. Materials/substances]
+2Ionising radiation
+
+[p32 | prose | 4. Materials/substances]
+2Toxic substances
+
+[p32 | prose | 4. Materials/substances]
+2Epoxy materials
+
+[p32 | prose | 4. Materials/substances]
+2Adhesives/sealants
+
+[p32 | prose | 4. Materials/substances]
+2Flammable substances
+
+[p32 | prose | 4. Materials/substances]
+2Compressed gasses
+
+[p32 | prose | 4. Materials/substances]
+2Solvents
+
+[p32 | prose | 4. Materials/substances]
+2Explosives
+
+[p32 | prose | 4. Materials/substances]
+2Irritant substances
+
+[p32 | prose | 4. Materials/substances]
+2Corrosives
+
+[p32 | prose | 4. Materials/substances]
+2 Substances that can create vapours or fumes
+
+[p32 | prose | 4. Materials/substances]
+2Other:
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+5. Request to use lead PCBU’s services
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+2Electricity
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+2Forklift
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+2Compressed air
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+2Steam
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+2Transport
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+2First aid
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+2Trucks
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+2Scaffolding/access equipment
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+2Water
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+2 Lead PCBU’s personnel
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+2Waste disposal
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+or services
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+2Other equipment:
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+2Other:
+
+[p32 | prose | 5. Request to use lead PCBU’s services]
+Are there any other special risks:
+
+[p32 | prose | 6. Site arrangements]
+6. Site arrangements
+
+[p32 | prose | 6. Site arrangements]
+To be explained and agreed
+
+[p32 | prose | 6. Site arrangements]
+2Hours of work
+
+[p32 | prose | 6. Site arrangements]
+2Vehicle restrictions
+
+[p32 | prose | 6. Site arrangements]
+2Emergency procedures
+
+[p32 | prose | 6. Site arrangements]
+2Accident/incident reporting
+
+[p32 | prose | 6. Site arrangements]
+2Site boundaries
+
+[p32 | prose | 6. Site arrangements]
+2Permits to work
+
+[p32 | prose | 6. Site arrangements]
+2First aid facilities
+
+[p32 | prose | 6. Site arrangements]
+2Other:
+
+[p32 | prose | 6. Site arrangements]
+At the job registration stage, contractors should also provide evidence of relevant risk assessments, health and safety plans, safe systems of work and competence of workers.
+
+[p33 | glossary | Appendix 4: Glossary]
+Appendix 4: Glossary
+
+[p33 | glossary | Appendix 4: Glossary]
+| TERM | LEGAL DEFINITION (AS NOTED) OR BRIEF EXPLANATION |
+| --- | --- |
+| Contractor | A PCBU who carries out temporary, work under contract. |
+| Control measure | Is a way of eliminating or minimising risks to health and safety. |
+| Duty holder | Means a person who has a duty under HSWA. There are four types of duty holders - PCBUs, officers, workers and other persons at workplaces. |
+| Hazard (section 16 of HSWA) | Includes a person’s behaviour where that behaviour has the potential to cause death, injury, or illness to a person (whether or not that behaviour results from physical or mental fatigue, drugs, alcohol, traumatic shock, or another temporary condition that affects a person’s behaviour). |
+| Health and Safety at Work Act 2015 (HSWA) | HSWA is the key work health and safety law in New Zealand. A guiding principle of HSWA is that workers and other persons should be given the highest level of protection against harm to their health, safety, and welfare from work risks as is reasonably practicable. |
+| Notifiable event (section 25 of HSWA) | Means any of the following events that arise from work: a. the death of a person b. a notifiable injury or illness, or c. anotifiable incident. |
+| Other person at workplace | Examples of other persons include workplace visitors and one-off volunteers at workplaces. |
+| Overlapping PCBU duties | Means when more than one PCBU has the same health and safety duties in relation to the same matter. |
+| PCBU (section 17 of HSWA) | a. means a person conducting a business or undertaking: i whether the person conducts a business or undertaking alone or with others, and ii whether or not the business or undertaking is conducted for profit or gain, but does not include: i a person to the extent that the person is employed or engaged solely as a worker in, or as an officer of, the business or undertaking ii a volunteer association iii an occupier of a home to the extent that the occupier employs or engages another person solely to do residential work V. a statutory officer to the extent that the officer is a worker in, or an officer of, the business or undertaking: a person, or class of persons, that is declared by regulations not to be a PCBU for the purposes of HSWA or any provision of HSWA. |
+| Plant (section 16 of HSWA) | Includes: a. any machinery, vehicle, vessel, aircraft, equipment (including personal protective equipment), appliance, container, implement, or tool, and b. any component of any of those things; and anything fitted or connected to any of those things. |
+|  | the availability and suitability of ways to manage the risk, and after assessing the extent of the risk and the available ways of eliminating or minimising the risk, the cost associated with available ways of eliminating or minimising the risk, including whether the cost is grossly disproportionate to the risk. For more information on the concept of ‘reasonably practicable’, see WorkSafe’s fact sheet Reasonably Practicable. |
+| Risk | Risks arise from people being exposed to a hazard (a source of harm). |
+
+[p34 | glossary | Appendix 4: Glossary]
+| TERM | LEGAL DEFINITION (AS NOTED) OR BRIEF EXPLANATION |
+| --- | --- |
+| Structure (section 16 of HSWA) | Means anything that is constructed, whether fixed, moveable, temporary, or permanent; andincludes: i buildings, masts, towers, frameworks, pipelines, quarries, bridges, and underground works (including shafts or tunnels), and ii any component of a structure; and part of a structure. |
+| Subcontractor | A PCBU hired by a contractor to carry out temporary, paid work under contract. |
+| (section 19 of HSWA) | a an employee a contractor or subcontractor an employee of a contractor or subcontractor o 00O an employee of a labour hire company who has been assigned to work in the business or undertaking an outworker (including a homeworker) an apprentice or a trainee a person gaining work experience or undertaking a work trial Q TMo a volunteer worker, or i a person of a prescribed class. A constable is: i a worker, and ii at work throughout the time when the constable is on duty or is lawfully performing the functions of a constable, but not otherwise. A member of the Armed Forces is: i a worker, and ii at work throughout the time when the member is on duty or is lawfully performing the functions of a member of the Armed Forces, but not otherwise. A PCBU is also a worker if th PCBU is an individual who carries out work in that business or undertaking. |
+| Workplace (section 20 of HSWA) | a. means a place where work is being carried out, or is customarily carried out, for a business or undertaking, and b. includes any place where a worker goes, or is likely to be, while at work. In this section, place includes: a. a vehicle, vessel, aircraft, ship, or other mobile structure; and any waters and any installation on land, on the bed of any waters, or floating on any waters. |
+
+[p35 | prose | Disclaimer]
+Disclaimer
