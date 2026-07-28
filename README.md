@@ -28,42 +28,31 @@ See [`PROJECT-BREIF.md`](PROJECT-BREIF.md) for the full project brief.
 
 ## Getting started (local setup)
 
-You'll need Python 3.10+ installed.
+This project runs on **Python 3.14**. First, check you have it:
 
 ```bash
-# 1. Clone the repo
-git clone <repo-url>
-cd Health-Saftey-AI
+python3 --version        # should print 3.14.something
+```
 
-# 2. Create and activate a virtual environment
-python -m venv .venv
+If it doesn't, install Python 3.14 from [python.org](https://www.python.org/downloads/)
+(or with `pyenv`), then continue.
+
+Now copy-paste these commands one block at a time:
+
+```bash
+
+# 1. Create a private space for this project's packages
+python3 -m venv .venv
+
+# 2. Switch that space on
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 
-# 3. Install dependencies
+# 3. Install everything the project needs (exact, tested versions)
 pip install -r requirements.txt
-
-# 4. Set up your API key
-cp .env.example .env             # then open .env and paste your OpenAI key
 ```
 
-Never commit your `.env` file — it holds secret keys. It's already gitignored.
-
+That's it — the project is installed. ✅
 ---
-
-## Running the app
-
-The backend (FastAPI) and the frontend (Streamlit) run as two separate
-processes. Open two terminals:
-
-```bash
-# Terminal 1 — backend API
-# (the FastAPI entry point lives in src/api/)
-
-# Terminal 2 — frontend UI
-# (the Streamlit app entry point lives in src/ui/)
-```
-
-Exact run commands will be added as the code for each part is written.
 
 ---
 
@@ -92,4 +81,3 @@ We collaborate on GitHub. To keep things simple and avoid clashes:
 3. Work in your area of the project.
 4. Open a Pull Request when you're ready, so the team can review before it
    merges into `main`.
-5. Never commit secrets (your `.env` file) or large generated files.
