@@ -19,12 +19,11 @@ Pipeline (all deterministic):
      US-09 schema (source_file, page_number, section_heading, chunk_type) so it
      hands off cleanly to the chunking step (Luca / US-08-09).
 
-Run:  .venv/bin/python -m src.ingestion.clean --processed-dir data/processed/<doc>
+Run:  .venv/bin/python -m src.ingestion.clean
 """
 
 from __future__ import annotations
 
-import argparse
 import json
 import re
 import unicodedata
@@ -123,7 +122,7 @@ class _TableParser(HTMLParser):
 
     def handle_endtag(self, tag):
         if tag in ("td", "th") and self._cell is not None:
-            self._row.append("".join(self._cell).strip())
+            self._row.append("".join(self._cell).strip())  # type: ignore
             self._cell = None
         elif tag == "tr" and self._row is not None:
             self.rows.append(self._row)
@@ -139,8 +138,10 @@ def html_table_to_markdown(html: str) -> str:
         return ""
     width = max(len(row) for row in rows)
     rows = [row + [""] * (width - len(row)) for row in rows]
-    lines = ["| " + " | ".join(rows[0]) + " |",
-             "| " + " | ".join(["---"] * width) + " |"]
+    lines = [
+        "| " + " | ".join(rows[0]) + " |",
+        "| " + " | ".join(["---"] * width) + " |",
+    ]
     for row in rows[1:]:
         lines.append("| " + " | ".join(row) + " |")
     return "\n".join(lines)
@@ -244,14 +245,16 @@ def clean_elements(elements: list[dict], source_file: str) -> dict:
 
         suspicious.extend(find_suspicious_tokens(text))
 
-        records.append({
-            "text": text,
-            "source_file": source_file,
-            "page_number": meta.get("page_number"),
-            "element_type": el_type,
-            "section_heading": section_heading,
-            "chunk_type": classify_chunk_type(el_type, section_heading),
-        })
+        records.append(
+            {
+                "text": text,
+                "source_file": source_file,
+                "page_number": meta.get("page_number"),
+                "element_type": el_type,
+                "section_heading": section_heading,
+                "chunk_type": classify_chunk_type(el_type, section_heading),
+            }
+        )
 
     report = {
         "kept": len(records),
@@ -262,45 +265,34 @@ def clean_elements(elements: list[dict], source_file: str) -> dict:
     return {"records": records, "report": report}
 
 
-def _find_cached_json(json_dir: Path = SAMPLE_JSON_DIR) -> Path:
-    """Locate the raw Unstructured `*.pdf.json` in a processed-document folder."""
-    matches = sorted(json_dir.glob("*.pdf.json"))
+def _find_cached_json() -> Path:
+    matches = sorted(SAMPLE_JSON_DIR.glob("*.pdf.json"))
     if not matches:
-        raise FileNotFoundError(f"No cached Unstructured JSON in {json_dir}")
+        raise FileNotFoundError(f"No cached Unstructured JSON in {SAMPLE_JSON_DIR}")
     return matches[0]
 
 
-def clean_document(processed_dir: Path | str) -> dict:
-    """Clean the raw Unstructured JSON in `processed_dir` into the handoff artifacts.
-
-    Finds the `*.pdf.json` Unstructured output in the folder, runs the deterministic
-    cleaner, and writes two files named after the source document:
-      * `<doc>-CLEANED.json`         — the record list the chunking step consumes.
-      * `<doc>-CLEANED-preview.txt`  — a human-readable preview.
-    Returns the `clean_elements` report.
-    """
-    processed_dir = Path(processed_dir)
-    json_path = _find_cached_json(processed_dir)
+def main():
+    json_path = _find_cached_json()
     elements = json.loads(json_path.read_text())
 
-    # Prefer the original filename recorded by Unstructured; fall back to the JSON
-    # name (strip the trailing ".json", leaving the "<doc>.pdf" the file_id carried).
+    # Prefer the original filename recorded by Unstructured; fall back to the PDF.
     source_file = ""
     for el in elements:
         source_file = el.get("metadata", {}).get("filename", "")
         if source_file:
             break
-    source_file = source_file or json_path.name.removesuffix(".json")
+    source_file = source_file or settings.SAMPLE_PDF.name
 
     result = clean_elements(elements, source_file)
     records, report = result["records"], result["report"]
 
-    # Name outputs after the document so any folder's results are self-describing.
-    stem = Path(source_file).stem
-    out_json = processed_dir / f"{stem}-CLEANED.json"
+    # Write cleaned JSON (the handoff artifact for chunking).
+    out_json = SAMPLE_JSON_DIR / "PCBUs-Working-Together-CLEANED.json"
     out_json.write_text(json.dumps(records, indent=2, ensure_ascii=False))
 
-    out_txt = processed_dir / f"{stem}-CLEANED-preview.txt"
+    # Write a readable preview.
+    out_txt = SAMPLE_JSON_DIR / "PCBUs-Working-Together-CLEANED-preview.txt"
     preview = "\n\n".join(
         f"[p{r['page_number']} | {r['chunk_type']} | {r['section_heading']}]\n{r['text']}"
         for r in records
@@ -315,20 +307,6 @@ def clean_document(processed_dir: Path | str) -> dict:
     print(f"Suspicious tokens left : {report['suspicious_tokens']}")
     print(f"\nWrote: {out_json}")
     print(f"Wrote: {out_txt}")
-    return report
-
-
-def main():
-    parser = argparse.ArgumentParser(
-        description="Clean a document's raw Unstructured JSON into chunk-ready output."
-    )
-    parser.add_argument(
-        "--processed-dir",
-        required=True,
-        help="Folder holding the raw *.pdf.json, e.g. data/processed/<doc>",
-    )
-    args = parser.parse_args()
-    clean_document(args.processed_dir)
 
 
 if __name__ == "__main__":
