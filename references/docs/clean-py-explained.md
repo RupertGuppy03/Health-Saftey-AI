@@ -114,11 +114,12 @@ Each cleaned block becomes a record with the metadata the chunking step needs
 ## How to run it
 
 ```bash
-.venv/bin/python -m src.ingestion.clean
+.venv/bin/python -m src.ingestion.clean --processed-dir data/processed/<doc>
 ```
 
-Writes `..._CLEANED.json` and `..._CLEANED-preview.txt` into the document's folder
-under `data/processed/`. Tests live in `tests/ingestion/test_clean.py`.
+Writes `<doc>-CLEANED.json` and `<doc>-CLEANED-preview.txt` into that same folder.
+In the notebook pipeline this runs as `clean.clean_document(OUTPUT_DIR)`. Tests live
+in `tests/ingestion/test_clean.py`.
 
 ---
 

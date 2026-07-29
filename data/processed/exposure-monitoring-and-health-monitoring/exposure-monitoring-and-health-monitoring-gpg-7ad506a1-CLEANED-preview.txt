@@ -1,0 +1,2368 @@
+[p1 | prose | Exposure monitoring and health monitoring]
+Exposure monitoring and health monitoring
+
+[p1 | prose | Exposure monitoring and health monitoring]
+GUIDANCE FOR BUSINESSES November 2022
+
+[p2 | prose | Good practice guidance for businesses]
+Good practice guidance for businesses
+
+[p2 | prose | Good practice guidance for businesses]
+setting up exposure monitoring and health
+
+[p2 | prose | Good practice guidance for businesses]
+monitoring at work.
+
+[p2 | prose | Good practice guidance for businesses]
+of this guidance. WorkSafe would like to specifically acknowledge Julia Crosby, WOHC Ltd for her
+
+[p3 | prose | Exposure monitoring and health monitoring]
+Exposure monitoring and health monitoring
+
+[p3 | prose | KEY POINTS]
+KEY POINTS
+
+[p3 | prose | KEY POINTS]
+A risk assessment of the workplace, workforce,
+
+[p3 | prose | KEY POINTS]
+health hazards, existing control measures and
+
+[p3 | prose | KEY POINTS]
+previous monitoring data can help inform
+
+[p3 | prose | an exposure monitoring or health monitoring]
+an exposure monitoring or health monitoring
+
+[p3 | prose | programme.]
+programme.
+
+[p3 | prose | programme.]
+Exposure monitoring and health monitoring –
+
+[p3 | prose | programme.]
+along with verifying that control measures are
+
+[p3 | prose | programme.]
+working effectively – can be used to manage health risks.
+
+[p3 | prose | programme.]
+Monitoring should be carried out by people
+
+[p3 | prose | with appropriate knowledge, skills, training]
+with appropriate knowledge, skills, training
+
+[p3 | prose | and experience.]
+and experience.
+
+[p8 | prose | and experience.]
+Working in hazardous work conditions can adversely affect workers’ health – in both the short and long term. This includes when the work involves substances that are harmful to people’s health (substances hazardous to health).
+
+[p8 | prose | and experience.]
+As a person conducting a business or undertaking (PCBU),1 you must ensure, so far as is reasonably practicable, the health and safety of workers, and that other persons are not put at risk by your work. This is your primary duty.
+
+[p8 | prose | and experience.]
+You must manage the health risks to workers and others that arise from being exposed to the work carried out by your business. In some circumstances, this could mean monitoring worker exposure (exposure monitoring) and monitoring the health of workers (health monitoring).
+
+[p8 | prose | and experience.]
+This guidance covers both exposure monitoring and health monitoring. It provides good practice advice for businesses on selecting external monitoring providers and then on putting in place monitoring programmes. Businesses with in-house monitoring providers may also find aspects of this guidance useful.
+
+[p8 | prose | and experience.]
+– explains what exposure monitoring and health monitoring are
+
+[p8 | prose | and experience.]
+– explains how exposure monitoring and health monitoring are used in managing health risks
+
+[p8 | prose | and experience.]
+– explains when to monitor
+
+[p8 | prose | and experience.]
+– describes what to think about when getting monitoring programmes underway
+
+[p8 | prose | and experience.]
+– explains next steps once decisions have been made.
+
+[p8 | prose | Also available is the following guidance:]
+Also available is the following guidance:
+
+[p8 | prose | Also available is the following guidance:]
+– What to know about exposure monitoring and health monitoring – for small businesses
+
+[p8 | prose | Also available is the following guidance:]
+– What to know about exposure monitoring and health monitoring – for workers
+
+[p8 | prose | Also available is the following guidance:]
+In this guide ‘business’ means the person conducting a business or undertaking (PCBU). An undertaking is usually not-for-profit or non-commercial (for example, council, school, charity). This guidance covers businesses and other PCBU organisations. For more information about PCBUs and worker duties, see Appendix 2.
+
+[p10 | prose | Also available is the following guidance:]
+Exposure monitoring and health monitoring can be used in the effective management of work health risks.
+
+[p10 | prose | 2.1 What is the difference between exposure monitoring and health monitoring?]
+2.1 What is the difference between exposure monitoring and health monitoring?
+
+[p10 | prose | 2.1 What is the difference between exposure monitoring and health monitoring?]
+Exposure monitoring measures and evaluates what your workers are being exposed to while they are at work.
+
+[p10 | prose | 2.1 What is the difference between exposure monitoring and health monitoring?]
+Health monitoring looks at whether a worker’s health is being harmed because of what they are being exposed to while they are at work.
+
+[p10 | prose | 2.1 What is the difference between exposure monitoring and health monitoring?]
+Figure 1 explains what exposure monitoring and health monitoring are.
+
+[p10 | prose | 2.2 How can monitoring be used in the effective management of health risks?]
+2.2 How can monitoring be used in the effective management of health risks?
+
+[p10 | prose | 2.2 How can monitoring be used in the effective management of health risks?]
+Exposure monitoring can be used to:
+
+[p10 | prose | 2.2 How can monitoring be used in the effective management of health risks?]
+– identify, assess and confirm health risks
+
+[p10 | prose | 2.2 How can monitoring be used in the effective management of health risks?]
+– identify where new control measures are needed
+
+[p10 | prose | 2.2 How can monitoring be used in the effective management of health risks?]
+– monitor how well current control measures are performing, and
+
+[p10 | prose | 2.2 How can monitoring be used in the effective management of health risks?]
+– identify when control measures need to be reviewed, updated or removed.
+
+[p10 | prose | 2.2 How can monitoring be used in the effective management of health risks?]
+Health monitoring can be used to tell you if workers are experiencing health effects from potential exposures. Health monitoring can also confirm that control measures are preventing harm.
+
+[p10 | prose | 2.2 How can monitoring be used in the effective management of health risks?]
+Monitoring is not a control measure. It does not replace the need for control measures to eliminate or minimise worker exposure to harm.
+
+[p11 | prose | What is the difference between exposure monitoring and health monitoring?]
+What is the difference between exposure monitoring and health monitoring?
+
+[p11 | prose | Exposure monitoring]
+Exposure monitoring
+
+[p11 | prose | Exposure monitoring]
+Exposure monitoring measures and evaluates what your workers are being exposed to while they are at work.
+
+[p11 | prose | Exposure monitoring]
+This can involve workers wearing a device while they work. Examples of personal exposure monitoring:
+
+[p11 | prose | Exposure monitoring]
+It should be carried out by suitably qualified, trained and experienced people who know how to carry out the monitoring you need (such as Occupational Hygienists).
+
+[p11 | prose | Exposure monitoring]
+Biological exposure monitoring is another type of exposure monitoring. It usually involves taking blood or urine samples to test for a substance (or a metabolite of a substance) workers are working with.
+
+[p11 | prose | Exposure monitoring]
+Blood or other invasive samples must be taken by a health practitioner such as an Occupational Health Nurse or phlebotomist (for blood). A suitably qualified, trained and experienced person is needed to interpret the results.
+
+[p11 | prose | Health monitoring]
+Health monitoring
+
+[p11 | prose | Health monitoring]
+Health monitoring looks at whether a worker’s health is being harmed because of what they are being exposed to while they are at work.
+
+[p11 | prose | Health monitoring]
+Examples:
+
+[p11 | prose | Health monitoring]
+Well-being programmes, employment prescreening and fitness-to-work examinations are not health monitoring.
+
+[p11 | prose | Health monitoring]
+Monitoring should be carried out at the beginning of a worker’s employment (to get baseline readings). Then regular (ongoing) monitoring should be carried out. It should be carried out by suitably qualified, trained and experienced health practitioners with the knowledge, skills, training and experience to carry out the monitoring you need. For example, an Occupational Health Nurse could carry out initial health assessment (health screening) and subsequent routine regular testing. If suspected, workers should be sent to a health practitioner who understands occupational health for a full medical assessment/formal diagnosis and feedback to the PCBU. This could be an Occupational Physician or GP with relevant experience.
+
+[p12 | prose | Health monitoring]
+As shown in Figure 2, monitoring information – along with verifying that your control measures are working effectively – can be used to continually improve how you are managing health risks.
+
+[p12 | prose | Health monitoring]
+FIGURE 2: Role of monitoring when managing health risk
+
+[p12 | prose | Health monitoring]
+For more information about managing risk, see our guidance: Identifying, assessing and managing work risks
+
+[p12 | prose | Health monitoring]
+You could need initial monitoring carried out, and then regular (ongoing) monitoring.
+
+[p12 | prose | Health monitoring]
+You should pay for monitoring costs. Costs could include transport costs if the monitoring occurs off-site.
+
+[p12 | prose | Health monitoring]
+If monitoring results show your workers are being harmed or are at risk, take immediate action to eliminate or minimise the health risks to workers. This should include carrying out an investigation, reviewing control measures and deciding what actions you will take (Section 4.8).
+
+[p13 | prose | EXAMPLE]
+EXAMPLE
+
+[p13 | prose | EXAMPLE]
+Joe runs a workshop with many noisy machines. Joe knew that loud machine noise could permanently damage hearing. Joe also knew that while his workers were likely to be exposed to loud music outside of work, he still had a duty to manage health risks arising from noise at work.
+
+[p13 | prose | Assess the health risk]
+Assess the health risk
+
+[p13 | prose | Assess the health risk]
+When Joe and his workers carried out a risk assessment, noise was identified as a potential source of harm to workers. As an interim measure, workers were given hearing protection.
+
+[p13 | prose | Assess the health risk]
+Joe considered whether he needed to bring in a health and safety professional to check the levels of noise. He decided that someone with the right skills and experience was needed to accurately measure the noise his workers were being exposed to.
+
+[p13 | prose | Assess the health risk]
+An Occupational Hygienist came in to check what noise workers were being exposed to throughout the workshop. Their noise levels were higher than the exposure limit of 85 dB(A), as an 8-hour time-weighted average. This meant Joe’s workers were at enhanced risk of developing noise induced hearing loss unless he did something about it.
+
+[p13 | prose | Put control measures in place to eliminate or minimise the risk]
+Put control measures in place to eliminate or minimise the risk
+
+[p13 | prose | Put control measures in place to eliminate or minimise the risk]
+Joe took immediate action. He read WorkSafe’s noise toolbox and followed a good practice risk management process:
+
+[p13 | prose | Put control measures in place to eliminate or minimise the risk]
+– Where Joe could, he replaced machinery with quieter machines.
+
+[p13 | prose | Put control measures in place to eliminate or minimise the risk]
+– Where Joe could not replace a machine, he installed noise barriers and moved the machine to a separate room to reduce the amount of noise the workers were exposed to.
+
+[p13 | prose | Put control measures in place to eliminate or minimise the risk]
+– Where he could, Joe fitted silencers on compressor exhausts to reduce the noise.
+
+[p13 | prose | Put control measures in place to eliminate or minimise the risk]
+– Joe ensured all workers knew about the health risks of excessive noise. He rotated jobs to reduce the number of workers exposed to machine noise and reduced the time workers were exposed to excessive noise.
+
+[p13 | prose | Put control measures in place to eliminate or minimise the risk]
+– However, even with the control measures in place, workers were still exposed to unsafe noise levels inside the machine room. So based on the recommendation from the Occupational Hygienist, Class 3 earmuffs were provided to be worn in the machine room. Workers understood why they needed to wear the earmuffs. The earmuffs were fit tested to each worker. Workers were trained to correctly wear, maintain and store the earmuffs. Joe regularly checked that workers were using them properly.
+
+[p13 | prose | Monitor the performance of control measures]
+Monitor the performance of control measures
+
+[p13 | prose | Monitor the performance of control measures]
+Joe then periodically reviewed the control measures.
+
+[p13 | prose | Monitor the performance of control measures]
+Joe wanted to check that the control measures were working well to protect workers from noise. To check the control measures were continuing to work effectively:
+
+[p13 | prose | Monitor the performance of control measures]
+– Joe organised the Occupational Hygienist to regularly re-check the noise all workers were being exposed to.
+
+[p13 | prose | Monitor the performance of control measures]
+– Joe also decided that it was reasonably practicable and good risk management for workers to undergo regular hearing tests. He engaged an occupational health provider who recommended yearly testing.
+
+[p14 | prose | Monitor the performance of control measures]
+As part of Joe’s approach to continuously improve the control measures, he planned to remove the need for hearing protection in the machine room as soon as he could.
+
+[p14 | prose | Monitor the performance of control measures]
+As the first step, Joe planned to replace the noisy machinery with much quieter versions that had recently come onto the market. Following this, Joe would work with the Occupational Hygienist to decide on what other measures were needed so that workers did not need to wear hearing protection inside the machine room.
+
+[p14 | prose | Use monitoring findings to improve how health risks are being managed]
+Use monitoring findings to improve how health risks are being managed
+
+[p14 | prose | Use monitoring findings to improve how health risks are being managed]
+If the monitoring results showed that his workers were being exposed to unsafe noise levels, Joe would review and improve the control measures after seeking advice from the Occupational Hygienist.
+
+[p14 | prose | What Joe did when there was a change in the work]
+What Joe did when there was a change in the work
+
+[p14 | prose | What Joe did when there was a change in the work]
+Joe knew that in a few months there will be a big order which would mean extended shifts (longer than eight hours) for three months. Joe knew that when workers are exposed to noise for greater than eight hours, the levels of allowable noise decreased. So Joe checked whether the Class 3 earmuffs currently worn by workers would provide adequate hearing protection over the extended shifts.
+
+[p14 | prose | What Joe did when there was a change in the work]
+When Joe found out they would not, he knew he had to provide his workers with increased hearing protection. He also reassessed his noise management plan to check that it was still appropriate under the changed work conditions, and if there were other control measures he could put in place.
+
+[p16 | prose | There are monitoring requirements under the Health and Safety at Work Act 2015.]
+There are monitoring requirements under the Health and Safety at Work Act 2015.
+
+[p16 | prose | 3.1 Monitoring as part of your primary duty under HSWA]
+3.1 Monitoring as part of your primary duty under HSWA
+
+[p16 | prose | 3.1 Monitoring as part of your primary duty under HSWA]
+You must ensure, so far as is reasonably practicable, the health and safety of workers, and that other people are not put at risk by your work. In some circumstances, this could mean monitoring worker exposure and the health of workers.2
+
+[p16 | prose | 3.1 Monitoring as part of your primary duty under HSWA]
+Think about:
+
+[p16 | prose | 3.1 Monitoring as part of your primary duty under HSWA]
+– What are the risks involved with the work being undertaken?
+
+[p16 | prose | 3.1 Monitoring as part of your primary duty under HSWA]
+– Have you identified hazards and risks with your workers’ input?
+
+[p16 | prose | 3.1 Monitoring as part of your primary duty under HSWA]
+– Have you taken into account health issues that have occurred in the past at your business?
+
+[p16 | prose | 3.1 Monitoring as part of your primary duty under HSWA]
+– Have workers raised concerns or made complaints regarding hazards or risks?
+
+[p16 | prose | 3.1 Monitoring as part of your primary duty under HSWA]
+– How certain are you that your workers are not being exposed to hazards at potentially harmful levels?
+
+[p16 | prose | 3.1 Monitoring as part of your primary duty under HSWA]
+– How certain are you that your control measures are minimising worker exposure to an acceptable level?
+
+[p16 | prose | 3.1 Monitoring as part of your primary duty under HSWA]
+– Have you carried out a risk assessment of the health risks? This risk assessment can help determine if exposure monitoring or health monitoring is required (see below).
+
+[p16 | prose | How can you carry out a risk assessment of the health risks?]
+How can you carry out a risk assessment of the health risks?
+
+[p16 | prose | How can you carry out a risk assessment of the health risks?]
+A risk assessment of health risks includes the identification of health hazards, assessing the health consequences against the likelihood of exposure, and looking at existing control measures.
+
+[p16 | prose | How can you carry out a risk assessment of the health risks?]
+To determine if monitoring of worker exposure or worker health is required, a thorough risk assessment should be carried out of:
+
+[p16 | prose | How can you carry out a risk assessment of the health risks?]
+– the workplace
+
+[p16 | prose | How can you carry out a risk assessment of the health risks?]
+– workforce
+
+[p16 | prose | How can you carry out a risk assessment of the health risks?]
+– health hazards
+
+[p16 | prose | How can you carry out a risk assessment of the health risks?]
+– existing control measures
+
+[p16 | prose | How can you carry out a risk assessment of the health risks?]
+– previous monitoring data (if available) and
+
+[p16 | prose | How can you carry out a risk assessment of the health risks?]
+– health issues that have occurred in the past.
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+Carrying out a risk assessment helps to identify which workers or groups of workers need monitoring, and for which health hazards or health effects monitoring should be carried out.
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+Think about:
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+– What chemical, physical, or biological hazards are present? In what quantities?
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+– What are the health effects associated with exposure to these health hazards?
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+– What workplace exposure standards (WES), biological exposure indices (BEI) or other occupational exposure limits are there for these health hazards?
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+– How is the workforce organised in terms of worker groups, tasks, work area, and number of workers?
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+– What are the processes, tasks, or work practices that are sources of exposure and how workers may be exposed?
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+– What materials are involved and how could the raw products, by-products, waste products, or end products affect workers?
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+– What existing control measures are there? Are they used and maintained properly?
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+Ask yourself:
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+– Where can I obtain information from?
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+– What can workers tell me about their tasks?
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+– Am I confident that I am getting all the information I need? – Do I need to engage with an expert on health risk assessment?
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+Monitoring should be considered when the risk assessment indicates workers have an unacceptable or unknown health risk level.
+
+[p17 | prose | How can you carry out a risk assessment of the health risks?]
+You may consult a competent person in health risk assessment such as an Occupational Hygienist (see Section 4.3).
+
+[p17 | prose | Ask yourself:]
+Ask yourself:
+
+[p17 | prose | Ask yourself:]
+– Could monitoring help you identify, assess or confirm health risks?
+
+[p17 | prose | Ask yourself:]
+– Could monitoring tell you how well your control measures are working?
+
+[p17 | prose | Ask yourself:]
+– Is it reasonably practicable to monitor worker exposure and/or worker health? (see Appendix 3 for an explanation of what ‘so far as is reasonably practicable’ means)
+
+[p17 | prose | Ask yourself:]
+– Have your workers requested monitoring to be carried out?
+
+[p17 | prose | Ask yourself:]
+– Does WorkSafe have guidance on when to monitor for your work activity or risk?
+
+[p17 | prose | Monitoring should be considered when:]
+Monitoring should be considered when:
+
+[p17 | prose | Monitoring should be considered when:]
+– you are not certain whether exposure levels exceed safe levels, and
+
+[p17 | prose | Monitoring should be considered when:]
+– there is a link between exposure to the hazard and harm to workers, and
+
+[p17 | prose | Monitoring should be considered when:]
+– there are tests available to inform the level of exposure, the presence of the substance or to check for health changes.
+
+[p17 | prose | Monitoring should be considered when:]
+You will need to talk to a suitably qualified, trained and experienced health and safety professional to confirm if monitoring is appropriate for you (and if so, what type) (see Section 4.3).
+
+[p18 | prose | 3.2 Monitoring required by Health and Safety at Work (HSW) Regulations]
+3.2 Monitoring required by Health and Safety at Work (HSW) Regulations
+
+[p18 | prose | 3.2 Monitoring required by Health and Safety at Work (HSW) Regulations]
+You may be required to monitor in circumstances specified in Regulations.
+
+[p18 | prose | 3.2 Monitoring required by Health and Safety at Work (HSW) Regulations]
+An example is the Health and Safety at Work (General Risk and Workplace Management) Regulations 2016 (the GRWM Regulations). Table 1 explains when you must monitor under the these Regulations.
+
+[p18 | prose | MONITORING UNDER THE GRWM REGULATIONS]
+MONITORING UNDER THE GRWM REGULATIONS
+
+[p18 | prose | MONITORING UNDER THE GRWM REGULATIONS]
+The GRWM Regulations tell you specific circumstances when you must carry out monitoring:
+
+[p18 | prose | MONITORING UNDER THE GRWM REGULATIONS]
+– You must carry out exposure monitoring if your work involves substances hazardous to health, and you are not certain whether its concentration exceeds its prescribed exposure standard.
+
+[p18 | prose | MONITORING UNDER THE GRWM REGULATIONS]
+– You must carry out health monitoring if your work involves a substance hazardous to health that is specified in a safe work instrument (SWI) as requiring health monitoring, and there is a serious risk to worker health from exposure to that substance.
+
+[p18 | prose | MONITORING UNDER THE GRWM REGULATIONS]
+See Appendix 6 for information about prescribed exposure standards and SWIs.
+
+[p18 | prose | MONITORING UNDER THE GRWM REGULATIONS]
+See Appendix 6 for all the HSW Regulations that require monitoring.
+
+[p18 | prose | MONITORING UNDER THE GRWM REGULATIONS]
+If you are monitoring as required by the GRWM Regulations, or other HSW Regulations, you must follow those requirements.
+
+[p18 | prose | MONITORING UNDER THE GRWM REGULATIONS]
+If you do not need to monitor under these Regulations, see the previous section about monitoring as part of your primary duty.
+
+[p18 | prose | WorkSafe could request you carry out monitoring to meet your primary duty or HSW Regulation requirements]
+WorkSafe could request you carry out monitoring to meet your primary duty or HSW Regulation requirements
+
+[p18 | prose | WorkSafe could request you carry out monitoring to meet your primary duty or HSW Regulation requirements]
+You could be required to carry out monitoring:
+
+[p18 | prose | WorkSafe could request you carry out monitoring to meet your primary duty or HSW Regulation requirements]
+– when one of our Inspectors has told you (or told the person who appears to be in charge of the workplace) to ensure monitoring is carried out. In some cases an improvement notice may be issued
+
+[p18 | prose | WorkSafe could request you carry out monitoring to meet your primary duty or HSW Regulation requirements]
+– when a WorkSafe-appointed health and safety medical practitioner requires workers to be medically examined or biological samples to be taken (this can happen if they are satisfied the worker has been exposed to a significant work hazard).
+
+[p18 | prose | WorkSafe could request you carry out monitoring to meet your primary duty or HSW Regulation requirements]
+TABLE 1:
+
+[p18 | prose | WorkSafe could request you carry out monitoring to meet your primary duty or HSW Regulation requirements]
+Monitoring under the GRWM Regulations
+
+[p20 | prose | With input from workers, decide what the monitoring will involve.]
+With input from workers, decide what the monitoring will involve.
+
+[p20 | prose | 4.1 Things to be aware of first]
+4.1 Things to be aware of first
+
+[p20 | prose | 4.1 Things to be aware of first]
+You must work with other businesses you share monitoring duties with
+
+[p20 | prose | 4.1 Things to be aware of first]
+You must, so far as is reasonably practicable, consult, cooperate and coordinate activities with all other businesses you share health and safety duties with in relation to the same matter. This is so all businesses can meet their joint responsibilities.
+
+[p20 | prose | 4.1 Things to be aware of first]
+At times, you and another business may need to monitor the same person’s exposure or health (this could happen when you share a workplace or you are in a contracting chain). If this happens, talk with the other business and decide who will organise the monitoring, how information will be shared, and how costs will be split.
+
+[p20 | prose | EXAMPLE]
+EXAMPLE
+
+[p20 | prose | EXAMPLE]
+We Build It Tough Ltd hired casual workers from the labour hire company The Very Best Labour Hire Ltd for an extended period. The workers carried out work that meant monitoring should be carried out to manage health risks to the workers.
+
+[p20 | prose | EXAMPLE]
+We Build It Tough Ltd and The Very Best Labour Hire Ltd came to an agreement about who should organise the exposure monitoring and pay for it.
+
+[p20 | prose | EXAMPLE]
+It was decided that as The Very Best Labour Hire Ltd had an ongoing relationship with the workers, it would:
+
+[p20 | prose | EXAMPLE]
+– coordinate the monitoring
+
+[p20 | prose | EXAMPLE]
+– make sure that workers received the monitoring results
+
+[p20 | prose | EXAMPLE]
+– make sure any remedial recommendations were actioned
+
+[p20 | prose | EXAMPLE]
+– keep records.
+
+[p20 | prose | EXAMPLE]
+It was agreed that The Very Best Labour Hire Ltd would pay 75% of the monitoring costs, with We Build It Tough Ltd paying the rest.
+
+[p20 | prose | EXAMPLE]
+For more information on shared duties, see Appendix 4.
+
+[p20 | prose | You must engage with your workers when making decisions about monitoring]
+You must engage with your workers when making decisions about monitoring
+
+[p20 | prose | You must engage with your workers when making decisions about monitoring]
+You must engage with workers and their representatives when making decisions about procedures for exposure monitoring and health monitoring, such as:
+
+[p20 | prose | You must engage with your workers when making decisions about monitoring]
+– what the monitoring will involve
+
+[p20 | prose | You must engage with your workers when making decisions about monitoring]
+– how the monitoring results will be used, stored and shared.
+
+[p20 | prose | You must engage with your workers when making decisions about monitoring]
+You must take your workers’ views into account, and tell them what decision has been made in a timely manner.
+
+[p21 | prose | You must engage with your workers when making decisions about monitoring]
+For more information on worker engagement, participation and representation, see Appendix 5.
+
+[p21 | prose | You must keep any personal information collected during monitoring secure and confidential, and use for the purposes it has been collected for]
+You must keep any personal information collected during monitoring secure and confidential, and use for the purposes it has been collected for
+
+[p21 | prose | You must keep any personal information collected during monitoring secure and confidential, and use for the purposes it has been collected for]
+If you are collecting, storing, using or disclosing personal information (this is any information about an identifiable person), you must comply with the requirements of the Privacy Act 2020.
+
+[p21 | prose | You must keep any personal information collected during monitoring secure and confidential, and use for the purposes it has been collected for]
+The Privacy Act covers:
+
+[p21 | prose | You must keep any personal information collected during monitoring secure and confidential, and use for the purposes it has been collected for]
+– collecting personal information
+
+[p21 | prose | You must keep any personal information collected during monitoring secure and confidential, and use for the purposes it has been collected for]
+– storing personal information
+
+[p21 | prose | You must keep any personal information collected during monitoring secure and confidential, and use for the purposes it has been collected for]
+– restrictions on using and disclosing personal information
+
+[p21 | prose | You must keep any personal information collected during monitoring secure and confidential, and use for the purposes it has been collected for]
+– the right to access and to correct personal information
+
+[p21 | prose | You must keep any personal information collected during monitoring secure and confidential, and use for the purposes it has been collected for]
+– using unique identifiers.
+
+[p21 | prose | SOME POINTS TO NOTE]
+SOME POINTS TO NOTE
+
+[p21 | prose | 1. Use personal information for the purposes it has been collected for]
+1. Use personal information for the purposes it has been collected for
+
+[p21 | prose | 1. Use personal information for the purposes it has been collected for]
+This means using personal information that has been collected during monitoring to manage health risks for that purpose.
+
+[p21 | prose | 1. Use personal information for the purposes it has been collected for]
+There are a few exceptions under the Privacy Act to this. For example, worker consent could be sought to use it for other purposes (for example, for research). This could be at the same time workers are asked to consent to take part in the monitoring, or later on if and when required.
+
+[p21 | prose | 2. Take care when sharing a worker’s personal information with others (for example, with other workers or businesses that you share health and safety duties with)]
+2. Take care when sharing a worker’s personal information with others (for example, with other workers or businesses that you share health and safety duties with)
+
+[p21 | prose | 2. Take care when sharing a worker’s personal information with others (for example, with other workers or businesses that you share health and safety duties with)]
+You can only share personal information when one of the relevant exceptions under the Privacy Act applies, for example:
+
+[p21 | prose | 2. Take care when sharing a worker’s personal information with others (for example, with other workers or businesses that you share health and safety duties with)]
+– when the worker has provided written consent for their personal information to be shared
+
+[p21 | prose | 2. Take care when sharing a worker’s personal information with others (for example, with other workers or businesses that you share health and safety duties with)]
+– when the reason the personal information was collected for was for it to be shared, and this was told to the worker at the time the information was collected
+
+[p21 | prose | 2. Take care when sharing a worker’s personal information with others (for example, with other workers or businesses that you share health and safety duties with)]
+– when information which could identify the worker (identifiable information) has been removed.
+
+[p21 | prose | WHAT IS IDENTIFIABLE INFORMATION?]
+WHAT IS IDENTIFIABLE INFORMATION?
+
+[p21 | prose | WHAT IS IDENTIFIABLE INFORMATION?]
+Apart from the obvious identifiable information (for example, name, age), other information could be used to identify individuals (for example, the worker’s position, date of monitoring).
+
+[p21 | prose | WHAT IS IDENTIFIABLE INFORMATION?]
+The fewer workers that undergo monitoring, the easier it will be to identify someone’s information.
+
+[p21 | prose | WHAT IS IDENTIFIABLE INFORMATION?]
+Even if one of the exceptions applies, it is best practice to let workers know before the information is released.
+
+[p21 | prose | WHAT IS IDENTIFIABLE INFORMATION?]
+Decide with workers how any personal information collected will be shared. This information should form part of the information you provide workers (see Appendices 9–11 for examples).
+
+[p22 | prose | 3. Store personal information securely and restrict access]
+3. Store personal information securely and restrict access
+
+[p22 | prose | 3. Store personal information securely and restrict access]
+Any personal information collected during monitoring must be stored securely.
+
+[p22 | prose | 3. Store personal information securely and restrict access]
+Think about the best way to store personal information so that only authorised personnel can access it. For example, store hardcopies in a locked drawer or room, or store electronic records on secure devices or computers that are password protected. Keep monitoring results separately from worker records.
+
+[p22 | prose | 3. Store personal information securely and restrict access]
+Authorised people must know how to handle confidential and sensitive information.
+
+[p22 | prose | 3. Store personal information securely and restrict access]
+Decide with workers how any personal information collected will be stored by the monitoring provider and within the business, and which people within the business will be authorised to access it. This information should form part of the information you provide workers (see Appendices 9–11 for examples).
+
+[p22 | prose | 3. Store personal information securely and restrict access]
+For more information about dealing with personal information: The Privacy Act principles
+
+[p22 | prose | 3. Store personal information securely and restrict access]
+Health practitioners have their own rules for dealing with health information. For more information: Health Information Privacy Code
+
+[p22 | prose | 4.2 Overview of what to consider when making decisions about monitoring]
+4.2 Overview of what to consider when making decisions about monitoring
+
+[p22 | prose | 4.2 Overview of what to consider when making decisions about monitoring]
+Figure 3 summarises what to consider when making decisions about monitoring and where advice can be found in the guidance.
+
+[p22 | prose | With your workers, discuss how you will select the monitoring provider (Section 4.3).]
+With your workers, discuss how you will select the monitoring provider (Section 4.3).
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+Then with your appointed monitoring provider and workers, discuss:
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+– what the monitoring will involve (Section 4.4):
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+- what kind of monitoring is required – what is involved, and when, where and how often it will take place
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+- which workers take part
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+- who your key contact will be with the monitoring provider
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+– what information about the workers will be given to the monitoring provider (Section 4.5)
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+– what the reports will contain (Section 4.6)
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+– how you will share monitoring findings (Section 4.7)
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+– what you will do if monitoring results show workers are being harmed or at risk (Section 4.8)
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+– how you will regularly report back to all workers and others on how well you are managing all your health risks (Section 4.9).
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+Once the decisions have been made about what the monitoring will involve:
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+– put in place information and training for workers (Section 5.1)
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+– put in place policies and processes you need and regularly check how well they are going (Section 5.2).
+
+[p22 | prose | Then with your appointed monitoring provider and workers, discuss:]
+Overview of points to consider when making decisions about monitoring
+
+[p23 | prose | 4.3 Who should carry out the monitoring?]
+4.3 Who should carry out the monitoring?
+
+[p23 | prose | 4.3 Who should carry out the monitoring?]
+You will need a monitoring provider (the business who will carry out the monitoring) that has suitably qualified, trained and experienced health and safety professional(s) to provide advice and to carry out the monitoring including interpretation of results.
+
+[p23 | prose | 4.3 Who should carry out the monitoring?]
+The type of monitoring and monitoring provider depends on your work. Appendix 7 shows examples of common types of exposure monitoring and health monitoring, and who carries it out.
+
+[p23 | prose | 4.3 Who should carry out the monitoring?]
+You will first need to talk to a suitable health and safety professional to confirm if monitoring is appropriate for you (and if so, what type) – but the information in Appendix 7 will help you to work out where to start.
+
+[p23 | prose | 4.3 Who should carry out the monitoring?]
+You may need different expertise at different stages of the monitoring/risk management process.
+
+[p23 | prose | EXAMPLE]
+EXAMPLE
+
+[p23 | prose | EXAMPLE]
+– an Occupational Hygienist to carry out a health risk assessment (or basic characterisation) to determine what exposure monitoring is needed (if any) and evaluating risks to worker health
+
+[p23 | prose | EXAMPLE]
+– an Occupational Health Nurse to carry out health screening of workers to identify potential health changes
+
+[p23 | prose | EXAMPLE]
+– a suitably qualified and experienced health practitioner to carry out a medical assessment/formal diagnosis of workers identified above, and report back to the worker and PCBU. This could be an Occupational Physician or GP with relevant experience
+
+[p23 | prose | EXAMPLE]
+– a relevant health and safety professional to advise on new control measures or improving existing control measures.
+
+[p23 | prose | What should you look for in a monitoring provider?]
+What should you look for in a monitoring provider?
+
+[p23 | prose | What should you look for in a monitoring provider?]
+You should talk with your workers when selecting your monitoring provider(s).
+
+[p23 | prose | What should you look for in a monitoring provider?]
+Select a monitoring provider with health and safety professional(s) that:
+
+[p23 | prose | What should you look for in a monitoring provider?]
+– have the right knowledge, skills, training and experience in carrying out the type of monitoring you need,
+
+[p23 | prose | What should you look for in a monitoring provider?]
+– can interpret results, and
+
+[p23 | prose | What should you look for in a monitoring provider?]
+– can readily communicate to you what the monitoring results mean.
+
+[p23 | prose | What should you look for in a monitoring provider?]
+To find businesses that provide monitoring services, you could look in the following places:
+
+[p23 | prose | What should you look for in a monitoring provider?]
+– HASANZ has a register of verified health and safety professionals: https://register.hasanz.org.nz
+
+[p23 | prose | What should you look for in a monitoring provider?]
+– For Occupational Hygienists – look for consultants listed as Full Members on the Member directory of the New Zealand Occupational Hygiene Society website: www.nzohs.org.nz
+
+[p23 | prose | What should you look for in a monitoring provider?]
+– For occupational health practitioners:
+
+[p23 | prose | What should you look for in a monitoring provider?]
+- Occupational Health Nurses – New Zealand Occupational Health Nurses’ Association website: www.nzohna.org.nz
+
+[p23 | prose | What should you look for in a monitoring provider?]
+- Occupational Physicians:
+
+[p23 | prose | What should you look for in a monitoring provider?]
+› Australian and New Zealand Society of Occupational Medicine Inc website: https://anzsom.org.nz
+
+[p23 | prose | What should you look for in a monitoring provider?]
+the Australasian Faculty of Occupational and Environment Medicine (AFOEM) website: www.racp.edu.au
+
+[p24 | prose | What should you look for in a monitoring provider?]
+Table 2 outlines the questions you could ask the monitoring provider.
+
+[p24 | table | What should you look for in a monitoring provider?]
+| FIND OUT | QUESTIONS YOU COULD ASK |
+| --- | --- |
+| Do their health and safety professionals have knowledge, skills, training and experience in the type of monitoring you need? | Do their health and safety professional(s) hold the right qualifications or have undergone training? What association(s) do they belong to? See Appendix 8 for examples of selected monitoring provider qualifications. For how long have they carried out this type of monitoring? |
+| Do they belong to a professional association? | If they are not experienced, will they be supervised? What are the qualifications of the supervisor? |
+| Do they have the right equipment that has been calibrated? | Can they provide references from former or current clients? Are they listed as consultants in the area of interest on the HASANZ Register? |
+| Note: professional associations promote continuing learning and up-skilling of members. |  |
+|  | example, to Occupational Physicians or GPs with relevant experience)? - How will they keep personal information confidential and secure? If the monitoring provider will need to travel a long distance to your location, you could try to share travel costs with nearby businesses that also need monitoring services. |
+| Can they provide easily understandable reports with clear recommendations of what you need to do? | Can they show you an example of a report? Can they provide you a high-level summary of all your workers’ results so you can identify trends? |
+| Can they explain the results to workers in a way they can understand? | Do they provide electronic or hard-copy reports? Where appropriate (for example, for health monitoring), can they allow sufficient time to discuss with each worker: - their results - the recommended control measures including using PPE - when referrals are needed? |
+
+[p24 | prose | What should you look for in a monitoring provider?]
+TABLE 2: Questions to ask monitoring providers
+
+[p24 | prose | What should you look for in a monitoring provider?]
+As a PCBU, monitoring providers have their own duty to ensure, so far as is reasonably practicable, the health and safety of workers, and that other persons are not put at risk by its work (the monitoring they carry out and the advice they provide). Monitoring providers’ actions should not introduce new work risks.
+
+[p25 | prose | What should you look for in a monitoring provider?]
+Choose your monitoring provider carefully.
+
+[p25 | prose | What should you look for in a monitoring provider?]
+However if you intend to change your monitoring provider, discuss this with your workers. We strongly recommend giving the new provider a copy of previous relevant monitoring results (see Section 4.7).
+
+[p25 | prose | 4.4 What should the monitoring involve?]
+4.4 What should the monitoring involve?
+
+[p25 | prose | 4.4 What should the monitoring involve?]
+You, your monitoring provider and workers should discuss why monitoring is needed, and how it will benefit workers.
+
+[p25 | prose | What kind of monitoring is required? When, where and how often will it take place?]
+What kind of monitoring is required? When, where and how often will it take place?
+
+[p25 | prose | What kind of monitoring is required? When, where and how often will it take place?]
+Your monitoring provider should advise on the appropriate type of monitoring, and when, where and how often the monitoring should occur. Appendix 7 shows examples of common types of exposure monitoring and health monitoring.
+
+[p25 | prose | What kind of monitoring is required? When, where and how often will it take place?]
+This advice will be based on information like:
+
+[p25 | prose | What kind of monitoring is required? When, where and how often will it take place?]
+– the type of work carried out (including how long workers are being exposed to the hazardous work condition)
+
+[p25 | prose | What kind of monitoring is required? When, where and how often will it take place?]
+– previous monitoring history
+
+[p25 | prose | What kind of monitoring is required? When, where and how often will it take place?]
+– the level of risk of harm (see Section 4.5).
+
+[p25 | prose | What kind of monitoring is required? When, where and how often will it take place?]
+You, your monitoring provider and workers should together discuss what the monitoring will involve. Figure 4 describes points to consider for when, where and how often monitoring will take place.
+
+[p25 | prose | EXPOSURE MONITORING (non-biological exposure monitoring)]
+EXPOSURE MONITORING (non-biological exposure monitoring)
+
+[p25 | prose | EXPOSURE MONITORING (non-biological exposure monitoring)]
+– Your monitoring provider should characterise the risk of work health hazards to prioritise which workers need monitoring and for which hazards.
+
+[p25 | prose | EXPOSURE MONITORING (non-biological exposure monitoring)]
+– To ensure that the monitoring results reflect the actual conditions workers are being exposed to, monitoring should take place during a usual work day unless otherwise advised by your monitoring provider, and be conducted as personal sampling.
+
+[p25 | prose | EXPOSURE MONITORING (non-biological exposure monitoring)]
+– For results of monitoring to be statistically significant, the monitoring provider needs to take sufficient samples.
+
+[p25 | prose | EXPOSURE MONITORING (non-biological exposure monitoring)]
+– As exposure will normally vary from day to day, multiple samples may need to be taken at different times.
+
+[p25 | prose | EXPOSURE MONITORING (non-biological exposure monitoring)]
+– Your monitoring provider should advise you on when and how often monitoring should occur.
+
+[p25 | prose | BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING
+
+[p25 | prose | BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+– Your monitoring provider should advise you on when and how often monitoring should occur.
+
+[p25 | prose | BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+– Where possible, monitoring should take place during the worker’s normal work hours. If this is not possible, discuss with workers other options. For example, could workers be compensated?
+
+[p25 | prose | BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+– For biological exposure monitoring, when samples will need to be collected will depend on the substance being tested for. For example, samples could need to be collected at the end of a shift, at the end of a shift at the end of a work week, or prior to a shift starting. – Ask your monitoring provider if the testing will happen at your workplace, or if workers will need to go to a different location.
+
+[p25 | prose | BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+– If workers do need to travel, consider what you will need to organise so workers can easily do this during work time. Another option is, with the worker’s agreement, organise for them to be tested before or after working hours. If you decide to do this, be aware of shift length and worker fatigue.
+
+[p25 | prose | BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+– If the monitoring will take place at your workplace, ask the provider what they need (for example, a private place to collect blood samples, suitably quiet and private area for hearing tests). If there are no suitable places to carry out the monitoring on site, it should be carried out off-site.
+
+[p25 | prose | BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+– Where possible, a baseline measurement should be taken before workers start to carry out the work. Baseline measurements could also be taken pre-employment.
+
+[p25 | prose | BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+FIGURE 4: Points to consider about when, where and how often monitoring will take place
+
+[p26 | prose | BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+For specific health hazards, there may be WorkSafe guidance on when/how often monitoring should occur.
+
+[p26 | prose | BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+Section 4.8 describes what to do if monitoring results show workers are at risk or being harmed.
+
+[p26 | prose | Which workers will take part?]
+Which workers will take part?
+
+[p26 | prose | Which workers will take part?]
+To get the best picture of what your workers are being exposed to, your monitoring provider should recommend which workers should be monitored. You, your monitoring provider and workers should then together discuss who should be monitored.
+
+[p26 | prose | Which workers will take part?]
+If you have a lot of workers exposed to the same work conditions, it may not be necessary to monitor all workers. Your monitoring provider will be able to advise how many workers (and which ones) should be monitored to get robust results.
+
+[p26 | prose | EXAMPLE]
+EXAMPLE
+
+[p26 | prose | EXAMPLE]
+Tom owns a small engineering firm. The work involves welding, and he is worried that breathing in welding fume may be affecting his workers’ health. He brought in an expert who recommended that only the workers who work in the workshop undergo health monitoring (this involves testing their lung function). This meant his office workers – who work in a separate location – would not undergo health monitoring.
+
+[p26 | prose | EXAMPLE]
+For exposure monitoring, your workers could be split into similar exposure groups (SEGs), and only randomly selected workers (representatives) from each SEG monitored.
+
+[p26 | prose | EXAMPLE]
+EXAMPLE
+
+[p26 | prose | EXAMPLE]
+Sarah has a widget manufacturing business. She is worried about the levels of welding fume. She decides to get an Occupational Hygienist in to monitor the welding fume levels workers are being exposed to.
+
+[p26 | prose | EXAMPLE]
+When deciding which workers to be involved, it was decided that based on the initial health risk assessment (basic characterisation):
+
+[p26 | prose | EXAMPLE]
+– office staff and warehouse staff were not required to take part (due to the low risk of exposure)
+
+[p26 | prose | EXAMPLE]
+– welders and the assembly line would take part (the assembly line is near the welding bays). There were 7 welders and 10 assembly line workers.
+
+[p26 | prose | EXAMPLE]
+The Occupational Hygienist developed a sampling strategy that would give good confidence on what the exposures are over time by choosing 5 out of 6 welders and 7 out of 10 assembly line workers, randomly selected. This strategy would be sufficient to get a representative sample of the whole groups’ average exposure.
+
+[p26 | prose | INFORMED CONSENT FROM WORKERS IS NEEDED BEFORE BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+INFORMED CONSENT FROM WORKERS IS NEEDED BEFORE BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING
+
+[p26 | prose | INFORMED CONSENT FROM WORKERS IS NEEDED BEFORE BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+Workers must comply, as far as reasonably able, with any reasonable instruction given by you, so that you can meet your legal obligations.
+
+[p26 | prose | INFORMED CONSENT FROM WORKERS IS NEEDED BEFORE BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+However for biological exposure monitoring and health monitoring, the rights and duties in the Code of Health and Disability Services Consumer’s Rights (the Code) will apply.
+
+[p27 | prose | INFORMED CONSENT FROM WORKERS IS NEEDED BEFORE BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+Under the Code, workers must give their written informed consent before undergoing biological exposure monitoring and health monitoring, and for you to have access to these monitoring results. While it is the monitoring providers’ duty to obtain this consent, you may wish to become involved to support your workers.
+
+[p27 | prose | INFORMED CONSENT FROM WORKERS IS NEEDED BEFORE BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+Under the Code, workers have the right to:
+
+[p27 | prose | INFORMED CONSENT FROM WORKERS IS NEEDED BEFORE BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+– be fully informed
+
+[p27 | prose | INFORMED CONSENT FROM WORKERS IS NEEDED BEFORE BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+– make an informed choice and give informed consent.
+
+[p27 | prose | INFORMED CONSENT FROM WORKERS IS NEEDED BEFORE BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+Being ‘fully informed’ means workers must be given information about the health risks/consequences of the work and the proposed biological exposure monitoring or health monitoring, and be told this information in a way they can understand.
+
+[p27 | prose | INFORMED CONSENT FROM WORKERS IS NEEDED BEFORE BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+Workers must be given the information that they would reasonably expect to receive (for example, what options they have, what the risks, side effects and benefits of those options are, who will carry out the monitoring, who will have access to the results, how the results will be stored).
+
+[p27 | prose | INFORMED CONSENT FROM WORKERS IS NEEDED BEFORE BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+It is then up to workers to decide – they can say ‘no’ or change their mind at any time.
+
+[p27 | prose | INFORMED CONSENT FROM WORKERS IS NEEDED BEFORE BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+For further information:
+
+[p27 | prose | INFORMED CONSENT FROM WORKERS IS NEEDED BEFORE BIOLOGICAL EXPOSURE MONITORING AND HEALTH MONITORING]
+The Code of Health and Disability Services Consumer Rights
+
+[p27 | prose | WHAT SHOULD HAPPEN IF A WORKER DOES NOT WANT TO TAKE PART?]
+WHAT SHOULD HAPPEN IF A WORKER DOES NOT WANT TO TAKE PART?
+
+[p27 | prose | WHAT SHOULD HAPPEN IF A WORKER DOES NOT WANT TO TAKE PART?]
+If a worker does not want to take part, find out the reasons why. With the worker, try to address their concerns.
+
+[p27 | prose | WHAT SHOULD HAPPEN IF A WORKER DOES NOT WANT TO TAKE PART?]
+However if the worker still does not want to take part, document this and consider what next steps to take to manage the health risks to that worker. For example, could the worker do different work that does not require this type of monitoring? Is there a way to eliminate the risk so this type of monitoring is not needed?
+
+[p27 | prose | WHAT SHOULD HAPPEN IF A WORKER DOES NOT WANT TO TAKE PART?]
+We recommend including biological exposure monitoring or health monitoring participation into employment agreements or contracts (with all the relevant information) so workers will know up-front about these requirements, and give their informed consent before they take the job. However, workers can still withdraw their informed consent at any time.
+
+[p27 | prose | WHAT SHOULD HAPPEN IF A WORKER DOES NOT WANT TO TAKE PART?]
+Ultimately, refusal to participate in biological exposure monitoring or health monitoring may give rise to an employment dispute. Similarly if you and the worker are not in a direct employment relationship, it could cause a contractual dispute. In these situations, the parties involved should seek advice from an appropriate employment or legal adviser.
+
+[p27 | prose | Who will be your key contact with the monitoring provider?]
+Who will be your key contact with the monitoring provider?
+
+[p27 | prose | Who will be your key contact with the monitoring provider?]
+Organising a staff member to be the key contact for the monitoring provider could mean reduced time and costs for your business.
+
+[p27 | prose | Who will be your key contact with the monitoring provider?]
+The key contact should:
+
+[p27 | prose | Who will be your key contact with the monitoring provider?]
+– book the monitoring appointments
+
+[p27 | prose | Who will be your key contact with the monitoring provider?]
+– remind workers to go to their appointment (and re-book appointments for workers who miss theirs)
+
+[p27 | prose | Who will be your key contact with the monitoring provider?]
+– coordinate transportation (if needed).
+
+[p28 | prose | 4.5 What information should you give to your monitoring provider?]
+4.5 What information should you give to your monitoring provider?
+
+[p28 | prose | 4.5 What information should you give to your monitoring provider?]
+Ideally, the monitoring provider should visit your work site to carry out a walk- through survey to better understand the risks/hazards, processes, tasks, control measures, workers and risks in order to design a monitoring programme.
+
+[p28 | prose | 4.5 What information should you give to your monitoring provider?]
+Give your monitoring provider the information they need to carry out their tasks.
+
+[p28 | prose | 4.5 What information should you give to your monitoring provider?]
+Figure 5 describes the kind of information to give to your monitoring provider. Discuss with workers what information the monitoring provider will be given.
+
+[p28 | prose | 4.5 What information should you give to your monitoring provider?]
+FIGURE 5: Examples of information to be given to monitoring providers
+
+[p28 | prose | 4.5 What information should you give to your monitoring provider?]
+Providers should ask for more detailed information so they can provide you the type of monitoring to best manage your health risks. For example, they may ask for information about:
+
+[p28 | prose | 4.5 What information should you give to your monitoring provider?]
+– your work processes
+
+[p28 | prose | 4.5 What information should you give to your monitoring provider?]
+– the hazardous substances that you use or could be produced
+
+[p28 | prose | 4.5 What information should you give to your monitoring provider?]
+– your job timing patterns (for example, hours/days and days/week)
+
+[p28 | prose | 4.5 What information should you give to your monitoring provider?]
+– your workforce.
+
+[p28 | prose | 4.5 What information should you give to your monitoring provider?]
+Information about your workforce may be needed to identify workers who could be more susceptible to the potential harm. Your monitoring provider may need to seek advice from a health professional to do this. This could be an Occupational Physician or GP with relevant experience.
+
+[p28 | prose | 4.6 What should the monitoring reports contain?]
+4.6 What should the monitoring reports contain?
+
+[p28 | prose | 4.6 What should the monitoring reports contain?]
+Discuss with the monitoring provider and workers what the monitoring reports will contain.
+
+[p28 | prose | 4.6 What should the monitoring reports contain?]
+From the reports you receive, you should be told:
+
+[p28 | prose | 4.6 What should the monitoring reports contain?]
+– what the exposure levels are (for example, in relation to WES or BEI)
+
+[p28 | prose | 4.6 What should the monitoring reports contain?]
+– if the worker may have contracted a disease or illness because of work (for health monitoring)
+
+[p28 | prose | 4.6 What should the monitoring reports contain?]
+– if there is a health risk that requires managing and if so, advice on how to manage the risk.
+
+[p29 | prose | Reports should:]
+Reports should:
+
+[p29 | prose | Reports should:]
+– have understandable language – not be too technical
+
+[p29 | prose | Reports should:]
+– explain the method of testing (this can be used for repeatability)
+
+[p29 | prose | Reports should:]
+– assess the level of health risk from exposure
+
+[p29 | prose | Reports should:]
+– give clear recommendations on next steps.
+
+[p29 | prose | Reports should:]
+Figure 6 provides examples of the kind of information the reports you receive from the monitoring provider should include.
+
+[p29 | prose | For exposure monitoring include:]
+For exposure monitoring include:
+
+[p29 | prose | For exposure monitoring include:]
+– your details
+
+[p29 | prose | For exposure monitoring include:]
+– the monitoring provider’s details
+
+[p29 | prose | For exposure monitoring include:]
+– a description of the workplace and the work including worker roles and the details of their tasks
+
+[p29 | prose | For exposure monitoring include:]
+– health effects of the substances for which exposure monitoring has been conducted (if relevant)
+
+[p29 | prose | For exposure monitoring include:]
+– the control measures in place (including PPE worn) and their likely effectiveness
+
+[p29 | prose | For exposure monitoring include:]
+– changes since the last exposure monitoring (if applicable)
+
+[p29 | prose | For exposure monitoring include:]
+– how the monitoring was carried out (for example, sampling strategies, methods, equipment used, flow rates)
+
+[p29 | prose | For exposure monitoring include:]
+– the monitoring results
+
+[p29 | prose | For exposure monitoring include:]
+– discussion of the results including:
+
+[p29 | prose | For exposure monitoring include:]
+- advice on whether workers are at risk of being exposed to the hazard(s) at potentially harmful levels
+
+[p29 | prose | For exposure monitoring include:]
+- limitations of the assessment, including uncertainty
+
+[p29 | prose | For exposure monitoring include:]
+- any recommendations to you and/or workers on whether the control measures are working effectively to minimise worker exposure to the hazard and advice on how exposures could be controlled.
+
+[p29 | prose | For health monitoring include:]
+For health monitoring include:
+
+[p29 | prose | For health monitoring include:]
+– your details
+
+[p29 | prose | For health monitoring include:]
+– the monitoring provider’s details
+
+[p29 | prose | For health monitoring include:]
+– details about the worker, their role and the details of their tasks
+
+[p29 | prose | For health monitoring include:]
+– how the monitoring was carried out (when, where, how)
+
+[p29 | prose | For health monitoring include:]
+– any advice that the worker may have contracted a disease or an illness, or suffered an injury as a result of carrying out the work that triggered the need including:
+
+[p29 | prose | For health monitoring include:]
+- comparing the worker’s results to their baseline value (taken at the start of monitoring – ideally before they started that job)
+
+[p29 | prose | For health monitoring include:]
+- adjusting for age and gender
+
+[p29 | prose | For health monitoring include:]
+- looking for trends among the exposed workers
+
+[p29 | prose | For health monitoring include:]
+– any recommendations to you and/or the worker about next steps including medical assessments and referrals, whether the worker is able to continue to carry out work pending further investigation and advice on control measures.
+
+[p29 | prose | For health monitoring include:]
+For more specific information, see Appendix 12 for an example of a health monitoring report.
+
+[p29 | prose | For health monitoring include:]
+FIGURE 6: Examples of information in monitoring reports
+
+[p29 | prose | For health monitoring include:]
+See if your monitoring provider can also provide you:
+
+[p29 | prose | For health monitoring include:]
+– a comparison with previous monitoring results
+
+[p29 | prose | For health monitoring include:]
+– a high level summary of the overall monitoring results (without any identifiable worker information) that you can readily share with your whole workforce or senior management (Section 4.9).
+
+[p29 | prose | For health monitoring include:]
+You should ask to receive reports in a prompt manner (within a reasonable timeframe agreed with the monitoring provider).
+
+[p30 | prose | 4.7 How should you share the monitoring results?]
+4.7 How should you share the monitoring results?
+
+[p30 | prose | 4.7 How should you share the monitoring results?]
+Take care when sharing monitoring results. There are Privacy Act requirements you need to be aware of before you share monitoring results containing personal information. See Section 4.1 for details on these.
+
+[p30 | prose | 4.7 How should you share the monitoring results?]
+Sharing results with the workers involved in the monitoring
+
+[p30 | prose | 4.7 How should you share the monitoring results?]
+Talk with workers about how you will share monitoring results.
+
+[p30 | prose | 4.7 How should you share the monitoring results?]
+Offer the workers being monitored a copy of their monitoring results as soon as you can after receiving them. Take care when emailing personal information.
+
+[p30 | prose | 4.7 How should you share the monitoring results?]
+Encourage workers to give a copy of their first (baseline) health monitoring results to their GP. If future monitoring shows there is a change from their baseline results, encourage workers to give this information to their GP.
+
+[p30 | prose | 4.7 How should you share the monitoring results?]
+If you are asked to, give previous monitoring results to anyone who may have been exposed to the health risk.
+
+[p30 | prose | 4.7 How should you share the monitoring results?]
+When workers leave the business, give them copies of the monitoring results that are relevant to them.
+
+[p30 | prose | 4.7 How should you share the monitoring results?]
+See Section 4.9 for sharing results with the rest of your workforce.
+
+[p30 | prose | Sharing results with other businesses you share health and safety duties with]
+Sharing results with other businesses you share health and safety duties with
+
+[p30 | prose | Sharing results with other businesses you share health and safety duties with]
+As described in Section 4.1, there may be times when you and another business need to monitor the same person’s exposure or health. If it is relevant to share monitoring results, you should do so.
+
+[p30 | prose | Sharing results with new monitoring providers]
+Sharing results with new monitoring providers
+
+[p30 | prose | Sharing results with new monitoring providers]
+If you decide to change monitoring providers, we recommend giving the new provider copies of previous relevant monitoring results.
+
+[p30 | prose | Sharing results with WorkSafe3]
+Sharing results with WorkSafe3
+
+[p30 | prose | Sharing results with WorkSafe3]
+As part of their job, a WorkSafe Inspector can ask you (or the person who appears to be in charge or the workplace) for monitoring results. However, if this information contains identifiable personal health information, the worker’s consent is required for it to be provided, examined or copied by the Inspector.
+
+[p30 | prose | Sharing results with WorkSafe3]
+A WorkSafe-appointed health and safety medical practitioner4 (HSMP) can also ask for monitoring records. They must also get worker consent as described above.
+
+[p30 | prose | Sharing results with WorkSafe3]
+You can phone WorkSafe on 0800 030 040 if you have concerns about the quality of the monitoring carried out.
+
+[p30 | prose | Sharing monitoring results if the business is sold]
+Sharing monitoring results if the business is sold
+
+[p30 | prose | Sharing monitoring results if the business is sold]
+If the business is sold or ownership transferred, it is good practice to give the new owner copies of the past monitoring results.
+
+[p30 | prose | Sharing monitoring results if the business is sold]
+4 A medical practitioner is a doctor registered with the Medical Council of New Zealand to practice medicine and holds a current practising certificate.
+
+[p31 | prose | 4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?]
+4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?
+
+[p31 | prose | 4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?]
+If monitoring results show your workers are being harmed or at risk, you need to be prepared to take immediate action to eliminate or minimise the health risks to workers.
+
+[p31 | prose | 4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?]
+For example, when you receive monitoring results that:
+
+[p31 | prose | 4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?]
+– indicate the worker has been exposed to a work hazard at potentially harmful levels (for example, exposures are above WES)
+
+[p31 | prose | 4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?]
+– indicate the worker has ill-health as a result of work
+
+[p31 | prose | 4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?]
+– include a recommendation to you to take remedial action, for example:
+
+[p31 | prose | 4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?]
+for more training
+
+[p31 | prose | 4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?]
+- suggested improvements to control measures
+
+[p31 | prose | 4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?]
+to provide PPE or
+
+[p31 | prose | 4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?]
+for further medical assessment/formal diagnosis of workers
+
+[p31 | prose | 4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?]
+– show a trend that indicates your control measures are not sufficient.
+
+[p31 | prose | 4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?]
+If this occurs, you should be ready to investigate, review your control measures and decide what actions you will take to eliminate or minimise the health risks to your workers.
+
+[p31 | prose | 4.8 What will you do if monitoring results show workers are being harmed or at risk because of work?]
+You must engage with your workers when identifying hazards and assessing risks, and when making decisions about ways to eliminate or minimise risk. Your monitoring provider (or another relevant health and safety professional) may also be able to help you with this.
+
+[p31 | prose | If you receive health monitoring results that indicate the worker has ill-health as a result of work]
+If you receive health monitoring results that indicate the worker has ill-health as a result of work
+
+[p31 | prose | If you receive health monitoring results that indicate the worker has ill-health as a result of work]
+Part of this investigation could involve sending workers for further medical assessment/formal diagnosis/confirmation the ill-health is work-related. So with workers and the monitoring provider, decide (if needed):
+
+[p31 | prose | If you receive health monitoring results that indicate the worker has ill-health as a result of work]
+– where workers will be sent for further medical assessment/formal diagnosis (for example, an Occupational Physician, GP or another health practitioner with relevant experience)
+
+[p31 | prose | If you receive health monitoring results that indicate the worker has ill-health as a result of work]
+– what information you will need from that medical assessment to help you to manage the health risk and support affected workers (including further health assessments).
+
+[p31 | prose | If you receive health monitoring results that indicate the worker has ill-health as a result of work]
+As a result, you may need to put new control measures in place or update existing ones. You may need to review your monitoring procedures (for example, frequency).
+
+[p31 | prose | If you receive health monitoring results that indicate the worker has ill-health as a result of work]
+You also may need to:
+
+[p31 | prose | If you receive health monitoring results that indicate the worker has ill-health as a result of work]
+– put additional control measures in place to manage the health and safety risks for affected workers
+
+[p31 | prose | If you receive health monitoring results that indicate the worker has ill-health as a result of work]
+– organise additional health assessments.
+
+[p31 | prose | If you receive health monitoring results that indicate the worker has ill-health as a result of work]
+See Appendix 11 for a health monitoring example.
+
+[p31 | prose | If you receive health monitoring results that indicate the worker has ill-health as a result of work]
+In addition to above, Figure 7 shows when you should also review your control measures and monitoring procedures.
+
+[p32 | prose | If you receive health monitoring results that indicate the worker has ill-health as a result of work]
+FIGURE 7: When to review control measures and monitoring procedures
+
+[p32 | prose | EXAMPLE]
+EXAMPLE
+
+[p32 | prose | EXAMPLE]
+Shirley is the owner of Repaint ‘em – a business that repaints old houses. During its work, her workers are exposed to noise, dust and specifically lead paint dust when using electrical sanders to prepare surfaces.
+
+[p32 | prose | Baseline testing]
+Baseline testing
+
+[p32 | prose | Baseline testing]
+After discussions between Shirley and workers it was decided that baseline monitoring (on commencing employment) will take place to:
+
+[p32 | prose | Baseline testing]
+– check workers’ hearing and lung function (spirometry) and
+
+[p32 | prose | Baseline testing]
+– ask questions about potential lead exposure prior to commencing work.
+
+[p32 | prose | Baseline testing]
+The baseline test results will allow for changes to be seen in hearing and lung function when the routine testing is done.
+
+[p32 | prose | Routine monitoring]
+Routine monitoring
+
+[p32 | prose | Routine monitoring]
+It was decided that routine monitoring will take place and include: – monitoring exposure to noise and lead (using an Occupational Hygienist to carry out noise assessments and airborne lead exposure monitoring) and
+
+[p32 | prose | Routine monitoring]
+– monitoring exposure to lead (by an Occupational Health Nurse taking blood tests to check for lead levels – biological exposure monitoring) and
+
+[p32 | prose | Routine monitoring]
+– monitoring health – hearing tests and spirometry (by an Occupational Health Nurse).
+
+[p32 | prose | Routine monitoring]
+Jonno is an experienced Occupational Health Nurse (member of HASANZ and with post grad qualifications) who was bought in to carry out the hearing and spirometry tests, and lead blood tests. This year Jonno performed routine monitoring which including a questionnaire, hearing and lung function tests and took blood samples for lead testing. He found 3 of 6 workers had deteriorating hearing levels and two had higher than expected lead levels.
+
+[p32 | prose | Routine monitoring]
+With each worker, Jonno discussed their results and talked about whether there were any changes. Jonno was told that they were using new sanders which were very loud and made much finer dust that seemed to get everywhere.
+
+[p33 | prose | Routine monitoring]
+Jonno let Shirley know this (all workers consented to being named).
+
+[p33 | prose | Routine monitoring]
+Shirley talked with her workers and found that while the type of respiratory protective equipment (RPE) used was still appropriate, it no longer fitted properly (too old) and needed replacing. The fit testing of new RPE would also be required.
+
+[p33 | prose | Routine monitoring]
+Shirley requested that an urgent noise assessment be carried out (she had forgotten to get a noise assessment carried out when the new sanders arrived).
+
+[p33 | prose | Routine monitoring]
+In the interim, additional hearing protection was supplied to workers. Shirley was advised that a higher grade of hearing protection was required if these new sanders were going to continue to be used.
+
+[p33 | prose | Routine monitoring]
+After discussing with workers, Shirley found that workers preferred using the new sanders as they were much faster and easier to use. Everyone agreed to continue to use the sanders, but only after workers had been trained to use and care for the new hearing protection, and fit tested for the replacement RPE.
+
+[p33 | prose | 4.9 How are you going to regularly report back to all workers and others on how well you are managing all your health risks?]
+4.9 How are you going to regularly report back to all workers and others on how well you are managing all your health risks?
+
+[p33 | prose | 4.9 How are you going to regularly report back to all workers and others on how well you are managing all your health risks?]
+It is important to show others how well you are managing your health risks. This could include your entire workforce and those who make decisions that impact health and safety (like senior managers and board members).
+
+[p33 | prose | 4.9 How are you going to regularly report back to all workers and others on how well you are managing all your health risks?]
+Exposure monitoring and health monitoring results, and information about verification of control measures will together give a more complete picture of how well your health risks are being managed.
+
+[p33 | prose | 4.9 How are you going to regularly report back to all workers and others on how well you are managing all your health risks?]
+As described in Section 4.6, you could see if your monitoring provider can provide you a high level summary of the overall monitoring results (without any identifiable worker information) that you can readily share with others.
+
+[p33 | prose | 4.9 How are you going to regularly report back to all workers and others on how well you are managing all your health risks?]
+With workers, agree on how you will regularly report back on how well health risks are being managed.
+
+[p33 | prose | Using performance indicators]
+Using performance indicators
+
+[p33 | prose | Using performance indicators]
+A way to measure performance is by using performance indicators. Performance indicators can provide you a picture of how effectively you are managing health risks.
+
+[p33 | prose | Using performance indicators]
+Table 3 provides examples of indicators that you could use related to monitoring. Use both leading and lagging indicators to get a clearer picture.
+
+[p34 | table | Using performance indicators]
+| TYPE OF INDICATOR | DESCRIPTION | EXAMPLE |
+| --- | --- | --- |
+| Leading | Measure future performance. Measures activities carried out to prevent harm. | % health hazards with a monitoring programme. % workers who are trained and understand monitoring processes and procedures. % workers taking part in regular monitoring for whom monitoring is indicated. % employee agreements that include participation in monitoring programmes for whom monitoring is indicated |
+| Lagging | Measure past performance - they are a record of things that have already occurred (for example, the number of health and safety injuries). | % unacceptable monitoring test results. % health issues or incidents awaiting follow-up action. % identified health hazards awaiting risk assessments. |
+
+[p34 | prose | Using performance indicators]
+TABLE 3: Examples of leading and lagging indicators for monitoring
+
+[p34 | prose | Using performance indicators]
+You could present these indicators and other health and safety information in a dashboard. See Appendix 13 for an example.
+
+[p36 | prose | Have transparent monitoring policies and processes, and clear information and training so workers know what is expected of them.]
+Have transparent monitoring policies and processes, and clear information and training so workers know what is expected of them.
+
+[p36 | prose | Have transparent monitoring policies and processes, and clear information and training so workers know what is expected of them.]
+Once the decisions have been made, think about what information and training you will provide for your workers, and what policies and procedures are needed.
+
+[p36 | prose | 5.1 Put in place information and training for workers]
+5.1 Put in place information and training for workers
+
+[p36 | prose | Information for workers]
+Information for workers
+
+[p36 | prose | Information for workers]
+Provide information to workers about the monitoring. Table 4 describes the kind of information to provide your workers.
+
+[p36 | table | Information for workers]
+| TOPIC | For example, provide information on: |
+| --- | --- |
+| Why the monitoring is being carried out | how the work could harm worker health. what the information is being collected for/how the monitoring will be used to improve how you are managing health risks. |
+| Who pays | the business covering all expenses related to the monitoring. |
+| What will happen during the monitoring | who will carrying out the monitoring. where the monitoring will take place (and if off-site, how the worker will get to that location and back to work). what the worker will have to do (for example, wear a device, give blood or urine, complete a questionnaire). what the risks/side effects of the monitoring are (if any). what the monitoring will not do (for example, the device will not record what they are saying, and not be used for other purposes such as drug testing). |
+| When the monitoring will take place | the approximate time of the work day the monitoring will take place, how long for and how often. |
+| What information you will give the monitoring provider | what information about the work/workers you will give to the monitoring provider, for example: - worker information (for example, job titles, shift times, work areas) - safety data sheets - previous monitoring results - risk registers = risk assessments. |
+| What information will be in the monitoring report | what will be covered, for example: - details of the monitoring (for example, who, when, where, how, how often) - individual monitoring results and average results for each similar exposure group (SEG) - for exposure monitoring - adiscussion of the results and any advice and recommendations for managing any health risks. |
+
+[p37 | table | Information for workers]
+| TOPIC | For example, provide information on: |
+| --- | --- |
+| Handling personal information (if relevant) | ' who will have access to the personal information and how will it be securely stored. |
+| Sharing monitoring results | how you are going to share monitoring results with the workers being monitored and all workers. how past monitoring results will be made available to workers. other PCBUs who will receive a copy of the monitoring results (if relevant). |
+| How long you are going to store monitoring results | how the monitoring results will be retained and stored. |
+| What you will do as a result of the monitoring | i how you will review and improve control measures if the monitoring results indicate workers are at risk. |
+| col s i s |  |
+| Worker consent for biological exposure monitoring or health monitoring | - the worker’s right to give informed consent to biological exposure monitoring or health monitoring. - what will happen if a worker does not give consent. Section 4.4 describes what information to provide workers when seeking their informed consent. |
+
+[p37 | prose | Information for workers]
+TABLE 4: Examples of information to provide workers about monitoring
+
+[p37 | prose | Information for workers]
+See Appendix 9 for an example of a completed information sheet for workers for exposure monitoring.
+
+[p37 | prose | Information for workers]
+See Appendix 10 for an example of a completed information sheet for biological exposure monitoring.
+
+[p37 | prose | Information for workers]
+See Appendix 11 for an example of a completed information sheet for health monitoring.
+
+[p37 | prose | Information for workers]
+While it is good practice to write down your policies and procedures, documents are not the only way that you can share important information. So when thinking about the best way to provide information to your workers, consider your workers’:
+
+[p37 | prose | Information for workers]
+– age and experience
+
+[p37 | prose | Information for workers]
+– first language
+
+[p37 | prose | Information for workers]
+– ability to read and write
+
+[p37 | prose | Information for workers]
+– culture (if relevant).
+
+[p37 | prose | Information for workers]
+Discuss with workers what information will be provided to them and how it will be provided. For example, you could give workers written information and then organise for someone to meet with workers to talk through the information and answer any questions.
+
+[p37 | prose | Information for workers]
+Think about how you can check workers understand the information you provide.
+
+[p37 | prose | Information for workers]
+Think about when the best time to deliver this information is (for example, not in the middle of a noisy workshop).
+
+[p38 | prose | EXAMPLE]
+EXAMPLE
+
+[p38 | prose | EXAMPLE]
+Olivia decided to set up a monitoring programme.
+
+[p38 | prose | EXAMPLE]
+When Olivia thought about the best way to provide information to her workers, she knew from previous experience that her workers did not learn well in groups or from just reading written material. So she organised separate meetings with each worker (and their support person) to explain about the monitoring process. She hoped this would allow workers to freely ask questions and allow her to deal with any concerns directly.
+
+[p38 | prose | EXAMPLE]
+Once you provide workers with the monitoring information, give them the opportunity to consider the information and ask further questions before monitoring begins.
+
+[p38 | prose | Training for workers]
+Training for workers
+
+[p38 | prose | Training for workers]
+For certain types of harms, workers can be trained to look for early signs of harm and report them to you. Examples include skin irritation/dermatitis from exposure to certain substances, and nerve damage from vibration. This means that you will be able to act promptly before further harm occurs.
+
+[p38 | prose | Training for workers]
+With workers, think about:
+
+[p38 | prose | Training for workers]
+– who you need to get advice from about symptoms and how to check for them
+
+[p38 | prose | Training for workers]
+– how to train workers to carry out the checks
+
+[p38 | prose | Training for workers]
+– how you will remind workers to carry out the checks
+
+[p38 | prose | Training for workers]
+– how workers will report early signs of harm to you
+
+[p38 | prose | Training for workers]
+– when you will bring in a health and safety professional for further investigation.
+
+[p38 | prose | 5.2 Put in place transparent policies and processes]
+5.2 Put in place transparent policies and processes
+
+[p38 | prose | 5.2 Put in place transparent policies and processes]
+Put policies and processes in place that cover:
+
+[p38 | prose | 5.2 Put in place transparent policies and processes]
+– how you will select the monitoring provider
+
+[p38 | prose | 5.2 Put in place transparent policies and processes]
+– when workers are required to undergo monitoring and what monitoring is required (what type, when, where and how often)
+
+[p38 | prose | 5.2 Put in place transparent policies and processes]
+– what you will do if a worker does not want to be involved in the monitoring
+
+[p38 | prose | 5.2 Put in place transparent policies and processes]
+– how you store monitoring results
+
+[p38 | prose | 5.2 Put in place transparent policies and processes]
+– how you share monitoring results (including when workers leave or the business closes or is sold)
+
+[p38 | prose | 5.2 Put in place transparent policies and processes]
+– how you will use the monitoring results to manage health risks
+
+[p38 | prose | 5.2 Put in place transparent policies and processes]
+– what information you will provide new and existing workers about the monitoring and how you will provide it
+
+[p38 | prose | 5.2 Put in place transparent policies and processes]
+– how workers can raise concerns about the monitoring carried out or requests for further monitoring or investigation
+
+[p38 | prose | 5.2 Put in place transparent policies and processes]
+– how you engage workers when making decisions about the points described above.
+
+[p38 | prose | 5.2 Put in place transparent policies and processes]
+Make sure workers understand the policies and processes.
+
+[p38 | prose | 5.2 Put in place transparent policies and processes]
+With your workers, regularly check how well the policies and processes are going.
+
+[p40 | glossary | Appendix 1: Glossary]
+Appendix 1: Glossary
+
+[p40 | glossary | Appendix 1: Glossary]
+See Appendices 2–5 for key HSWA terms and explanations.
+
+[p40 | glossary | Appendix 1: Glossary]
+| TERM | EXPLANATION |
+| --- | --- |
+| Biological exposure index (BEI) | For a substance, indicates its concentration (usually in blood, urine) below which nearly all workers should not experience adverse health effects from exposure to a particular substance. BEI values can be found on our website: worksafe.govt.nz |
+| Competent person | A suitably qualified, trained and experienced person with the knowledge, skills and experience to carry out the monitoring required including interpretation of results. |
+| Hazardous substances | A chemical or mixture of chemicals that has one or more of the following properties: - an explosive nature, including fireworks - flammability (for example, petrol, turps, LPG, diesel) - ability to oxidise, accelerate a fire (for example, hydrogen peroxide) - corrosiveness (for example, caustic drain cleaner) - acute or chronic toxicity to humans (for example, arsenic). |
+| Health practitioner | A person registered with an authority as a practitioner of a particular health profession. Their practice is bound by the Health Practitioners Competence Assurance Act 2003: www.legislation.govt.nz This is someone who has the right qualifications and experience, and competence is ensured by their current certification. |
+| Personal information | Information about an identifiable person. For more information, go to: www.privacy.org.nz |
+| Substances hazardous to health | Means a substance, or product containing a substance, that is known or suspected to cause harm to health. It includes: - a substance classified as having toxic or corrosive properties under the Hazardous Substances and New Organisms Act 1996 - a substance for which a prescribed exposure standard exists - a substance specified in a safe work instrument as requiring health monitoring. |
+| Workplace exposure standard (WES) | For a substance, refers to the airborne concentration of a substance at which it is believed nearly all workers can be repeatedly exposed to day after day without coming to harm. You should aim to have airborne concentrations well below the WES value. WES values can be found on our website: worksafe.govt.nz |
+
+[p41 | appendix | Appendix 2: Health and Safety at Work Act duties]
+Appendix 2: Health and Safety at Work Act duties
+
+[p41 | appendix | Appendix 2: Health and Safety at Work Act duties]
+The Health and Safety at Work Act 2015 (HSWA) is New Zealand’s key work health and safety law.
+
+[p41 | appendix | Appendix 2: Health and Safety at Work Act duties]
+All work and workplaces are covered by HSWA unless they have been specifically excluded. For example, HSWA does not apply to the armed forces in certain situations.
+
+[p41 | appendix | Appendix 2: Health and Safety at Work Act duties]
+HSWA sets out the work health and safety duties that duty holders must comply with.
+
+[p41 | appendix | Appendix 2: Health and Safety at Work Act duties]
+There are four types of duty holder under HSWA:
+
+[p41 | appendix | Appendix 2: Health and Safety at Work Act duties]
+– a person conducting a business or understanding (PCBU)
+
+[p41 | appendix | Appendix 2: Health and Safety at Work Act duties]
+– an officer
+
+[p41 | appendix | Appendix 2: Health and Safety at Work Act duties]
+– a worker
+
+[p41 | appendix | Appendix 2: Health and Safety at Work Act duties]
+– an ’other person’ at the workplace.
+
+[p41 | appendix | Appendix 2: Health and Safety at Work Act duties]
+Most duties under HSWA relate to how work is carried out. However some duties are linked to where work is carried out: the workplace.
+
+[p41 | appendix | Appendix 2: Health and Safety at Work Act duties]
+A workplace is a place where work is being carried out or usually carried out for a business or undertaking. It includes any place where a worker goes or is likely to be while at work section 20 of HSWA
+
+[p41 | appendix | Appendix 2: Health and Safety at Work Act duties]
+| DUTY HOLDER | WHO THEY ARE? | EXAMPLES | WHAT ARE THEIR DUTIES? | FOR MORE INFORMATION |
+| --- | --- | --- | --- | --- |
+| a Business or Undertaking (PCBU) | individual person or an organisation | a government agency a local council a school or university. | A PCBU must ensure, so far as is reasonably practicable, the health and safety of workers, and that other persons are not put at risk by its work. | Appendix 3 of this guidance for an explanation of ‘so far as is reasonably practicable’ |
+| a business or undertaking (PCBU) may be an The following are not PCBUs: = officers = workers - other persons at a workplace volunteer associations that do not have employees home occupiers (such as home owners or tenants) who pay someone to do work around the home section 17 of HSWA | person partners in a partnership | Primary duty of care section 36 of HSWA Managing risks section 30 of HSWA Risks to health and safety arise from people being exposed to hazards (anything that can cause harm). A PCBU must manage work health and safety risks. - A PCBU must first try to eliminate arisk so far as is reasonably practicable. This can be done by removing the source of harm - for example, removing faulty equipment or a trip hazard. If it is not reasonably practicable to eliminate the risk, it must be mi ised so far as is reasonably practicable. Overlapping duties: working with other PCBUs section 34 of HSWA A PCBU with overlapping duties must, so far as is reasonably and | Introduction to the Health and Safety at Work Act 2015 Identifying, assessing and managing work risks Appendix 4 of this guidance |  |
+|  |  |  |  |  |
+|  |  | practicable, consult, cooperate coordinate activities with other PCBUSs they share duties with. |  |  |
+
+[p42 | appendix | Appendix 2: Health and Safety at Work Act duties]
+| DUTY HOLDER | WHO THEY ARE? | EXAMPLES | WHAT ARE THEIR DUTIES? | FOR MORE INFORMATION |
+| --- | --- | --- | --- | --- |
+|  |  | Involving workers: worker engagement, participation and representation Part 3 of HSWA | Appendix 5 of this guidance |  |
+|  | A PCBU must, so far as is reasonably practicable, engage with their workers (or their workers’ representatives) about health and safety matters that will directly affect the workers. |  |  |  |
+|  | A PCBU must have worker participation practices that give their workers reasonable opportunities to participate in improving health and safety on an ongoing basis. |  |  |  |
+| Upstream PCBU | A PCBU in the chain | ' a designer ' | Upstream PCBU sections 39-43 of HSWA | Introduction to the Health and Safety at Work Act 2015 |
+| supply | a manufacturer ' a supplier an importer an installer, constructor, or commissioner. | An upstream PCBU must ensure, so far as is reasonably practicable, that the work they do or the things they provide to other workplaces do not create health and safety risks. |  |  |
+| Officer | A specified person or a person who exercises significant influence over the management of the business or undertaking section 18 of HSWA | a company director a partner or general partner a chief executive. | Officer section 44 of HSWA An officer must exercise due diligence that includes taking reasonable steps to ensure that the PCBU meets their health and safety duties. | Introduction to the Health and Safety at Work Act 2015 |
+| Worker | An individual | an employee | Worker section 45 of HSWA | Introduction to the |
+| who carries out work for a PCBU section 19 of HSWA | a contractor or sub-contractor an employee of a contractor or | A worker must take reasonable care of their own health and safety, and take reasonable care that they do not harm others at work. | Health and Safety at Work Act 2015 |  |
+| sub-contractor an employee of a labour hire company an outworker | A worker must cooperate with reasonable policies and procedures the PCBU has in place that the worker has been told about. |  |  |  |
+| (including homeworker) an apprentice or trainee a person gaining work experience or on work trials a volunteer worker. | A worker must comply, as far as they are reasonably able, with any reasonable instruction given by the PCBU so the PCBU can meet their legal duties. |  |  |  |
+| Other person at the workplace | An individual present at a workplace (not a worker) | a workplace visitor a casual volunteer (not a volunteer worker) ' a customer. | Other person at the workplace section 46 of HSWA | Introduction to the Health and Safety at Work Act 2015 |
+| An ‘other person’ has a duty to take reasonable care of their own health and safety, and not adversely affect the health and safety of anyone else. |  |  |  |  |
+| They must comply with reasonable instructions relating to health and safety at the workplace. |  |  |  |  |
+|  |  |  |  |  |
+
+[p43 | appendix | Appendix 3: So far as is reasonably practicable]
+Appendix 3: So far as is reasonably practicable
+
+[p43 | appendix | Appendix 3: So far as is reasonably practicable]
+section 22 of HSWA
+
+[p43 | appendix | Appendix 3: So far as is reasonably practicable]
+Certain PCBU duties (the section 36–43 duties including the primary duty of care) must be carried out ‘so far as is reasonably practicable’.
+
+[p43 | prose | What to consider when deciding what is ‘reasonably practicable’]
+What to consider when deciding what is ‘reasonably practicable’
+
+[p43 | prose | What to consider when deciding what is ‘reasonably practicable’]
+Just because something is possible to do, does not mean it is reasonably practicable in the circumstances.
+
+[p43 | prose | What to consider when deciding what is ‘reasonably practicable’]
+Consider:
+
+[p43 | prose | What to consider when deciding what is ‘reasonably practicable’]
+– What possible actions can be taken to ensure health and safety?
+
+[p43 | prose | What to consider when deciding what is ‘reasonably practicable’]
+– Of these possible actions, at a particular time, what is reasonable to do?
+
+[p43 | prose | What to consider when deciding what is ‘reasonably practicable’]
+Think about the following questions.
+
+[p43 | prose | WHAT IS KNOWN ABOUT THE RISK?]
+WHAT IS KNOWN ABOUT THE RISK?
+
+[p43 | prose | WHAT IS KNOWN ABOUT THE RISK?]
+– How likely is the risk to occur?
+
+[p43 | prose | WHAT IS KNOWN ABOUT THE RISK?]
+– How severe is the illness or injury that might occur if something goes wrong?
+
+[p43 | prose | WHAT IS KNOWN ABOUT THE RISK?]
+– What is known, or should reasonably be known, about the risk?
+
+[p43 | prose | WHAT IS KNOWN ABOUT POSSIBLE CONTROL MEASURES?]
+WHAT IS KNOWN ABOUT POSSIBLE CONTROL MEASURES?
+
+[p43 | prose | WHAT IS KNOWN ABOUT POSSIBLE CONTROL MEASURES?]
+– What is known, or should reasonably be known, about the ways (control measures) to eliminate or minimise the risk?
+
+[p43 | prose | WHAT IS KNOWN ABOUT POSSIBLE CONTROL MEASURES?]
+– What control measures are available?
+
+[p43 | prose | WHAT IS KNOWN ABOUT POSSIBLE CONTROL MEASURES?]
+– How appropriate (suitable) are the control measures to manage the risk? – What are the costs of these control measures?
+
+[p43 | prose | WHAT IS KNOWN ABOUT POSSIBLE CONTROL MEASURES?]
+– Are the costs grossly disproportionate to the risk? Cost must only be used as a reason to not do something when that cost is grossly out of proportion to the risk.
+
+[p43 | prose | WHAT IS KNOWN ABOUT POSSIBLE CONTROL MEASURES?]
+While PCBUs should check if there are widely used control measures for that risk (such as industry standards), they should always keep their specific circumstances in mind. A common industry practice might not be the most effective or appropriate control measure to use.
+
+[p43 | prose | WHAT IS KNOWN ABOUT POSSIBLE CONTROL MEASURES?]
+If PCBUs are not sure what control measures are appropriate, WorkSafe recommends getting advice from a suitably qualified and experienced health and safety professional.
+
+[p43 | prose | WHAT IS KNOWN ABOUT POSSIBLE CONTROL MEASURES?]
+For more information, see our guidance: Reasonably practicable
+
+[p44 | appendix | Appendix 4: Working with other PCBUs – overlapping duties section 34 of HSWA]
+Appendix 4: Working with other PCBUs – overlapping duties section 34 of HSWA
+
+[p44 | appendix | Appendix 4: Working with other PCBUs – overlapping duties section 34 of HSWA]
+More than one PCBU can have a duty in relation to the same matter. These PCBUs have overlapping duties – this means that the duties are shared between them.
+
+[p44 | appendix | Appendix 4: Working with other PCBUs – overlapping duties section 34 of HSWA]
+Duties regularly overlap:
+
+[p44 | appendix | Appendix 4: Working with other PCBUs – overlapping duties section 34 of HSWA]
+– in a shared workplace (for example, a building site or a port) where more than one business has control and influence over the work on site.
+
+[p44 | appendix | Appendix 4: Working with other PCBUs – overlapping duties section 34 of HSWA]
+– in a contracting chain, where contractors and subcontractors provide services to a head contractor or client and do not necessarily share the same workplace.
+
+[p44 | appendix | Appendix 4: Working with other PCBUs – overlapping duties section 34 of HSWA]
+A PCBU must, so far as is reasonably practicable, consult, cooperate and coordinate activities with all other PCBUs they share duties with so that all PCBUs can meet their joint responsibilities.
+
+[p44 | appendix | Appendix 4: Working with other PCBUs – overlapping duties section 34 of HSWA]
+A PCBU cannot transfer or contract out of their duties, or pass liability to another person.
+
+[p44 | appendix | Appendix 4: Working with other PCBUs – overlapping duties section 34 of HSWA]
+However a PCBU can make an agreement with another PCBU to fulfil specific duties. Even if this occurs, all PCBUs are still responsible for meeting their legal duties.
+
+[p44 | prose | EXAMPLE]
+EXAMPLE
+
+[p44 | prose | EXAMPLE]
+A local hotel contracts out housekeeping services to an agency. The hotel and agency both have a duty to ensure the health and safety of the housekeeping workers, so far as is reasonably practicable. This includes the duty to provide first aid facilities.
+
+[p44 | prose | EXAMPLE]
+The agency reaches an agreement with the hotel – if their workers need first aid while working at the hotel they can use the hotel’s first aid facilities.
+
+[p44 | prose | EXAMPLE]
+For more information, see our guidance: Overlapping duties
+
+[p45 | appendix | Appendix 5: Worker engagement, participation and representation Part 3 of HSWA]
+Appendix 5: Worker engagement, participation and representation Part 3 of HSWA
+
+[p45 | prose | Engage with workers and enable their participation]
+Engage with workers and enable their participation
+
+[p45 | prose | Engage with workers and enable their participation]
+A PCBU has two main duties related to worker engagement and participation:
+
+[p45 | prose | Engage with workers and enable their participation]
+– to engage with workers on health and safety matters that affect or are likely to affect workers, so far as is reasonably practicable, and
+
+[p45 | prose | Engage with workers and enable their participation]
+– to have practices that give workers reasonable opportunities to participate effectively in the ongoing improvement of work health and safety.
+
+[p45 | prose | Engage with workers and enable their participation]
+A PCBU can engage with workers by:
+
+[p45 | prose | Engage with workers and enable their participation]
+– sharing information about health and safety matters so that workers are well-informed, know what is going on and can contribute to decision-making
+
+[p45 | prose | Engage with workers and enable their participation]
+– giving workers reasonable opportunities to have a say about health and safety matters
+
+[p45 | prose | Engage with workers and enable their participation]
+– listening to and considering what workers have to say at each step of the risk management process
+
+[p45 | prose | Engage with workers and enable their participation]
+– considering workers’ views when health and safety decisions are being made
+
+[p45 | prose | Engage with workers and enable their participation]
+– updating workers about what decisions have been made.
+
+[p45 | prose | Engage with workers and enable their participation]
+A PCBU must engage with workers during specified times, including when identifying hazards and assessing risks.
+
+[p45 | prose | Engage with workers and enable their participation]
+A PCBU must have clear, effective, and ongoing ways for workers to suggest improvements or raise concerns.
+
+[p46 | prose | Worker representation]
+Worker representation
+
+[p46 | prose | Worker representation]
+Workers can be represented by a Health and Safety Representative (HSR), a union representing workers, or a person that workers authorise to represent them (for example, a community or church leader, or another trusted member of the community).
+
+[p46 | prose | Worker representation]
+HSRs and Health and Safety Committees (HSCs) are two well-established methods of participation and representation. If workers are represented by an HSR, worker engagement must also involve that representative.
+
+[p46 | prose | Worker representation]
+For more information
+
+[p46 | prose | Worker representation]
+WORKSAFE GUIDANCE
+
+[p46 | prose | Worker representation]
+Good practice guidelines
+
+[p46 | prose | Worker representation]
+Worker engagement, participation and representation
+
+[p46 | prose | Interpretive guidelines]
+Interpretive guidelines
+
+[p46 | prose | Interpretive guidelines]
+Worker representation through Health and Safety Representatives and Health and Safety Committees
+
+[p46 | prose | Pamphlets]
+Pamphlets
+
+[p46 | prose | Pamphlets]
+Worker representation
+
+[p46 | prose | Pamphlets]
+Health and Safety Committees
+
+[p46 | prose | Pamphlets]
+Health and Safety Representatives
+
+[p47 | appendix | Appendix 6: Exposure monitoring and health monitoring required by HSW Regulations]
+Appendix 6: Exposure monitoring and health monitoring required by HSW Regulations
+
+[p47 | appendix | Appendix 6: Exposure monitoring and health monitoring required by HSW Regulations]
+Some Regulations may require you to carry out exposure monitoring or health monitoring for certain health risks. Below are examples of work that requires monitoring.
+
+[p47 | appendix | Appendix 6: Exposure monitoring and health monitoring required by HSW Regulations]
+Note: Even if you do not need to monitor under these Regulations, you must ensure, so far as is reasonably practicable, the health and safety of workers, and that other people are not put at risk by your work. In some circumstances, this could mean monitoring worker exposure and the health of workers.
+
+[p47 | appendix | Appendix 6a: List of HSW Regulations and monitoring requirements]
+Appendix 6a: List of HSW Regulations and monitoring requirements
+
+[p47 | appendix | Appendix 6a: List of HSW Regulations and monitoring requirements]
+| WORK INVOLVES | WHEN | REGULATIONS |
+| --- | --- | --- |
+| S -y |  |  |
+| Asbestos (this is air monitoring rather than exposure monitoring but is included for completeness) | Air monitoring when Class A asbestos removal work occurs. For more information, see our guidance: Management and Removal of Asbestos | Health and Safety at Work (Asbestos) Regulations 2016 regulation 43 |
+| Lead | A Medical Officer may require the examination of the blood or urine of workers if they consider workers may be absorbing lead in a quantity likely to injure health. | The Lead Process Regulations 1950 regulation 24 |
+| Substances hazardous to health | If the PCBU is not certain on reasonable grounds whether the concentration of a substance hazardous to health at the workplace exceeds its relevant prescribed exposure standard. For more information about prescribed exposure standards, see Appendix 6b. For more information, see our guidance: General risk and workplace 1 | Health and Safety at Work (General Risk and Workplace Management) Regulations 2016 regulation 30 |
+| Mining operations | - Monitor and assess airborne dust and contaminants at the mine - Regularly monitor the atmosphere at the mining operation to manage hazards associated with unsafe concentrations of oxygen, methane, and other gases in the air. The monitoring measures must be detailed in the principal hazard management plan for air quality. | | Health and Safety at Work (Mining Operations and Quarrying Operations) Regulations 2016 - Principal hazard management plans for air quality regulation 84 |
+| e Asbestos | - If the worker is carrying out licensed asbestos removal work at a workplace and is at risk of exposure to asbestos when carrying out the work (within 4 weeks of starting the work). OR If the worker is carrying out other ongoing asbestos removal work or asbestos-related work and is at risk of exposure to asbestos when carrying out the work. This does not include Class B asbestos removal work if for less than 4 weeks in any 12 month period. For more information including when to notify WorkSafe about monitoring results, see our guidance: General risk and workplace management: Part 1 (Section 6) | Health and Safety at Work (Asbestos) Regulations 2016 regulation 15 regulation 16 |
+
+[p48 | appendix | Appendix 6a: List of HSW Regulations and monitoring requirements]
+| WORK INVOLVES | WHEN | REGULATIONS |
+| --- | --- | --- |
+| Substances hazardous to health | If the worker is carrying out ongoing work involving a substance hazardous to health that is specified in a safe work instrument (SWI) as requiring health monitoring and there is a serious risk to the worker’s health because of exposure to that substance. There is one substance specified in a SWI as requiring health monitoring. The substance is the fumigant ethanedinitrile (EDN). For more information on these requirements, see the SWI: worksafe.govt.nz For more information including when to notify WorkSafe about monitoring results, see our guidance: General risk and workplace management: Part 1 (Section 6) | Health and Safety at Work (General Risk and Workplace Management) Regulations 2016 regulation 31 |
+| Lead | A Medical Officer* may require workers to undergo a medical examination if they consider workers may be absorbing lead in a quantity likely to injure health. | The Lead Process Regulations 1950 regulation 24 |
+| Mining, quarrying or alluvial mining operations | The operator must offer medical examinations to each mine, quarry and alluvial mine worker: - immediately before the worker starts work at the operation - immediately before the worker ceases working, if the worker has not been examined within the 12 months before that date periodically throughout the time that the worker is working at the operation, but no less than once every 5 years if a worker wishes to be examined. | Health and Safety at Work (Mining Operations and Quarrying Operations) Regulations 2016 regulation 127 regulation 128 |
+
+[p48 | appendix | Appendix 6a: List of HSW Regulations and monitoring requirements]
+* This is a Medical Officer of Health or a medical practitioner authorised by the Director-General of Health to exercise the powers and perform the duties of a Medical Officer under these regulations.
+
+[p49 | appendix | Appendix 6b: Prescribed exposure standards (PES)]
+Appendix 6b: Prescribed exposure standards (PES)
+
+[p49 | appendix | Appendix 6b: Prescribed exposure standards (PES)]
+A PES is a workplace exposure standard (WES) or a biological exposure index (BEI) that has the purpose of protecting persons in a workplace from harm to health and that is prescribed in:
+
+[p49 | appendix | Appendix 6b: Prescribed exposure standards (PES)]
+– regulations or
+
+[p49 | appendix | Appendix 6b: Prescribed exposure standards (PES)]
+– a safe work instrument (SWI).
+
+[p49 | prose | PES PRESCRIBED IN HSW REGULATIONS]
+PES PRESCRIBED IN HSW REGULATIONS
+
+[p49 | prose | PES PRESCRIBED IN HSW REGULATIONS]
+At the time of publishing, no PES have been prescribed in HSW Regulations.
+
+[p49 | prose | PES PRESCRIBED IN SWIs]
+PES PRESCRIBED IN SWIs
+
+[p49 | prose | WES, BEI and PES explained]
+WES, BEI and PES explained
+
+[p49 | prose | WES, BEI and PES explained]
+WES are values that refer to the airborne concentration of substances at which it is believed that nearly all workers can be repeatedly exposed day after day without coming to harm.
+
+[p49 | prose | WES, BEI and PES explained]
+BEIs are guidance values for assessing biological monitoring results. Biological monitoring measures the concentration of a substance – or its breakdown products - in blood or urine or even exhaled air and the monitoring result is compared to the BEI established for the specific substance.
+
+[p49 | prose | WES, BEI and PES explained]
+As described above, a PES is a WES or a BEI that has the purpose of protecting persons in a workplace from harm to health and that is prescribed in:
+
+[p49 | prose | WES, BEI and PES explained]
+– regulations or
+
+[p49 | prose | WES, BEI and PES explained]
+– a SWI.
+
+[p49 | prose | WES, BEI and PES explained]
+See above for information about existing PES.
+
+[p49 | prose | WES, BEI and PES explained]
+The WES and BEI values in the WorkSafe WES/BEI book are not PES and are therefore guidance values. They are intended to be used by qualified occupational health practitioners with the appropriate knowledge, skills and experience to apply them for health risk assessment.
+
+[p49 | prose | WES, BEI and PES explained]
+Health risk management must consider a number of aspects from identification, to assessment, to control, with exposure monitoring being just one part – not the only part that needs to be considered. WES and BEI are important tools for monitoring worker exposures.
+
+[p50 | appendix | Appendix 7: Common examples of exposure monitoring and health monitoring]
+Appendix 7: Common examples of exposure monitoring and health monitoring
+
+[p50 | appendix | Appendix 7: Common examples of exposure monitoring and health monitoring]
+This is not a complete list. It provides examples of possible monitoring methods and who could carry it out. A suitably qualified, trained and experienced health and safety professional can advise on the most appropriate methods for your circumstances.
+
+[p50 | appendix | Appendix 7: Common examples of exposure monitoring and health monitoring]
+| SOURCE OF HARM | EXAMPLES OF EXPOSURE MONITORING, AND WHO SHOULD CARRY IT OUT | EXAMPLES OF HEALTH MONITORING, AND WHO SHOULD CARRY IT OUT |  |
+| --- | --- | --- | --- |
+| Non-biological exposure monitoring | Biological exposure monitoring |  |  |
+| Biological hazards (for example, bacteria, fungi) | Measures the level and type of bacteria and fungi and their | Detects the presence of bacteria or fungi (for example, in bodily products). | Looks for airway inflammation and disease, asthma-like symptoms, infection, and allergic reactions. |
+| by-products in the air or on skin. Carried out by a competent person* such as an Occupational Hygienist. | To take blood: | Carried out by health practitioners with relevant experience. |  |
+| - health practitioners with relvant experience (for example, registered nurse, phlebotomist). | For example, an Occupational Health Nurse could carry out an initial assessment (health screening) and subsequent routine regular testing. |  |  |
+| To collect other bodily fluids/products and to analyse or interpret test results: - a competent person such as a health practitioner or Occupational Hygienist. | If suspected, workers should be sent to a health practitioner who understands occupational health for a full medical assessment/formal diagnosis and feedback to the PCBU. This could be an Occupational Physician or GP with relevant experience. |  |  |
+| Airborne | Measures the amount of particulate in air that workers are exposed to and compares with the relevant workplace exposure standard (WES). Carried out by a competent | Measures the amount of certain metals from | Checks for loss of lung function. |
+| particulates (for example, dusts such as wood dusts, welding fume etc) | welding fume in workers’ blood or urine and to the relevant biological | Uses a lung function questionnaire. |  |
+| compares exposure index (BEI). To take blood: | Uses spirometry - measures the speed and volume that lungs are emptied of air to detect lung damage (from the initial baseline lung function). Results are compared with previous spirometry results if available. |  |  |
+| person such as an Occupational Hygienist. | - health practitioners with relevant experience (for example, registered nurse, | Carried out by health practitioners or a competent person with relevant experience. |  |
+| phlebotomist). To analyse or interpret test results: | For example, an Occupational Health Nurse could carry out an initial assessment (health screening) and subsequent routine regular testing. |  |  |
+| - a competent person such as a health practitioner or Occupational Hygienist. | If suspected, workers should be sent to a health practitioner who understands occupational health for a full medical assessment/formal diagnosis and feedback to the PCBU. This could be an Occupational Physician or GP with relevant experience. |  |  |
+
+[p50 | appendix | Appendix 7: Common examples of exposure monitoring and health monitoring]
+* A ‘competent person’ is a suitably qualified and experienced person with the knowledge, skills and experience to carry out the monitoring required.
+
+[p51 | appendix | Appendix 7: Common examples of exposure monitoring and health monitoring]
+| SOURCE OF HARM | EXAMPLES OF EXPOSURE MONITORING, AND WHO SHOULD CARRY IT OUT | EXAMPLES OF HEALTH MONITORING, AND WHO SHOULD CARRY IT OUT |  |
+| --- | --- | --- | --- |
+| Non-biological exposure monitoring | Biological exposure monitoring |  |  |
+| Organic solvents (for example, toluene, thinners, MEK) | Measures the amount of solvent in air that workers are exposed to and compares with the relevant | Measures the amount of solvent in workers’ blood or urine and compares to the relevant BEI. To take blood: | Checks for neurological damage. Uses a questionnaire as a screening tool to identify workers showing symptoms of neurological damage. |
+| WES. Carried out by a competent person such as an Occupational Hygienist. | - health practitioners with relevant experience (for example, registered nurse, phlebotomist). | Carried out by health practitioners with relevant experience. For example, an Occupational Health Nurse could carry out an initial assessment (health screening) and subsequent routine regular testing. |  |
+| To collect urine and to analyse or interpret test results: - acompetent person such as a health practitioner or Occupational Hygienist. | If suspected, workers should be sent to a health practitioner who understands occupational health for a full medical assessment/formal diagnosis and feedback to the PCBU. This could be an Occupational Physician or GP with relevant experience. |  |  |
+| Lead | Measures the amount of lead in air that workers are exposed to and compares with the relevant WES. | Measures the amount of lead in workers’ blood and compares to the relevant BEI. | Checks for evidence of lead poisoning. Uses medical examinations to look for the physical and cognitive effects |
+| Carried out by a competent person such as an Occupational Hygienist. Measures the amount of substance | To take blood: - health practitioners with relevant experience | of lead poisoning. Carried out by health practitioners with relevant experience. |  |
+| urine. To collect urine and to analyse or interpret test results: - a competent person such as a health | assessment (health screening) and subsequent routine regular testing. If suspected, workers should be sent to a health practitioner who understands occupational health for a full medical assessment/formal diagnosis and feedback to the PCBU. This could be an Occupational Physician or GP with relevant |  |  |
+| Substances that can irritate the skin (for example, epoxy resins, latex, soaps and cleaners, cement, hair dyes, wood dust, industrial enzymes) | practitioner or Occupational Hygienist. Measures the amount of substance in workers’ | experience. Checks for skin inflammation/dermatitis. |  |
+| that workers are exposed to and compares with the relevant WES. Determines the presence of the | blood or urine and compares to the relevant BEI. To take blood: - health practitioners with relevant | Uses visual checks for: = redness of skin - itching |  |
+| substance on the skin (through wipe sampling). Carried out by a competent | experience (for example, registered nurse, phlebotomist). To collect urine and to analyse or interpret | - pain/burning - dry or scaly - oozing blisters. |  |
+| person such as an Occupational Hygienist. | test results: - acompetent person such as a health practitioner or Occupational Hygienist. | Carried out by health practitioners with relevant experience. |  |
+| For example, an Occupational Health Nurse could carry out an initial assessment (health screening) and subsequent routine regular testing. |  |  |  |
+| If suspected, workers should be sent to a health practitioner who understands occupational health for a full medical assessment/formal diagnosis and feedback to the PCBU. This could be an Occupational Physician or GP with relevant experience. |  |  |  |
+
+[p52 | appendix | Appendix 7: Common examples of exposure monitoring and health monitoring]
+| SOURCE OF HARM | EXAMPLES OF EXPOSURE MONITORING, AND WHO SHOULD CARRY IT OUT | EXAMPLES OF HEALTH MONITORING, AND WHO SHOULD CARRY IT OUT |  |
+| --- | --- | --- | --- |
+| Non-biological exposure monitoring | Biological exposure monitoring |  |  |
+| Loud noise (for example, | Measures the amount of noise workers are exposed to. |  | Checks for hearing loss. |
+| >85 decibels (A-weighted 8 hour average levels) | Carried out by a competent person such as an Occupational Hygienist. |  | Uses hearing tests (audiometry) to detect hearing damage/loss (from the initial baseline level). Carried out by health practitioners or a competent person with relevant experience for initial screening tests to identify potential problems, subsequent |
+| that can damage hearing | by a competent person. |  |  |
+| Substances that can damage hearing (for example, ototoxic substances such as paints, solvents, thinners, glues) | Measures the amount of substance in air that workers are exposed to and compares with the relevant | Measures the amount of substance in workers’ blood or urine and compares to the relevant BEI | Checks for hearing loss. Uses hearing tests (audiometry) to detect hearing damage/loss (from the initial baseline level). |
+| WES. Carried out by a competent person such as an Occupational Hygienist. | To take blood: - health practitioners with relevant experience (for example, registered nurse, phlebotomist). | Carried out by health practitioners or a competent person with relevant experience for initial screening tests to identify potential problems, subsequent routine regular testing, and provide referrals if needed. |  |
+| To collect urine and to analyse or interpret test results: - acompetent person such as a health practitioner or Occupational Hygienist. | Carried out by audiologists for full diagnostic tests if a problem is identified above. |  |  |
+
+[p53 | appendix | Appendix 7: Common examples of exposure monitoring and health monitoring]
+| SOURCE OF HARM | EXAMPLES OF EXPOSURE MONITORING, AND WHO SHOULD CARRY IT OUT | EXAMPLES OF HEALTH MONITORING, AND WHO SHOULD CARRY IT OUT |  |
+| --- | --- | --- | --- |
+| Non-biological exposure monitoring | Biological exposure monitoring |  |  |
+| Vibration (for example, from hand-held vibrating tools, heavy plant such as bulldozers, trucks) | Measures the amount of vibration that workers arms, hands or whole |  | Checks for nerve, muscle or circulation damage in hands, wrists and arms, and lower back. |
+| body are exposed to. Carried out by a competent person such as an Occupational Hygienist. |  | Uses a questionnaire about symptoms for workers to complete on a regular basis, for example: - numbness or tingling of fingers - pain in hand or wrist = fingers that go white especially in cold weather = loss of sensitivity and strength in hands - have difficulty picking up very small objects or opening tight jars = discomfort including lower back pain. |  |
+|  |  | Carried out by health practitioners with relevant experience. |  |
+|  |  | assessment (health screening) and subsequent routine regular testing. If suspected, workers should be sent to a health practitioner who understands occupational health for a full medical assessment/formal diagnosis and |  |
+| Thermal | Measures various appropriate heat |  | feedback to the PCBU. This could be an Occupational Physician. Checks worker age, weight, physical fitness, medical conditions, medication |
+| environment (for example, including air temperature, surface temperature, humidity, air flow etc) | or cold indices. Carried out by a competent person such as an Occupational Hygienist. |  | taken, and history of heat disorders, frostbite and hypothermia. Carried out by health practitioners or a competent person with relevant experience. |
+|  | For example, an Occupational Health Nurse could carry out an initial assessment (health screening) and subsequent routine regular testing. |  |  |
+|  | If suspected, workers should be sent to a health practitioner who understands occupational health for a full medical assessment/formal diagnosis and feedback to the PCBU. This could be an Occupational Physician or GP with relevant experience. |  |  |
+|  | Measures a worker’s hydration status using urine specific gravity, body temperature and heart rate. |  |  |
+|  | To collect urine, body temperature and heart rate, and to analyse test results: Carried out by a competent person such as an Occupational Health Nurse. |  |  |
+
+[p54 | appendix | Appendix 7: Common examples of exposure monitoring and health monitoring]
+| SOURCE OF HARM | EXAMPLES OF EXPOSURE MONITORING, AND WHO SHOULD CARRY IT OUT | EXAMPLES OF HEALTH MONITORING, AND WHO SHOULD CARRY IT OUT |  |
+| --- | --- | --- | --- |
+| Non-biological exposure monitoring | Biological exposure monitoring |  |  |
+| Heavy lifting, bending, repetitive movements, screen use | Gathers data to evaluate the activity risks against known standards, charts, and checklists. |  | Checks for early signs of musculoskeletal damage. Uses a questionnaire about symptoms for workers to complete on a regular basis. |
+| Uses a range of formal human factors/ergonomics techniques |  | Considers other indicators that might indicate musculoskeletal or psychosocial harm risks. |  |
+| Carried out by a competent such as Human |  | Carried out by health practitioners (such as Occupational Health Nurses, Workplace Physiotherapists or Occupational Therapists) with relevant experience. |  |
+| person a Factors Professional/Ergonomist. |  | Workers may require a further physical/medical assessment, with formal diagnosis and feedback to the PCBU. This could be by an Occupational Physician, GP with relevant experience, or physiotherapist. |  |
+
+[p55 | appendix | Appendix 8: More information about some professionals involved in monitoring (not a complete list)]
+Appendix 8: More information about some professionals involved in monitoring (not a complete list)
+
+[p55 | appendix | Appendix 8: More information about some professionals involved in monitoring (not a complete list)]
+| TYPE OF PROFESSIONAL | WHAT MONITORING SERVICES CAN THEY PROVIDE? | QUALIFICATIONS AND CERTIFICATIONS TO LOOK FOR | PROFESSIONAL ASSOCIATION MEMBERSHIPS TO LOOK FOR |
+| --- | --- | --- | --- |
+| Occupational Hygienists | Provide a range of worker exposure monitoring services, for example: - identifying work-related health hazards - assessing worker exposure to physical, chemical or biological agents helping PCBUs and workers to understand work- related health risks recommending ways to eliminate or minimise work risks evaluating the effectiveness of control measures. | Qualifications to look for: - relevant qualifications including: - an undergraduate or postgraduate qualification | A full member of a professional association like: - NZ Occupational Hygiene Society (NZOHS): https://nzohs.org.nz |
+| - a Bachelor’s degree or Diploma in Science or Engineering (or equivalent) acceptable to the NZOHS Council - experience in the type of monitoring you need. Certifications to look for: - from an equivalent overseas society (for example, COH (Australia), CIH (USA), LFOH/CMFOH (UK), ROH (South Africa)). | Also see if they have relevant competencies listed on the HASANZ Register: https://registerhasanz.org.nz |  |  |
+| Occupational Health Nurses | Provide a range of workplace health services including: - health screening (for example, lung function tests, hearing testing) including referrals for further medical assessment (for example to Occupational Physicians, Audiologists, GPs). helping PCBUs and workers to understand work-related health risks providing prevention/management (and wellbeing) programmes evaluating the effectiveness of PPE employment screening wellness screening/vaccinations supporting the rehabilitation of people with work and non-work illness and injury. | Qualifications to look for: - is a registered nurse - has a current practising certificate - has experience in the type of monitoring you need - has evidence of current training and experience. | A member of a professional association like the NZ Occupational Health Nurses Association. Also see if they have relevant competencies listed on the HASANZ Register: https://register.nasanz.org.nz |
+| Occupational Physicians | Deal with medical referrals to: - prevent and manage people with work-related illness and injury - facilitate ill or injured workers return to work. | Qualifications to look for: - is a registered Medical Practitioner - has a FAFOEM qualification - has a current practising certificate - has experience in the type of health monitoring you need. | A member of a professional association like: - Australasian Faculty of Occupational and Environmental Medicine (AFOEM) - The Australian and New Zealand Society of Occupational Medicine Inc. (ANZSOM). |
+
+[p55 | appendix | Appendix 8: More information about some professionals involved in monitoring (not a complete list)]
+Appendices
+
+[p56 | appendix | Appendix 8: More information about some professionals involved in monitoring (not a complete list)]
+| TYPE OF PROFESSIONAL | WHAT MONITORING SERVICES CAN THEY PROVIDE? | QUALIFICATIONS AND CERTIFICATIONS TO LOOK FOR | PROFESSIONAL ASSOCIATION MEMBERSHIPS TO LOOK FOR |
+| --- | --- | --- | --- |
+| General Practitioners (GPs) | Deal with medical referrals: - to diagnose work-related illness or injury - if needed, can refer to other practitioners for further medical assessment/formal diagnosis. | Qualifications to look for: = is a registered Medical Practitioner = has the Fellowship of the RNZCGP (FRNZCGP) qualification has post grad diplomas in Occupational Health or Medicine has a current practising certificate has experience in the type of health monitoring you need. |  |
+| Audiologists | Carry out hearing testing to diagnose noise induced hearing loss and can provide non-medical treatment of hearing loss. | Qualifications to look for: - Master of Audiology Degree and a Certificate of Clinical Competence. | A member of a professional association like: - New Zealand Audiological Society. |
+| Human Factors Professionals/ Ergonomists | Provide a range of services, for example: - assessing worker exposure to biomechanical, | Qualifications to look for: - postgraduate qualifications in human factors | A member of a professional association like: - Human Factors and Ergonomics Society of |
+| physical, psychosocial and organisational/systemic factors investigating problems such as workstation or task design, manual handling, fatigue, loss of vigilance and heavy or intense workloads developing and testing design specifications for processes, plant, and equipment evaluating the effectiveness of control measures utilising systems analysis methods and processes for incident investigation and system design. | or ergonomics. Certifications to look for: - Certified Professional Membership with HFSENZ or from an overseas equivalent society (for example, CIEHF (UK), HFSESA (Australia), BCPE (USA). | New Zealand: www.hfesnz.org.nz - An equivalent overseas society (for example, HFESA (Australia), CIEHF (UK)). Also see if they have relevant competencies listed on the HASANZ Register: https://register.hasanz.org.nz |  |
+
+[p57 | appendix | Appendix 9: Example of exposure monitoring information to give to workers]
+Appendix 9: Example of exposure monitoring information to give to workers
+
+[p57 | appendix | Appendix 9: Example of exposure monitoring information to give to workers]
+This is an example only. It is not intended to address specific circumstances of any particular individual or entity.
+
+[p57 | appendix | Appendix 9: Example of exposure monitoring information to give to workers]
+As you know, our work involves producing wood dust. Exposure to wood dust can cause skin rashes and breathing problems including asthma.
+
+[p57 | appendix | Appendix 9: Example of exposure monitoring information to give to workers]
+To check that you are not being exposed to levels of wood dust at potentially harmful levels, we will undertake exposure monitoring as described below. We pay for the exposure monitoring.
+
+[p57 | appendix | Appendix 9: Example of exposure monitoring information to give to workers]
+We will use the information gained from monitoring, and information from verification of control measures to continually improve how we are managing health risks to you.
+
+[p57 | appendix | Appendix 9: Example of exposure monitoring information to give to workers]
+The provider and the name of the person(s) who will carry out the testing
+
+[p57 | appendix | Appendix 9: Example of exposure monitoring information to give to workers]
+We-Measure-Exposure Ltd, Anne or Andrew (Occupational Hygienists)
+
+[p57 | prose | Description of the monitoring]
+Description of the monitoring
+
+[p57 | prose | Description of the monitoring]
+This will involve an Occupational Hygienist asking you to wear a small pump on your waist that is connected by a tube to a sampling head device, which is clipped onto your collar.
+
+[p57 | prose | Description of the monitoring]
+This device will measure levels of wood dust. You will be required to wear the sampling equipment for the whole shift and carry out your work duties as usual.
+
+[p57 | prose | Description of the monitoring]
+There are no health or safety risks or side effects to you from wearing this device.
+
+[p57 | prose | Description of the monitoring]
+The Occupational Hygienist will be around the workplace to observe your job tasks and may ask you questions about the job. This will help them to interpret results.
+
+[p57 | prose | Description of the monitoring]
+At the end of the shift, the Occupational Hygienist will collect the sampling equipment from you. After which, the samples will be sent to a laboratory to be analysed. The Occupational Hygienist will then write a report of the health risks.
+
+[p57 | prose | Description of the monitoring]
+All workers will get access to the report’s results.
+
+[p57 | prose | Description of the monitoring]
+The report provided to workers will not contain any identifiable information. However individuals will be advised which monitoring results are their own.
+
+[p57 | prose | Description of the monitoring]
+From the report, control measures to manage health risks may be implemented, if necessary.
+
+[p57 | prose | How often the monitoring will take place]
+How often the monitoring will take place
+
+[p57 | prose | How often the monitoring will take place]
+The initial monitoring will take place during 13–17 July.
+
+[p57 | prose | How often the monitoring will take place]
+Based on the results and recommendations of the report, further monitoring may take place soon after the initial assessment (for example, every 6 months, 1 year, or 2 years).
+
+[p58 | prose | Please note:]
+Please note:
+
+[p58 | prose | Please note:]
+– The monitoring does not record voice conversations or any personal health data – it only records the levels of wood dust.
+
+[p58 | prose | Please note:]
+– The monitoring provider will be given the following information about you: shift times, job title, and work area(s). In addition they will be provided previous monitoring results, and risk assessments.
+
+[p58 | prose | Please note:]
+– The monitoring report will have the following information:
+
+[p58 | prose | Please note:]
+- details of the monitoring (who, when, where, how, how often)
+
+[p58 | prose | Please note:]
+- monitoring results (for each worker and averages)
+
+[p58 | prose | Please note:]
+- potential health effects from exposure to wood dust
+
+[p58 | prose | Please note:]
+recommendations about managing any health risks.
+
+[p58 | prose | Please note:]
+– You will be offered a copy of the monitoring results as soon as possible after we receive them. We will discuss with you how these results compare to the results from past monitoring you have taken part in, and any implications.
+
+[p58 | prose | Please note:]
+– All workers will be given access to all monitoring results. Note: if there is any personal information, we will either ask your consent before the information is released or remove the identifiable information first. We will discuss with all workers how these results compare with previous monitoring results, and any implications.
+
+[p58 | prose | Please note:]
+– We will use monitoring results to improve how our health risks are managed including telling us when to review and improve the control measures. Only Mere (the Health and Safety Manager) will have access to the reports.
+
+[p58 | prose | Please note:]
+– The monitoring results (with any identifiable information removed) may be used for research purposes.
+
+[p58 | prose | Please note:]
+– All monitoring results are held by Mere. For previous monitoring results that relate to you, ask her for a copy.
+
+[p58 | prose | Please note:]
+Before the monitoring starts, Mere can meet with you to explain what the monitoring involves and answer any questions you have.
+
+[p59 | appendix | Appendix 10: Example of biological exposure monitoring information to give to workers]
+Appendix 10: Example of biological exposure monitoring information to give to workers
+
+[p59 | appendix | Appendix 10: Example of biological exposure monitoring information to give to workers]
+This is an example only. It is not intended to address specific circumstances of any particular individual or entity.
+
+[p59 | prose | Request for workers to undergo biological exposure monitoring]
+Request for workers to undergo biological exposure monitoring
+
+[p59 | prose | Request for workers to undergo biological exposure monitoring]
+As you know, our timber treatment work involves using CCA preservative (chromated copper arsenate). Exposure to CCA can cause skin rashes, neurological symptoms and breathing problems. In the long term, CCA can cause cancer (it is a carcinogen).
+
+[p59 | prose | Request for workers to undergo biological exposure monitoring]
+To check that you are not being exposed to levels of chromium and arsenic at potentially harmful levels, we request you undergo biological exposure monitoring as described below.
+
+[p59 | prose | Request for workers to undergo biological exposure monitoring]
+We will pay for the monitoring.
+
+[p59 | prose | Request for workers to undergo biological exposure monitoring]
+We will use the information gained from monitoring, and information from verification of control measures to continually improve how we are managing health risks to you.
+
+[p59 | prose | Request for workers to undergo biological exposure monitoring]
+The provider and the name of the person(s) who will carry out the testing BioMon Consultants Ltd, Caroline or Mike
+
+[p59 | prose | Description of the tests that will be carried out including known risks/ side effects]
+Description of the tests that will be carried out including known risks/ side effects
+
+[p59 | prose | Description of the tests that will be carried out including known risks/ side effects]
+This will involve collecting a urine sample from you at the end of the work shift on the last day of the working week.
+
+[p59 | prose | Description of the tests that will be carried out including known risks/ side effects]
+The monitoring provider will visit onsite and provide you a sample container. Once you have provided a urine sample, the provider will send the urine to DiagLabs for testing for levels of chromium and arsenic. Your urine will not be used for any other purpose.
+
+[p59 | prose | Description of the tests that will be carried out including known risks/ side effects]
+There are no side effects to this testing.
+
+[p59 | prose | When the monitoring will take place and how often]
+When the monitoring will take place and how often
+
+[p59 | prose | When the monitoring will take place and how often]
+The monitoring provider will come and collect a urine sample from you (~3.45pm) on Friday 16 July.
+
+[p59 | prose | When the monitoring will take place and how often]
+Depending on the results, further testing may be required.
+
+[p59 | prose | Where will the monitoring take place]
+Where will the monitoring take place
+
+[p59 | prose | Where will the monitoring take place]
+At our work address.
+
+[p60 | prose | Please note:]
+Please note:
+
+[p60 | prose | Please note:]
+– You do not have to undergo biological exposure monitoring (it is voluntary).
+
+[p60 | prose | Please note:]
+– Biological exposure monitoring can only take place if you have provided your informed consent. You can change your mind and withdraw consent at any time.
+
+[p60 | prose | Please note:]
+– If you do not wish to give consent, let your manager know and we will consider what alternative arrangements may be made.
+
+[p60 | prose | Please note:]
+– Biological exposure monitoring will take place during normal work hours. We will fully cover the costs of the monitoring.
+
+[p60 | prose | – The monitoring provider will be given:]
+– The monitoring provider will be given:
+
+[p60 | prose | – The monitoring provider will be given:]
+- details about you (your name or employee number), your role, the workplace and the work you carry out including the control measures in place
+
+[p60 | prose | – The monitoring provider will be given:]
+- safety data sheets, and our risk register and assessments
+
+[p60 | prose | – The monitoring provider will be given:]
+- previous monitoring results.
+
+[p60 | prose | – The monitoring provider will be given:]
+– The monitoring report will include:
+
+[p60 | prose | – The monitoring provider will be given:]
+- details of the monitoring (who, when, where, how, how often)
+
+[p60 | prose | – The monitoring provider will be given:]
+- any advice that you may have been exposed to potentially harmful levels of chromium or arsenic – it will not contain confidential information without your written consent
+
+[p60 | prose | – The monitoring provider will be given:]
+- any recommendations to us and/or to you about next steps including medical referrals for further assessment.
+
+[p60 | prose | – The monitoring provider will be given:]
+– Your personal information will be kept confidential and stored in a secure location in the Health and Safety Manager’s office. Only authorised people (currently the Health and Safety Manager) will have access to them.
+
+[p60 | prose | – The monitoring provider will be given:]
+– You will be offered a copy of your monitoring results as soon as possible after we receive them. We will discuss with you how these results compare to the results from past monitoring you have taken part in, and any implications.
+
+[p60 | prose | – The monitoring provider will be given:]
+– We will report back to all workers about the monitoring results. Note: if there is any personal information, we will either ask your written consent before the information is released or remove the identifiable information first. We will discuss with all workers how these results compare with previous monitoring results, and any implications.
+
+[p60 | prose | – The monitoring provider will be given:]
+– We will use monitoring results to improve how our health risks are managed including telling us when to review and improve the control measures.
+
+[p60 | prose | – The monitoring provider will be given:]
+– Your monitoring results may be used for research purposes – all your identifiable information will be removed before the information is released.
+
+[p60 | prose | – The monitoring provider will be given:]
+If you want, Mere can meet with you to explain what the monitoring involves and answer any questions you have.
+
+[p61 | appendix | Appendix 11: Example of health monitoring information to give to workers]
+Appendix 11: Example of health monitoring information to give to workers
+
+[p61 | appendix | Appendix 11: Example of health monitoring information to give to workers]
+This is an example only of the information. It is not intended to address specific circumstances of any particular individual or entity.
+
+[p61 | prose | Request for workers to undergo health monitoring]
+Request for workers to undergo health monitoring
+
+[p61 | prose | Request for workers to undergo health monitoring]
+Noise can cause noise induced hearing loss. To check how well we are managing noise in our workshop, we request that you undergo hearing tests as described below.
+
+[p61 | prose | Request for workers to undergo health monitoring]
+Having regular hearing tests mean that we can detect early signs of hearing loss and improve the control measures we have in place to stop your hearing from deteriorating.
+
+[p61 | prose | Request for workers to undergo health monitoring]
+We will pay for the monitoring.
+
+[p61 | prose | Request for workers to undergo health monitoring]
+We will use the information gained from monitoring, and information from verification of control measures to continually improve how we are managing health risks.
+
+[p61 | prose | Request for workers to undergo health monitoring]
+The provider and the name of the person(s) who will carry out the testing Be Well Consultants Ltd, Nikau or Jenny
+
+[p61 | prose | Description of the medical tests that will be carried out including known risks/side effects]
+Description of the medical tests that will be carried out including known risks/side effects
+
+[p61 | prose | Description of the medical tests that will be carried out including known risks/side effects]
+You will first undergo a screening test – this is a brief test (no more than 10 minutes). It involves listening to sounds through headphones.
+
+[p61 | prose | Description of the medical tests that will be carried out including known risks/side effects]
+If a problem is identified, a full diagnostic hearing test will then be carried out by an audiologist (takes around an hour) at a later date.
+
+[p61 | prose | Description of the medical tests that will be carried out including known risks/side effects]
+There are no known side effects to this testing.
+
+[p61 | prose | How often the monitoring will take place]
+How often the monitoring will take place
+
+[p61 | prose | How often the monitoring will take place]
+A baseline hearing test will be carried out as soon as possible after starting work.
+
+[p61 | prose | How often the monitoring will take place]
+Then a screening test will be done once a year.
+
+[p61 | prose | How often the monitoring will take place]
+The approximate time of the work day the monitoring will take place (for example, morning, afternoon)
+
+[p61 | prose | How often the monitoring will take place]
+In the morning – during work time.
+
+[p61 | prose | How often the monitoring will take place]
+Where will the monitoring take place (if the monitoring is off-site, describe how the worker will get there and back)
+
+[p61 | prose | How often the monitoring will take place]
+At the Be Well Consultants Ltd offices.
+
+[p61 | prose | How often the monitoring will take place]
+A minibus will transport workers to the above offices and back to the worksite. Bob will coordinate this.
+
+[p62 | prose | How often the monitoring will take place]
+This is the process we will follow:
+
+[p62 | prose | Please note:]
+Please note:
+
+[p62 | prose | Please note:]
+– You do not have to undergo health monitoring (it is voluntary).
+
+[p62 | prose | Please note:]
+– Health monitoring can only take place if you have provided your informed consent. You can change your mind and withdraw consent at any time.
+
+[p62 | prose | Please note:]
+– If you do not wish to give consent, let your manager know and we will consider what alternative arrangements may be made.
+
+[p62 | prose | Please note:]
+– Health monitoring will take place during normal work hours. We will fully cover the costs of the health monitoring – including any transport costs.
+
+[p62 | prose | Please note:]
+– The monitoring provider will be given:
+
+[p62 | prose | Please note:]
+- details about you (your name or employee number), your role, the workplace and the work you carry out including the control measures in place
+
+[p62 | prose | Please note:]
+- safety data sheets, and our risk register and assessments
+
+[p62 | prose | Please note:]
+- previous monitoring results.
+
+[p63 | prose | Please note:]
+– The monitoring report will include:
+
+[p63 | prose | Please note:]
+- details of the monitoring (who, when, where, how, how often)
+
+[p63 | prose | Please note:]
+- any advice that you may have hearing loss that is due to work (and not due to an underlying medical condition) – it will not contain confidential information without your written consent
+
+[p63 | prose | Please note:]
+- any recommendations to us and/or to you about next steps including medical referrals and if you are able to continue to carry out the work.
+
+[p63 | prose | Please note:]
+– Your personal information will be kept confidential and stored in a secure location in the Health and Safety Manager’s office. Only authorised people (currently the Health and Safety Manager) will have access to it.
+
+[p63 | prose | Please note:]
+– You will be offered a copy of your monitoring results as soon as possible after we receive them. We will discuss with you how these results compare to the results from past monitoring you have taken part in, and any implications.
+
+[p63 | prose | Please note:]
+– We will report back to all workers about the monitoring results. Note: if there is any personal information, we will either ask your written consent before the information is released or remove the identifiable information first.
+
+[p63 | prose | Please note:]
+– We will use monitoring results to improve how our health risks are managed including telling us when to review and improve the control measures. We will discuss with all workers how to results compare with previous monitoring results, and any implications.
+
+[p63 | prose | Please note:]
+– Your monitoring results may be used for research purposes – all your identifiable information will be removed before the information is released.
+
+[p63 | prose | Please note:]
+If you want, Mere can meet with you to explain what the monitoring involves and answer any questions you have.
+
+[p64 | appendix | Appendix 12: Example of an audiometry health monitoring report]
+Appendix 12: Example of an audiometry health monitoring report
+
+[p64 | appendix | Appendix 12: Example of an audiometry health monitoring report]
+This is an example only. It is not intended to address specific circumstances of any particular individual or entity.
+
+[p64 | prose | Dear Noel]
+Dear Noel
+
+[p64 | prose | Dear Noel]
+This report and the attached summary table are the record of the audiometry I completed on 10 September. Workers were monitored for any changes to their health in relation to their exposure to excess noise at work.
+
+[p64 | prose | Dear Noel]
+Summary of the testing (please refer to the attached summary for details)
+
+[p64 | prose | Dear Noel]
+Five workers were seen for annual health monitoring.
+
+[p64 | prose | Dear Noel]
+The testing was carried out as per AS/NZS 1269.4:2014 Occupational noise management – Part 4: Auditory assessment including filling out the tester checklist.
+
+[p64 | prose | Dear Noel]
+The results:
+
+[p64 | prose | Dear Noel]
+– No workers had abnormal hearing tests.
+
+[p64 | prose | Dear Noel]
+– No workers require re-testing.
+
+[p64 | prose | Dear Noel]
+As all workers have been tested before, comparison was made between these tests and previous test results from last year and from the baseline.
+
+[p64 | prose | Referrals completed]
+Referrals completed
+
+[p64 | prose | Referrals completed]
+No workers were referred for further assessment of abnormal hearing.
+
+[p64 | prose | Observations]
+Observations
+
+[p64 | prose | Observations]
+There were no issues that impacted on the testing.
+
+[p64 | prose | Health and safety issues]
+Health and safety issues
+
+[p64 | prose | Health and safety issues]
+All workers were advised on the importance of maintaining and wearing the correct* personal protective equipment (PPE).
+
+[p64 | prose | Health and safety issues]
+PPE was inspected and found to be in good condition.
+
+[p64 | prose | Recommendations]
+Recommendations
+
+[p64 | prose | Recommendations]
+– Continue with current health monitoring programme.
+
+[p64 | prose | Recommendations]
+– Continue to provide training and education to workers on the correct use and maintenance of their PPE.
+
+[p64 | prose | Recommendations]
+– Make sure workers are given a full explanation of the health hazards involved in their work.
+
+[p64 | prose | Recommendations]
+Individual reports are attached for each worker. Please note individual reports are confidential to each individual.
+
+[p64 | prose | Recommendations]
+We will be in touch to arrange a suitable date for the next round of testing.
+
+[p64 | prose | Recommendations]
+Thank you for your assistance while I was on site. Please do not hesitate to contact me if you have any further questions.
+
+[p64 | prose | Recommendations]
+Yours sincerely
+
+[p64 | prose | Recommendations]
+Caroline
+
+[p64 | prose | Recommendations]
+Be Well Consultants Ltd
+
+[p64 | prose | Recommendations]
+* This is the hearing protection that an Occupational Hygienist recommended each worker use in July 2020.
+
+[p65 | prose | Recommendations]
+Date of testing: 10 February 2021
+
+[p65 | prose | Recommendations]
+Equipment used: Audiometer make/model: xx-x-xx-x
+
+[p65 | prose | Recommendations]
+Calibration due: March 2021
+
+[p65 | prose | Identifying criteria for results/comments]
+Identifying criteria for results/comments
+
+[p65 | table | Identifying criteria for results/comments]
+| General terms: | Audio terms: |
+| --- | --- |
+| Normal - results within normal values | Normal hearing - within normal values |
+| Abnormal - results outside of normal values | NIHL = noise induced hearing loss |
+| Unchanged - abnormal but results remain the same | Historic NIHL - long term pre-existing loss - unchanged |
+| Referred health practitioner - with copy of results | Pattern NIHL - showing pattern NIHL |
+| No previous notes - abnormal, no previous records available to compare | Notifiable deterioration NIHL - 15dB since baseline |
+
+[p65 | table | Identifying criteria for results/comments]
+| NUMBER | NAME | ROLE TITLE | RESULTS | COMMENTS/ACTION |
+| --- | --- | --- | --- | --- |
+| 1 | Charlotte | ‘Workshop supervisor | Normal hearing | No further action required |
+|  | William | Machine operator | Normal hearing | No further action required |
+|  | Emily | Machine operator | Normal hearing | No further action required |
+|  | Jack | Machine operator | Normal hearing | No further action required |
+|  | Olivia | Apprentice | Normal hearing | No further action required |
+
+[p66 | appendix | Appendix 13: Example of a health and safety dashboard]
+Appendix 13: Example of a health and safety dashboard
+
+[p66 | appendix | Appendix 13: Example of a health and safety dashboard]
+Health and safety dashboard for XYZ Limited (2020)
+
+[p66 | prose | CURRENT AREA OF FOCUS]
+CURRENT AREA OF FOCUS
+
+[p66 | table | CURRENT AREA OF FOCUS]
+| PERFORMANCE MEASURE | 2019 | COMMENT |
+| --- | --- | --- |
+| Number of notifications to WorkSafe |  | This was when a worker suffered a serious burn that required hospital admission. Control measures were reviewed and updated to identify the cause of the injury and to prevent recurrence. |
+| Number of health and safety concerns raised by workers | 10 | Those concerns marked ‘urgent’ were reviewed within one hour of being received. All other concerns were reviewed within five working days. |
+| Number of emergency plan drills | 2 | Fire alarm evacuations were completed within a satisfactory time. However some workers needed a reminder to not carry hot drinks on the stairs. |
+| Percentage of new employee agreements and contracts for workers for whom monitoring is indicated that include participation in monitoring programmes | 100% | From July 2018, all relevant employment agreements and contracts have monitoring participation included. This is an improvement as previously no employment agreements/contracts had a monitoring participation clause. |
+| Percentage of exposure monitoring tests that exceeded the set standard | 2% | Within 10 days of receiving a monitoring report advising of excessive worker exposure, control measures were reviewed and updated to reduce exposure below the set standard. |
+| Percentage of required workers taking part in biological exposure monitoring programmes | 100% | This is a significant improvement to the 2019 result and possibly due to our ongoing discussions with workers about the importance of the monitoring programme and their input into the selection of the monitoring provider. |
+| Percentage of workers received flu vaccines (part of the well- being in tive) | 70% | This is similar to previous years. |
+| Percentage staff turnover | 10% | This is similar to the 2019 result and an improvement on the 2018 result. |
+| Percentage staff absence rate | 5% | This is similar to the 2019 result and an improvement on the 2018 result. |
+
+[p66 | prose | PROGRESS ON INITIATIVES]
+PROGRESS ON INITIATIVES
+
+[p66 | table | PROGRESS ON INITIATIVES]
+| INITIATIVE | PROGRESS |
+| --- | --- |
+| Improving worker participation | Three Health and Safety Representatives (HSRs) were elected by workers. The HSRs have undergone training. A regular meeting has been set up between HSRs and management. |
+| Equipment and plant checks | All vehicles have current WOFs and have had recent services. |
+| wear and damage. There is a form to request new PPE. Workers are trained in how to use extraction ventilation and carry out daily checks to see if it is working properly. |  |
+| Safer chemicals initiative | Last year we pledged to look at all the chemicals we use and replace them with non- toxic or less toxic ones where possible. |
+| So far we have identified 10 chemicals that we could replace with much healthier and safer versions. These chemicals will be removed from our workplace and workers trained to use their replacements within the next month. |  |
+| We expect to complete the review of all chemicals by the end of 2021. |  |
+
+[p67 | prose | Disclaimer]
+Disclaimer
