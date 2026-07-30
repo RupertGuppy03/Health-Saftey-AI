@@ -19,7 +19,7 @@ Pipeline (all deterministic):
      US-09 schema (source_file, page_number, section_heading, chunk_type) so it
      hands off cleanly to the chunking step (Luca / US-08-09).
 
-Run:  .venv/bin/python -m src.ingestion.clean --processed-dir data/processed/<doc>
+Run:  .venv/bin/python -m src.ingestion.clean
 """
 
 from __future__ import annotations
@@ -123,7 +123,7 @@ class _TableParser(HTMLParser):
 
     def handle_endtag(self, tag):
         if tag in ("td", "th") and self._cell is not None:
-            self._row.append("".join(self._cell).strip())
+            self._row.append("".join(self._cell).strip())  # type: ignore
             self._cell = None
         elif tag == "tr" and self._row is not None:
             self.rows.append(self._row)
@@ -139,8 +139,10 @@ def html_table_to_markdown(html: str) -> str:
         return ""
     width = max(len(row) for row in rows)
     rows = [row + [""] * (width - len(row)) for row in rows]
-    lines = ["| " + " | ".join(rows[0]) + " |",
-             "| " + " | ".join(["---"] * width) + " |"]
+    lines = [
+        "| " + " | ".join(rows[0]) + " |",
+        "| " + " | ".join(["---"] * width) + " |",
+    ]
     for row in rows[1:]:
         lines.append("| " + " | ".join(row) + " |")
     return "\n".join(lines)
@@ -244,14 +246,16 @@ def clean_elements(elements: list[dict], source_file: str) -> dict:
 
         suspicious.extend(find_suspicious_tokens(text))
 
-        records.append({
-            "text": text,
-            "source_file": source_file,
-            "page_number": meta.get("page_number"),
-            "element_type": el_type,
-            "section_heading": section_heading,
-            "chunk_type": classify_chunk_type(el_type, section_heading),
-        })
+        records.append(
+            {
+                "text": text,
+                "source_file": source_file,
+                "page_number": meta.get("page_number"),
+                "element_type": el_type,
+                "section_heading": section_heading,
+                "chunk_type": classify_chunk_type(el_type, section_heading),
+            }
+        )
 
     report = {
         "kept": len(records),

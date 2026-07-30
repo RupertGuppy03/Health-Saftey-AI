@@ -20,11 +20,6 @@ step by running it on a new document and confirming the JSON lands.
 The API key is read from the environment (`UNSTRUCTURED_API_KEY` in .env, which is
 gitignored) — never hard-coded, never committed.
 
-Run:
-
-    .venv/bin/python -m src.ingestion.extract \\
-        --input-dir  data/raw/building_and_construction/<doc> \\
-        --output-dir data/processed/<doc>
 """
 
 from __future__ import annotations
@@ -36,10 +31,12 @@ import os
 import time
 from pathlib import Path
 
-import httpx
 from dotenv import load_dotenv
 from unstructured_client import UnstructuredClient
-from unstructured_client.models.operations import CreateJobRequest
+from unstructured_client.models.operations import (
+    CreateJobRequest,
+    DownloadJobOutputRequest,
+)
 from unstructured_client.models.shared import (
     BodyCreateJob,
     InputFiles,
@@ -55,35 +52,19 @@ TRANSFORM_SERVER_URL = "https://platform-api.transform.unstructured.io"
 
 # The one-node job: a VLM partitioner. `is_dynamic`/`allow_fast` match the settings
 # used to extract the demo document, so re-runs stay consistent with clean.py's input.
-# `extract_image_block_types: []` stops the hi-res pages (which is_dynamic falls back
-# to) from embedding base64 images — those were ~80% of the output size and are unused
-# by clean.py (Image elements are dropped; tables keep their text_as_html).
 PARTITIONER_JOB = {
     "job_nodes": [
         {
             "name": "Partitioner",
             "type": "partition",
             "subtype": "vlm",
-            "settings": {
-                "is_dynamic": True,
-                "allow_fast": True,
-                "extract_image_block_types": [],
-            },
+            "settings": {"is_dynamic": True, "allow_fast": True},
         }
     ]
 }
 
 # Seconds between job-status polls.
 POLL_SECONDS = 10
-
-# Per-read (gap) timeout for the streaming download. Unstructured streams the output
-# slowly in chunks, so this is a tolerance for the gap BETWEEN chunks, not a total
-# cap: a slow-but-steady trickle downloads fine, but a true stall (no bytes for this
-# long) fails loudly instead of hanging forever.
-DOWNLOAD_READ_TIMEOUT_S = 60
-
-# How often to print a download-progress line.
-PROGRESS_EVERY_S = 30
 
 
 def _build_client() -> UnstructuredClient:
@@ -164,57 +145,20 @@ def extract_document(input_dir: Path | str, output_dir: Path | str) -> list[Path
             raise RuntimeError(f"Job failed: {status.value}")
         time.sleep(POLL_SECONDS)
 
-    # Step 3: stream each output node to disk. (The SDK's download reads the whole
-    # body at once with no timeout, which hangs on Unstructured's slow chunked
-    # transfer; streaming shows progress and fails loudly on a real stall.)
+    # Step 3: download each output node and save it.
     output_dir.mkdir(parents=True, exist_ok=True)
     saved: list[Path] = []
     for output_file in job_info.output_node_files or []:
-        out_path = output_dir / f"{output_file.file_id}.json"
-        _download_output(job_id, output_file.file_id, out_path)
+        file_id = output_file.file_id
+        download = client.jobs.download_job_output(
+            request=DownloadJobOutputRequest(job_id=job_id, file_id=file_id)
+        )
+        out_path = output_dir / f"{file_id}.json"
+        out_path.write_text(json.dumps(download.any, indent=4))
         saved.append(out_path)
+        print(f"Saved: {out_path}")
 
     return saved
-
-
-def _download_output(job_id: str, file_id: str, out_path: Path) -> None:
-    """Stream a job's output JSON to disk, printing progress every PROGRESS_EVERY_S.
-
-    Uses a raw streaming GET rather than the SDK's download so a slow transfer shows
-    progress instead of hanging silently. Afterwards the file is re-written indented
-    for readability (the server sends minified, single-line JSON), which also confirms
-    the download is complete and valid JSON.
-    """
-    api_key = os.environ["UNSTRUCTURED_API_KEY"]
-    url = f"{TRANSFORM_SERVER_URL}/api/v1/jobs/{job_id}/download"
-    timeout = httpx.Timeout(
-        connect=30.0, read=DOWNLOAD_READ_TIMEOUT_S, write=30.0, pool=30.0
-    )
-
-    print("Downloading...")
-    start = last = time.time()
-    mb = 0.0
-    with httpx.stream(
-        "GET",
-        url,
-        params={"file_id": file_id},
-        headers={"unstructured-api-key": api_key},
-        timeout=timeout,
-        follow_redirects=True,
-    ) as response:
-        response.raise_for_status()
-        with open(out_path, "wb") as fh:
-            for chunk in response.iter_bytes():
-                fh.write(chunk)
-                mb += len(chunk) / 1e6
-                if time.time() - last >= PROGRESS_EVERY_S:
-                    print(f"  {mb:.2f} MB   {time.time() - start:.0f}s elapsed")
-                    last = time.time()
-
-    out_path.write_text(
-        json.dumps(json.loads(out_path.read_text()), indent=2, ensure_ascii=False)
-    )
-    print(f"Saved: {out_path} ({out_path.stat().st_size / 1e6:.2f} MB)")
 
 
 def main() -> None:
