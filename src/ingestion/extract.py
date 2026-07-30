@@ -68,14 +68,19 @@ POLL_SECONDS = 10
 
 
 def _build_client() -> UnstructuredClient:
-    """Return an authenticated client, or raise if the API key is missing."""
+    """Return an authenticated client, or raise if the API key is missing.
+
+    The server URL is fixed to the bare Transform host (where the Jobs/VLM API
+    lives) and intentionally NOT read from the environment: the SDK appends its own
+    path, so a stale UNSTRUCTURED_API_URL carrying a path suffix (e.g. ".../api/v1")
+    makes every request 404. Pinning it here keeps runs reproducible across the team.
+    """
     api_key = os.environ.get("UNSTRUCTURED_API_KEY")
     if not api_key:
         raise RuntimeError(
             "UNSTRUCTURED_API_KEY is not set. Add it to .env (which is gitignored)."
         )
-    server_url = os.environ.get("UNSTRUCTURED_API_URL") or TRANSFORM_SERVER_URL
-    return UnstructuredClient(api_key_auth=api_key, server_url=server_url)
+    return UnstructuredClient(api_key_auth=api_key, server_url=TRANSFORM_SERVER_URL)
 
 
 def _collect_pdfs(input_dir: Path) -> list[InputFiles]:
