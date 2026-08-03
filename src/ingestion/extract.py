@@ -44,7 +44,10 @@ from unstructured_client.models.shared import (
     JobStatus,
 )
 
-load_dotenv()
+# `override=True` so .env wins over anything already in the process environment.
+# Without it a stale key inherited by a long-lived Jupyter kernel silently shadows
+# the real one, and the API rejects it with a confusing "API key is malformed" 401.
+load_dotenv(override=True)
 
 # The Transform API host. The VLM partitioner lives here, not on the Serverless
 # Partition host — this is the product that produced our source-of-truth JSON.
