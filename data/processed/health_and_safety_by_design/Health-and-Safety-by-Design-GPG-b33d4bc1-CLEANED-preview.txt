@@ -1,0 +1,2570 @@
+[p1 | prose | Health and Safety by Design]
+Health and Safety by Design
+
+[p1 | prose | AN INTRODUCTION]
+AN INTRODUCTION
+
+[p1 | prose | AN INTRODUCTION]
+August 2018 New Zealand Government WORKSAFE NEW ZEALAND | MAHI HAUMARU AOTEAROA
+
+[p2 | prose | AN INTRODUCTION]
+These guidelines help you to consider
+
+[p2 | prose | structures or substances.]
+structures or substances.
+
+[p3 | prose | Guide to Health and Safety by Design]
+Guide to Health and Safety by Design
+
+[p3 | prose | KEY POINTS]
+KEY POINTS
+
+[p3 | prose | KEY POINTS]
+Designers have an important role in managing
+
+[p3 | prose | health and safety risks.]
+health and safety risks.
+
+[p3 | prose | health and safety risks.]
+There are key principles of Health and Safety
+
+[p3 | prose | health and safety risks.]
+by Design that designers should follow.
+
+[p3 | prose | health and safety risks.]
+There are specific things to consider when
+
+[p3 | prose | health and safety risks.]
+designing structures, plant or substances.
+
+[p8 | prose | health and safety risks.]
+These good practice guidelines are for persons conducting a business or undertaking (PCBUs) with a role in designing structures, plant or substances. These people may include:
+
+[p8 | prose | health and safety risks.]
+– designers
+
+[p8 | prose | health and safety risks.]
+– PCBUs who are employing or engaging designers of structures, plant or substances to be used, or could reasonably be expected to be used, at work
+
+[p8 | prose | health and safety risks.]
+– people who make decisions about the design or redesign of structures, plant or substances
+
+[p8 | prose | health and safety risks.]
+– external experts who contribute to design projects.
+
+[p8 | prose | health and safety risks.]
+The guidelines are for people who want to learn about designing with health and safety in mind.
+
+[p8 | prose | 1.2 What does it cover?]
+1.2 What does it cover?
+
+[p8 | prose | 1.2 What does it cover?]
+Designers are ‘upstream PCBUs’. An upstream PCBU’s duties are important because they can influence the health and safety of products and structures before they’re used at work. The guidelines explain these designer duties, and describe how designers can manage health and safety risks (called ‘Health and Safety by Design’). These guidelines could be used for projects of varying sizes.
+
+[p8 | prose | 1.2 What does it cover?]
+The guidelines:
+
+[p8 | prose | 1.2 What does it cover?]
+– begin with general concepts that cover the Health and Safety at Work Act 2015 (HSWA)
+
+[p8 | prose | 1.2 What does it cover?]
+– look at the key principles of Health and Safety by Design
+
+[p8 | prose | 1.2 What does it cover?]
+– describe Health and Safety by Design – what’s good practice when considering the design of structures, plant and substances.
+
+[p8 | prose | 1.2 What does it cover?]
+These guidelines are based on guidance produced by Safe Work Australia.1 Key elements of good practice have been adapted for a New Zealand audience.
+
+[p8 | prose | 1.2 What does it cover?]
+These guidelines cover the basic principles of Health and Safety by Design. The Health and Safety by Design process can apply to plant, substances, structures, materials, technology, facilities, equipment, hardware, software and the way workers interact with these. These guidelines don’t cover every aspect listed above, but act as a starting point for PCBUs.
+
+[p9 | prose | Key points]
+Key points
+
+[p9 | prose | Key points]
+– HSWA does not define a ‘designer’, but for the purposes of these guidelines, ‘designer’ means any person who prepares or modifies a design, or arranges for or instructs a person under their control to do so. Examples of designers could include, but are not limited to, architects, industrial designers, engineers and software designers.2
+
+[p9 | prose | Key points]
+– HSWA (Section 16) defines the term ‘design’ in relation to plant, a substance, or structure as:
+
+[p9 | prose | Key points]
+a. the design of part of the plant, substance, or structure; and
+
+[p9 | prose | Key points]
+b. the redesign or modification of a design.
+
+[p9 | prose | Key points]
+– For the purposes of these guidelines, the term ‘design’ includes drawings, design details, specifications and bills of quantities (including specification of articles or substances) relating to a structure, and calculations prepared for the purpose of a design.2
+
+[p11 | prose | Health and Safety by Design is good design.]
+Health and Safety by Design is good design.
+
+[p11 | prose | 2.1 Health and Safety by Design]
+2.1 Health and Safety by Design
+
+[p11 | prose | 2.1 Health and Safety by Design]
+‘Health and Safety by Design’ is the process of managing health and safety risks throughout the lifecycle of structures, plant, substance or other products. Designers are in a strong position to make work healthy and safe from the start of the design process. Health and Safety by Design is not a separate concept from good design – they are the same thing.
+
+[p11 | prose | 2.1 Health and Safety by Design]
+Figure 1 shows the decrease in ability to influence safety that a PCBU has over the lifecycle of a product.
+
+[p12 | prose | 2.2 Why is Health and Safety by Design important?]
+2.2 Why is Health and Safety by Design important?
+
+[p12 | prose | 2.2 Why is Health and Safety by Design important?]
+It is important to think about health and safety risks at the design stage. Here’s why:
+
+[p12 | prose | Research illustrates its benefits]
+Research illustrates its benefits
+
+[p12 | prose | Research illustrates its benefits]
+International research3 shows the following:
+
+[p12 | prose | Research illustrates its benefits]
+– Good design can result in significant reductions in work-related ill-health and injuries.
+
+[p12 | prose | Research illustrates its benefits]
+– Good design reduces damage to property and the environment, and the related costs.
+
+[p12 | prose | Research illustrates its benefits]
+– Good design enhances the health, wellbeing and productivity of workers.
+
+[p12 | prose | Research illustrates its benefits]
+– The most effective risk control measure – eliminating hazards – is often cheaper and more practicable to achieve at the design or planning stage than managing risks later in the lifecycle.
+
+[p12 | prose | Research illustrates its benefits]
+– The design of plant or structures contributes to a significant proportion of work-related injuries, and solutions already exist for many of those design problems.
+
+[p12 | prose | Research illustrates its benefits]
+– It is more efficient and effective to manage risk in the design phase than to retrofit health and safety solutions.
+
+[p12 | prose | Research illustrates its benefits]
+– Design based on Health and Safety by Design principles can reduce the need for retrofitting, personal protective equipment, health monitoring, exposure monitoring, and maintenance.
+
+[p12 | prose | Smart design of products can help provide a high level of protection for end users]
+Smart design of products can help provide a high level of protection for end users
+
+[p12 | prose | Smart design of products can help provide a high level of protection for end users]
+Workers have the right to the highest level of protection, so far as is reasonably practicable. Managing risks in the design stage of a product is an effective way of providing the best protection. It is more effective than, for example, retrofitting a product later in its lifecycle.
+
+[p12 | prose | Smart design of products makes good business sense]
+Smart design of products makes good business sense
+
+[p12 | prose | Smart design of products makes good business sense]
+Eliminating health and safety risks before they happen makes good business sense for PCBUs. People who work in safe, healthy conditions are less likely to take time off work and will be more engaged and positive in their job. This may mean that productivity is increased in the long run.
+
+[p12 | prose | Smart design of products makes good business sense]
+Health and Safety by Design is also important for developing and maintaining a good reputation to win future work. It gives businesses the opportunity to become leaders in their industry and become the most desirable places to work.
+
+[p12 | prose | Smart design of products makes good business sense]
+3 Safe Work Australia Work-related fatalities associated with unsafe design of machinery, plant and powered tools 2006-2011 (2014) Safe Work Australia Handbook Principles of Good Work Design (2015)
+
+[p12 | prose | Smart design of products makes good business sense]
+Approved American National Standard ANSI/ASSE Z590.3 Prevention through design – Guidelines for addressing occupational hazards and risks in design and redesign processes (2011)
+
+[p12 | prose | Smart design of products makes good business sense]
+Health and Safety Executive Research Report RR218 Peer Review of analysis of specialist group reports on causes of construction accidents (2004).
+
+[p14 | prose | PCBUs must ensure the health and safety of workers so far as is reasonably practicable.]
+PCBUs must ensure the health and safety of workers so far as is reasonably practicable.
+
+[p14 | prose | 3.1 What is HSWA?]
+3.1 What is HSWA?
+
+[p14 | prose | 3.1 What is HSWA?]
+The Health and Safety at Work Act 2015 (HSWA) is New Zealand’s work health and safety law. It sets out the principles, duties and rights in relation to work health and safety. There are different groups of people that hold health and safety duties under HSWA, called ‘duty holders’. They are:
+
+[p14 | prose | 3.1 What is HSWA?]
+– persons conducting a business or undertaking (PCBUs)
+
+[p14 | prose | 3.1 What is HSWA?]
+– officers
+
+[p14 | prose | 3.1 What is HSWA?]
+– workers
+
+[p14 | prose | 3.1 What is HSWA?]
+– other persons at workplaces.
+
+[p14 | prose | 3.1 What is HSWA?]
+A person may have more than one duty (eg a person can be a PCBU and a worker).
+
+[p14 | prose | 3.1 What is HSWA?]
+More than one person may have the same duty (eg different PCBUs may have the same duty towards the same worker).
+
+[p14 | prose | 3.1 What is HSWA?]
+For more information on duty holders and their duties, see the Glossary or WorkSafe’s special guide Introduction to the Health and Safety at Work Act 2015.
+
+[p14 | prose | 3.2 Duties of all PCBUs]
+3.2 Duties of all PCBUs
+
+[p14 | prose | Primary duties]
+Primary duties
+
+[p14 | prose | Primary duties]
+A PCBU must ensure, so far as is reasonably practicable, the health and safety of workers, and that other people are not put at risk by work carried out as part of the conduct of the PCBU. This is called the ‘primary duty of care’. Figure 2 below illustrates the people who may be affected by a PCBU’s work.
+
+[p15 | prose | Engage workers about decisions on Health and Safety by Design]
+Engage workers about decisions on Health and Safety by Design
+
+[p15 | prose | Engage workers about decisions on Health and Safety by Design]
+PCBUs must involve their workers and their representatives in work health and safety.
+
+[p15 | prose | Engage workers about decisions on Health and Safety by Design]
+PCBUs have a general duty to engage with workers. In addition, they must engage under specified circumstances which include when identifying hazards and assessing risks to health and safety, and when making decisions about ways to manage health and safety risks.
+
+[p15 | prose | Engage workers about decisions on Health and Safety by Design]
+They must also have practices that give their workers reasonable opportunities to participate effectively in improving work health and safety on an ongoing basis (these are known as worker participation practices). This includes processes for workers to report health and safety issues such as concerns that risks are not being adequately managed.
+
+[p15 | prose | Engage workers about decisions on Health and Safety by Design]
+Having worker representatives is one way for workers to participate. Well-established ways to do this include having Health and Safety Representatives (HSRs), Health and Safety Committees (HSCs) and unions. Other representatives can include community or church leaders.
+
+[p15 | prose | Engage workers about decisions on Health and Safety by Design]
+For further guidance on worker engagement, participation and representation see:
+
+[p15 | prose | Engage workers about decisions on Health and Safety by Design]
+– WorkSafe’s good practice guidelines Worker Engagement, Participation and Representation.
+
+[p15 | prose | Engage workers about decisions on Health and Safety by Design]
+– WorkSafe’s interpretive guidelines Worker Representation through Health and Safety Representatives and Health and Safety Committees.
+
+[p15 | prose | Overlapping duties]
+Overlapping duties
+
+[p15 | prose | Overlapping duties]
+More than one PCBU can have a duty around the same matter. This might happen in a contracting chain, or when different PCBUs work on the same site. This is known as having ‘overlapping duties’.
+
+[p15 | prose | Overlapping duties]
+PCBUs must carry out their overlapping duties to the extent they have the ability to influence and control the matter. They must also, so far as is reasonably practicable, consult, cooperate, and coordinate activities with each other.
+
+[p15 | prose | Overlapping duties]
+Although PCBUs can’t contract out of their health and safety duties, contractual agreements can be one way of setting out health and safety expectations for each PCBU. Responsibility to consult, cooperate and coordinate with the designer also applies to contractors and sub-contractors who win a tender.
+
+[p15 | prose | Overlapping duties]
+For more information, see WorkSafe’s quick guide Overlapping Duties.
+
+[p15 | prose | Eliminating and minimising risk]
+Eliminating and minimising risk
+
+[p15 | prose | Eliminating and minimising risk]
+Risks to health and safety arise from people being exposed to hazards (anything that can cause harm). Managing risks involves identifying hazards and then assessing risk to determine which work risks to deal with first, and how the risks should be dealt with.
+
+[p15 | prose | Eliminating and minimising risk]
+PCBUs must eliminate health and safety risks arising from work so far as is reasonably practicable. If it’s not practicable to eliminate, they must minimise risks, so far as is reasonably practicable. This applies for matters that are within their ability to influence or control.
+
+[p15 | prose | Eliminating and minimising risk]
+More information on how designers can carry out risk assessments and manage risks can be found in Section 4 of these guidelines.
+
+[p15 | prose | Eliminating and minimising risk]
+For more information about ‘reasonably practicable’, see WorkSafe’s fact sheet Reasonably Practicable.
+
+[p16 | prose | 3.3 Additional duties for designer PCBUs]
+3.3 Additional duties for designer PCBUs
+
+[p16 | prose | 3.3 Additional duties for designer PCBUs]
+There are further duties for PCBUs who are designers, manufacturers, suppliers, importers and installers (so called upstream PCBUs). Upstream duties apply to any PCBU that:
+
+[p16 | prose | 3.3 Additional duties for designer PCBUs]
+– designs, manufactures, imports, or supplies structures, substances or plant to be used in a workplace; or
+
+[p16 | prose | 3.3 Additional duties for designer PCBUs]
+– installs, builds or commissions plant or structures to be used, that could be or reasonably expected to be used, as or at a workplace.
+
+[p16 | prose | 3.3 Additional duties for designer PCBUs]
+An upstream PCBU’s duties are important because upstream duty-holders can influence the safety of products and structures before they’re used in work. This may help to eliminate risks. Table 1 below provides an overview of these duties for designer PCBUs.
+
+[p16 | prose | Duties of designer PCBUs]
+Duties of designer PCBUs
+
+[p16 | table | Duties of designer PCBUs]
+| reasonably practicable, make sure that structures, plant and substances are without health and safety risk | safety people - use the plant, substance or structure at a workplace for its designed purpose - handle the substance at a workplace = store the plant or substance at a workplace construct the structure at a workplace carry out reasonably foreseeable workplace activities (such as inspection, cleaning, maintenance or repair) in relation to: - the manufacture, assembly or use of the plant, substance or structure for its designed or manufactured purpose - the proper storage, handling, decommissioning, dismantling or disposal of the plant, substance or structure are at or near a workplace, and are exposed to the plant, substance or structure, or whose health and safety may be affected by a work activity listed above. |
+| --- | --- |
+| Duty to test | Carry out calculations, analyses, tests or examinations needed to make sure the structure, plant or substance designed is without health and safety risks so far as is reasonably practicable (or arrange the carrying out of such tests). Note: Where multiple designers are contributing to a project, they all hold responsibilities to carry out their testing duties for the individual parts that they are designing. |
+| Duty to provide information | Provide adequate information to people who are provided with the design of the plant, structure or substance. This includes information about: - the purpose for which the plant, substance or structure was designed - the results of any calculations, analyses, tests or examinations carried out to make sure the plant, substance or structure is without health and safety risks (in relation to a substance, this includes any hazardous properties of the substance identified by testing) any conditions necessary to make sure the plant, substance or structure is without health and safety risks when used for its designed purpose, or when being handled, stored, constructed, or other foreseeable activities such as inspection, cleaning, maintenance, or repair in relation to: - the manufacture, assembly or use of the plant, substance or structure for its designed or manufactured purpose - the proper storage, handling, decommissioning, dismantling or disposal of the plant, substance or structure. On request, make reasonable efforts to give the current relevant specified information on the purpose, results of calculations, analysis, testing and examination, conditions necessary to make sure it is without risk to a person who carries out or is to carry out work activities listed above with the plant, structure or substance. |
+
+[p16 | prose | Duties of designer PCBUs]
+TABLE 1: Duties of designer PCBUs (based on the requirements in Section 39 of HSWA)
+
+[p16 | prose | Duties of designer PCBUs]
+For further guidance on HSWA, see WorkSafe’s special guide Introduction to the Health and Safety at Work Act 2015.
+
+[p16 | prose | Duties of designer PCBUs]
+For information on what ‘reasonably practicable’ means, see WorkSafe’s fact sheet Reasonably Practicable.
+
+[p17 | prose | Duties of designer PCBUs]
+Other legislation may affect work health and safety (eg the Gas Act 1992 and the Building Act 2004). Where two pieces of legislation apply, the duty holder needs to follow both. HSWA addresses such overlaps by providing that other legislative requirements may be considered when deciding if health and safety duties are being met. However, duty holders may need to do more than what other legislation requires to meet HSWA duties.
+
+[p17 | prose | Duties of designer PCBUs]
+Example: An architect that designs a building has duties under HSWA to ensure health and safety, and must also ensure the design complies with the Building Act. Under HSWA the requirements of the Building Act will be taken into account in determining what is required to comply with the architect’s HSWA duties.
+
+[p17 | prose | 3.4 Roles and responsibilities in Health and Safety by Design]
+3.4 Roles and responsibilities in Health and Safety by Design
+
+[p17 | prose | 3.4 Roles and responsibilities in Health and Safety by Design]
+Throughout the design process of a structure, plant or substance, different people contribute ideas, solutions and knowledge to help manage health and safety risks. PCBUs involved in the design process must consult, cooperate with, and coordinate activities with each other, so far as is reasonably practicable. In general, the more influence and control a PCBU has over a health and safety matter, the more responsibility it is likely to have.
+
+[p17 | prose | 3.4 Roles and responsibilities in Health and Safety by Design]
+Figure 3 describes the roles of designers, the manufacturer of the design, the supplier of the manufactured product and the end-user. Adequate information or instructions for safe use should be made available between all the identified parties.
+
+[p17 | table | 3.4 Roles and responsibilities in Health and Safety by Design]
+| Client - commissions the design - could be the end user | Designer/ Design team - designs the plant, structure, or substance | Manufacturer/ Constructor - builds or assembles the plant, structure, or substance - could be the supplier | Supplier - sells the plant, structure or substance for use in the workplace - could be the manufacturer | End-user - the PCBU that will use the product |
+| --- | --- | --- | --- | --- |
+| Consults, cooperates and coordinates with the designer/design team, so far as is reasonably practicable. | Consults, cooperates and coordinates with the manufacturer/constructor of their design, so far as is reasonably practicable. Provides information to the manufacturer/constructor about the purpose of the plant, structure or substance, the results of any calculations, testing etc to make sure that risks are minimised so far as is reasonably practicable, and any conditions necessary to make sure that risks are minimised so far as is reasonably practicable (when used for its designed purpose or when being inspected, cleaned maintained or repaired). On request, provides information as described above to those who will manufacture or supply the structure, plant or substance. | Consults, cooperates and coordinates with the designer/design team, so far as is reasonably practicable. Health and safety risks they identify are referred back to the designer/design team for review. On request, provides information as described in Table 1 to those who sell or use the plant, structure or substance in the workplace. | On request, provides information as described in Table 1 to those who use the plant, structure or substance in the workplace. Should tell manufacturer/ onstructor of any faults they become aware of that may create health and safety risks. | Should tell supplier of any faults that may create health and safety risks. Can ask the supplier or manufacturer/constructor (may be the same PCBU) for information on a structure, plant or substance. |
+
+[p17 | prose | 3.4 Roles and responsibilities in Health and Safety by Design]
+FIGURE 3: Roles and responsibilities in Health and Safety by Design
+
+[p19 | prose | Health and Safety by Design consists of five key principles.]
+Health and Safety by Design consists of five key principles.
+
+[p19 | prose | 4.1 Key principles of Health and Safety by Design]
+4.1 Key principles of Health and Safety by Design
+
+[p19 | prose | 4.1 Key principles of Health and Safety by Design]
+As shown in Figure 4, WorkSafe’s approach to Health and Safety by Design outlines five key principles. They are discussed in more detail below.
+
+[p19 | prose | People]
+People
+
+[p19 | prose | A CAPABLE TEAM]
+A CAPABLE TEAM
+
+[p19 | prose | A CAPABLE TEAM]
+Combining great design and risk management can be achieved with a team of capable people. Consultation, coordination and cooperation are essential, particularly between the client and the designer. Teams need strong leadership, technical knowledge, and an understanding of the workplace that products will be used in including how they will be used. A team should be made up of capable people with a variety of different skills and knowledge, and should include workers who will use the structure, plant or substance.
+
+[p19 | table | A CAPABLE TEAM]
+| Teams could include:– an effective facilitator who has experience in Health and Safety by Design– workers and their representatives (eg Health and Safety Representatives)– managers– designers– engineers– architects– human factors professionals– industrial designers– software designers | – supply chain stakeholders– health and safety advisors– technical experts– builders– owners– insurers. |
+| --- | --- |
+
+[p20 | prose | A CAPABLE TEAM]
+People who have responsibility for designing work processes and systems have a key role in Health and Safety by Design. This includes a wide range of work health and safety professionals such as:
+
+[p20 | prose | A CAPABLE TEAM]
+– generalist health and safety practitioners
+
+[p20 | prose | A CAPABLE TEAM]
+– occupational hygienists
+
+[p20 | prose | A CAPABLE TEAM]
+– hazardous substances professionals
+
+[p20 | prose | A CAPABLE TEAM]
+– safety, risk and reliability engineers
+
+[p20 | prose | A CAPABLE TEAM]
+– occupational health physicians and nurses
+
+[p20 | prose | A CAPABLE TEAM]
+– human factors professionals/ergonomists.
+
+[p20 | prose | A CAPABLE TEAM]
+A team of capable people may hold these skills:
+
+[p20 | prose | A CAPABLE TEAM]
+– knowledge of work health and safety legislation, good practice guidance and other regulatory requirements
+
+[p20 | prose | A CAPABLE TEAM]
+– an understanding of the intended purpose of the design
+
+[p20 | prose | A CAPABLE TEAM]
+– knowledge of risk management processes
+
+[p20 | prose | A CAPABLE TEAM]
+– knowledge of technical design standards
+
+[p20 | prose | A CAPABLE TEAM]
+– an appreciation of construction methods and their impact on the design
+
+[p20 | prose | A CAPABLE TEAM]
+– the ability to source and apply relevant data on human dimensions, capacities and behaviours.
+
+[p20 | prose | A CAPABLE TEAM]
+For further information on competency in Health and Safety by Design, see HSE’s Competency Guide: www.hse.gov.uk/construction/areyou/designer.htm
+
+[p20 | prose | Risk management]
+Risk management
+
+[p20 | prose | A LIFECYCLE APPROACH]
+A LIFECYCLE APPROACH
+
+[p20 | prose | A LIFECYCLE APPROACH]
+Choosing inherently safer and healthier options should be the initial consideration when selecting which solution or technology to apply, even before entering the design process. When in the design process, Health and Safety by Design is most effective when applied at the earliest stage. Health and Safety by Design principles should be applied throughout the lifecycle of the the thing being designed – from the concept through to decommissioning and disposal.
+
+[p20 | prose | A LIFECYCLE APPROACH]
+The lifecycle encompasses design, planning, assembly, installation, construction, manufacture, commissioning, use, handling, cleaning, maintenance, inspection, repair, transport, storage, dismantling, demolition, or carrying out any reasonably foreseeable activity/work for a purpose for which it was designed.
+
+[p20 | prose | Procurement]
+Procurement
+
+[p20 | prose | Procurement]
+Health and Safety by Design principles should be embedded throughout the procurement process.
+
+[p20 | prose | Procurement]
+For example:
+
+[p20 | prose | Procurement]
+– consult with end user representatives in pre-design or early design phases
+
+[p20 | prose | Procurement]
+– choose designers, contractors or consultants who are proven and able to deliver key Health and Safety by Design principles
+
+[p20 | prose | Procurement]
+– ensure that Health and Safety by Design expectations (evidence, standards, documents, communications etc) are included in procurement and contract processes
+
+[p20 | prose | Procurement]
+– choose materials and products based on Health and Safety by Design considerations
+
+[p20 | prose | Procurement]
+– bring suppliers into the consultation and design process to collectively engineer or design solutions.
+
+[p20 | prose | Procurement]
+Figure 5 shows the different lifecycle stages of a structure, plant or substance.
+
+[p21 | prose | Health and Safety]
+Health and Safety
+
+[p21 | prose | A RISK MANAGEMENT APPROACH]
+A RISK MANAGEMENT APPROACH
+
+[p21 | prose | A RISK MANAGEMENT APPROACH]
+Risks to health and safety arise from people being exposed to hazards (anything that can cause harm). This includes workers and others. Designers must eliminate health and safety risks arising from work so far as is reasonably practicable. If it’s not practicable to eliminate, they must minimise risks, so far as is reasonably practicable. Designers should take a systematic approach when identifying and managing work risks that are within their ability to influence or control. Figure 6 outlines an approach that can be taken.
+
+[p22 | prose | A RISK MANAGEMENT APPROACH]
+Seek the views of your workers and their representatives when assessing work risks or making decisions about ways to manage risk. Your workers will have operational day-to-day knowledge that will be invaluable.
+
+[p22 | prose | A RISK MANAGEMENT APPROACH]
+Key information about identified risks and action taken or required to control them should be recorded and transferred from the design phase to those involved in later stages of the project lifecycle. Communicating this information to other duty holders will make them aware of any residual risks and reduce the likelihood of safety features incorporated into the design being altered or removed.
+
+[p22 | prose | A RISK MANAGEMENT APPROACH]
+Wherever possible, design safety reviews should involve the people who will eventually construct, manufacture or maintain the structure, plant or substance. If this is not possible, the client and designer should include people with knowledge and experience in the construction and maintenance processes in the design safety reviews. Their expertise will help with identifying health and safety issues which may have been overlooked in the design.
+
+[p22 | prose | A RISK MANAGEMENT APPROACH]
+Designers can use the hierarchy of controls (Figure 7) to help them work out the most effective control measures, so far as is reasonably practicable. Table 2 describes the types of control measures.
+
+[p23 | table | A RISK MANAGEMENT APPROACH]
+| ACTION |  | WHAT IS THIS? | EXAMPLE |
+| --- | --- | --- | --- |
+|  | Eliminating | Removing the sources of harm (eg equipment, substances or work processes). | Removing a trip risk or getting faulty equipment repaired. Prefabrication of components to eliminate cutting (to eliminate risks from airborne contaminants, vibrations and noise). Using non-toxic glue instead of a toxic glue. |
+|  | Substituting | Substituting (wholly or partly) the hazard giving rise to the risk with something that gives rise to a lesser risk (eg using a less hazardous thing, substance or work practice). | Buying quiet plant, equipment and vehicles. Using methods that produce less vibration (eg using a cut off saw instead of an angle grinder). |
+|  | Isolating/ preventing contact | Isolating the hazard giving rise to the risk to prevent any person coming into contact with it (eg by separating people from the hazard/preventing people being exposed to it). Isolation focuses on boxing in the hazard or boxing in people | Fitting screens or putting up safety barriers around the hazard for example: - welding screens to isolate welding operations from other workers - barriers and/or boundary lines to separate areas where forklifts operate near pedestrians. Using fully automated processes, for example: - an automated arm to remove objects from degreasing baths |
+|  | to keep them away from the hazard. | - fully automated spray booths that don’t require anyone to enter. |  |
+| Minimising | Using engineering control measures | Using physical control measures including mechanical devices or processes. | Modifying tools or equipment, or fitting guards to machinery. Using extraction ventilation to remove harmful substances. |
+| Using administrative control measures | Using safe methods of work, processes or procedures designed to minimise risk. | Requiring all people to walk only within the painted pedestrian zones when on the factory floor. Having emergency plans and evacuation procedures in place. |  |
+|  | It does not include an engineering control measure, or the wearing or use of personal protective equipment. | Having exclusion zones so workers don’t unnecessarily go near noisy or dangerous equipment or tasks. Reducing the time workers need to spend in a hazardous area, to reduce exposure. |  |
+| Using personal protective equipment (PPE) | Using safety equipment to protect against harm. PPE acts by reducing exposure to, or contact with, the hazard. | Using safety glasses, overalls, gloves, helmets, respiratory gear and ear muffs associated with jobs such as handling chemicals or working in a noisy environment. PPE is the least effective type of control measure and should not be the first or only control measure considered. |  |
+
+[p23 | prose | TABLE 2: Types of control measures]
+TABLE 2: Types of control measures
+
+[p23 | prose | TABLE 2: Types of control measures]
+When considering risk management, designers should think about:
+
+[p23 | prose | TABLE 2: Types of control measures]
+– capability of workers who will use the product
+
+[p23 | prose | TABLE 2: Types of control measures]
+– control measures that protect multiple people at once.
+
+[p23 | prose | TABLE 2: Types of control measures]
+– Risks must be eliminated so far as is reasonably practicable. If a risk can’t be eliminated, it must be minimised so far as is reasonably practicable.
+
+[p23 | prose | TABLE 2: Types of control measures]
+– Risk management is not just hazard spotting. Risk management involves identifying and then assessing which work risks to deal with. Risk has two components – the likelihood that it will occur and the consequences (degree of harm) if it happens. To manage risk, you can reduce how serious the harm is if it does occur and/or reduce the chances of it occurring, or ideally both.
+
+[p23 | prose | TABLE 2: Types of control measures]
+– Check if there are widely used control measures (eg industry standards) for that risk. However, just because something is a common practice doesn’t mean that it’s the most reasonably practicable option. You should focus on the most effective control measures for the risks.
+
+[p24 | prose | TABLE 2: Types of control measures]
+– The management of risk needs to be appropriate/proportionate for the scale of the risk. This means risks with potentially significant consequences (eg chronic ill-health, serious injury, and death) may require more effort and resources to determine the most effective way to manage the risk.
+
+[p24 | prose | TABLE 2: Types of control measures]
+– You may need to use multiple control measures to adequately deal with a given risk.
+
+[p24 | prose | TABLE 2: Types of control measures]
+For more advice on managing risks, see WorkSafe’s quick guide Identifying, Assessing and Managing Work Risks.
+
+[p24 | prose | TABLE 2: Types of control measures]
+The following tools and techniques may be useful for identifying and assessing risks at the design stage.
+
+[p24 | prose | TABLE 2: Types of control measures]
+– HAZOP: Hazard and operability review
+
+[p24 | prose | TABLE 2: Types of control measures]
+– HAZOP: Computer/Control HAZOP
+
+[p24 | prose | TABLE 2: Types of control measures]
+– HAZOP: Electrical HAZOP
+
+[p24 | prose | TABLE 2: Types of control measures]
+– HAZID: Hazard identification
+
+[p24 | prose | TABLE 2: Types of control measures]
+– ENVID: Environmental hazard identification
+
+[p24 | prose | TABLE 2: Types of control measures]
+– HAZAN: Hazard analysis
+
+[p24 | prose | TABLE 2: Types of control measures]
+– FMEA: Failure mode and effects analysis
+
+[p24 | prose | TABLE 2: Types of control measures]
+– ETA: Event tree analysis
+
+[p24 | prose | TABLE 2: Types of control measures]
+– FTA: Fault tree analysis
+
+[p24 | prose | TABLE 2: Types of control measures]
+– LOPA: Layers of protection analysis
+
+[p24 | prose | TABLE 2: Types of control measures]
+– MSRA: Machine safety risk assessment
+
+[p24 | prose | TABLE 2: Types of control measures]
+The risks that designers of structures, plant and substances may encounter and possible control measures are discussed in Sections 5, 6 and 7 of these guidelines.
+
+[p24 | prose | Quality management systems]
+Quality management systems
+
+[p24 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+GOOD DOCUMENTATION AND COMMUNICATION
+
+[p24 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+Health and safety aspects of the design should be reflected in the requirements of contract documents for the construction/manufacture stage and help with the selection of suitable and competent contractors for the project. Consultation, cooperation and coordination are an important part of quality management.
+
+[p24 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+Designers must provide adequate information to people who will be using the design. Information about identified health and safety risks, how they were assessed during the design process, and the control measures used should be documented, and applicable standards and decision pathways recorded throughout the design process.
+
+[p24 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+Providing this information to others involved later in the lifecycle is necessary to make them aware of any leftover risks and the methods used to minimise risk. This includes training needed at any stage of the structure, plant or substance’s lifecycle.
+
+[p24 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+Points for designers to consider when providing information include:
+
+[p24 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+– making notes on drawings
+
+[p24 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+– providing information on:
+
+[p24 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+- significant hazards, hazardous substances or flammable materials
+
+[p24 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+- heavy or awkward prefabricated elements likely to create handling risks
+
+[p24 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+features that create access problems
+
+[p25 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+temporary work required to construct or renovate the building as designed
+
+[p25 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+features of the design essential to safe operation
+
+[p25 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+- methods of access where normal methods of securing scaffold are not available
+
+[p25 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+- any parts of the design where risks have been minimised but not eliminated
+
+[p25 | prose | GOOD DOCUMENTATION AND COMMUNICATION]
+- providing risk registers that describe the significant risks identified alongside the mitigation measures adopted or proposed to manage the risk.
+
+[p25 | prose | INFORMATION FORMATS]
+INFORMATION FORMATS
+
+[p25 | prose | Design safety report]
+Design safety report
+
+[p25 | prose | Design safety report]
+One method of communicating specific health and safety information relating to the design of a structure/plant is by providing a Design Safety Report. The Design Safety Report should include information about:
+
+[p25 | prose | Design safety report]
+– the purpose of the structure/plant as communicated by the client in the project brief
+
+[p25 | prose | Design safety report]
+– the parties consulted in undertaking the design
+
+[p25 | prose | Design safety report]
+– the hazards and risks identified during the design process, and control measures incorporated into the design, specifically in relation to:
+
+[p25 | prose | Design safety report]
+- any hazardous materials specified in the design
+
+[p25 | prose | Design safety report]
+- any unusual or atypical features requiring specific attention during construction and manufacture
+
+[p25 | prose | Design safety report]
+- any features of the design which present specific risks
+
+[p25 | prose | Design safety report]
+the recommended control measures for any foreseeable activities (eg operation, maintenance, repair, dismantling, demolition, disposal) to be carried out during the life of the structure/plant when used for its intended purpose.
+
+[p25 | prose | Records: Work health and safety file]
+Records: Work health and safety file
+
+[p25 | prose | Records: Work health and safety file]
+The development of a work health and safety file (containing all relevant information for a structure/plant) will assist the designer to meet the duty to provide information to others. It could include copies of all relevant health and safety information the designer prepared and used in the design process, such as the Design Safety Report, risk register, product technical statements, safety data sheets, manuals and procedures for safe maintenance, dismantling or eventual demolition.
+
+[p25 | prose | Consulting your workers]
+Consulting your workers
+
+[p25 | prose | Consulting your workers]
+If you are:
+
+[p25 | prose | Consulting your workers]
+– commissioning a new workplace
+
+[p25 | prose | Consulting your workers]
+– commissioning a new piece of plant, or
+
+[p25 | prose | Consulting your workers]
+– refurbishing your existing workplace,
+
+[p25 | prose | Consulting your workers]
+you must consult with your workers who will be using the workplace or plant. Their health and safety may be affected by the new design.
+
+[p26 | prose | FREQUENT MONITORING AND REVIEW]
+FREQUENT MONITORING AND REVIEW
+
+[p26 | prose | FREQUENT MONITORING AND REVIEW]
+Ongoing monitoring and review throughout design and the lifecycle improves outcomes and allows for variation as new information arises, such as unexpected risks. It will also confirm whether the Health and Safety by Design intent is being achieved. Change management processes will be necessary.
+
+[p26 | prose | FREQUENT MONITORING AND REVIEW]
+Here are some ways you can monitor and review your control measures:
+
+[p26 | prose | FREQUENT MONITORING AND REVIEW]
+– Monitor the effectiveness of all steps of the risk management process. This is important for continuous improvement. Monitor risks and the effectiveness of control measures. Make sure that control measures have not introduced any new risks, and that control measures are effectively managing the risks.
+
+[p26 | prose | FREQUENT MONITORING AND REVIEW]
+– On-going review ensures that the data obtained through monitoring is available for feedback into the system.
+
+[p26 | prose | FREQUENT MONITORING AND REVIEW]
+– Make sure that the safety recommendations and residual risks within the design are documented for users ‘downstream’ in the lifecycle.
+
+[p26 | prose | FREQUENT MONITORING AND REVIEW]
+– Take steps to make sure that essential modifications and maintenance are carried out and documented for future users.
+
+[p26 | prose | FREQUENT MONITORING AND REVIEW]
+– Designs or redesigns should be continually monitored and adjusted to adapt to changes in the workplace. Make sure that new information is used to improve design.
+
+[p26 | prose | FREQUENT MONITORING AND REVIEW]
+– As the design progresses and design decisions become more fine-tuned and detailed, there are still opportunities for managing risks. Wherever possible, design safety reviews should involve the people who will eventually construct the structure, plant or substance. If this is not possible, the client and designer should include people with the right knowledge and experience. Their expertise will assist in identifying health and safety issues which may have been overlooked in the design. Peer review of design and risk assessment from industry/professional groups is encouraged. This approach can encourage collaboration and professional development.
+
+[p26 | prose | Change management4]
+Change management4
+
+[p26 | prose | Change management4]
+A robust change management process based on good training and awareness should be implemented and maintained throughout the entire asset life cycle. A formal change approval process should be in place, and this should specifically require any health and safety implications to be considered. For Health and Safety by Design, considerations may include questions such as:
+
+[p26 | prose | Change management4]
+– Does the change impact on the design intent?
+
+[p26 | prose | Change management4]
+– Does the change impact on the design risk register?
+
+[p26 | prose | Change management4]
+– Does the change affect an item identified as a safety or health risk mitigation?
+
+[p26 | prose | Change management4]
+– Does the change challenge the safe design envelope?
+
+[p26 | prose | Change management4]
+– Does the change introduce new risks?
+
+[p26 | prose | Change management4]
+– Does the change result in excessive schedule pressure that may compromise the quality of deliverables?
+
+[p26 | prose | Change management4]
+– Does the change impact on the methodology?
+
+[p26 | prose | Change management4]
+– Does the change impact on the risk register?
+
+[p26 | prose | Change management4]
+– Does the change require changes to organisational structures?
+
+[p26 | prose | Change management4]
+– Does the change require changes to work practices, such as moving to an outsourced model for maintenance, engineering or project management?
+
+[p28 | prose | The process of designing structures is separated into three distinct phases.]
+The process of designing structures is separated into three distinct phases.
+
+[p28 | prose | 5.1 Designing structures]
+5.1 Designing structures
+
+[p28 | prose | 5.1 Designing structures]
+This section provides information to designers of structures. A designer of structures is a PCBU whose profession, trade or business may involve them:
+
+[p28 | prose | 5.1 Designing structures]
+– preparing sketches, plans, calculations, specifications, instructions or drawings for a structure, including variations to a plan or changes to a structure
+
+[p28 | prose | 5.1 Designing structures]
+– making decisions for a design that may affect the health or safety of persons who fabricate, construct, occupy, use or carry out other activities in relation to the structure.
+
+[p28 | prose | PCBUs that design and work with structures could be:]
+PCBUs that design and work with structures could be:
+
+[p28 | prose | PCBUs that design and work with structures could be:]
+– architects, building designers, engineers, building surveyors, interior designers, landscape architects, town planners and all other design practitioners contributing to, or having overall responsibility for, any part of the design (eg drainage engineers designing the drain for a new subdivision)
+
+[p28 | prose | PCBUs that design and work with structures could be:]
+– building service designers, engineering firms or others designing services, including the design of seismic restraint systems, that are part of the structure such as ventilation, electrical systems and permanent fire extinguisher installations
+
+[p28 | prose | PCBUs that design and work with structures could be:]
+– contractors carrying out design work as part of their contribution to a project (eg an engineering contractor providing design, procurement and construction management services)
+
+[p28 | prose | PCBUs that design and work with structures could be:]
+– temporary works engineers, including those designing formwork, falsework, scaffolding and sheet piling
+
+[p28 | prose | PCBUs that design and work with structures could be:]
+– persons who specify how structural alteration, maintenance, demolition or dismantling work is to be carried out.
+
+[p29 | prose | PCBUs that design and work with structures could be:]
+For the purposes of these guidelines, ‘structures’ means anything that is constructed, whether fixed or moveable, temporary or permanent, and includes:
+
+[p29 | prose | PCBUs that design and work with structures could be:]
+– buildings, masts, towers, framework, pipelines, quarries, bridges, and underground works (including shafts or tunnels)
+
+[p29 | prose | PCBUs that design and work with structures could be:]
+– any component or part of a structure.
+
+[p29 | prose | PCBUs that design and work with structures could be:]
+Design includes:
+
+[p29 | prose | PCBUs that design and work with structures could be:]
+– the design of any part of the structure
+
+[p29 | prose | PCBUs that design and work with structures could be:]
+– the alteration or modification of a design.
+
+[p29 | prose | PCBUs that design and work with structures could be:]
+Design output includes:
+
+[p29 | prose | PCBUs that design and work with structures could be:]
+– drawings in any form
+
+[p29 | prose | PCBUs that design and work with structures could be:]
+– design detail
+
+[p29 | prose | PCBUs that design and work with structures could be:]
+– design instruction
+
+[p29 | prose | PCBUs that design and work with structures could be:]
+– scope of works documents relating to the structure.
+
+[p29 | prose | PCBUs that design and work with structures could be:]
+The safe design of a structure will always be part of a wider set of design objectives, including practicability, performance, aesthetics, cost and functionality. These sometimes competing objectives need to be balanced in a manner that does not compromise the health and safety of those who work on or use the structure over its life, which includes the maintenance and/or demolition of the structure.
+
+[p29 | prose | 5.2 Systematic steps for designing structures]
+5.2 Systematic steps for designing structures
+
+[p29 | prose | 5.2 Systematic steps for designing structures]
+Designing structures is a process with a series of steps. These are separated into three distinct phases, which are explained in more detail below:
+
+[p29 | prose | 5.2 Systematic steps for designing structures]
+– pre-design phase
+
+[p29 | prose | 5.2 Systematic steps for designing structures]
+– conceptual and schematic design phase
+
+[p29 | prose | 5.2 Systematic steps for designing structures]
+– design development phase.
+
+[p29 | prose | 5.2 Systematic steps for designing structures]
+Once risks have been identified, designers need to work out how they will manage them.
+
+[p29 | prose | 5.2 Systematic steps for designing structures]
+For more information on how to manage risk, see Figure 7 (hierarchy of controls) in Section 4 of these guidelines.
+
+[p30 | prose | Pre-design phase]
+Pre-design phase
+
+[p30 | prose | Pre-design phase]
+Figure 8 illustrates what is involved in the pre-design phase, starting with identifying the purpose of the structure:
+
+[p30 | prose | CONSULTATION]
+CONSULTATION
+
+[p30 | prose | CONSULTATION]
+The client should prepare a project brief that includes the safety requirements and objectives for the project. This will create a shared understanding of safety expectations between the client and designer.
+
+[p30 | prose | CONSULTATION]
+The client should give the designer all available information relating to the site that may affect health and safety.
+
+[p30 | prose | CONSULTATION]
+Designers should ask their clients about the types of activities likely or intended to be carried out in the structure, including the tasks of those who maintain, repair, service or clean the structure as part of its use.
+
+[p30 | prose | RESEARCH]
+RESEARCH
+
+[p30 | prose | RESEARCH]
+Information can be found from various sources to help with identifying, assessing and managing risks, including:
+
+[p30 | prose | RESEARCH]
+– HSWA and building laws, technical standards and WorkSafe or industry guidance
+
+[p30 | prose | RESEARCH]
+– industry statistics regarding injuries and incidents
+
+[p30 | prose | RESEARCH]
+– hazard alerts or other reports from: relevant statutory authorities, unions and business associations, specialists, professional bodies representing designers, and engineers’ research and testing done on similar designs.
+
+[p31 | prose | RESEARCH]
+Table 3 below illustrates some possible information sources for identifying hazards.
+
+[p31 | table | RESEARCH]
+| STEP | POSSIBLE TECHNIQUES |
+| --- | --- |
+| Initial discussions | Get information on the: | purpose of the structure, including plant, ancillary equipment and tasks ' industry injury profile and statistics and common risks and health and safety issues ' guidance from health and safety authorities and relevant industry associations, and standards ' known hazards and the consultation arrangements between the client and designer/design team. |
+| Pre-design preliminary risk analysis | Useful techniques may include the client doing a combination of these things: - holding workshops and discussions with people using or working on similar structures within the client company, including health and safety representatives holding an onsite assessment of an existing similar structure with feedback from its users researching information on similar structures, their associated hazards and relevant sources and stakeholder groups, then completing an analysis for their own design needs holding workshops with experienced people who will construct, use and maintain the new structure holding workshops with specialist consultants and experts in the health and safety risks using BIM (building information modelling) and other forms of modelling to view the physical and functional characteristics of the proposed structure. The Ministry of Business, Innovation and Employment (MBIE) website has some useful information about BIM and how this could be used throughout the design process. The use of digital information and modelling software applications like BIM in design development and delivery enhances the designer’s ability to anticipate, spot and foresee hazards and risks in the design. Designers can use these applications to enable locations, structures and plant to be accurately visualised, sequences of activity to be realistically demonstrated and construction programmes simulated. |
+| Determine what risks are ‘in-scope’ | Workshops/discussions to determine which risks are affected, introduced or increased by the design of the structure. |
+
+[p31 | prose | RESEARCH]
+TABLE 3: Information sources for identifying risks
+
+[p31 | prose | Conceptual and schematic design phase]
+Conceptual and schematic design phase
+
+[p31 | prose | Conceptual and schematic design phase]
+Risk identification should take place as early as possible in this phase. It is important that the risk identification is systematic and not limited to one or two people’s experiences of situations.
+
+[p31 | prose | Conceptual and schematic design phase]
+Broad groupings of risks should be identified before design scoping begins (Appendix B of these guidelines provides an indicative checklist of issues that should be considered). The designer and others involved should then decide which risks are ‘in scope’ of the steps of the risk management process, and should be considered in the design process. A risk is ‘in scope’ if it can be affected, introduced or increased by the design of the structure.
+
+[p31 | prose | Conceptual and schematic design phase]
+A system of work may also be classed as a risk if it is part of the construction method or intended use of the structure. The nature of the structure should also be taken into account.
+
+[p32 | table | Conceptual and schematic design phase]
+| Site of structure | Potential design issues that may cause health and safety risks are: - how close the structure is to nearby properties or roads - what the surrounding land is used for - special clearances needed for construction equipment existing structures that may need to be demolished nearby underground or overhead services nearby traffic flow condition of the work site safety of the public near the work site possible soil contamination and site stability. |
+| --- | --- |
+| Systems of work | Systems of work that could pose health and safety risks are: = rapid construction techniques such as prefabrication = dangerous materials that are used in construction = other work in the area vehicles and equipment used where there are pedestrians restricted access for building and plant maintenance manual tasks that could cause injuries and health problems exposure to violence technical and human factors, including how the structure could be misused site access for construction workers and material storage, handling or work with high energy and health hazards. |
+| Environmental or work conditions | adverse natural events such as cyclones, earthquakes and floods poor ventilation or lighting exposure to extremes of temperature high noise levels poor welfare facilities. |
+| Spatial planning and features | Appropriately sized amenities and facilities, including access, egress, space to perform tasks, fall prevention, confined spaces, surface treatments, sharp edges, height of features, roof pitch, material durability, site security, and traffic management. |
+| Incident mitigation | The risks following an unexpected event or emergency due to inadequate egress, siting of assembly areas, and inadequate emergency services access. |
+
+[p32 | prose | Conceptual and schematic design phase]
+TABLE 4: Framework for the preliminary risk identification
+
+[p32 | prose | Design development phase]
+Design development phase
+
+[p32 | prose | Design development phase]
+In this phase, the designer converts concepts for the structure into detailed drawings and technical specifications. They decide on control measures and prepare construction documentation. At that stage, the design is complete and can be handed to the client.
+
+[p32 | prose | Figure 9 illustrates what this phase involves.]
+Figure 9 illustrates what this phase involves.
+
+[p32 | prose | Figure 9 illustrates what this phase involves.]
+Developing a set of design options using the hierarchy of controls
+
+[p32 | prose | Figure 9 illustrates what this phase involves.]
+Choosing the safest and healthiest option, so far as is reasonably practicable to provide the highest level of protection for workers
+
+[p32 | prose | Figure 9 illustrates what this phase involves.]
+FIGURE 9: The design development phase
+
+[p32 | prose | Figure 9 illustrates what this phase involves.]
+Testing, trialling or evaluating the design solution
+
+[p32 | prose | Figure 9 illustrates what this phase involves.]
+Redesigning to control any residual risks
+
+[p32 | prose | Figure 9 illustrates what this phase involves.]
+Finalising the design, then preparing the safety report and other risk control information needed for the structure’s lifecycle
+
+[p32 | prose | Figure 9 illustrates what this phase involves.]
+Check if there are widely used control measures (eg industry standards) for that risk. However, just because something is a common practice doesn’t mean that it’s the most reasonably practicable option. You should focus on the most effective control measures for your circumstances.
+
+[p33 | prose | IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS]
+IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS
+
+[p33 | prose | IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS]
+The primary legislative provision governing the design of buildings and structures in New Zealand is the Building Act and the New Zealand Building Code (Building Code). In addition, there are technical and engineering guidelines and standards produced by other government agencies, Standards New Zealand and relevant professional bodies. The main focus is to make sure that structures meet acceptable standards for structural soundness, safety, health and amenity.
+
+[p33 | prose | IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS]
+The design should include technical provisions for:
+
+[p33 | prose | IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS]
+– structural soundness
+
+[p33 | prose | IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS]
+– fire spread within and between buildings
+
+[p33 | prose | IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS]
+– building occupant entry and exit
+
+[p33 | prose | IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS]
+– fire-fighting equipment
+
+[p33 | prose | IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS]
+– presence or use of hazardous substances
+
+[p33 | prose | IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS]
+– smoke hazard management and
+
+[p33 | prose | IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS]
+– emergency services access to buildings.
+
+[p33 | prose | IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS]
+Health and safety amenity aspects such as ventilation, lighting, Legionella controls, sanitary facilities and damp and weatherproofing measures should also be covered.
+
+[p33 | prose | IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS]
+For information about preventing Legionnaires’ disease see WorkSafe’s guidance Preventing Legionnaires’ disease from cooling towers and evaporative condensers.
+
+[p33 | prose | IMPLEMENT SOLUTIONS FROM RECOGNISED STANDARDS]
+The Building Code refers to New Zealand and Australia/New Zealand Standards, but designers should be aware that these may not adequately manage risks if applied to a situation outside that contemplated in the Standard or if the Standard is out-dated. The Building Code also does not provide guidance for some specialised structures such as major hazard facilities (eg refineries).
+
+[p33 | prose | ASSESSING RISK]
+ASSESSING RISK
+
+[p33 | prose | ASSESSING RISK]
+A risk assessment looks at what could happen if someone is exposed to a hazard, and how likely this is to happen. It is important that those involved in a risk assessment have the information, knowledge and experience of the work environment to make informed decisions.
+
+[p33 | prose | ASSESSING RISK]
+If similar tasks or processes apply for a number of projects, a general risk assessment model may be appropriate. However, the designer is still responsible for ensuring that the generic assessment is valid for the project, before deciding to adopt it.
+
+[p33 | prose | ASSESSING RISK]
+Risk assessment methods for assessing design safety may include:
+
+[p33 | prose | ASSESSING RISK]
+– fact finding to determine possible health and safety risks
+
+[p33 | prose | ASSESSING RISK]
+– testing design assumptions to make sure that no aspect of it is based on incorrect beliefs or anticipations on the part of the designer
+
+[p33 | prose | ASSESSING RISK]
+– testing of structures or components specified for use in the construction, end use and maintenance
+
+[p33 | prose | ASSESSING RISK]
+– talking with key people who have the knowledge to control or influence the design (such as the architect, client, construction manager, engineers, project managers, and health and safety representatives)
+
+[p34 | prose | ASSESSING RISK]
+– talking with key people who have the knowledge to identify and assess risks
+
+[p34 | prose | ASSESSING RISK]
+– when designing for the renovation or demolition of existing buildings, reviewing previous design documentation or information recorded about the design structure and any alterations to address health and safety concerns
+
+[p34 | prose | ASSESSING RISK]
+– talking with professional industry and worker associations, and local authorities, who could help with risk assessments for the type of work and workplace
+
+[p34 | prose | ASSESSING RISK]
+– ensuring you don’t fall into traps in risk assessment such as:
+
+[p34 | prose | ASSESSING RISK]
+- carrying out a risk assessment to attempt to justify a decision that has already been made
+
+[p34 | prose | ASSESSING RISK]
+- using a generic assessment when a site-specific assessment is needed
+
+[p34 | prose | ASSESSING RISK]
+- carrying out a risk assessment using bad practice
+
+[p34 | prose | ASSESSING RISK]
+- only considering the risk from one activity
+
+[p34 | prose | ASSESSING RISK]
+- not involving a team of relevantly skilled people in the assessment or not including workers with practical knowledge of the process/activity being assessed
+
+[p34 | prose | ASSESSING RISK]
+ineffective use of consultants
+
+[p34 | prose | ASSESSING RISK]
+failure to identify all risks associated with a particular activity
+
+[p34 | prose | ASSESSING RISK]
+failure to fully consider all possible outcomes
+
+[p34 | prose | ASSESSING RISK]
+inappropriate use of data
+
+[p34 | prose | ASSESSING RISK]
+inappropriate use of risk criteria (the measures you compare risk against to decide if it’s acceptable or not)
+
+[p34 | prose | ASSESSING RISK]
+- no consideration of ‘reasonably practicable’ or further measures that could be taken
+
+[p34 | prose | ASSESSING RISK]
+inappropriate use of cost benefit analysis
+
+[p34 | prose | ASSESSING RISK]
+- using ‘Reverse Reasonably Practicable’ arguments (ie using cost benefit analysis to attempt to argue that it is acceptable to reduce existing health and safety standards)
+
+[p34 | prose | ASSESSING RISK]
+- not doing anything with the results of the assessment
+
+[p34 | prose | ASSESSING RISK]
+- not linking hazards with risk controls.
+
+[p34 | prose | When thinking about which control measures to implement:]
+When thinking about which control measures to implement:
+
+[p34 | prose | When thinking about which control measures to implement:]
+– look specifically at risks that a capable user would not be expected to be aware of
+
+[p34 | prose | When thinking about which control measures to implement:]
+– look at where leftover risks remain, and make sure the builder and other relevant stakeholders are aware of these
+
+[p34 | prose | When thinking about which control measures to implement:]
+– look at the interaction of hazards in the assessment of their risks and implementation of control measures
+
+[p34 | prose | When thinking about which control measures to implement:]
+– assess alternative control measures for their suitability.
+
+[p35 | table | When thinking about which control measures to implement:]
+| STEP | POSSIBLE TECHNIQUES | BY WHOM |
+| --- | --- | --- |
+| Identify solutions from regulations, good practice guidance and recognised standards | Talk with all relevant people to figure out which risks can be addressed with recognised standards. Plan the risk management process for other hazards. | Designer led. Health and Safety by Design team input. Client approval of decisions. |
+| Apply risk management techniques | Further detailed information may be needed on risks, for example by: - using checklists and referring to guidance material - job/task analysis techniques. A variety of risk assessment measures can be used to check the | Designer led. Client provides further information as agreed in the planned risk |
+| Discuss design options | Take into account how design decisions influence risks when discussing control measure options. | Designer led. Client contributing. Health and Safety by Design team input. |
+| Design finalisation | Check that the evaluation of control measures is complete and accurate. Prepare information about risks to health and safety for the structure that remain after the design process. | Designer led. Client and designer agree with final result. Health and Safety by Design team input. |
+| Potential changes in construction stage | Make sure that changes which affect design do not increase risks. | Construction team in consultation with designer and client. Health and Safety by Design |
+| team input. |  |  |
+|  |  |  |
+
+[p35 | prose | When thinking about which control measures to implement:]
+TABLE 5: The design process
+
+[p35 | prose | DESIGN CONSIDERATIONS]
+DESIGN CONSIDERATIONS
+
+[p35 | prose | DESIGN CONSIDERATIONS]
+There are different design options to manage risks throughout a structure’s lifecycle. Figure 10 illustrates these, and examples are given below.
+
+[p36 | prose | Design for safe construction]
+Design for safe construction
+
+[p36 | prose | Design for safe construction]
+Below are some examples of control measures relating to the construction of a structure:
+
+[p36 | prose | Design for safe construction]
+– providing enough clearance between the structure and overhead electric lines by burying, disconnecting or re-routing cables before construction begins
+
+[p36 | prose | Design for safe construction]
+– designing components that can be made off-site or on the ground – this reduces falls from heights or being struck by falling objects
+
+[p36 | prose | Design for safe construction]
+– designing parapets to a height that complies with guardrail requirements – this eliminates the need to construct guardrails during construction and provides future edge protection for work at heights
+
+[p36 | prose | Design for safe construction]
+– using continual support beams for beam-to-column double connections – this will provide continual support for beams during erection, and will reduce the risk of falls due to unexpected vibration, unexpected construction loads and misalignment
+
+[p36 | prose | Design for safe construction]
+– designing and constructing permanent stairways to help prevent falls and other hazards associated with temporary stairs and scaffolding
+
+[p36 | prose | Design for safe construction]
+– reducing the space between roof trusses and battens to reduce the risk of internal falls during roof construction
+
+[p36 | prose | Design for safe construction]
+– choosing construction materials that are safe to handle
+
+[p36 | prose | Design for safe construction]
+– designing in aids for lifting during construction (eg provision of lifting lugs to roof-top air conditioning plants)
+
+[p36 | prose | Design for safe construction]
+– limiting the size of pre-made wall panels where site access is restricted, including glass panels used for cladding or other purposes
+
+[p36 | prose | Design for safe construction]
+– selecting building materials, paints or other finishes that emit low levels of dangerous vapours
+
+[p36 | prose | Design for safe construction]
+– indicating, where practicable, the position and height of all electric lines to help with site safety procedures
+
+[p36 | prose | Design for safe construction]
+– maintaining safe smooth access, so far as is reasonably practicable, throughout the site for separately moving people, materials and vehicles
+
+[p36 | prose | Design for safe construction]
+– designing components that can be partially finished off-site or prefabricated (so far as is reasonably practicable) to reduce exposure during construction to substances hazardous to health such as dusts, paints, glues etc.
+
+[p36 | prose | Design to facilitate safe use]
+Design to facilitate safe use
+
+[p36 | prose | Design to facilitate safe use]
+Consider the intended function of the structure, including the likely systems of use, and the type of machinery and equipment that may be used.
+
+[p36 | prose | Design to facilitate safe use]
+Consider whether workers may be exposed to specific hazards, such as manual tasks in health facilities, workplace violence in law enforcement facilities, or dangerous goods storage in warehouses.
+
+[p36 | prose | Design to facilitate safe use]
+Below are some examples of how risks relating to a structure’s use can be managed by:
+
+[p36 | prose | Design to facilitate safe use]
+– designing traffic areas to separate vehicles and pedestrians, including adequate access for delivery of construction material and plant to the site
+
+[p36 | prose | Design to facilitate safe use]
+– designing in access for maintenance purposes (eg fixed stairs to a machine room)
+
+[p36 | prose | Design to facilitate safe use]
+– using non-slip materials on floor surfaces in areas exposed to the weather or dedicated wet areas
+
+[p37 | prose | Design to facilitate safe use]
+– providing enough space within the structure to safely install, operate and maintain plant
+
+[p37 | prose | Design to facilitate safe use]
+– providing enough lighting for intended tasks in the structure
+
+[p37 | prose | Design to facilitate safe use]
+– designing spaces in which workers can use mechanical plant or tools to reduce manual task risks
+
+[p37 | prose | Design to facilitate safe use]
+– designing access to structures that will serve a specific purpose, such as wide corridors for wheelchairs in hospitals
+
+[p37 | prose | Design to facilitate safe use]
+– designing effective noise barriers and acoustical treatments to walls and ceilings
+
+[p37 | prose | Design to facilitate safe use]
+– designing the structure to isolate noisy plant
+
+[p37 | prose | Design to facilitate safe use]
+– designing floor loadings to accommodate heavy machinery that may be used in the structure
+
+[p37 | prose | Design to facilitate safe use]
+– clearly indicating on documents the design loads for different parts of the structure
+
+[p37 | prose | Design to facilitate safe use]
+– designing for specific task demands
+
+[p37 | prose | Design to facilitate safe use]
+– considering for potential future use
+
+[p37 | prose | Design to facilitate safe use]
+– designing to accommodate the physical characteristics of different users
+
+[p37 | prose | Design to facilitate safe use]
+– using sub-floor heating on floor surfaces that are exposed to moisture from weather or tracked moisture to enable them to dry more easily
+
+[p37 | prose | Design to facilitate safe use]
+– providing detailed plans and instructions that are comprehensive and understandable to enable safe use of designed accessways, access systems and their components.
+
+[p37 | prose | Design for safe maintenance]
+Design for safe maintenance
+
+[p37 | prose | Design for safe maintenance]
+Below are some examples of how risks relating to cleaning, servicing and maintaining a structure can be managed by:
+
+[p37 | prose | Design for safe maintenance]
+– designing the structure so that maintenance can be performed at ground level or safely from the structure. For example, positioning air-conditioning units and lift plant at ground level, designing inward opening windows, and integrating window cleaning bays or gangways into the structural frame
+
+[p37 | prose | Design for safe maintenance]
+– designing features to avoid dirt or moisture traps
+
+[p37 | prose | Design for safe maintenance]
+– designing and positioning permanent anchorage and hoisting points into structures where maintenance needs to be completed at height
+
+[p37 | prose | Design for safe maintenance]
+– designing safe access (such as stairways or fixed ladders) and enough space to complete structure maintenance activities
+
+[p37 | prose | Design for safe maintenance]
+– eliminating or minimising the need for entry into confined spaces
+
+[p37 | prose | Design for safe maintenance]
+– using long-life components such as LED lighting that don’t require frequent replacement
+
+[p37 | prose | Design for safe maintenance]
+– using durable materials that do not need to be re-coated or treated.
+
+[p37 | prose | Modification of existing structures]
+Modification of existing structures
+
+[p37 | prose | Modification of existing structures]
+Design can involve the alteration of an existing structure. Modification may mean partial or full demolition. At this stage, designers should consult with key stakeholders to manage risks, and follow the key principles of Health and Safety by Design. Anyone who modifies a design is also a designer.
+
+[p38 | prose | Demolition and dismantling]
+Demolition and dismantling
+
+[p38 | prose | Demolition and dismantling]
+A structure should be designed so it can be demolished using existing techniques. The designer should provide information so that potential demolishers can understand the structure, load paths and any features incorporated to help with demolition. They should also provide information on any features that require unusual demolition techniques or sequencing.
+
+[p38 | prose | Demolition and dismantling]
+Designers of new structures should design facilities such as lifting lugs on beams, or columns and protecting inserts in pre-cast panels, so they can be used for disassembly. Materials and finishes specified for the original structure may require special attention at the time of demolition, and any special requirements for the disposal and/or recycling of those materials or finishes should be described in the risk assessment documentation.
+
+[p38 | prose | Demolition and dismantling]
+There are general risks that should be considered when designing structures. Designers should consider as many factors as possible to manage the health and safety risks they present. Appendix B outlines some common risks, and design considerations to manage them.
+
+[p38 | prose | 5.3 Reviewing control measures]
+5.3 Reviewing control measures
+
+[p38 | prose | 5.3 Reviewing control measures]
+As the design progresses and design decisions become more fine-tuned and detailed, there are still opportunities for managing risks. At various points in the design process, designers should review design solutions to confirm the effectiveness of control measures and if necessary, redesign to eliminate the risks so far as is reasonably practicable.
+
+[p38 | prose | 5.3 Reviewing control measures]
+Wherever possible, design safety reviews should involve the people who will eventually construct the structure. If this is not possible, the client and designer should include people with knowledge and experience in the construction and maintenance processes in the design safety reviews. Their expertise will assist in identifying safety issues which may have been overlooked in the design.
+
+[p38 | prose | 5.3 Reviewing control measures]
+Health and safety aspects of the design should be reflected in the requirements of contract documents for the construction stage and assist in the selection of suitable and competent contractors for the project.
+
+[p38 | prose | 5.3 Reviewing control measures]
+On completion of construction, the effectiveness of Health and Safety by Design should be evaluated. This will help the designer to identify the most effective design practices and any design innovations that could be used on other projects. Feedback from users to help designers in improving their future designs for structures may be provided through:
+
+[p38 | prose | 5.3 Reviewing control measures]
+– post-occupancy evaluations for buildings
+
+[p38 | prose | 5.3 Reviewing control measures]
+– defect reports
+
+[p38 | prose | 5.3 Reviewing control measures]
+– accident investigation reports
+
+[p38 | prose | 5.3 Reviewing control measures]
+– information regarding modifications
+
+[p38 | prose | 5.3 Reviewing control measures]
+– user difficulties
+
+[p38 | prose | 5.3 Reviewing control measures]
+– changes from intended conditions of use.
+
+[p38 | prose | 5.3 Reviewing control measures]
+Section 4 of these guidelines outlines some ways that designers can review control measures to make sure that risks are being effectively managed.
+
+[p40 | prose | There are several different factors to take into consideration when designing plant.]
+There are several different factors to take into consideration when designing plant.
+
+[p40 | prose | 6.1 Designing plant]
+6.1 Designing plant
+
+[p40 | prose | 6.1 Designing plant]
+This section provides information to designers of plant to be used at work. Plant includes:
+
+[p40 | prose | 6.1 Designing plant]
+– machinery
+
+[p40 | prose | 6.1 Designing plant]
+– equipment
+
+[p40 | prose | 6.1 Designing plant]
+– appliances
+
+[p40 | prose | 6.1 Designing plant]
+– containers
+
+[p40 | prose | 6.1 Designing plant]
+– implements
+
+[p40 | prose | 6.1 Designing plant]
+– tools and components.
+
+[p40 | prose | 6.1 Designing plant]
+Examples of plant are illustrated in Figure 11 below.
+
+[p40 | prose | 6.1 Designing plant]
+This section also applies to the design of structures where items of plant are designed as a structural component or are assembled to form a structure.
+
+[p41 | prose | 6.2 Systematic steps for designing plant]
+6.2 Systematic steps for designing plant
+
+[p41 | prose | 6.2 Systematic steps for designing plant]
+Designing plant is a process with a series of steps. These are separated into two distinct phases, which are explained in more detail below:
+
+[p41 | prose | 6.2 Systematic steps for designing plant]
+– pre-design and concept development phase
+
+[p41 | prose | 6.2 Systematic steps for designing plant]
+– design development phase.
+
+[p41 | prose | 6.2 Systematic steps for designing plant]
+Once risks have been identified, designers need to work out how they will be managed.
+
+[p41 | prose | 6.2 Systematic steps for designing plant]
+Pre-design and concept development phase
+
+[p41 | prose | This phase involves:]
+This phase involves:
+
+[p41 | prose | This phase involves:]
+– deciding on the intended use of the plant, its functions and limitations
+
+[p41 | prose | This phase involves:]
+– identifying the roles and responsibilities for the project
+
+[p41 | prose | This phase involves:]
+– establishing co-operative relationships with clients, manufacturers and users of the plant, including those who maintain and repair the plant
+
+[p41 | prose | This phase involves:]
+– researching and consulting to help with identifying hazards, and identifying and managing risks.
+
+[p41 | prose | INTENDED USE OF PLANT]
+INTENDED USE OF PLANT
+
+[p41 | prose | INTENDED USE OF PLANT]
+Designers can decide on the intended use of the plant, including its functions and limitations, by looking at:
+
+[p41 | prose | INTENDED USE OF PLANT]
+– the expected place of use
+
+[p41 | prose | INTENDED USE OF PLANT]
+– intended functions and operating modes
+
+[p41 | prose | INTENDED USE OF PLANT]
+– safe use requirements, including reasonably foreseeable misuse
+
+[p41 | prose | INTENDED USE OF PLANT]
+– planned service life
+
+[p41 | prose | INTENDED USE OF PLANT]
+– relevant standards and specifications
+
+[p41 | prose | INTENDED USE OF PLANT]
+– possible malfunctions and faults
+
+[p41 | prose | INTENDED USE OF PLANT]
+– testing, maintenance and repair requirements
+
+[p41 | prose | INTENDED USE OF PLANT]
+– the people interacting with the plant
+
+[p41 | prose | INTENDED USE OF PLANT]
+– other products interacting with or related to the plant.
+
+[p41 | prose | IDENTIFYING HEALTH AND SAFETY RISKS]
+IDENTIFYING HEALTH AND SAFETY RISKS
+
+[p41 | prose | IDENTIFYING HEALTH AND SAFETY RISKS]
+The first step in the risk management process is to identify all risks, so far as is reasonably practicable. Risk identification should be done as early as possible in the concept development and design phases. Risks relating to plant are often caused by the plant itself, and how and where the plant is used.
+
+[p41 | prose | IDENTIFYING HEALTH AND SAFETY RISKS]
+Risks may be identified by looking at the workplace and how work is carried out. Designers could talk to workers, manufacturers, importers, suppliers and health and safety specialists, and review relevant information, records and incident reports.
+
+[p41 | prose | IDENTIFYING HEALTH AND SAFETY RISKS]
+Table 6 lists things to consider when looking for plant risks.
+
+[p41 | prose | IDENTIFYING HEALTH AND SAFETY RISKS]
+Table 7 shows examples of potential plant risks and phases of the plant lifecycle after the design has been completed where people might be exposed to plant hazards.
+
+[p42 | table | IDENTIFYING HEALTH AND SAFETY RISKS]
+| THINGS TO CONSIDER TO IDENTIFY PLANT RISKS |  |
+| --- | --- |
+| Risks | Can the plant cause injury or ill health from poor design? Can the plant cause injury from entanglement, crushing, trapping, cutting, stabbing, puncturing, shearing, abrasion, tearing or stretching? Can the plant create hazardous conditions from pressurised content, electricity, noise, radiation, friction, vibration, fire, explosion, temperature, moisture, vapour, gases, dusts, mists, fumes, ice, or hot or cold parts? Can the plant cause injury from lack of guarding of moving parts? Can the plant cause injury as a result of unexpected start-up? |
+| Suitability | Is the plant fit for its intended purpose? What is likely to happen if it is used for a purpose other than the intended purpose? Are the materials used to make the plant suitable? Are plant accessories fit for their intended purpose? Is the plant stable? Could it roll over? If the plant is intended to lift and move people, equipment or materials, is it capable of doing this? |
+| Access | Is access to the plant necessary when installing, using and maintaining the plant or in an emergency? Can workers access the plant safely without being injured by the plant or slips, trips and falls (eg by a walkway, gantry, elevated work platform or fixed ladder) or having to enter a dangerous environment to access plant? |
+| Location | Does the plant affect the safety of the area where it will be located? Does the location affect the plant in a way that could impact health or safety (eg environmental conditions, terrain, airborne hazards and work area)? Will there be people or other plant nearby? What effect would this have? |
+| Systems of work | Do the systems of work for the plant create risks? Does the plant’s safety depend on the competency of its users? Will users and others working near the plant need relevant training, information, instruction and supervision? |
+| Unusual situations | What unusual situations or misuse could occur? What would happen if the plant failed? Would it result in loss of contents, loss of load, unintended ejection of work pieces, explosion, fragmentation or collapse of parts, release of substances hazardous to health, or other hazardous exposures? Is it possible for the plant to move or be turned on accidently? |
+
+[p42 | prose | TABLE 6: Things to consider when identifying plant risks]
+TABLE 6: Things to consider when identifying plant risks
+
+[p42 | table | TABLE 6: Things to consider when identifying plant risks]
+| POTENTIAL RISKS | PHASES OF THE PLANT LIFECYCLE |
+| --- | --- |
+
+[p42 | prose | TABLE 6: Things to consider when identifying plant risks]
+TABLE 7: Examples of plant risks and phases of the plant lifecycle
+
+[p43 | prose | 6.3 Design phase]
+6.3 Design phase
+
+[p43 | prose | 6.3 Design phase]
+Figure 12 illustrates what is involved in this phase.
+
+[p43 | prose | 6.3 Design phase]
+Developing an initial design
+
+[p43 | prose | 6.3 Design phase]
+Testing, trialling or evaluating the initial design
+
+[p43 | prose | 6.3 Design phase]
+Redesigning to control any remaining risks, so far as is reasonably practicable
+
+[p43 | prose | 6.3 Design phase]
+Finalising the design and preparing risk control plans for the lifecycle of the product
+
+[p43 | prose | 6.3 Design phase]
+FIGURE 12: The design phase
+
+[p43 | prose | 6.3 Design phase]
+Check if there are widely used control measures (eg industry standards) for common risks. However, just because something is a common practice doesn’t mean that it’s the most reasonably practicable option. You should focus on the most effective control measures. So before considering applying a widely used control measure, consider whether it will be effective in managing the risk in your situation (eg when working at height, will using mobile work platforms, rather than step ladders, more effectively minimise the risk?).
+
+[p43 | prose | Technical standards]
+Technical standards
+
+[p43 | prose | Technical standards]
+A plant designer may use technical standards, or a combination of standards and engineering, design, or ergonomics principles relevant to the design requirements (as long as the design meets regulatory requirements). Engineering principles could include mathematical or scientific procedures outlined in an engineering reference or standard.
+
+[p43 | prose | Testing and examining plant]
+Testing and examining plant
+
+[p43 | prose | Testing and examining plant]
+The designer should carry out any analysis, testing or examination that may be necessary to make sure the plant is without health and safety risks so far as is reasonably practicable.
+
+[p43 | prose | Testing and examining plant]
+Testing may include developing a prototype to:
+
+[p43 | prose | Testing and examining plant]
+– simulate the normal range of operational capabilities
+
+[p43 | prose | Testing and examining plant]
+– test design features to ensure ‘fail-safe’ operation
+
+[p43 | prose | Testing and examining plant]
+– measure imposed stresses on critical components to make sure maximum design stresses are not exceeded
+
+[p43 | prose | Testing and examining plant]
+– test critical safety features under both normal and adverse operational conditions
+
+[p43 | prose | Testing and examining plant]
+– develop overload testing procedures to ensure plant safety when plant is misused.
+
+[p43 | prose | Testing and examining plant]
+Records of tests and examinations must be kept by the designer.
+
+[p43 | prose | Testing and examining plant]
+For more information on duties for designers, see Section 3.3 of these guidelines.
+
+[p44 | prose | Design considerations]
+Design considerations
+
+[p44 | prose | Design considerations]
+There are several different factors to think about when looking to identify and manage risks throughout plant’s lifecycle. Figure 13 illustrates some of these, and they are explained in further detail below.
+
+[p44 | prose | Designing plant which is safe to use]
+Designing plant which is safe to use
+
+[p44 | prose | Designing plant which is safe to use]
+A designer should consider:
+
+[p44 | prose | Designing plant which is safe to use]
+– the required skill levels to manufacture, install, commission, use or maintain the plant
+
+[p44 | prose | Designing plant which is safe to use]
+– the complexity of functions a user can be expected to perform
+
+[p44 | prose | Designing plant which is safe to use]
+– the need for and the location of items such as aids, guides, indicators, guards, mounted instruction, signs, symbols, gauges, alarms, dials, screens, switches, emergency stops and name plates to make sure the plant is used correctly
+
+[p44 | prose | Designing plant which is safe to use]
+– making sure plant design is ‘fail-safe’ to the category, performance and safety level determined by the plant risk assessment
+
+[p44 | prose | Designing plant which is safe to use]
+– the layout of work stations
+
+[p44 | prose | Designing plant which is safe to use]
+– instrumentation needed at each work station or cabin and the layout of the instrumentation
+
+[p44 | prose | Designing plant which is safe to use]
+– devices, tools or control measures the user and support people need in order to carry out their jobs safely
+
+[p44 | prose | Designing plant which is safe to use]
+– the options available to maintain the safety and integrity of the system if the user makes a mistake, or if the plant fails
+
+[p44 | prose | Designing plant which is safe to use]
+– whether the user of the plant can be easily accessed if they need help (eg if emergency rescue of the user is required)
+
+[p44 | prose | Designing plant which is safe to use]
+– environmental conditions that may weaken user performance (eg working in extremes of temperature, humidity)
+
+[p44 | prose | Designing plant which is safe to use]
+– separating people, including the user, from entrapment when using plant
+
+[p44 | prose | Designing plant which is safe to use]
+– ensuring hazardous fumes, gases or vapours are not able to escape plant, or are directed away from the user if they do escape (eg directing exhaust that contains hazardous fumes, gases or vapours away from the users, or ensuring filtering is in place to reduce the release of hazardous exposure).
+
+[p44 | prose | Designing plant which is safe to use]
+Designers should also consider predictable human behaviour. Where user error is likely, higher order control measures such as elimination or substitution should be incorporated into the design.
+
+[p45 | prose | User characteristics]
+User characteristics
+
+[p45 | prose | User characteristics]
+When designing plant, designers should consider the range of physical and intellectual characteristics of likely users. Things like height, weight, reach and physical ability should be considered. If future user information is available, the designer could tailor the plant design to meet the needs of specific people, keeping in mind that the people using the plant may change over time.
+
+[p45 | prose | User characteristics]
+A designer should:
+
+[p45 | prose | User characteristics]
+– apply ergonomic design principles so risks to health and safety are managed, so far as is reasonably practicable
+
+[p45 | prose | User characteristics]
+– take into account the physical ability of workers including requirements for strength, reach, vision, and hearing
+
+[p45 | prose | User characteristics]
+– consider whether the plant could be misused or how a user’s uncontrolled physical movements could impact how the plant operates
+
+[p45 | prose | User characteristics]
+– consider the risks that arise when an unexpected event or emergency happens that impact on the user characteristics.
+
+[p45 | prose | Human error]
+Human error
+
+[p45 | prose | Human error]
+Human error is not always the result of people being careless. Sometimes workers may want to finish a job quickly or make a task easier. This can lead to workers making decisions that can lead to an increase in health and safety risks.
+
+[p45 | prose | Human error]
+Workers have a responsibility to take reasonable care for their own health and safety and must take reasonable care that their acts or omissions do not adversely affect the health and safety of others. They must comply with any reasonable instruction and cooperate with any reasonable policy or procedure. Workers should not use unsafe practices or deliberately avoid guarding on plant.
+
+[p45 | prose | Human error]
+Designers should be aware of the factors contributing to human error when designing plant including:
+
+[p45 | prose | Human error]
+– forgetfulness
+
+[p45 | prose | Human error]
+– workers’ motivation to ‘get the job done’ or to ‘find a better way’
+
+[p45 | prose | Human error]
+– ability to understand information including literacy
+
+[p45 | prose | Human error]
+– psychological or cultural environment
+
+[p45 | prose | Human error]
+– habit
+
+[p45 | prose | Human error]
+– accepted practice
+
+[p45 | prose | Human error]
+– fatigue
+
+[p45 | prose | Human error]
+– level of training
+
+[p45 | prose | Human error]
+– availability of support, help or emergency equipment outside normal work hours.
+
+[p45 | prose | Reasonably foreseeable misuse]
+Reasonably foreseeable misuse
+
+[p45 | prose | Reasonably foreseeable misuse]
+When designing plant, designers should assess the risk of reasonably foreseeable misuse by users, and incorporate appropriate control measures into their design. One way of identifying potential misuse is by reviewing incident reports for similar types of plant, as well as literature reviews and industry reports.
+
+[p46 | prose | Environmental conditions that the plant will be used in]
+Environmental conditions that the plant will be used in
+
+[p46 | prose | Environmental conditions that the plant will be used in]
+A designer should consider the risks created by the physical, environmental and operational conditions that plant and its users could be exposed to during its lifecycle. These conditions may include:
+
+[p46 | prose | Environmental conditions that the plant will be used in]
+– ice
+
+[p46 | prose | Environmental conditions that the plant will be used in]
+– water
+
+[p46 | prose | Environmental conditions that the plant will be used in]
+– wind
+
+[p46 | prose | Environmental conditions that the plant will be used in]
+– UV and, infrared light
+
+[p46 | prose | Environmental conditions that the plant will be used in]
+– dust, mist, gases and fumes
+
+[p46 | prose | Environmental conditions that the plant will be used in]
+– lightning
+
+[p46 | prose | Environmental conditions that the plant will be used in]
+– temperature and humidity - both high and low
+
+[p46 | prose | Environmental conditions that the plant will be used in]
+– positioning of the plant in relation to work flow
+
+[p46 | prose | Environmental conditions that the plant will be used in]
+– health hazards (eg noise, vibration, hazardous fumes, gases or vapours created by or around the plant).
+
+[p46 | prose | Environmental conditions that the plant will be used in]
+A designer can also contribute to minimising the environmental risks by providing instructions to erectors and installers of plant about positioning of the plant (eg by showing how much less noise the plant will emit if it is placed in an open area rather than in a corner where reflection of sound from walls will increase noise levels). If a user is physically uncomfortable using the plant, this may lead to inattention, carelessness, fatigue, or cutting corners which can cause incidents.
+
+[p46 | prose | Erecting and installing plant]
+Erecting and installing plant
+
+[p46 | prose | Erecting and installing plant]
+A designer should, so far as is reasonably practicable, make sure health and safety risks arising from erecting and installing plant are managed. These risks may include:
+
+[p46 | prose | Erecting and installing plant]
+– working at heights – leading to falls
+
+[p46 | prose | Erecting and installing plant]
+– stretching or bending at an unnatural angle – leading to injuries
+
+[p46 | prose | Erecting and installing plant]
+– hazardous exposures during installation or commissioning (eg hazardous gases, fumes, vapours, noise, vibration, light).
+
+[p46 | prose | Erecting and installing plant]
+Designers should also consider the stability of plant when it is assembled, erected or installed, and whether special supports are required.
+
+[p46 | prose | Maintenance]
+Maintenance
+
+[p46 | prose | Maintenance]
+A designer’s responsibility extends to eliminating or minimising the risks associated with maintaining the plant, so far as is reasonably practicable. Any reasonably foreseeable hazards with future plant maintenance and repair should be identified and designed out.
+
+[p46 | prose | Maintenance]
+If the plant needs to be operated during cleaning or maintenance, the designer should design the operator’s controls so the plant cannot be operated by anyone other than the person maintaining or cleaning the plant.
+
+[p46 | prose | Maintenance]
+Where a worker has to maintain plant, a designer should:
+
+[p46 | prose | Maintenance]
+– design places for adjusting, lubricating and maintaining the plant outside danger zones
+
+[p46 | prose | Maintenance]
+– incorporate interlocks into the design so the plant cannot be activated while maintenance work is carried out in the danger zones
+
+[p47 | prose | Maintenance]
+– design safe entry points, like walkways and guardrails for maintenance or inspection (eg cooling towers or storage silos)
+
+[p47 | prose | Maintenance]
+– pass on relevant information to the manufacturer for inclusion in the manufacturer’s instructions for maintenance
+
+[p47 | prose | Maintenance]
+– design parts of the plant where workers move or stand to manage the risk of slips, trips and falls
+
+[p47 | prose | Maintenance]
+– design the plant to manage the risk of accidently touching hot, sharp or moving parts
+
+[p47 | prose | Maintenance]
+– design the plant so that exposure to hazardous substances, or other hazards (eg noise) are minimised during maintenance.
+
+[p47 | prose | Maintenance]
+There are general risks that should be considered when designing plant. Designers should consider as many factors as possible to manage the health and safety risks they present. Appendix B outlines some common risks, and design considerations to manage them.
+
+[p47 | prose | 6.4 Design information for the manufacturer]
+6.4 Design information for the manufacturer
+
+[p47 | prose | 6.4 Design information for the manufacturer]
+Designers should provide specific information to the manufacturer, so that the plant is manufactured following the design specifications.
+
+[p47 | prose | 6.4 Design information for the manufacturer]
+They should provide information on:
+
+[p47 | prose | 6.4 Design information for the manufacturer]
+– installing, commissioning, using, handling, storing, decommissioning and dismantling the plant
+
+[p47 | prose | 6.4 Design information for the manufacturer]
+– hazards and risks associated with using the plant, and the identified control measures that need to be included in the manufacture of the plant
+
+[p47 | prose | 6.4 Design information for the manufacturer]
+– testing or inspections to be carried out
+
+[p47 | prose | 6.4 Design information for the manufacturer]
+– systems of work and competency of users necessary for the plant to be used safely
+
+[p47 | prose | 6.4 Design information for the manufacturer]
+– emergency procedures if there is a malfunction.
+
+[p47 | prose | 6.4 Design information for the manufacturer]
+If the manufacturer tells the designer there are health and safety issues with the design, the designer should revise the design to take account of these concerns, or they could tell the manufacturer in writing why revisions are not needed. Designer information that can be provided to the manufacturer is in Table 8.
+
+[p47 | prose | DESIGNER INFORMATION THAT CAN BE PROVIDED TO THE MANUFACTURER]
+DESIGNER INFORMATION THAT CAN BE PROVIDED TO THE MANUFACTURER
+
+[p47 | table | DESIGNER INFORMATION THAT CAN BE PROVIDED TO THE MANUFACTURER]
+| Manufacturing plant | specific conditions relating to the method of manufacture instructions for fitting or refitting plant parts and their correct location instruction where hot or cold parts or material may create a risk specifications of material specifications for components (eg ergonomically designed controls) wiring diagrams specifications for proprietary items (eg electric motors) component specifications including drawings and tolerances assembly drawings assembly procedures including specific tools or equipment to be used manufacturing processes details of hazards presented by materials during manufacturing safety outcomes for programming. |
+| --- | --- |
+| Transporting, handling and storing plant | dimensions and weight handling instructions conditions for storage. |
+
+[p48 | prose | DESIGNER INFORMATION THAT CAN BE PROVIDED TO THE MANUFACTURER]
+DESIGNER INFORMATION THAT CAN BE PROVIDED TO THE MANUFACTURER
+
+[p48 | table | DESIGNER INFORMATION THAT CAN BE PROVIDED TO THE MANUFACTURER]
+| Installing and commissioning plant | risks from exposure to dangerous parts before guards are installed lifting procedures plant interacting with people plant interacting with other plant stability during installation the proposed method for installing and commissioning using special tools, jigs, fixtures and appliances necessary to minimise risk during installation concealed installations environmental factors affecting installation and commissioning that may present risk |
+| --- | --- |
+| Using, inspecting, testing and decommissioning plant | intended uses for the plant including prohibited uses operating procedures safe entry and exit requirements for maintenance and repair emergency situations hazardous exposures including hazardous substances, exhausts, light, heat, noise, biological exposures how environmental conditions affect using the plant the results or documentation of tests carried out on the plant and design de-commissioning, dismantling and disposing of plant known leftover risks that cannot be eliminated or sufficiently minimised by design details of control measures to further minimise the risks associated with plant information on administrative control measures requirements for special tools needed to use or maintain plant. |
+
+[p48 | prose | DESIGNER INFORMATION THAT CAN BE PROVIDED TO THE MANUFACTURER]
+TABLE 8: Designer information that should be provided to the manufacturer
+
+[p48 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+6.5 Design verification of pressure equipment, cranes and passenger ropeways
+
+[p48 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+The Health and Safety in Employment (Pressure Equipment, Cranes, and Passenger Ropeways) Regulations 1999 require the design of this type of plant to be verified before it can be certified and first used.
+
+[p48 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+For plant under these Regulations, the information that the designer should provide to the manufacturer should include the verified drawings and certification.
+
+[p48 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+This provides evidence the plant design has been verified under the Regulations.
+
+[p48 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+See www.legislation.govt.nz for more information about the Regulations.
+
+[p48 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+A design should only be verified by a competent person.
+
+[p48 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+In general, people who are competent to verify the design of plant are those who:
+
+[p48 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+– are employed or engaged by a Recognised Inspection Body, and
+
+[p48 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+– hold Chartered Professional Engineer Status recognised by the Engineering New Zealand (ENZ) and are deemed competent to carry out design verification (or similar overseas), and
+
+[p48 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+– have educational or vocational qualifications in an engineering discipline relevant to the design to be verified, and
+
+[p48 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+– have knowledge of the technical standards relevant to the design to be verified, and
+
+[p49 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+– have the skills necessary to independently verify that the design was produced following the published technical standards and engineering principles used in the design, and
+
+[p49 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+– are authorised by a body accredited or approved by the Joint Accreditation System – Australia and New Zealand or an equivalent overseas body to carry out conformity assessments of the design against the relevant technical standards. In New Zealand this body is International Accreditation New Zealand (IANZ).
+
+[p49 | prose | 6.5 Design verification of pressure equipment, cranes and passenger ropeways]
+The design verifier may be in-house or an independent contractor. They should not have been involved in the plant design process unless that PCBU has an accredited and documented quality system in place that has been certified by IANZ (or a body accredited or approved by the Joint Accreditation System – Australia and New Zealand).
+
+[p49 | prose | 6.6 Intended use of plant]
+6.6 Intended use of plant
+
+[p49 | prose | 6.6 Intended use of plant]
+The intended use of the plant, including its functions and limitations, can be determined by looking at:
+
+[p49 | prose | 6.6 Intended use of plant]
+– the expected place of use (eg environment and supporting surfaces)
+
+[p49 | prose | 6.6 Intended use of plant]
+– intended functions and operating modes
+
+[p49 | prose | 6.6 Intended use of plant]
+– safe use requirements including reasonably foreseeable misuse
+
+[p49 | prose | 6.6 Intended use of plant]
+– planned service life
+
+[p49 | prose | 6.6 Intended use of plant]
+– relevant standards and specifications (eg what is produced and materials to be used)
+
+[p49 | prose | 6.6 Intended use of plant]
+– possible malfunctions and faults
+
+[p49 | prose | 6.6 Intended use of plant]
+– testing, maintenance and repair requirements
+
+[p49 | prose | 6.6 Intended use of plant]
+– the people interacting with the plant
+
+[p49 | prose | 6.6 Intended use of plant]
+– other products interacting with or related to the plant.
+
+[p49 | prose | 6.7 Design sources of human error]
+6.7 Design sources of human error
+
+[p49 | prose | 6.7 Design sources of human error]
+Poorly designed plant can lead to inadvertent or inappropriate actions from the people using the plant. Examples of these are in Table 9 below.
+
+[p49 | table | 6.7 Design sources of human error]
+| UNINTENDED OUTCOME | POSSIBLE CAUSES DUE TO POOR DESIGN |
+| --- | --- |
+| Inadvertent activation of plant | Lack of interlocks or time lockouts. Lack of warning signs against activating equipment under specified damaging conditions. |
+| Errors of judgement, particularly during periods of stress or high job demand | Critical displays of information are too similar or too close together, or visually difficult to see. Job requires user to make hurried judgements at critical times, without programmed back-up measures. |
+| Critical components installed incorrectly | Design and instructions on installing components are difficult to understand. Lack of configurations or guides on connectors or equipment. |
+| Inappropriate use or delay in use of operator controls | Critical operator controls are too close, similar in design or awkwardly located Readout instrument blocked by arm when making adjustment. Labels on operator controls are confusing or missing. Information is too small to see from user’s position. |
+| Inadvertent activation of operator controls | Operator controls can be activated accidentally. Lack of guards over critical operator controls. |
+
+[p50 | table | 6.7 Design sources of human error]
+| UNINTENDED OUTCOME | POSSIBLE CAUSES DUE TO POOR DESIGN |
+| --- | --- |
+| Critical instruments and displays not read or information misunderstood because of clutter | ' Critical instruments or displays not in an obvious area. ' Displays look too similar. |
+| Failure to notice critical signal | Lack of acceptable warning to attract user’s attention to information. |
+| Plant use results in unexpected direction or response | Direction of operator controls conflicts with normal operation. |
+| Lack of understanding of procedures | Instructions are difficult to understand. |
+| Following prescribed procedures results in error or incident | Written prescribed procedures are wrong and have not been checked. |
+| Lack of correct or timely actions | Available information incomplete, incorrect or not available in time. Response time of system or plant too slow for making the next correct action Lack of automatic corrective devices with fast fluctuations. |
+| Exceeding prescribed limitations | Lack of governors and other parameter limiters. |
+| on load or speed | Lack of warnings on exceeding parameters. |
+
+[p50 | prose | 6.7 Design sources of human error]
+TABLE 9: Design sources of human error
+
+[p52 | prose | 6.7 Design sources of human error]
+The intrinsically hazardous properties of a substance may be unavoidable, but the principles of Health and Safety by Design should be applied.
+
+[p52 | prose | 7.1 What is a hazardous substance?]
+7.1 What is a hazardous substance?
+
+[p52 | prose | 7.1 What is a hazardous substance?]
+A hazardous substance is any substance with one or more of the following properties, as described in Figure 14.
+
+[p52 | prose | 7.1 What is a hazardous substance?]
+Explosiveness
+
+[p52 | prose | 7.1 What is a hazardous substance?]
+Flammability
+
+[p52 | prose | 7.1 What is a hazardous substance?]
+Capacity to oxidise
+
+[p52 | prose | 7.1 What is a hazardous substance?]
+Corrosiveness
+
+[p52 | prose | 7.1 What is a hazardous substance?]
+Toxicity (acute and chronic)
+
+[p52 | prose | 7.1 What is a hazardous substance?]
+Ecotoxicity, with or without bioaccumulation
+
+[p52 | prose | 7.1 What is a hazardous substance?]
+FIGURE 14: Properties of hazardous substances
+
+[p52 | prose | 7.1 What is a hazardous substance?]
+In addition, if a substance gains any of the above properties when it comes into contact with air or water, it is considered hazardous.
+
+[p52 | prose | 7.1 What is a hazardous substance?]
+This section focuses on the design, redesign or modification of a substance.
+
+[p52 | prose | 7.2 Approval of hazardous substances]
+7.2 Approval of hazardous substances
+
+[p52 | prose | 7.2 Approval of hazardous substances]
+All hazardous substances that are manufactured in or imported into New Zealand need to be approved under the HSNO Act (Hazardous Substances and New Organisms (HSNO) Act 1996). The approvals are given by the Environmental Protection Authority (EPA). When a substance is approved, controls are applied to manage any risk that may arise during the substance’s lifecycle.
+
+[p52 | prose | 7.2 Approval of hazardous substances]
+The Health and Safety at Work (Hazardous Substances) Regulations 2017 are a set of controls developed for each class of hazardous substance, and for particular phases of a substance’s life cycle. They replace the controls set under the HSNO Act 1996. For more information on the Hazardous Substances Regulations 2017, see the WorkSafe website.
+
+[p52 | prose | 7.2 Approval of hazardous substances]
+Not all substances hazardous to health are covered by the Hazardous Substances Regulations (eg fumes produced as a by-product of heating). However, there is still a requirement to make sure that the hazard is identified and the risk associated with the substance is managed.
+
+[p53 | prose | 7.3 Control measures for managing substances]
+7.3 Control measures for managing substances
+
+[p53 | prose | 7.3 Control measures for managing substances]
+The specific control measures required by the Regulations may help manage the risks associated with manufacturing, using, handling or storing hazardous substances at work.
+
+[p53 | prose | 7.3 Control measures for managing substances]
+Depending on the hazardous properties of the substance these control measures may include specific requirements around:
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– inventories
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– safety data sheets
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– emergency preparation and response plans
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– labelling
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– protective equipment
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– fire extinguishers
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– signage
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– certified handlers
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– compliance certification
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– establishment of hazardous areas
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– secondary containment (bunding)
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– stationary container compliance certification
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– tracking
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– approved filler certification, and
+
+[p53 | prose | 7.3 Control measures for managing substances]
+– controlled substances licences.
+
+[p53 | prose | 7.3 Control measures for managing substances]
+A simple way to find out the key controls that apply to a substance is to use the hazardous substances calculator at: www.hazardoussubstances.govt.nz
+
+[p53 | prose | 7.3 Control measures for managing substances]
+Although these control measures apply when the substance is in the manufacture, use, handling or storage phases of the lifecycle, they should be given consideration during the pre-design and design stage, as the control measures are a critical element in the management of risk from the substance.
+
+[p53 | prose | 7.4 Design considerations for substances]
+7.4 Design considerations for substances
+
+[p53 | prose | 7.4 Design considerations for substances]
+The intrinsically hazardous properties of a substance may be unavoidable, if they are integral to the function of the substance at work. However, the principles of Health and Safety by Design should still be applied.
+
+[p53 | prose | 7.4 Design considerations for substances]
+Designers of substances should consider:
+
+[p53 | prose | 7.4 Design considerations for substances]
+– their understanding of chemistry principles, toxicology and environmental science
+
+[p53 | prose | 7.4 Design considerations for substances]
+– looking at whether hazardous properties can be removed while still maintaining the functionality and efficacy of the substance
+
+[p53 | prose | 7.4 Design considerations for substances]
+– looking at whether the toxicity or reactivity of the substance can be managed by varying these things:
+
+[p53 | prose | 7.4 Design considerations for substances]
+the molecular weight
+
+[p53 | prose | 7.4 Design considerations for substances]
+- volatility
+
+[p53 | prose | 7.4 Design considerations for substances]
+- particle size
+
+[p53 | prose | 7.4 Design considerations for substances]
+- solubility
+
+[p53 | prose | 7.4 Design considerations for substances]
+reactivity
+
+[p53 | prose | 7.4 Design considerations for substances]
+thermo-reactivity
+
+[p53 | prose | 7.4 Design considerations for substances]
+- shape
+
+[p53 | prose | 7.4 Design considerations for substances]
+- molar mass
+
+[p54 | prose | 7.4 Design considerations for substances]
+– looking at whether the substance’s potential for the following things can be managed through good chemical design:
+
+[p54 | prose | 7.4 Design considerations for substances]
+- bioaccumulation
+
+[p54 | prose | 7.4 Design considerations for substances]
+- environmental persistence
+
+[p54 | prose | 7.4 Design considerations for substances]
+receptor binding
+
+[p54 | prose | 7.4 Design considerations for substances]
+– ensuring that there is reliable, well tested data for all relevant routes of exposures, no observed adverse effect levels or concentrations (NOAEL/ NOAEC) and lowest observed adverse effect levels/concentrations (LOAEL/LOAEC)
+
+[p54 | prose | 7.4 Design considerations for substances]
+– understanding the process of metabolism or degradation of the substances in the body and in the environment
+
+[p54 | prose | 7.4 Design considerations for substances]
+– taking a product stewardship approach – making health, safety and environmental protection an integral part of the life cycle of chemical products, in partnership with others involved in the product.
+
+[p54 | prose | 7.4 Design considerations for substances]
+There are general risks that should be considered when designing substances. Designers should consider as many factors as possible to manage the health and safety risks they present. Appendix B outlines some common risks, and design considerations to manage them.
+
+[p54 | prose | 7.5 Inherently safer substances]
+7.5 Inherently safer substances
+
+[p54 | prose | 7.5 Inherently safer substances]
+When designing and developing safer substances, the designer needs to find a balance between eliminating, then minimising health, safety or environmental risks, and maintaining the effectiveness of the substance. If a less hazardous version of the substance is designed that is not as effective as those currently being used, the health and safety benefits may outweigh this reduction in effectiveness.
+
+[p54 | prose | 7.5 Inherently safer substances]
+So far as is reasonably practicable, the designer should consider what is able to be done to ensure health and safety, taking into account:
+
+[p54 | prose | 7.5 Inherently safer substances]
+– the likelihood of risk
+
+[p54 | prose | 7.5 Inherently safer substances]
+– the degree of harm
+
+[p54 | prose | 7.5 Inherently safer substances]
+– the ways of eliminating or minimising risk and
+
+[p54 | prose | 7.5 Inherently safer substances]
+– the cost and whether it is grossly disproportionate to the risk being considered.
+
+[p54 | prose | 7.5 Inherently safer substances]
+More information on how designers can communicate, cooperate and coordinate with other relevant stakeholders is outlined in Section 3 of these guidelines.
+
+[p54 | prose | Information on safe substitution of substances is also available from the following resources:]
+Information on safe substitution of substances is also available from the following resources:
+
+[p54 | prose | Information on safe substitution of substances is also available from the following resources:]
+– www.osha.gov/dsg/safer_chemicals/basics.html
+
+[p54 | prose | Information on safe substitution of substances is also available from the following resources:]
+– www.ontario.ca/document/ontario-toxics-reduction-program-reference- tool-assessing-safer-chemical-alternatives-0
+
+[p54 | prose | Information on safe substitution of substances is also available from the following resources:]
+– Minimising chemical risk to workers’ health and safety through substitution, European Commission Directorate-General for Employment, Social Affairs and Inclusion Unit Health, Safety & Hygiene at Work (2012).
+
+[p56 | prose | 8.1 NZTA’s Waterview connection project]
+8.1 NZTA’s Waterview connection project
+
+[p56 | prose | Set the scene]
+Set the scene
+
+[p56 | prose | Set the scene]
+This was the largest civil engineering project in New Zealand at the time of construction between 2011-2017. It comprised:
+
+[p56 | prose | Set the scene]
+– 5 km long, 3-lane (each way) motorway comprising 35 kilometres of lanes
+
+[p56 | prose | Set the scene]
+– two 2.4 km long 13.1 m (ID) diameter bored tunnels and ventilation buildings
+
+[p56 | prose | Set the scene]
+– six road bridges – 1,700 m total length
+
+[p56 | prose | Set the scene]
+– two long span footbridges and several smaller structures
+
+[p56 | prose | Set the scene]
+– over 3 km of retention structures up to 30 m high
+
+[p56 | prose | Set the scene]
+– extensive urban improvements and landscaping
+
+[p56 | prose | Set the scene]
+– 5+ years construction period
+
+[p56 | prose | Set the scene]
+– operations and maintenance responsibilities for 10 years
+
+[p56 | prose | Set the scene]
+– delivered to NZTA for $1.4 billion capital cost.
+
+[p56 | prose | What went wrong or what went right?]
+What went wrong or what went right?
+
+[p56 | prose | What went wrong or what went right?]
+Safety in Design (SiD) was implemented on the project from the tender design phase. It was a formal process that was documented in the design management plan and applied throughout the design and delivery period. A risk based approach was used, where workshops were held in the early stages of design with participation from design, construction and operations personnel. This was so that a range of knowledge and experience was present and consideration was given to the full life cycle. The workshops identified safety-related risks for all elements of the project that could be mitigated, to at least some degree, through smart design. An SiD register was maintained to capture and monitor the treatment of those safety risks throughout the design phase, and also to capture the transfer of any residual risk at the end of design to construction and ultimately to operations. Design reports also specifically documented SiD considerations and treatment.
+
+[p56 | prose | What went wrong or what went right?]
+This approach was successfully applied across the project with a number of key design decisions driven by safety considerations.
+
+[p56 | prose | What went wrong or what went right?]
+TBM Breakthrough at the Southern Portal
+
+[p57 | prose | What went wrong or what went right?]
+Two examples of SiD related outcomes from the project:
+
+[p57 | prose | What went wrong or what went right?]
+1. Selection of the tunnelling method and the decision to go with a Tunnel Boring machine (TBM) was driven in large part by risk mitigation and safety considerations. The TBM method meant all workers and equipment were shielded within the TBM shield or permanent lining which removed the risk of exposure to collapse or inundation. The TBM method itself also reduced the risk of collapse and inundation from occurring, mitigating risk to surface infrastructure and facilities.
+
+[p57 | prose | What went wrong or what went right?]
+2. The southbound motorway approach into the northern portal of the tunnel has two lanes coming from each direction (east and west) merging into three lanes into the tunnel (ie three lanes merging into four lanes). This means the outside lane from each direction has to merge with the one coming from the other direction. The tunnel approach is all on elevated viaduct and comprises a merging ramp approaching from each direction with concrete side barriers. The barriers meant visibility to traffic on the adjacent merging ramp would have been restricted until very late in the merge process. A decision was made to improve the pre-merge visibility by using barriers on the merge side of the ramps with a rail on the top to reduce the height of concrete and therefore improve cross ramp visibility (by making the tops of the barriers ‘see-through’). Furthermore, where the two ramps connected, an additional piece of infill slab was constructed that allowed the barriers to be removed completely. This further improved visibility between traffic in the merging two lanes.
+
+[p57 | prose | What went wrong or what went right?]
+Alice the TBM
+
+[p58 | prose | What went wrong or what went right?]
+Southbound merge approach into the northern
+
+[p58 | prose | What went wrong or what went right?]
+Close-up of infill slab and ‘see through’
+
+[p58 | prose | What lessons can we take from this project and share with the industry?]
+What lessons can we take from this project and share with the industry?
+
+[p58 | prose | ACKNOWLEDGEMENT]
+ACKNOWLEDGEMENT
+
+[p58 | prose | ACKNOWLEDGEMENT]
+Thanks to the NZTA and The Well-Connected Alliance for allowing this case study to be used. Also thanks to Peter Norfolk of Tonkin & Taylor, who was the Civil Design Manager for the Waterview Project.
+
+[p59 | prose | 8.2 Queenstown weather mast – weather reporting system]
+8.2 Queenstown weather mast – weather reporting system
+
+[p59 | prose | Set the scene]
+Set the scene
+
+[p59 | prose | Set the scene]
+The introduction of night time flights into Queenstown airport showed the need for accurate reporting of the local weather. The weather reporting system filled the need by using weather stations located around the Queenstown basin. These stations measure the wind speed and direction, temperature and humidity, and report to a main computer server through the cellular phone system. The information is then made available to pilots, air traffic controllers and flight planners via the Internet. The information can also be sent to pilots whilst in flight.
+
+[p59 | prose | Set the scene]
+The system was being upgraded to improve its robustness and reliability. This included replacing the masts used to support the system instruments. The masts require bespoke foundations and mounting plates. An additional complexity is that some of the weather stations are sited in remote hilltop locations with limited and difficult access.
+
+[p59 | prose | Set the scene]
+The mast foundation is a concrete-filled hole in the ground with 4 threaded rods embedded. Each mast has a base plate fitted to the bottom. This base plate has holes which slide over the threaded rods, allowing the base plate to be secured with nuts and washers. The mast is assembled on site, with all instruments and cables attached whilst the mast is horizontal. The mast is then manually raised into the upright position, with the base plate sliding over the threaded rods as the mast reaches the vertical position.
+
+[p59 | prose | What went wrong or what went right?]
+What went wrong or what went right?
+
+[p59 | prose | What went wrong or what went right?]
+The original plan was to steady the base of the mast with a person’s foot as the mast was raised. Whilst this traditional method would work, a quick risk assessment showed there was a high likelihood of the person’s foot slipping off the base of the mast resulting in an uncontrolled movement of the mast and possible damage to the mast and instruments or worse, injury to people.
+
+[p59 | prose | What went wrong or what went right?]
+The base plate was therefore redesigned to consist of 2 hinged plates. This allows one plate to be affixed to the mast as before, and the other plate to be attached to the foundation threaded rods whilst the mast is still in the horizontal position. The mast can then be raised to the vertical position in a fully controlled manner with no chance of the mast base slipping. Once the mast is upright the hinged plates are securely bolted together. This design also ensures the mast base cannot slip when the mast is lowered for periodic instrument maintenance.
+
+[p60 | prose | What went wrong or what went right?]
+8.0 Case studies
+
+[p60 | prose | What lessons can we take from this project and share with the industry?]
+What lessons can we take from this project and share with the industry?
+
+[p60 | prose | What lessons can we take from this project and share with the industry?]
+A simple, low cost design change has effectively eliminated a potential hazard. An early risk assessment has presented an opportunity to change a design to increase the safety of the system throughout its life in a cost effective manner.
+
+[p60 | prose | What lessons can we take from this project and share with the industry?]
+Standard design versus hinged plate
+
+[p60 | prose | ACKNOWLEDGEMENT]
+ACKNOWLEDGEMENT
+
+[p60 | prose | ACKNOWLEDGEMENT]
+Thanks to Navigatus Consulting for allowing this case study to be used.
+
+[p61 | prose | 8.3 Compac service trolley]
+8.3 Compac service trolley
+
+[p61 | prose | Set the scene]
+Set the scene
+
+[p61 | prose | Set the scene]
+A service trolley was positioned above a fruit sorter. The fruit sorter has fruit conveying carriers attached to chains running at high speed. This unintentionally gave access to multiple nip points and hazards in the machine, which were otherwise not accessible. There was also a danger of falling from height through the machine and onto the floor. The purpose of the trolley position above the machine is:
+
+[p61 | prose | What went wrong or what went right?]
+What went wrong or what went right?
+
+[p61 | prose | What went wrong or what went right?]
+The existing trolley was modified to incorporate the flexibility required for cleaning and maintenance tasks, while addressing the safety concerns identified by the risk assessment. This meant that the trolley needed to be configurable to be used in two distinct modes of operation. This was achieved through the installation of adjustable infill panels and the application of strict administrative controls.
+
+[p61 | prose | What lessons can we take from this project and share with the industry?]
+What lessons can we take from this project and share with the industry?
+
+[p61 | prose | What lessons can we take from this project and share with the industry?]
+While the new trolley configuration provided safer access for maintenance staff and observers during standard operation, we learned that we must remain vigilant regarding unintended uses of the trolley at all lifecycle stages, such as machine installation onsite. For example, in one instance, the trolley started being used as an anchor point to protect installers while working at height. This would have been dangerous as the trolley is ill-equipped to be an anchor point and might have led to an incident.
+
+[p61 | prose | ACKNOWLEDGEMENT]
+ACKNOWLEDGEMENT
+
+[p61 | prose | ACKNOWLEDGEMENT]
+Thanks to Suhas Shanbhogue of Compac for allowing this case study to be used.
+
+[p62 | prose | 8.4 Auckland Council special housing area: stormwater upgrade]
+8.4 Auckland Council special housing area: stormwater upgrade
+
+[p62 | prose | Set the scene]
+Set the scene
+
+[p62 | prose | Set the scene]
+Installation of new stormwater infrastructure to increase capacity and make allowance for a special housing area and an additional catchment. The project will also allow for separation of the combined wastewater/stormwater network.
+
+[p62 | prose | What went wrong or what went right?]
+What went wrong or what went right?
+
+[p62 | prose | What went wrong or what went right?]
+The catchment being serviced was located on a ridge with the downstream network located at a much lower elevation (a drop of 22 m over a 90 m length). The initial design called for a 24 m deep manhole in order to comply with the Stormwater Code of Practice. A Safety in Design workshop was held with attendance by the designers, the Auckland Council Operations Team and the Auckland Council Design Team. The workshop identified safety issues with operating and maintaining such a deep manhole. Safety issues were also raised around the construction of such a deep structure. The designers were asked to redesign the alignment to remove the deep manhole. The removal of the deep manhole eliminated the safety concerns regarding working at depth during construction and operation. In order for the design to be accepted, Auckland Council, in collaboration with the designers, relaxed the design criteria, specified more durable products and agreed to the design of an energy dissipation chamber. These changes were required in order to incorporate the shallow manhole and associated steeply graded pipe and high velocity flows.
+
+[p62 | prose | What lessons can we take from this project and share with the industry?]
+What lessons can we take from this project and share with the industry?
+
+[p62 | prose | What lessons can we take from this project and share with the industry?]
+In order to design and build a safe asset both the client and designer need to be prepared to think outside the box and investigate alternative products, installation methodologies and solutions.
+
+[p62 | prose | ACKNOWLEDGEMENT]
+ACKNOWLEDGEMENT
+
+[p62 | prose | ACKNOWLEDGEMENT]
+Thanks to Auckland Council for allowing this case study to be used. Also thanks to Stantec (formerly MWH), who were the Design Consultants for this project.
+
+[p63 | prose | 8.5 Noise control for shearing clippers]
+8.5 Noise control for shearing clippers
+
+[p63 | prose | Set the scene]
+Set the scene
+
+[p63 | prose | Set the scene]
+Shearing equipment can generate high levels of noise during the shearing of sheep, meaning that shearers can be exposed to high noise levels for long periods during the season. Extended periods of exposure to high levels of noise can lead to temporary or permanent hearing loss. This may be partial or full.
+
+[p63 | prose | What went wrong or what went right?]
+What went wrong or what went right?
+
+[p63 | prose | What went wrong or what went right?]
+Research completed at Canterbury University demonstrated that noise levels could be reduced by simple redesign of the shearing equipment, such as the prevention of the core hitting the downtube. This was a simple, inexpensive and reasonably practicable fix to reduce the noise emission to shearers and minimise a health and safety risk.
+
+[p63 | prose | What went wrong or what went right?]
+To view this report in full, see: Mahn, J. (2010). Noise of sheep shearing systems. Part 2. Noise Source Identification. Christchurch. Canterbury University: Acoustic Research Group. Report 120.
+
+[p63 | prose | ACKNOWLEDGEMENT]
+ACKNOWLEDGEMENT
+
+[p63 | prose | ACKNOWLEDGEMENT]
+Thanks to John Wallaart (Principal Advisor Biological and Chemical, WorkSafe New Zealand) for providing this case study.
+
+[p65 | glossary | Appendix A: Glossary]
+Appendix A: Glossary
+
+[p65 | glossary | Appendix A: Glossary]
+| TERM | LEGAL DEFINITION (AS NOTED) OR BRIEF EXPLANATION |
+| --- | --- |
+| Control measure | Is a way of eliminating or minimising risks to health and safety. |
+| Duty holder | Means a person who has a duty under HSWA. There are four types of duty holders - PCBUS, officers, workers and other persons at workplaces. |
+| Hazard (Section 16 of HSWA) | Includes a person’s behaviour where that behaviour has the potential to cause death, injury, or illness to a person (whether or not that behaviour results from physical or mental fatigue, drugs, alcohol, traumatic shock, or another temporary condition that affects a person’s behaviour). |
+| Health and Safety at Work Act 2015 (HSWA) | HSWA is the key work health and safety law in New Zealand. This covers nearly all work and workplaces. |
+| Other person at workplace | Examples of other persons include workplace visitors and casual volunteers at workplaces |
+| Overlapping PCBU duties | Means when more than one PCBU has health and safety duties in relation to the same matter. |
+| PCBU (Section 17 of HSWA) | a. means a person conducting a business or undertaking: i whether the person conducts a business or undertaking alone or with others; and i whether or not the business or undertaking is conducted for profit or gain; but b. does not include: i a person to the extent that the person is employed or engaged solely as a worker in, or as an officer of, the business or undertaking: a volunteer association: iii. an occupier of a home to the extent that the occupier employs or engages another person solely to do residential work: iv. a statutory officer to the extent that the officer is a worker in, or an officer of, the business or undertaking: V. a person, or class of persons, that is declared by regulations not to be a PCBU for the purposes of this Act or any provision of this Act. |
+| Plant (Section 16 of HSWA) | Includes: a. any machinery, vehicle, vessel, aircraft, equipment (including personal protective equipment), appliance, container, implement, or tool; and b. any component of any of those things; and C. anything fitted or connected to any of those things. |
+| (Section 22 of HSWA) | workplace, or who manage or control fixtures, fittings or plant at workplaces, and the upstream PCBU duty means that which is, or was, at a particular time, reasonably able to be done in relation to ensuring health and safety, taking into account and weighing up all relevant matters, including: a the likelihood of the hazard or the risk concerned occurring; and the degree of harm that might result from the hazard or risk; and what the person concerned knows, or ought reasonably to know, about: i the hazard or risk; and i ways of eliminating or minimising the risk; and the availability and suitability of ways to manage the risk; and after assessing the extent of the risk and the available ways of eliminating or minimising the risk, the cost associated with available ways of eliminating or minimising the risk, including whether the cost is grossly disproportionate to the risk. For more information on the concept of ‘reasonably practicable’, see WorkSafe’s fact sheet Reasonably Practicable. |
+| Risk | Risks arise from people being exposed to a hazard (a source of harm). |
+
+[p66 | glossary | Appendix A: Glossary]
+| TERM | LEGAL DEFINITION (AS NOTED) OR BRIEF EXPLANATION |
+| --- | --- |
+| Structure (Section 16 of HSWA) | a. means anything that is constructed, whether fixed, moveable, temporary, or permanent; and b.includes: i buildings, masts, towers, frameworks, pipelines, quarries, bridges, and underground works (including shafts or tunnels); and ii. any component of a structure; and iii. part of a structure. |
+| Upstream PCBUs | In this guide means PCBUs who design, manufacture, import or supply plant, substances or structures, or who install, construct or commission plant or structures. ‘Design’ is defined in HSWA as including: a. the design of part of the plant, substance, or structure; and b. the redesign or modification of a design. See Section 3.3 of these guidelines for more information about upstream PCBU duties. |
+| (Section 19 of HSWA) | a an employee; or a contractor or subcontractor; or an employee of a contractor or subcontractor; or 0o an employee of a labour hire company who has been assigned to work in the business or undertaking; or an outworker (including a homeworker); or an apprentice or a trainee; or a person gaining work experience or undertaking a work trial; or TM o a volunteer worker; or — a person of a prescribed class. A constable is: i a worker; and ii at work throughout the time when the constable is on duty or is lawfully performing the functions of a constable, but not otherwise. A member of the Armed Forces is: i a worker; and ii at work throughout the time when the member is on duty or is lawfully performing the functions of a member of the Armed Forces, but not otherwise. A PCBU is also a worker if the PCBU is an individual who carries out work in that business or undertaking. |
+| Workplace (Section 20 of HSWA) | a. means a place where work is being carried out, or is customarily carried out, for a business or undertaking; and b. includes any place where a worker goes, or is likely to be, while at work. In this section, place includes: a. a vehicle, vessel, aircraft, ship, or other mobile structure; and b. any waters and any installation on lnd, on the bed of any waters, or floating on any waters. |
+
+[p67 | glossary | Appendix A: Glossary]
+| RISK/CONTROL (ALPHABETISED) | EXPLANATION | DESIGN CONSIDERATIONS |
+| --- | --- | --- |
+| Confined spaces | Confined spaces pose a health and safety risk. For further guidance on confined spaces, see WorkSafe’s quick guide Confined Spaces. | When designing plant or structures that contain a confined space, designers should include: - use of lining materials that are durable, require minimal cleaning and do not react with materials contained in the confined space mechanical parts that provide for safe and easy maintenance provision for ventilation of the confined space, such as removable panels large, practical access points to permit the rescue of people who may become trapped in the confined space. Where it is not reasonably practicable to eliminate confined spaces, the designer should consider designing the area/space: - with a safe means of entry and exit - that does not allow the build-up of hazardous contaminants, or allow dangerous levels of oxygen to occur where risks to the health and safety of people who enter the space are minimised so far as is reasonably practicable. |
+| Control circuit failure | If the control circuit fails, this may pose a health and safety risk to users. For further guidance on circuit controls, see WorkSafe’s guidelines Safe Use of Machinery. | A control circuit used to control the plant should be designed to the requirements of the category, performance level or safety integrity level determined by a risk assessment. In particular: - the plant should not start unexpectedly - the plant should not be prevented from stopping if such a command has already been given no moving part of the plant should fall or be ejected automatic or manual stopping of moving parts should not be impeded the protection device should remain fully effective or fail to a condition that does not create a risk. |
+| Emergency stops | An emergency stop is a device installed on or next to plant to bring it to a stop when other control measures fail. It could be a button, grab wire or foot pedal. | Designers should consider the number of emergency stops, features of the plant operation and the location and number of operators who may need to access them throughout the structure or building. Emergency stops do not remove the need for acceptable guarding. The designer should make sure that: = once engaged, the emergency stop controls should remain in place until a risk assessment is done it is only possible to disengage the emergency stop controls using a deliberate action the emergency stop control cannot be adversely affected by electrical or electronic circuit malfunction the emergency stop is not the only method of managing risks - they should be designed as a backup to other control measures the emergency stop system should be compatible with the operational characteristics of the plant the emergency stop system should be compatible with the physical characteristics of users the type of emergency stop design is chosen following the requirements of the category, performance level or safety integrity level determined by a risk assessment if the plant is designed to be operated by more than one person and more than one emergency stop control is fitted, the designer should make sure that the multiple emergency stop controls are of the ‘stop and lock-off’ type. This is so the plant cannot be restarted after an emergency stop control has been used unless the emergency stop control is reset. |
+
+[p68 | glossary | Appendix A: Glossary]
+| RISK/CONTROL (ALPHABETISED) | EXPLANATION | DESIGN CONSIDERATIONS |
+| --- | --- | --- |
+|  |  | The emergency stop control should be prominent, clearly and durably marked. Warning devices can include: - audible alarms - motion sensors - lights - rotary flashing lights - air horns - percussion alarms - radio sensing devices. These warning devices may need to be located a multiple places in the building or structure to alert others to the situation. |
+| Energy sources | Designers should consider the possibility of a dangerous situation where the energy source to the plant or structure becomes irregular. This could take the form of a power surge or fluctuation. | Designers should make sure: - plant should default to the ‘off position’ - plant should not be able to restart automatically after power fluctuations - protective devices should remain fully effective before, during and after power fluctuation. Where electrical equipment has been designed for use within certain voltage limits, only those specific requirements addressing the design requirement should apply. Where plant is powered by an energy source other than electricity, it should be designed to allow the plant to be constructed and equipped to manage, so far as is reasonably practicable, potential risks associated with that particular type of energy. |
+| Entanglement | Some plant carries a risk of entanglement. | Designers should make sure that moving parts of machines are designed in a way that eliminates the need for user intervention. Older plant like radial drills, surface planers and milling machines commonly operate with the rotating tool unguarded. This presents a risk of entanglement should the user or their clothing contact the rotating part. For modern metal-working machines, designers should consider these things: - incorporating protective guards that surround the cutter - providing lubricant and swarf removal that could eliminate the need for user invention - ensuring plant is computer controlled where possible. For older woodworking machinery, designers should consider: - using powered feed equipment to provide a safe distance between the user and the revolving cutters or blades - fitting barriers like mesh guards or tunnel guards for close-contact plant like grain augers or tree-limb mulchers. Older style machines should be protected by the use of physical barriers, pressure sensitive mats or presence sensing devices. Operator controls for plant capable of entanglement should be able to bring the plant quickly to a complete stop. The braking system on the plant should, so far as is reasonably practicable, prevent further movement once the plant has stopped. |
+| Fire and explosion | Certain types of plant, substances or structures contain or create the risk of fire, explosion or overheating. | A designer must, so far as is reasonably practicable, ensure the plant or structure is designed without risk. They must also manage risks posed by the plant itself. Risks may arise from gases, liquids, dusts, vapours or other substances produced, stored or used in the plant or structure, or other plant or structures in the vicinity. |
+
+[p69 | glossary | Appendix A: Glossary]
+| RISK/CONTROL (ALPHABETISED) | EXPLANATION | DESIGN CONSIDERATIONS |
+| --- | --- | --- |
+| Confined spaces | Confined spaces pose a health and safety risk. For further guidance on confined spaces, see WorkSafe’s quick guide Confined Spaces. | When designing plant or structures that contain a confined space, designers should include: - use of lining materials that are durable, require minimal cleaning and do not react with materials contained in the confined space mechanical parts that provide for safe and easy maintenance provision for ventilation of the confined space, such as removable panels large, practical access points to permit the rescue of people who may become trapped in the confined space. Where it is not reasonably practicable to eliminate confined spaces, the designer should consider designing the area/space: - with a safe means of entry and exit - that does not allow the build-up of hazardous contaminants, or allow dangerous levels of oxygen to occur where risks to the health and safety of people who enter the space are minimised so far as is reasonably practicable. |
+| Control circuit failure | If the control circuit fails, this may pose a health and safety risk to users. For further guidance on circuit controls, see WorkSafe’s guidelines Safe Use of Machinery. | A control circuit used to control the plant should be designed to the requirements of the category, performance level or safety integrity level determined by a risk assessment. In particular: - the plant should not start unexpectedly - the plant should not be prevented from stopping if such a command has already been given no moving part of the plant should fall or be ejected automatic or manual stopping of moving parts should not be impeded the protection device should remain fully effective or fail to a condition that does not create a risk. |
+| Emergency stops | An emergency stop is a device installed on or next to plant to bring it to a stop when other control measures fail. It could be a button, grab wire or foot pedal. | Designers should consider the number of emergency stops, features of the plant operation and the location and number of operators who may need to access them throughout the structure or building. Emergency stops do not remove the need for acceptable guarding. The designer should make sure that: = once engaged, the emergency stop controls should remain in place until a risk assessment is done it is only possible to disengage the emergency stop controls using a deliberate action the emergency stop control cannot be adversely affected by electrical or electronic circuit malfunction the emergency stop is not the only method of managing risks - they should be designed as a backup to other control measures the emergency stop system should be compatible with the operational characteristics of the plant the emergency stop system should be compatible with the physical characteristics of users the type of emergency stop design is chosen following the requirements of the category, performance level or safety integrity level determined by a risk assessment if the plant is designed to be operated by more than one person and more than one emergency stop control is fitted, the designer should make sure that the multiple emergency stop controls are of the ‘stop and lock-off’ type. This is so the plant cannot be restarted after an emergency stop control has been used unless the emergency stop control is reset. |
+
+[p70 | glossary | Appendix A: Glossary]
+| RISK/CONTROL (ALPHABETISED) | EXPLANATION | DESIGN CONSIDERATIONS |
+| --- | --- | --- |
+|  |  | The emergency stop control should be prominent, clearly and durably marked. Warning devices can include: - audible alarms - motion sensors - lights - rotary flashing lights - air horns - percussion alarms - radio sensing devices. These warning devices may need to be located a multiple places in the building or structure to alert others to the situation. |
+| Energy sources | Designers should consider the possibility of a dangerous situation where the energy source to the plant or structure becomes irregular. This could take the form of a power surge or fluctuation. | Designers should make sure: - plant should default to the ‘off position’ - plant should not be able to restart automatically after power fluctuations - protective devices should remain fully effective before, during and after power fluctuation. Where electrical equipment has been designed for use within certain voltage limits, only those specific requirements addressing the design requirement should apply. Where plant is powered by an energy source other than electricity, it should be designed to allow the plant to be constructed and equipped to manage, so far as is reasonably practicable, potential risks associated with that particular type of energy. |
+| Entanglement | Some plant carries a risk of entanglement. | Designers should make sure that moving parts of machines are designed in a way that eliminates the need for user intervention. Older plant like radial drills, surface planers and milling machines commonly operate with the rotating tool unguarded. This presents a risk of entanglement should the user or their clothing contact the rotating part. For modern metal-working machines, designers should consider these things: - incorporating protective guards that surround the cutter - providing lubricant and swarf removal that could eliminate the need for user invention - ensuring plant is computer controlled where possible. For older woodworking machinery, designers should consider: - using powered feed equipment to provide a safe distance between the user and the revolving cutters or blades - fitting barriers like mesh guards or tunnel guards for close-contact plant like grain augers or tree-limb mulchers. Older style machines should be protected by the use of physical barriers, pressure sensitive mats or presence sensing devices. Operator controls for plant capable of entanglement should be able to bring the plant quickly to a complete stop. The braking system on the plant should, so far as is reasonably practicable, prevent further movement once the plant has stopped. |
+| Fire and explosion | Certain types of plant, substances or structures contain or create the risk of fire, explosion or overheating. | A designer must, so far as is reasonably practicable, ensure the plant or structure is designed without risk. They must also manage risks posed by the plant itself. Risks may arise from gases, liquids, dusts, vapours or other substances produced, stored or used in the plant or structure, or other plant or structures in the vicinity. |
+
+[p71 | glossary | Appendix A: Glossary]
+| RISK/CONTROL (ALPHABETISED) | EXPLANATION | DESIGN CONSIDERATIONS |
+| --- | --- | --- |
+
+[p71 | glossary | Appendix A: Glossary]
+When choosing a guard, designers should consider the environment it will be used in. Physical barrier guarding should be:
+
+[p71 | glossary | Appendix A: Glossary]
+– constructed from material strong enough to resist normal wear and shock
+
+[p71 | glossary | Appendix A: Glossary]
+– able to withstand long use with a minimum of maintenance
+
+[p71 | glossary | Appendix A: Glossary]
+– made from corrosion-resistant materials, if it is likely to be exposed to corrosion.
+
+[p72 | glossary | Appendix A: Glossary]
+| RISK/CONTROL (ALPHABETISED) | EXPLANATION | DESIGN CONSIDERATIONS |
+| --- | --- | --- |
+|  |  | When an enclosure is used to prevent access to mechanical, chemical and electrical hazards there may be an opportunity to control other risks. For example, risks associated with exposure to dust may be controlled by replacing a mesh guard with a sheet metal guard (ie enclosure) however; the accumulation of dust within the guard should not create another hazard. |
+|  |  | Where there is a risk of jamming or blocking moving parts, the designer should document the work procedures, devices and tools to clear the plant in a way that minimises the risk. This information should be passed on to the manufacturer and supplier. |
+|  |  | The designer should carry out safety integrity testing for presence- sensing safeguarding systems to check that a safety function will perform as intended. |
+|  |  | A risk assessment determines the safety integrity requirements - the higher the level of safety integrity, the lower the likelihood of failure which can cause harm. If applicable, the designer should specify (in the information provided to the manufacturer) the safe systems of work for using and maintaining the guarding and the maintenance of the components being guarded. |
+| Hazardous substances and substances hazardous to health | Hazardous substances may create health and safety risks for people | Plant should be designed and manufactured to control the release of hazardous exposures. This includes controlling hazardous waste and airborne substances. |
+| who handle them. | Extraction ventilation for a structure or for plant should be designed to maximise the capture and containment of the airborne contaminant and ensure it is carried away from the workers rather than toward the workers. |  |
+| Lighting | Lighting should be provided to enable safe use of plant and provide a safe work environment in, or on a structure. Poor lighting can lead | Lighting may be internally or externally installed. Emergency lighting should use its own power supply and not be subject to power cuts. If external lighting is needed to ensure the safety of workers at or near the plant, the designer should provide written information to the installer and the end user. Designers should consider control panel lighting when designing plant. |
+| to poor visibility, user fatigue, difficulty performing tasks, and wrong decisions and accidents. | Designers should, by applying appropriate Standards, look into lighting requirements for plant use and maintenance including: - the direction and intensity of lighting - the contrast between background and local illumination - the colour of the light source control of reflection, glare and shadows the use of colour and finishes on reflecting surfaces adaptation of the worker to the light levels distribution of light in the space and on surfaces the use of light with suitable colour characteristics. |  |
+| Lightning | Lightning strikes pose a risk of severe burns or death. | Plant or structures potentially exposed to lightning strikes while being used, or worked in or on should incorporate a system for conducting resultant electrical charges to earth. |
+| Manual tasks | Manual tasks can pose a risk to workers’ health and safety. | Designers should: - make sure that the plant and layout of the structure is designed to eliminate, so far as is reasonably practicable, the need for any hazardous manual tasks to be carried out take reasonable steps to provide information on hazardous manual tasks associated with plant. For example, this information may be in user manuals and manufacturer’s instructions. It should be in plain English and include pictures or drawings where possible while also maintaining the accuracy and quality of the technical information. |
+
+[p73 | glossary | Appendix A: Glossary]
+| RISK/CONTROL (ALPHABETISED) | EXPLANATION | DESIGN CONSIDERATIONS |
+| --- | --- | --- |
+|  |  | Designers should consider: = characteristics of the plant such as weight, size, shape and stability = layout of the structure and work areas in terms of accessibility and movement of people, plant and vehicles vertical and horizontal reach distances of future users conditions in which the plant will be used, serviced, maintained and repaired if the plant is suited to the physical characteristics of users including body size and shape if the plant could create poor working positions or awkward postures if the operator will need to carry out repetitive actions if the operator will be required to work at the same task for long periods ' sight lines of users. Designers should consider the following methods to minimise risks associated with manual tasks: - modular components designed to be dismantled so they can easily be carried or repaired attachments like handles or designated lifting points to make lifting easier wheels to make moving easier using lightweight materials managing weight of products, substances or components (eg packing substances only in 10 kg bags rather than 25 kg bags). |
+| Mechanical or structural failure during use | Parts of plant and structures should be able to withstand typical stresses during intended use and reasonably foreseeable misuse. | Materials used to make the plant and structure should suit the specified working environment. While deciding which materials to use, designers should consider the possible effects of fatigue, ageing, corrosion and abrasion. The design specification should indicate: |
+| - the type and frequency of inspection and maintenance required to keep the plant or structure in a safe condition - the parts subjected to wear - the criteria for determining replacement of these parts. |  |  |
+| Where risk of rupture or disintegration of parts of plant or structure remains after control measures are taken, the parts should be designed, so far as is reasonably practicable, to be mounted, positioned or guarded so if they rupture their fragments will not put the user or others at risk. |  |  |
+| Designers should consider whether it is appropriate to design plant such that if one part of the plant disintegrates or fails, the entire plant should stop (or continue, whatever is safer) so that it does not pose any additional risk over and above the failed part. |  |  |
+| Rigid and flexible hoses and pipes carrying fluids like gases or liquids, particularly those under high pressure, should be able to withstand foreseen stresses and be firmly attached and protected against them. |  |  |
+| Where material to be processed is automatically fed to moving parts of the plant, the design should include a way to avoid risks to the user and others which may arise from the material being ejected or being blocked in the moving parts of the plant. This may include: - allowing the moving parts to reach normal working condition before material comes into contact with the moving parts and co-ordinating the feed movement of the material and the moving parts of the plant including on start-up and shut-down, regardless of whether the use is intentional or unintentional. |  |  |
+| For further information, see the /LO Code of Practice (Occupational Safety and Health). |  |  |
+
+[p74 | glossary | Appendix A: Glossary]
+| RISK/CONTROL (ALPHABETISED) | EXPLANATION | DESIGN CONSIDERATIONS |
+| --- | --- | --- |
+| Noise | Designers should design plant and structures so that noise emission is as low as is reasonably practicable. | To manage the risks associated with noise emission, the designer should consider: - preventing or reducing the impact between machine parts - replacing metal parts with quieter plastic parts - combining machine guards with acoustic treatment enclosing noisy machine parts selecting power transmission which permits the quietest speed regulation isolating vibration-related noise sources within machines using effective seals for machine doors machines with effective cooling flanges which reduce the need for air jet cooling quieter types of fans or placing mufflers in the ducts of ventilation systems quiet electric motors and transmissions reducing velocity of air or liquids in pipes - maximum 5 metres per second ventilation ducts with fan inlet mufflers and other mufflers to prevent noise transfer in the duct between noisy and quiet rooms locating noisy plant outside a structure, or if within a structure at a position that minimises noise reflection from walls, ceiling and floors. |
+| Operator controls | Operator controls can pose a risk if they are difficult to use or access. | Designers should design plant operator controls so they are: - identified on the plant to indicate how to use them ' located in an accessible place on the plant ' located or guarded to prevent accidental activation ' able to be locked into the ‘off’ position to enable the disconnection of all motive power. Control devices should be designed: - so the plant is fail-safe to the category, performance level and safety integrity level determined by a risk assessment to be located within easy access of the user with extra emergency stops which can be used from other parts of the plant so they are clearly visible, identifiable and suitably marked to clearly indicate the function of the control and control operations are as indicated using symbols and written instructions so they can be easily read and understood by all users or potential users (including those with poor vision). This includes dials, screens and gauges so the control moves consistent with established convention so the desired effect can only occur by intentionally operating a control to withstand normal use, undue forces and environmental conditions to be outside danger zones to be located or guarded to prevent unintentional activation - so they can be locked in the ‘off’ position to isolate the power and - to be readily accessible for maintenance. It should only be possible to start plant by deliberately moving or operating a control provided for that purpose, including after a stoppage. Each item of plant should be designed to include a control which completely stops the plant or its relevant components safely. |
+
+[p75 | glossary | Appendix A: Glossary]
+| RISK/CONTROL (ALPHABETISED) | EXPLANATION | DESIGN CONSIDERATIONS |
+| --- | --- | --- |
+| Plant combinations | Plant that is designed to work in combination with other plant can pose a health and safety risk if not used correctly. | Plant arranged to work in combination with other plant should be designed so when the stop controls, including the emergency stop control, are activated, all the plant being used is stopped simultaneously. Where production lines are separated into zones, designers should indicate to the user that the stop controls will only work for that zone. Separate zones should be clear and intrusions into adjoining zones should be made as difficult as possible. Designers should provide information and instructions about combined plant to the manufacturer. |
+| Powered mobile plant | Powered mobile plant includes tractors, forklifts, quad bikes and other plant that is commonly used to transport people or materials. | There are various risk controls that may need to be considered in their design. These may include: = roll over protective structures (ROPS) = falling object protective structures (FOPS) = seat belts - reversing alarms that can be easily heard above background noise. For more information on powered mobile plant, see WorkSafe’s guidance Keep safe around moving plant. |
+|  | direct current. Technologies that use magnetic fields may include: = aluminium production = electrolytic processes = magnet production - nuclear magnetic resonance imaging - spectroscopy. |  |
+| Low frequency radiation is man-made, low frequency electromagnetic fields. |  |  |
+
+[p76 | glossary | Appendix A: Glossary]
+| RISK/CONTROL (ALPHABETISED) | EXPLANATION | DESIGN CONSIDERATIONS |
+| --- | --- | --- |
+| Radiation - lonising | The use and assessment of these is covered by the Radiation Safety Act 2016 and regulations. | Designers should design plant: = to eliminate, so far as is reasonably practicable, personal exposure to radiation so that external ionising radiation does not affect people working |
+| For more information on ionising radiation, see the Ministry of Health’s Radiation Safety page: www.health.govt.nz/our- work/radiation-safety | with or near the plant so that ionising radiation levels are not higher than what is necessary to use the plant, even in an emergency so that ionising radiation levels do not exceed relevant exposure limits set by the Radiation Safety Act 2016 and Radiation Safety Regulations 2016. |  |
+| Radiation (non-ionising) - Lasers | Lasers are devices that produce optical radiation with unique properties. They have varying power and applications. | Designers of plant with laser equipment should make sure that: laser equipment on plant is designed to prevent harm laser equipment on plant is protected so that users are not exposed to direct radiation, radiation produced by reflection or diffusion or secondary radiation |
+|  | Designers of lasers and plant with lasers should provide information about how to use the lasers safely. This could be a label with both the classification details and the warnings-for-use relevant to that classification. The warning labels relevant to that classification should be permanently attached to the housing of the plant in a highly visible position. |  |
+| Radiation - Ultraviolet | Excessive exposure to ultraviolet (UV) radiation from the sun can cause sunburn, lasting skin damage, premature skin aging and an increased risk of developing skin cancer. | Designers should consider ultraviolet light risks associated with the plant, and in structures they are designing. For example, a designer of mobile plant should safeguard the driver from exposure to ultraviolet radiation from the sun by incorporating an effective canopy into the design. They should make sure that UV radiation created by the plant is not released to prevent exposure to other workers in the structure. |
+| Exposure also increases the risk of ultraviolet induced damage to the lens and cornea of the eye. Exposure can also come from artificial sources like germicidal lamps and quartz-halogen lights, UV curing of printing inks and some forms of welding. |  |  |
+| Risk of being trapped | Becoming trapped in plant poses a risk or injury or even death to users. | Where there is a risk of a person becoming trapped or enclosed within the plant, designers should incorporate control measures in the design to allow the plant to come to an immediate stop or prevent the plant being activated while a person is in that position. |
+| For mobile plant, the risk of the user being trapped if the plant overturns can be minimised with rollover protection structures. |  |  |
+| Software | If software is difficult to use, it can lead to health and safety risks for users. | Designers should investigate any potential Standards they may need to reference when designing software for plant. Designers considering the use of interactive software for the user to control the plant should make sure the software is as easy-to-use, and with as few manual task risks as possible. See Manual Tasks for more information about user interaction with plant, structures and substances. |
+|  |  |  |
+
+[p77 | glossary | Appendix A: Glossary]
+| RISK/CONTROL (ALPHABETISED) | EXPLANATION | DESIGN CONSIDERATIONS |
+| --- | --- | --- |
+| Stability | Unstable plant can cause a risk to health and safety. It can topple, parts can fall off or it can unexpectedly move and result in crush or impact injuries. | Designers should design plant to be stable under all expected conditions. Detailed written instructions should be provided by the designer to the relevant PCBUs. Detailed written erection, modification and dismantling procedures should be provided to the manufacturer by the designer. Stability testing requirements for the plant can be developed and specified at the design phase and verified after manufacture. |
+| Static electricity | Static electricity may cause an electric shock to a person, as well as unintended combustion where flammable fumes are present. | Plant and structures should be designed to prevent or limit the discharge of electrostatic charges. To manage health and safety risks arising from static electricity, designers can incorporate control measures into their design such as spark detection and suppression systems. |
+| Vibration | Vibration can be transmitted to the whole body and through the hands and arms when using plant, or working in structures. This can lead to muscle damage and other injuries and health problems. | Plant should be designed to manage risks resulting from vibration. Three approaches to control vibration are: - eliminating vibration happening in the first place - minimising vibration - isolating the vibration from the person. Ways that designers could minimise health and safety risks that may arise from vibration are: - designing commercial vehicles to have suspended cabs - designing in vibration isolation (eg the use of rubber blocks or mounts on an engine) tool design that isolates the handles from the percussive action incorporating an electric drive into the design eliminating or reducing the need for people to work on or access parts of a structure where vibration occurs. |
+| Warning devices |  | If the plant design includes an emergency warning device the designer should position the device on the plant to make sure the device will work to best effect. Warning devices can include: - audible alarms - motion sensors - lights rotary flashing lights air horns percussion alarms radio sensing devices. |
+
+[p78 | appendix | Appendix C: Health and Safety by Design checklist for structures]
+Appendix C: Health and Safety by Design checklist for structures
+
+[p78 | appendix | Appendix C: Health and Safety by Design checklist for structures]
+The following list is a guide, and may be used to assist in identifying risks associated with the design of a structure throughout its lifecycle. It is the responsibility of the designer to ensure, so far as is reasonably practicable, that all the risks presented by the interaction between their design and people have been identified and appropriately managed.
+
+[p78 | prose | Electrical safety]
+Electrical safety
+
+[p78 | prose | Electrical safety]
+Earthing of electrical installations
+
+[p78 | prose | Electrical safety]
+Location of underground and overhead power cables
+
+[p78 | prose | Electrical safety]
+Protection of leads/cables
+
+[p78 | prose | Electrical safety]
+Number and location of power points
+
+[p78 | prose | Fire and emergencies]
+Fire and emergencies
+
+[p78 | prose | Fire and emergencies]
+Fire risks
+
+[p78 | prose | Fire and emergencies]
+Fire detection and fire fighting
+
+[p78 | prose | Fire and emergencies]
+Emergency routes and exits
+
+[p78 | prose | Fire and emergencies]
+Access for and structural capacity to carry fire tenders
+
+[p78 | prose | Fire and emergencies]
+Other emergency facilities
+
+[p78 | prose | Movement of people and materials]
+Movement of people and materials
+
+[p78 | prose | Movement of people and materials]
+Safe access and egress, including for people with disability
+
+[p78 | prose | Movement of people and materials]
+Traffic management
+
+[p78 | prose | Movement of people and materials]
+Loading bays and ramps
+
+[p78 | prose | Movement of people and materials]
+Safe crossings
+
+[p78 | prose | Movement of people and materials]
+Exclusion zones
+
+[p78 | prose | Movement of people and materials]
+Site security
+
+[p78 | prose | Movement of people and materials]
+Lay of work area
+
+[p78 | prose | Working environment]
+Working environment
+
+[p78 | prose | Working environment]
+Ventilation for thermal comfort and general air quality and specific ventilation requirements for the work to be performed on the premises
+
+[p78 | prose | Working environment]
+Acoustic properties and noise control (eg noise isolation, insulation and absorption)
+
+[p78 | prose | Working environment]
+Seating
+
+[p78 | prose | Working environment]
+Floor surfaces to prevent slips and trips
+
+[p78 | prose | Working environment]
+Space for occupants
+
+[p78 | prose | Working environment]
+Environmental issues – cold, heat, air movement, vibration, noise , lighting
+
+[p78 | prose | Working environment]
+Work organisation – hours worked, shiftwork, work flow, workers ability to control the job/task
+
+[p78 | prose | Plant]
+Plant
+
+[p78 | prose | Plant]
+Tower crane locations, loading and unloading
+
+[p78 | prose | Plant]
+Mobile crane loads on slabs
+
+[p78 | prose | Plant]
+Plant and machinery installed in a building or structure
+
+[p78 | prose | Plant]
+Materials handling, plant and equipment
+
+[p78 | prose | Plant]
+Maintenance access to plant and equipment
+
+[p78 | prose | Plant]
+Guarding of plant and machinery
+
+[p78 | prose | Plant]
+Lift installations
+
+[p78 | prose | Amenities and facilities]
+Amenities and facilities
+
+[p78 | prose | Amenities and facilities]
+Access to various amenities and facilities such as storage, first aid rooms/sick rooms, rest rooms, meal and accommodation areas and drinking water
+
+[p78 | prose | Earthworks]
+Earthworks
+
+[p78 | prose | Earthworks]
+Excavations
+
+[p78 | prose | Earthworks]
+(eg risks from earth collapsing or engulfment) Location of underground services
+
+[p78 | prose | Structural safety]
+Structural safety
+
+[p78 | prose | Structural safety]
+Erection of steelwork or concrete frameworks
+
+[p78 | prose | Structural safety]
+Load bearing requirements
+
+[p78 | prose | Structural safety]
+Stability and integrity of the structure
+
+[p78 | prose | Manual tasks]
+Manual tasks
+
+[p78 | prose | Manual tasks]
+Methods of material handling
+
+[p78 | prose | Manual tasks]
+Accessibility of material handling
+
+[p78 | prose | Manual tasks]
+Loading docks and storage facilities
+
+[p78 | prose | Manual tasks]
+Workplace space and layout to prevent musculoskeletal disorders, including facilitating use of mechanical aids
+
+[p78 | prose | Manual tasks]
+Assembly and disassembly of pre-fabricated fixtures and fittings:
+
+[p78 | prose | Manual tasks]
+– Work layout and awkward positions – reach, ability to adjust work area or plant or tool to fit worker
+
+[p78 | prose | Manual tasks]
+– Load and forceful movements – carrying, pushing, lifting, lowering, pulling (the human interface)
+
+[p78 | prose | Manual tasks]
+– Task invariability – repetitive static holding, lack of variation in cognitive demand
+
+[p78 | prose | Manual tasks]
+– Design to ensure that manual handling aids are suitable for the tasks for which they are used and that they are effective and safe for the range of people who may use them, and under the circumstances in which they are used.
+
+[p79 | prose | Substances]
+Substances
+
+[p79 | prose | Substances]
+Exposure to hazardous substances and materials including insulation and decorative materials
+
+[p79 | prose | Substances]
+Exposure to volatile organic compounds and off gassing through the use of composite wood products or paints
+
+[p79 | prose | Substances]
+Exposure to irritant dust and fumes
+
+[p79 | prose | Substances]
+Storage and use of hazardous chemicals, including cleaning products
+
+[p79 | prose | Human factors]
+Human factors
+
+[p79 | prose | Human factors]
+Individual factors – age, gender, fitness, fatigue
+
+[p79 | prose | Human factors]
+Psychosocial factors – stress, time to do the task/work
+
+[p79 | prose | Falls prevention]
+Falls prevention
+
+[p79 | prose | Falls prevention]
+Guard rails
+
+[p79 | prose | Falls prevention]
+Window heights and cleaning
+
+[p79 | prose | Falls prevention]
+Anchorage points for building maintenance and cleaning
+
+[p79 | prose | Falls prevention]
+Access to working spaces for construction, cleaning, maintenance and repairs
+
+[p79 | prose | Falls prevention]
+Scaffolding
+
+[p79 | prose | Falls prevention]
+Temporary work platforms
+
+[p79 | prose | Falls prevention]
+Roofing materials and surface characteristics such as fragility, slip resistance and pitch
+
+[p79 | prose | Falls prevention]
+For more information on Working at Height, see WorkSafe’s guidance Best practice guidelines for working at height in New Zealand.
+
+[p79 | prose | Specific risks]
+Specific risks
+
+[p79 | prose | Specific risks]
+Exposure to radiation
+
+[p79 | prose | Specific risks]
+(eg electromagnetic radiation)
+
+[p79 | prose | Specific risks]
+Exposure to biological hazards
+
+[p79 | prose | Specific risks]
+Fatigue
+
+[p79 | prose | Specific risks]
+Working alone
+
+[p79 | prose | Specific risks]
+Use of explosives
+
+[p79 | prose | Specific risks]
+Confined spaces
+
+[p79 | prose | Specific risks]
+Over and under water work, including diving and work in caissons with compressed air supply
+
+[p79 | prose | Noise exposure]
+Noise exposure
+
+[p79 | prose | Noise exposure]
+Exposure to noise from plant or from surrounding area
+
+[p79 | prose | Noise exposure]
+Safe Work Australia Code of Practice Safe Design of Structures (2012)
+
+[p80 | prose | Notes]
+Notes
+
+[p81 | prose | Disclaimer]
+Disclaimer
