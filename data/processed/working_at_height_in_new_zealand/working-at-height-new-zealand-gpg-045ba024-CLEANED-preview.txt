@@ -1,0 +1,2525 @@
+[p1 | prose | Working at height in New Zealand]
+Working at height in New Zealand
+
+[p1 | prose | Working at height in New Zealand]
+GOOD PRACTICE GUIDELINES FOR MANAGING THE RISKS FROM WORKING AT HEIGHT July 2026
+
+[p1 | prose | Working at height in New Zealand]
+GOOD PRACTICE GUIDELINES
+
+[p2 | prose | Working at height in New Zealand]
+This guide provides practical advice on
+
+[p2 | prose | Working at height in New Zealand]
+ways to identify and manage health and
+
+[p2 | prose | Working at height in New Zealand]
+safety risks associated with working at
+
+[p2 | prose | height in New Zealand.]
+height in New Zealand.
+
+[p3 | prose | height in New Zealand.]
+Working at height in New Zealand
+
+[p3 | prose | KEY POINTS]
+KEY POINTS
+
+[p3 | prose | KEY POINTS]
+Working at height is a leading cause of serious injury
+
+[p3 | prose | and death in New Zealand.]
+and death in New Zealand.
+
+[p3 | prose | and death in New Zealand.]
+Businesses must manage the risks associated with
+
+[p3 | prose | and death in New Zealand.]
+working at height.
+
+[p3 | prose | and death in New Zealand.]
+Certain types of work at height must be notified to
+
+[p3 | prose | and death in New Zealand.]
+WorkSafe before work starts.
+
+[p3 | prose | and death in New Zealand.]
+Businesses must consult with workers when making
+
+[p3 | prose | and death in New Zealand.]
+decisions about how to manage health and safety
+
+[p3 | prose | and death in New Zealand.]
+risks related to their work.
+
+[p4 | prose | NOTE TO READERS]
+NOTE TO READERS
+
+[p4 | prose | Use of ‘must’ and ‘should’]
+Use of ‘must’ and ‘should’
+
+[p4 | prose | Use of ‘must’ and ‘should’]
+The words ‘must’ and ‘should’ indicate whether:
+
+[p4 | prose | Use of ‘must’ and ‘should’]
+– an action is required by law, or
+
+[p4 | prose | Use of ‘must’ and ‘should’]
+– an action is a recommended practice or approach.
+
+[p4 | table | Use of ‘must’ and ‘should’]
+| TERM | MEANING |
+| --- | --- |
+| Must | Legal requirement that you must comply with |
+| Should | Recommended practice or approach. |
+| Where the word ‘should’ is used it means that it is |  |
+| a recommended practice or approach, but it is not |  |
+| mandatory. |  |
+
+[p4 | prose | Key terms]
+Key terms
+
+[p4 | prose | Key terms]
+A list of technical words, terms, and abbreviations used in these guidelines can be found in the glossary at the end of these guidelines. The glossary explains the meaning of each technical word, term, or abbreviation.
+
+[p4 | prose | Lists]
+Lists
+
+[p4 | prose | Lists]
+Lists of examples used in these guidelines are not complete lists. They may list some examples, but not all possible examples.
+
+[p4 | prose | Images]
+Images
+
+[p4 | prose | Images]
+Images used in these guidelines are a guide only. Images are not intended to provide technical specifications.
+
+[p10 | prose | Images]
+These guidelines can help persons conducting a business or undertaking (PCBUs) and workers to meet their duties under the Health and Safety at Work Act 2015 (HSWA) and associated regulations when managing the risks associated with working at height.
+
+[p10 | prose | Images]
+These guidelines are grouped into eight areas:
+
+[p10 | prose | Images]
+1. Introduction.
+
+[p10 | prose | Images]
+2. HSWA key concepts - an introduction to the key health and safety legislation relevant to working at height.
+
+[p10 | prose | Images]
+3. General principles of good health and safety risk management.
+
+[p10 | prose | Images]
+4. Good practice for managing risks from working at height organised by control measure type:
+
+[p10 | prose | Images]
+- Scaffolding
+
+[p10 | prose | Images]
+- Edge protection
+
+[p10 | prose | Images]
+- Safety decking
+
+[p10 | prose | Images]
+- Mechanical access plant
+
+[p10 | prose | Images]
+- Safety mesh
+
+[p10 | prose | Images]
+- Harness systems
+
+[p10 | prose | Images]
+- Temporary work platforms
+
+[p10 | prose | Images]
+- Catch platforms
+
+[p10 | prose | Images]
+- Soft landing systems
+
+[p10 | prose | Images]
+- Safety nets
+
+[p10 | prose | Images]
+- Fixed roof ladders and crawl boards
+
+[p10 | prose | Images]
+- Ladders, stepladders, and means of access.
+
+[p10 | prose | Images]
+5. Other considerations when managing working at height risks.
+
+[p10 | prose | Images]
+6. Training and competency.
+
+[p10 | prose | Images]
+7. Notifying WorkSafe.
+
+[p10 | prose | Images]
+8. More information.
+
+[p11 | prose | Images]
+Who should read these guidelines?
+
+[p11 | prose | Images]
+These guidelines are for any PCBU that:
+
+[p11 | prose | Images]
+has workers who work at height
+
+[p11 | prose | Images]
+contracts other PCBUs to undertake work at height on their behalf (within a
+
+[p11 | prose | Images]
+contracting chain or at a worksite they have influence or control over)
+
+[p11 | prose | Images]
+designs, manufactures, imports or supplies equipment that is used to help
+
+[p11 | prose | Images]
+protect workers from risks associated with work at height.
+
+[p11 | prose | Images]
+These guidelines may also be useful for health and safety professionals when providing advice on managing the risks of working at height.
+
+[p11 | prose | Images]
+How to use these guidelines
+
+[p11 | prose | Images]
+These guidelines explain what health and safety duties PCBUs have under HSWA and related regulations. They provide examples of ways to meet those duties through:
+
+[p11 | prose | Images]
+providing guidance on ways to assess the risks associated with working
+
+[p11 | prose | at height]
+at height
+
+[p11 | prose | at height]
+outlining the various methods that can be used to manage the risks of
+
+[p11 | prose | at height]
+working at height
+
+[p11 | prose | at height]
+providing advice on how to use those methods effectively and safely.
+
+[p11 | prose | at height]
+Examples provided in these guidelines are not exhaustive, PCBUs can adopt other reasonably practicable ways to manage risk if they are satisfied that those ways are equally or more effective than the examples provided in these guidelines.
+
+[p11 | prose | at height]
+These guidelines are not industry specific. Many industries have their own guidelines that address the issues which are unique to their working environments, for example, the electricity sector. These should also be considered.
+
+[p11 | prose | at height]
+What is working at height?
+
+[p11 | prose | at height]
+Working at height means working in a place where – if precautions are not taken — a worker could fall and be hurt, injured or die.
+
+[p11 | prose | at height]
+Under HSWA you must manage fall risks from any height.
+
+[p11 | prose | at height]
+In New Zealand, there is no minimum height threshold for working at height —- any fall risk from any height must be managed.
+
+[p11 | prose | at height]
+WorkSafe recommends any potential fall greater than one metre (1m) in height should be managed using physical barriers or a fall restraint.
+
+[p11 | prose | at height]
+This includes working above or below ground level, using ladders, scaffolds, working on roofs, or operating near unprotected edges.
+
+[p11 | prose | at height]
+Factors contributing to injuries sustained while working at height can include:
+
+[p11 | prose | at height]
+lack of, or inadequate, planning, design and risk assessment
+
+[p11 | prose | at height]
+inadequate supervision
+
+[p11 | prose | at height]
+insufficient training for the task being carried out
+
+[p11 | prose | at height]
+incorrect protection or equipment choices
+
+[p11 | prose | at height]
+incorrect use or set-up of equipment including personal protective equipment
+
+[p11 | prose | at height]
+unwillingness to change the way a task is carried out when a safer alternative
+
+[p11 | prose | at height]
+is identified
+
+[p11 | prose | at height]
+suitable equipment being unavailable.
+
+[p12 | prose | at height]
+Working at height does not include slipping, tripping or falling at the same level. For example, slipping on a flat floor would not be considered working at height.
+
+[p12 | prose | at height]
+Clarifying the ‘3-metre’ rule
+
+[p12 | prose | at height]
+Many people believe that if a fall is less than 3 metres, no control measures are needed. This is dangerous and incorrect.
+
+[p12 | prose | at height]
+If there is potential for a person to fall from any height, the general duties of care under HSWA require PCBUs to take reasonably practicable steps to prevent harm, including harm from a fall.
+
+[p12 | prose | Short duration height work]
+Short duration height work
+
+[p12 | prose | Short duration height work]
+Short duration work at height must be treated the same way as any other activity at height.
+
+[p12 | prose | Short duration height work]
+Short duration work lasts minutes rather than hours. While it may not be reasonably practicable to provide (for example) full edge protection for short duration work it still needs to be considered during the assessment of hazards and should not be ruled out.
+
+[p12 | prose | Short duration height work]
+Appropriate fall prevention control measures must be put in place and a risk assessment done, regardless of the short duration nature of the work.
+
+[p14 | prose | The Health and Safety at Work Act 2015 applies to all businesses and workers in New Zealand.]
+The Health and Safety at Work Act 2015 applies to all businesses and workers in New Zealand.
+
+[p14 | prose | The Health and Safety at Work Act 2015 applies to all businesses and workers in New Zealand.]
+HSWA is New Zealand’s primary work health and safety legislation. HSWA covers all work-related activities – wherever they take place. It includes physical and mental health and safety. WorkSafe New Zealand is the main regulator responsible for administering and enforcing HSWA.
+
+[p14 | prose | The Health and Safety at Work Act 2015 applies to all businesses and workers in New Zealand.]
+Section 2 highlights keys aspects of HSWA that are particularly important to understand when managing the risks or working at height in New Zealand.
+
+[p14 | prose | 2.1 Duty holders under HSWA]
+2.1 Duty holders under HSWA
+
+[p14 | prose | 2.1 Duty holders under HSWA]
+A duty holder is a person who has a duty under HSWA. There are four types of duty holders – PCBUs, officers, workers, and other persons at workplaces.
+
+[p14 | prose | PCBUs]
+PCBUs
+
+[p14 | prose | PCBUs]
+A PCBU is a ‘person conducting a business or undertaking’. It includes businesses, companies, sole traders or self-employed people and not-for-profit organisations.
+
+[p14 | prose | PCBUs]
+Examples of PCBUs include businesses involved in:
+
+[p14 | prose | PCBUs]
+– Construction and trades such as building companies, residential and commercial builders, and roofing specialists.
+
+[p14 | prose | PCBUs]
+– Maintenance and facilities such as window cleaners, painters, and HVAC/air conditioning installers, who regularly access roofs and high points.
+
+[p14 | prose | PCBUs]
+– Specialist contractors such as scaffolding companies, temporary edge protection installers, and building envelope contractors.
+
+[p14 | prose | PCBUs]
+– Industrial and plant such as inspectors and maintenance crews for tall structures or industrial plants.
+
+[p15 | prose | Officers]
+Officers
+
+[p15 | prose | Officers]
+An officer is a person who occupies a position within a business or organisation where they have significant influence over the management of the business or undertaking. Businesses/organisations can have more than one officer. Examples include:
+
+[p15 | prose | Officers]
+– company directors (even if they do not have ‘director’ in the title)
+
+[p15 | prose | Officers]
+– any partner in a partnership (other than a limited partnership)
+
+[p15 | prose | Officers]
+– any general partner in a limited partnership
+
+[p15 | prose | Officers]
+– any person who occupies a position that allows them to exercise significant influence over the management of the business or undertaking.
+
+[p15 | prose | Officers]
+Officers have a duty to exercise due diligence because they make decisions that can affect workers’ health and safety.
+
+[p15 | prose | Workers]
+Workers
+
+[p15 | prose | Workers]
+Under HSWA, a worker is an individual who carries out work in any capacity for a business or undertaking (PCBU). This includes permanent workers, temporary workers, contract workers, and apprentices.
+
+[p15 | prose | Others]
+Others
+
+[p15 | prose | Others]
+Under HSWA, other people are people who are present at a workplace but are not workers. This includes visitors, members of the public who may be affected by the work activity, and casual volunteers.
+
+[p15 | prose | Others]
+For more general information see: Introduction to the Health and Safety at Work Act 2015 – special guide | WorkSafe
+
+[p15 | prose | 2.2 PCBU primary duty of care]
+2.2 PCBU primary duty of care
+
+[p15 | prose | 2.2 PCBU primary duty of care]
+A PCBU has the main responsibility for people’s health and safety at work:
+
+[p15 | prose | 2.2 PCBU primary duty of care]
+– PCBUs must ensure (so far as is reasonably practicable) the health and safety of workers who work for them (or workers they influence) while they are working.
+
+[p15 | prose | 2.2 PCBU primary duty of care]
+– PCBUs must also make sure (so far as is reasonably practicable) that other persons’ health and safety is not put as risk by the work that they do.
+
+[p15 | prose | 2.2 PCBU primary duty of care]
+– PCBUs must (so far as is reasonably practicable) have effective practices in place for providing and maintaining:
+
+[p15 | prose | 2.2 PCBU primary duty of care]
+- a work environment that is without risk to health and safety
+
+[p15 | prose | 2.2 PCBU primary duty of care]
+- safe plant and structures
+
+[p15 | prose | 2.2 PCBU primary duty of care]
+- safe use, handling, and storage of plant, substances and structures
+
+[p15 | prose | 2.2 PCBU primary duty of care]
+- safe systems of work
+
+[p15 | prose | 2.2 PCBU primary duty of care]
+- adequate facilities for the welfare of workers when carrying out work for the business or undertaking, including ensuring access to those facilities.
+
+[p15 | prose | 2.2 PCBU primary duty of care]
+– PCBUs must provide (so far as is reasonably practicable) information, training, instruction or supervision to protect people from work-related risks to their health and safety.
+
+[p15 | prose | 2.2 PCBU primary duty of care]
+– PCBUs must (so far as is reasonably practicable) monitor the conditions at the workplace and worker health to prevent illness or injury to workers related to the work that they do.
+
+[p15 | prose | 2.2 PCBU primary duty of care]
+– Where worker accommodation is provided, the PCBU must (so far as is reasonably practicable) maintain the accommodation so that the worker is not exposed to risks to their health and safety arising from the accommodation.
+
+[p16 | prose | 2.2 PCBU primary duty of care]
+Self-employed people must take all reasonably practicable actions to ensure their own health and safety while at work.
+
+[p16 | prose | 2.2 PCBU primary duty of care]
+See s36 Primary duty of care of HSWA.
+
+[p16 | prose | 2.3 Worker duties]
+2.3 Worker duties
+
+[p16 | prose | 2.3 Worker duties]
+Workers have duties under HSWA. While at work, workers must:
+
+[p16 | prose | 2.3 Worker duties]
+– take reasonable care of their own health and safety, and take reasonable care that others are not harmed by something they do or do not do
+
+[p16 | prose | 2.3 Worker duties]
+– follow any reasonable health and safety instructions given to them by the PCBU, as far as they are reasonably able to
+
+[p16 | prose | 2.3 Worker duties]
+– cooperate with any reasonable policy or procedure of the PCBU relating to the workplace’s health and safety that they have been notified about.
+
+[p16 | prose | 2.3 Worker duties]
+See s45 Duties of workers of HSWA.
+
+[p16 | prose | 2.3 Worker duties]
+For more general information see: Your rights and obligations | WorkSafe (available in multiple languages)
+
+[p16 | prose | 2.3 Duties of other persons at a workplace]
+2.3 Duties of other persons at a workplace
+
+[p16 | prose | 2.3 Duties of other persons at a workplace]
+Other people present at a workplace also have duties under HSWA. They must:
+
+[p16 | prose | 2.3 Duties of other persons at a workplace]
+– take reasonable care of their own health and safety, and take reasonable care that others are not harmed by something they do or do not do
+
+[p16 | prose | 2.3 Duties of other persons at a workplace]
+– follow any reasonable health and safety instructions given to them by the PCBU as far as they are reasonably able to
+
+[p16 | prose | 2.3 Duties of other persons at a workplace]
+– See s46 Duties of other persons at a workplace of HSWA.
+
+[p16 | prose | 2.3 Duties of other persons at a workplace]
+– For more general information see: What to know about ‘other persons’ at work | WorkSafe
+
+[p16 | prose | 2.4 Overlapping duties]
+2.4 Overlapping duties
+
+[p16 | prose | 2.4 Overlapping duties]
+When two or more businesses operate together, for example at the same location or in a contracting arrangement, they must consult, cooperate and coordinate together to fulfil their primary duties of care.
+
+[p16 | prose | 2.4 Overlapping duties]
+A PCBU cannot contract out its duties. However, reasonable arrangements can be made with the other PCBUs to fulfil its duties. While a PCBU can enter into reasonable agreements with other PCBUs, this does not mean they no longer hold any health and safety responsibilities. They must still monitor the other business to ensure they follow through on what was agreed.
+
+[p16 | prose | 2.4 Overlapping duties]
+The more influence and control a PCBU has over a health and safety matter, the more responsibility it is likely to have. This is especially important in contracting chains or at works sites where multiple PCBUs may be working at height or working near others who are working at height.
+
+[p16 | prose | 2.4 Overlapping duties]
+The PCBU with more influence and control (and the greatest share of the responsibilities) will usually be in the best position to manage the associated risks.
+
+[p16 | prose | 2.4 Overlapping duties]
+All PCBUs with overlapping duties should:
+
+[p16 | prose | 2.4 Overlapping duties]
+– discuss what work activities are being carried out
+
+[p16 | prose | 2.4 Overlapping duties]
+– agree on the degree of influence and control each business has
+
+[p16 | prose | 2.4 Overlapping duties]
+– agree on who will manage what and how it will be managed
+
+[p16 | prose | 2.4 Overlapping duties]
+– monitor and check how things are going on an ongoing basis.
+
+[p17 | prose | EXAMPLE 1: PRINCIPAL PCBU AND SCAFFOLDING SUBCONTRACTOR]
+EXAMPLE 1: PRINCIPAL PCBU AND SCAFFOLDING SUBCONTRACTOR
+
+[p17 | prose | EXAMPLE 1: PRINCIPAL PCBU AND SCAFFOLDING SUBCONTRACTOR]
+Scenario: A lead construction company (the principal PCBU) hires a specialised scaffolding company (a subcontractor PCBU) to erect edge protection for roof work.
+
+[p17 | prose | EXAMPLE 1: PRINCIPAL PCBU AND SCAFFOLDING SUBCONTRACTOR]
+Overlap: Both PCBUs have a duty to ensure the safety of workers at height.
+
+[p17 | prose | EXAMPLE 1: PRINCIPAL PCBU AND SCAFFOLDING SUBCONTRACTOR]
+Actions: The principal contractor coordinates the timeline, so scaffolding is ready before roofers start. The scaffolding company ensures the scaffold complies with AS 4576 – Guidelines for scaffolding and provides a handover certificate. Both consult to ensure the scaffolding does not create risks for other trades, such as crane access.
+
+[p17 | prose | EXAMPLE 2: PRINCIPAL PCBU AND SOLAR PANEL INSTALLER]
+EXAMPLE 2: PRINCIPAL PCBU AND SOLAR PANEL INSTALLER
+
+[p17 | prose | EXAMPLE 2: PRINCIPAL PCBU AND SOLAR PANEL INSTALLER]
+Scenario: A residential builder (the principal PCBU) is managing a new build and engages a solar energy company (the subcontractor PCBU) to install panels on the roof.
+
+[p17 | prose | EXAMPLE 2: PRINCIPAL PCBU AND SOLAR PANEL INSTALLER]
+Overlap: Both PCBUs are responsible for the risk of falls from the roof.
+
+[p17 | prose | EXAMPLE 2: PRINCIPAL PCBU AND SOLAR PANEL INSTALLER]
+Actions: The builder ensures the roof structure is safe, and edge protection is in place. The solar company trains its workers to use the harness system properly and ensures its workers do not interfere with the edge protection provided by the builder. They jointly review the safe work method statement (SWMS) before work begins.
+
+[p17 | prose | EXAMPLE 2: PRINCIPAL PCBU AND SOLAR PANEL INSTALLER]
+See s34 PCBU must consult other PCBUs with same duty of HSWA.
+
+[p17 | prose | EXAMPLE 2: PRINCIPAL PCBU AND SOLAR PANEL INSTALLER]
+For more general information see: Overlapping duties | WorkSafe
+
+[p17 | prose | 2.6 Worker engagement, participation and representation]
+2.6 Worker engagement, participation and representation
+
+[p17 | prose | 2.6 Worker engagement, participation and representation]
+PCBUs have two related duties to engage with workers and enable them to participate in improving health and safety. They must:
+
+[p17 | prose | 2.6 Worker engagement, participation and representation]
+– ensure that workers’ views on health and safety matters are asked for and considered
+
+[p17 | prose | 2.6 Worker engagement, participation and representation]
+– have clear, effective, and ongoing ways for workers to suggest improvements or raise concerns on a day-to-day basis.
+
+[p17 | prose | 2.6 Worker engagement, participation and representation]
+This is most often done by having workplace Health and Safety Representatives (HSRs) and Health and Safety Committees (HSCs).
+
+[p17 | prose | 2.6 Worker engagement, participation and representation]
+Under HSWA, workers you must engage with includes:
+
+[p17 | prose | 2.6 Worker engagement, participation and representation]
+– workers you employ directly
+
+[p17 | prose | 2.6 Worker engagement, participation and representation]
+– independent contractors you have engaged.
+
+[p17 | prose | 2.6 Worker engagement, participation and representation]
+For more general information see: Worker engagement and participation | WorkSafe
+
+[p18 | prose | 2.7 General Risk and Workplace Management Regulations (GRWM Regs)]
+2.7 General Risk and Workplace Management Regulations (GRWM Regs)
+
+[p18 | prose | 2.7 General Risk and Workplace Management Regulations (GRWM Regs)]
+These regulations sit alongside HSWA and cover general requirements for workplaces that all PCBUs must meet. They cover things such as:
+
+[p18 | prose | 2.7 General Risk and Workplace Management Regulations (GRWM Regs)]
+– managing risks associated with working at height, including:
+
+[p18 | prose | 2.7 General Risk and Workplace Management Regulations (GRWM Regs)]
+- managing risk associated with falling objects
+
+[p18 | prose | 2.7 General Risk and Workplace Management Regulations (GRWM Regs)]
+- managing risks associated with working under raised objects
+
+[p18 | prose | 2.7 General Risk and Workplace Management Regulations (GRWM Regs)]
+– workplaces and workplace facilities
+
+[p18 | prose | 2.7 General Risk and Workplace Management Regulations (GRWM Regs)]
+– providing information, instruction, training and supervision for workers
+
+[p18 | prose | 2.7 General Risk and Workplace Management Regulations (GRWM Regs)]
+– personal protective equipment (PPE)
+
+[p18 | prose | 2.7 General Risk and Workplace Management Regulations (GRWM Regs)]
+– workplace first aid
+
+[p18 | prose | 2.7 General Risk and Workplace Management Regulations (GRWM Regs)]
+– workplace emergency plans.
+
+[p18 | prose | 2.7 General Risk and Workplace Management Regulations (GRWM Regs)]
+For more general information see: General requirements for workplaces | WorkSafe
+
+[p18 | prose | 2.8 What does reasonably practicable mean?]
+2.8 What does reasonably practicable mean?
+
+[p18 | prose | 2.8 What does reasonably practicable mean?]
+Health and safety duties need to be carried out ‘so far as is reasonably practicable’. There are two parts to ‘reasonably practicable’. First consider what is possible in your circumstances to ensure health and safety. Then consider, of these possible actions, what is reasonable to do in your circumstances.
+
+[p18 | prose | 2.8 What does reasonably practicable mean?]
+When deciding what is ‘reasonably practicable’, consider:
+
+[p18 | prose | 2.8 What does reasonably practicable mean?]
+– How likely is the risk and how severe is the illness or injury that might result?
+
+[p18 | prose | 2.8 What does reasonably practicable mean?]
+– What do you know, or should reasonably know, about the hazard or risk and the ways of eliminating or minimising the risk?
+
+[p18 | prose | 2.8 What does reasonably practicable mean?]
+– What is the availability of the control measures, and how suitable are they for the specific risk?
+
+[p18 | prose | 2.8 What does reasonably practicable mean?]
+– What are the costs of the control measure and are the costs grossly disproportionate to the risk?
+
+[p20 | prose | Using a risk management approach can help you to identify and manage health and safety risks.]
+Using a risk management approach can help you to identify and manage health and safety risks.
+
+[p20 | prose | Using a risk management approach can help you to identify and manage health and safety risks.]
+This section offers a general introduction on ways PCBUs can apply good risk management principles when managing work-related risks. The approach outlined here can be applied when identifying work at height hazards and deciding how to manage the associated risks.
+
+[p20 | prose | 3.1 Risk management generally]
+3.1 Risk management generally
+
+[p20 | prose | 3.1 Risk management generally]
+Risks to health and safety arise from people being exposed to a hazard. A hazard is a potential source or cause of harm (such as a physical injury, or harm to a person’s health) and can include a person’s behaviour.
+
+[p20 | prose | 3.1 Risk management generally]
+As a PCBU, you must manage risks so that workers and other peoples’ health and safety is not put at risk by the work that you do.
+
+[p20 | prose | 3.1 Risk management generally]
+Good risk management can be broken down to four main steps:
+
+[p20 | prose | 3.1 Risk management generally]
+FIGURE 2: Risk management steps
+
+[p21 | prose | 3.1 Risk management generally]
+You must engage with your workers and their representatives at all steps of the risk management process.
+
+[p21 | prose | 3.1 Risk management generally]
+For more information see Section 2.6 of these guidelines - Worker engagement, participation and representation
+
+[p21 | prose | 3.2 Step 1 - Identify the hazards]
+3.2 Step 1 - Identify the hazards
+
+[p21 | prose | 3.2 Step 1 - Identify the hazards]
+With your workers, identify hazards that could be associated with the work activity.
+
+[p21 | prose | 3.2 Step 1 - Identify the hazards]
+Every work environment will be different. Looking at your work environment and thinking about things that could go wrong may help you to identify hazards. Reviewing your incident and injury records (including near misses) may also help identify hazards. Ask your workers what hazards they can identify.
+
+[p21 | prose | 3.3 Step 2 – Assess the risk]
+3.3 Step 2 – Assess the risk
+
+[p21 | prose | 3.3 Step 2 – Assess the risk]
+With your workers, you will need to carry out a risk assessment for each hazard you have identified (in this case working at height). Things you should consider include:
+
+[p21 | table | 3.3 Step 2 – Assess the risk]
+| THINGS TO THINK ABOUT | CONSIDER |
+| --- | --- |
+| Who might be exposed to the hazard? | Who may be at the workplace, for example, workers, clients/ customers, delivery drivers, or visitors? |
+| How could workers or others be harmed? | What type of harm might occur - this includes physical and mental health harm as well as the risk of physical injury? |
+| How severe could the harm be? | Could someone be seriously harmed or injured? Could many people be harmed at once? |
+| How often is the hazard likely to cause a risk? | How often could people be harmed - very rarely, sometimes, or frequently? |
+| How could people’s health be affected? | Could the affected person/people develop short- or long- term health problems? |
+| How likely are these consequences? | What is the likelihood of somebody being harmed? |
+
+[p21 | prose | 3.3 Step 2 – Assess the risk]
+TABLE 1:
+
+[p21 | prose | 3.3 Step 2 – Assess the risk]
+Things to think about when assessing risks
+
+[p21 | prose | 3.3 Step 2 – Assess the risk]
+When deciding which risks to deal with first, prioritise risks with potentially significant consequences such as serious injury or death, chronic ill-health, or those with a high chance of happening.
+
+[p21 | prose | 3.4 Step 3 - Manage the risks]
+3.4 Step 3 - Manage the risks
+
+[p21 | prose | 3.4 Step 3 - Manage the risks]
+You must take all reasonably practicable actions to eliminate or minimise the risks you and your workers have identified.
+
+[p21 | prose | 3.4 Step 3 - Manage the risks]
+Think of what you can do to reduce the risk of harm. The different ways of managing risk are called control measures. Control measures can be ranked from those with the highest level of protection and reliability to the lowest. This ranking is known as the hierarchy of control measures. Using the hierarchy of controls when choosing how to manage risks will help you to make sure you are using the most effective control measures first.
+
+[p22 | prose | FIGURE 3: Hierarchy of control measures]
+FIGURE 3: Hierarchy of control measures
+
+[p22 | prose | FIGURE 3: Hierarchy of control measures]
+The best action is to eliminate the risk. For working at height this would likely mean finding a way to do the work at ground level. For example, you could eliminate the need for working from a ladder by using long-handled tools, such as paint rollers or window brushes with extendable handles, or using camera- equipped drones or robots for inspecting structures. If you are unable to eliminate the risk, then work down from the top of the hierarchy to find the next most reasonably practicable control measures.
+
+[p22 | prose | FIGURE 3: Hierarchy of control measures]
+Safer design (elimination/substitution) and alternative construction methods (substitution/engineering controls) must also be considered, so far as is reasonably practicable.
+
+[p22 | prose | Health and safety by design]
+Health and safety by design
+
+[p22 | prose | Health and safety by design]
+At the concept phase designers and engineers must identify hazards and risks early and try to eliminate the need to work at height so far as is reasonably practicable.
+
+[p23 | prose | Health and safety by design]
+During the design phase, and prior to the final design the focus should be on designing out working at height risks during the construction phase (for example, off-site manufacturing or hoist-in building elements). The life of the plant or structure must be considered, as well as the risks associated with ongoing (for, example designing guardrails or static line systems to allow windows to be cleaned safely).
+
+[p23 | prose | Health and safety by design]
+At the delivery phase engineering design choices such as these mean workers are not exposed to the risk of falling in the first place. Changes to designs during delivery must trigger a risk assessment review.
+
+[p23 | prose | Health and safety by design]
+Designers should document all design risk control decisions on a safety by design risk register or similar.
+
+[p23 | prose | Health and safety by design]
+Examples of safer design include:
+
+[p23 | prose | Health and safety by design]
+– using low-maintenance building materials
+
+[p23 | prose | Health and safety by design]
+– using catch net hook off points and scaffolding tie systems
+
+[p23 | prose | Health and safety by design]
+– locating air conditioning and similar plant at ground level
+
+[p23 | prose | Health and safety by design]
+– installing walkways with handrails
+
+[p23 | prose | Health and safety by design]
+– having permanent guardrails or other forms of edge protection, for example parapet walls.
+
+[p23 | prose | Health and safety by design]
+For more information see Health and safety by design: an introduction
+
+[p23 | prose | Using alternative construction methods]
+Using alternative construction methods
+
+[p23 | prose | Using alternative construction methods]
+Examples of alternative construction methods include:
+
+[p23 | prose | Using alternative construction methods]
+– prefabricating wall frames horizontally before standing them up
+
+[p23 | prose | Using alternative construction methods]
+– using precast tilt-up concrete construction instead of concrete walls constructed in place
+
+[p23 | prose | Using alternative construction methods]
+– prefabricating structures on the ground or before installation and lifting them into position
+
+[p23 | prose | Using alternative construction methods]
+– pre-painting fixtures/roofs before installation
+
+[p23 | prose | Using alternative construction methods]
+– installing and maintaining antennae and satellite dishes or air conditioning in areas other than at height.
+
+[p23 | prose | Using alternative construction methods]
+A combination of control measures can be used if a single control measure is not enough to eliminate or minimise the risk. When considering which control measures are the most suitable, check that the proposed control measure will not introduce new risks.
+
+[p23 | prose | Using alternative construction methods]
+Remember that control measures used to manage risk must not create new, unmanaged risks to workers. For example, using a mobile elevating work platform or metal scaffolding as a control measure for preventing falls and being near overhead powerlines could introduce an electrocution hazard for workers. The risks associated with this hazard would also need to be managed.
+
+[p23 | prose | Using alternative construction methods]
+Section 4 of these guidelines covers commonly used control measures for working at height and provides guidance on how to utilise those control measures appropriately.
+
+[p24 | prose | 3.4 Step 4 - Review control measures]
+3.4 Step 4 - Review control measures
+
+[p24 | prose | 3.4 Step 4 - Review control measures]
+Check your control measures regularly to make sure they are working as planned. Control measures need to be regularly reviewed in consultation with your workers or their representatives to make sure they remain effective.
+
+[p24 | prose | 3.4 Step 4 - Review control measures]
+For more information see: Section 2.6 Worker engagement, participation and representation.
+
+[p24 | prose | 3.4 Step 4 - Review control measures]
+If your workplace or work activities change, you need to check that your existing control measures are still the most appropriate ones to use. If an incident happens or there is a near miss, you should also review your control measures and make changes if needed.
+
+[p24 | prose | 3.4 Step 4 - Review control measures]
+For more general information see: How to manage work risks | WorkSafe
+
+[p26 | prose | 3.4 Step 4 - Review control measures]
+Where there is a duty under HSWA you should first try to eliminate risks to health and safety. If it is not reasonably practicable to eliminate risk you should minimise the risk so far as is reasonably practicable.
+
+[p26 | prose | 3.4 Step 4 - Review control measures]
+This section outlines a range of controls to isolate or minimise the potential for harm resulting from a fall. The preferred approach is to apply controls that isolate workers from the risk of falling.
+
+[p26 | prose | 3.4 Step 4 - Review control measures]
+Examples are:
+
+[p26 | prose | 3.4 Step 4 - Review control measures]
+– scaffolding
+
+[p26 | prose | 3.4 Step 4 - Review control measures]
+– edge protection
+
+[p26 | prose | 3.4 Step 4 - Review control measures]
+– mechanical access plant
+
+[p26 | prose | 3.4 Step 4 - Review control measures]
+– safety mesh.
+
+[p26 | prose | 3.4 Step 4 - Review control measures]
+Controls such as harness systems and temporary work platforms provide a lesser form of protection and should only be considered when the above controls are not reasonably practicable.
+
+[p26 | prose | 3.4 Step 4 - Review control measures]
+The Table 2 shows some examples of control measures from highest to lowest levels.
+
+[p26 | table | 3.4 Step 4 - Review control measures]
+| CONTROL LEVEL (HIGHEST — LOWEST) | WHAT IT MEANS | TASK/SCENARIO | CONTROL MEASURE |
+| --- | --- | --- | --- |
+| Eliminate the risk | Removes the need to work at height entirely | Installing gutters on a new build | Assemble gutters on the ground and lift into place |
+| Substitute/isolate | The work is done in a safer way that avoids exposure to a fall | Painting exterior walls | Use an extendable pole system from ground level instead of climbing |
+| Engineering controls (edge protection/ platforms) | Provides a physical barrier or stable working platform | Roofing work on a residential house | Install scaffolding with full edge protection (top rail, mid-rail, toeboard) |
+| Engineering controls (fall prevention) | Prevents the worker from reaching a fall edge | Working near an unprotected roof edge | Use a travel restraint system (harness and fixed-length lanyard) |
+| Engineering controls (fall arrest) | Minimises harm if a fall occurs | Steel erection or open-edge work where prevention is not reasonably practicable | Use a fall arrest system (harness, lanyard, anchor and rescue plan) |
+| Administrative Controls | Reduces risk through procedures and supervision | Short-duration maintenance at height | Use permits, training, supervision, exclusion zones |
+| Personal Protective Equipment (PPE) | Protects the individual only | General site work at height | Use helmets, non-slip footwear, harness (as a last line of defence) |
+
+[p26 | prose | 3.4 Step 4 - Review control measures]
+TABLE 2: Hierarchy of controls example scenarios for working at height
+
+[p27 | prose | 3.4 Step 4 - Review control measures]
+Remember: - you should start at the top of the hierarchy of controls and work down - you should use the highest-level control measure that is reasonably practicable - edge protection and scaffolding are strongly preferred over harness-based systems - PPE alone is never sufficient where higher-level controls can be used.
+
+[p27 | prose | 4.1 Scaffolding]
+4.1 Scaffolding
+
+[p28 | prose | 4.1 Scaffolding]
+Scaffolds are a common way to provide a safe work platform. There are a wide variety of scaffolding systems available.
+
+[p28 | prose | 4.1 Scaffolding]
+– All scaffolds should comply with WorkSafe’s Scaffolding in New Zealand guidelines or a higher standard such as the AS/NZS 1576 Scaffolding series
+
+[p28 | prose | 4.1 Scaffolding]
+– All scaffolds should be erected, altered and dismantled by workers who have been trained and have suitable experience with the type of scaffolding being used and if relevant, hold the appropriate Certificate of Competence for that type of scaffolding.
+
+[p28 | prose | 4.1 Scaffolding]
+– All scaffolds from which a worker or object could fall more than five metres, as well as all suspended scaffolds, should be erected, altered and dismantled by or under the direct supervision of a person with an appropriate Certificate of Competence.
+
+[p28 | prose | 4.1 Scaffolding]
+– Scaffolds should be regularly inspected to ensure they are still compliant and fit for purpose.
+
+[p28 | prose | 4.1 Scaffolding]
+– A scaffold register should be kept on site as a record of regular inspection.
+
+[p28 | prose | 4.1 Scaffolding]
+Work with a risk of falling five metres or more must be notified to WorkSafe as particularly hazardous work at least 24 hours before work starts.
+
+[p28 | prose | 4.1 Scaffolding]
+Notify WorkSafe by either:
+
+[p28 | prose | 4.1 Scaffolding]
+– filing a Notification of Particular Hazardous Work online
+
+[p28 | prose | 4.1 Scaffolding]
+– going to WorkSafe’s notifications webpage.
+
+[p28 | prose | 4.1 Scaffolding]
+Section 7.0 of these guidelines gives more information about notifications.
+
+[p28 | prose | FIGURE 6. Example calculation for the area of a scaffold]
+FIGURE 6. Example calculation for the area of a scaffold
+
+[p28 | prose | Pre-handover inspection]
+Pre-handover inspection
+
+[p28 | prose | Pre-handover inspection]
+All scaffolds should be checked by a competent person before handover.
+
+[p28 | prose | Pre-handover inspection]
+Notifiable scaffolds should be inspected before they are handed over by someone with the appropriate Certificate of Competence.
+
+[p28 | prose | Pre-handover inspection]
+Instructions for daily tests must be provided to the client for suspended scaffolding.
+
+[p28 | prose | Pre-handover inspection]
+Scaffolds should be regularly inspected to ensure they are still compliant and fit for purpose.
+
+[p29 | prose | Handover certificate]
+Handover certificate
+
+[p29 | prose | Handover certificate]
+When the scaffolding has been inspected and deemed to be safe for use, the scaffolding PCBU should issue a handover certificate to advise the client that the scaffold:
+
+[p29 | prose | Handover certificate]
+– has been built according to the agreed specification, duty rating, and any limitations on the use of the scaffold
+
+[p29 | prose | Handover certificate]
+– has been left in a suitable condition for its intended use
+
+[p29 | prose | Handover certificate]
+– complies with the relevant statutory requirements.
+
+[p29 | prose | Handover certificate]
+The person issuing the handover certificate should check that the scaffold is safe to use and provide the necessary tags for displaying on the scaffold (see below ‘Tagging the scaffold’.)
+
+[p29 | prose | Handover certificate]
+The end user should make sure they are aware of and understand the intended use as well as the limitations on the scaffold. For suspended scaffolds, this includes how to perform the daily pre-start check (the scaffolder should give them this information). If the client is not on site at the time of the handover, the handover certification may be sent electronically.
+
+[p29 | prose | Handover certificate]
+This certificate should be kept until the scaffold is further altered or dismantled.
+
+[p30 | prose | Tagging the scaffold]
+Tagging the scaffold
+
+[p30 | prose | Tagging the scaffold]
+All scaffolds, regardless of height, should have a tag clearly and legibly displaying important safety information at access points. (Minor scaffolds may be excluded from this requirement if appropriate for the situation. Minor scaffolds are lightweight, portable, single bay, with a working platform that cannot be higher than 2m.)
+
+[p30 | prose | Tagging the scaffold]
+Include on the tag:
+
+[p30 | prose | Tagging the scaffold]
+– the status of the scaffold (for example, SCAFFOLD UNSAFE or SCAFFOLD SAFE)
+
+[p30 | prose | Tagging the scaffold]
+– the name and contact phone number of the certified scaffolder (or the person who erected it if the scaffold is under 5m)
+
+[p30 | prose | Tagging the scaffold]
+– the purpose (intended use) of the scaffold
+
+[p30 | prose | Tagging the scaffold]
+– the duty loadings of the scaffold
+
+[p30 | prose | Tagging the scaffold]
+– the maximum number of platforms or bays that may be loaded
+
+[p30 | prose | Tagging the scaffold]
+– any limitations on the use of the scaffold
+
+[p30 | prose | Tagging the scaffold]
+– a record of each inspection (these should be done weekly or after a significant storm or earthquake) or alteration, including who inspected or altered the scaffold and when it was done.
+
+[p30 | prose | Tagging the scaffold]
+Note: Information about inspections may be recorded on separate register or included on scaffolding tags.
+
+[p30 | prose | Scaffolding that does not meet inspection requirements]
+Scaffolding that does not meet inspection requirements
+
+[p30 | prose | Scaffolding that does not meet inspection requirements]
+If scaffolding does not meet inspection requirements, or is incomplete, you should prevent access to the scaffold and tag access points to advise others of the status of the scaffold (for example, UNSAFE SCAFFOLD).
+
+[p30 | prose | Scaffolding that does not meet inspection requirements]
+For more information on the safe selection, erection, maintenance and use of scaffolds, including suspended work platforms, refer to the AS/NZS 1576.1 – 6 Scaffolding Series, and Scaffolding in New Zealand.
+
+[p30 | prose | 4.2 Edge protection]
+4.2 Edge protection
+
+[p30 | prose | 4.2 Edge protection]
+Edge protection is used to stop workers, objects or materials from falling. Areas where the likelihood of a fall exists, and edge protection should be used include:
+
+[p30 | prose | 4.2 Edge protection]
+– perimeters of working places
+
+[p30 | prose | 4.2 Edge protection]
+– openings
+
+[p30 | prose | 4.2 Edge protection]
+– where there is brittle material that cannot safely support the weight of a worker.
+
+[p30 | prose | 4.2 Edge protection]
+Where the roof pitch is greater than 25 degrees edge protection should be both system-rated and fitted with infill panels to prevent workers, tools, equipment, materials and other objects from falling. A gap of no more than 100mm to 200mm should be left between the work deck and the gutter line.
+
+[p30 | prose | 4.2 Edge protection]
+For roof slopes over 35 degrees, edge protection should be designed specifically.
+
+[p30 | prose | 4.2 Edge protection]
+Edge protection should be designed and installed to comply with AS/NZS 4994 series of standards – Temporary edge protection.
+
+[p32 | prose | 4.2 Edge protection]
+Edge protection may involve:
+
+[p32 | prose | 4.2 Edge protection]
+– a proprietary (engineered) system
+
+[p32 | prose | 4.2 Edge protection]
+– materials to form a guardrail and/or physical barriers
+
+[p32 | prose | 4.2 Edge protection]
+– erected scaffolding that supports a temporary edge-protection system
+
+[p32 | prose | 4.2 Edge protection]
+– a combination of solutions.
+
+[p32 | prose | Integrity of the edge protection]
+Integrity of the edge protection
+
+[p32 | prose | Integrity of the edge protection]
+Make sure edge protection is:
+
+[p32 | prose | Integrity of the edge protection]
+– erected, used, maintained and dismantled safely and in accordance with its design information
+
+[p32 | prose | Integrity of the edge protection]
+– regularly inspected by a competent person
+
+[p32 | prose | Integrity of the edge protection]
+– inspected after a storm or other occurrence that could affect its purpose to prevent falls
+
+[p32 | prose | Integrity of the edge protection]
+– free of any defects before use.
+
+[p32 | prose | Installing and dismantling edge protection]
+Installing and dismantling edge protection
+
+[p32 | prose | Installing and dismantling edge protection]
+Workers installing edge protection could potentially be exposed to the risk they are trying to prevent – falling from height - until the installation is completed. Pre-planning, such as a task analysis and a risk assessment, will identify the risk involved and which controls can be implemented to prevent harm during the erection process. Installation workers should have control measures in place.
+
+[p32 | prose | Installing and dismantling edge protection]
+Install edge protection as early as possible on a job so multiple groups of trades and workers can use it throughout the project.
+
+[p32 | prose | Installing and dismantling edge protection]
+Example of edge protection on a roof of a residential building
+
+[p33 | prose | DO NOT INSTALL EDGE PROTECTION FROM THE ROOF]
+DO NOT INSTALL EDGE PROTECTION FROM THE ROOF
+
+[p33 | prose | DO NOT INSTALL EDGE PROTECTION FROM THE ROOF]
+It should be installed and dismantled from a safe location such as scaffolding or a mobile platform.
+
+[p33 | prose | DO NOT INSTALL EDGE PROTECTION FROM THE ROOF]
+Unsafe dismantling can lead to structural collapse or the uncontrolled fall of components. Competent people must follow specific sequences to keep the structure stable throughout the dismantling and removal process.
+
+[p33 | prose | DO NOT INSTALL EDGE PROTECTION FROM THE ROOF]
+Edge protection systems should comply with AS/NZS 4994.1 (design) and AS/NZS 4994.2 (installation and dismantling).
+
+[p33 | prose | Guardrails]
+Guardrails
+
+[p33 | prose | Guardrails]
+A guardrail is a barrier that can physically stop workers from falling. Guardrails can be installed to protect workers from building edges, roof edges, building openings, lift shafts and other similar ducts with wall or floor openings.
+
+[p33 | prose | Guardrails]
+A guardrail should be constructed to withstand the forces that are likely to be applied to it during the work. Temporary guardrails should generally be constructed using a proprietary metal tube and clip system.
+
+[p33 | prose | Guardrails]
+General guardrail systems should be between 900mm and 1100mm in height with a single mid rail located halfway between the work platform and the top rail. If there is a potential for tools or objects to be dropped during work, a toeboard should also be installed. Refer to Scaffolding in New Zealand
+
+[p33 | prose | Guardrails]
+Guardrail systems that are installed to protect an edge of a sloping roof surface have specific design requirements because of the increased potential for workers to fall against them and the potential for workers to slip under the mid rail.
+
+[p33 | prose | Guardrails]
+Guardrail systems for sloping roofs should be configured to prevent a worker sliding between the roof surface and the rails. It is important that such systems are installed by a competent person. For guidance on the configuration of these types of edge-protection systems refer to the standard AS/NZS 4994.2 Temporary edge protection – Roof edge protection – Installation and dismantling.
+
+[p33 | prose | Guardrails]
+If the slope of the roof is more than 25 degrees, a roof ladder should be used as well as perimeter guardrails (or a harness system) to reduce the likelihood of workers slipping.
+
+[p33 | prose | Guardrails]
+Floor openings can also be protected by a fit-for-purpose, fully decked working platform. Work inside of shafts should, so far as is reasonably practicable, be done from a fully decked working platform; a harness system should be used if using a fully decked platform is not reasonably practicable.
+
+[p33 | prose | Barriers to restrict access (also called bump rails)]
+Barriers to restrict access (also called bump rails)
+
+[p33 | prose | Barriers to restrict access (also called bump rails)]
+Barriers should be used to cordon off elevated areas including roofs, balconies and open excavations where there is no edge protection and workers and others are not permitted access. The barriers should be secure and with access restricted to authorised people only. Signs should warn against entry to a cordoned-off area.
+
+[p33 | prose | Barriers to restrict access (also called bump rails)]
+Barriers should be placed at least two metres in from any unprotected edge or opening. Barriers to restrict access should not be used for roofs with a pitch over 10 degrees. They should be highly visible and able to stay in place during bad weather.
+
+[p34 | prose | Barriers to restrict access (also called bump rails)]
+Installing timber temporary edge protection
+
+[p34 | prose | Barriers to restrict access (also called bump rails)]
+Temporary timber guardrails are sometimes used for edge protection. Timber guardrails should:
+
+[p34 | prose | Barriers to restrict access (also called bump rails)]
+– have a top rail positioned 900mm to 1100mm above the working surface
+
+[p34 | prose | Barriers to restrict access (also called bump rails)]
+– a mid-rail installed halfway between the top rail and the platform
+
+[p34 | prose | Barriers to restrict access (also called bump rails)]
+– a toeboard at least 90mm high
+
+[p34 | prose | Barriers to restrict access (also called bump rails)]
+– be free of defects
+
+[p34 | prose | Barriers to restrict access (also called bump rails)]
+– be no less than 90mm x 45mm (‘4 x 2’) for rails and 150mm x 25mm for toeboards.
+
+[p34 | prose | Barriers to restrict access (also called bump rails)]
+Timber edge protection should be constructed by a competent person, and extreme caution is required to ensure the appropriateness of all materials used. Construction planning should consider the forces that are likely to be applied to the edge protection because of the work.
+
+[p34 | prose | Barriers to restrict access (also called bump rails)]
+For more information, refer to Scaffolding in New Zealand Section 13.10 Timber scaffolds.
+
+[p34 | prose | DO NOT USE SINGLE-POLE EDGE PROTECTION]
+DO NOT USE SINGLE-POLE EDGE PROTECTION
+
+[p34 | prose | DO NOT USE SINGLE-POLE EDGE PROTECTION]
+Single-pole edge protection systems lack the structural integrity of designed proprietary systems or full scaffold structures, making them unable to reliably prevent falls.
+
+[p34 | prose | DO NOT USE SINGLE-POLE EDGE PROTECTION]
+Putting up single-pole systems often requires workers to work at height without protection during the installation process itself.
+
+[p34 | prose | DO NOT USE SINGLE-POLE EDGE PROTECTION]
+Proper edge protection requires guardrails, toeboards, and a platform, which single-pole systems usually do not have.
+
+[p34 | prose | DO NOT USE SINGLE-POLE EDGE PROTECTION]
+Single-pole systems often cannot withstand the high force applied to it if a worker falls, unlike engineered systems.
+
+[p34 | prose | Edge protection at gable ends]
+Edge protection at gable ends
+
+[p34 | prose | Edge protection at gable ends]
+Edge protection should be installed first so that it is continuous, follows the roofline to the apex - including at gable ends - and includes top rails, mid-rails and toeboards where required.
+
+[p34 | prose | Edge protection at gable ends]
+– This is particularly important at gable ends, where sloping surfaces and awkward access points increase the likelihood and severity of falls.
+
+[p34 | prose | Edge protection at gable ends]
+– Edge protection should not be left off, incomplete, or stop short of the apex, and work should not rely solely on harness systems where full edge protection is reasonably practicable.
+
+[p35 | prose | 4.3 Mechanical access plant]
+4.3 Mechanical access plant
+
+[p35 | prose | 4.3 Mechanical access plant]
+Mechanical access plant includes all mechanically operated plant that can be used to gain access for the purpose of working at height. Commonly used mechanical access plant includes:
+
+[p35 | prose | 4.3 Mechanical access plant]
+– mobile elevating work platforms
+
+[p35 | prose | 4.3 Mechanical access plant]
+– forklift platforms
+
+[p35 | prose | 4.3 Mechanical access plant]
+– crane lift platforms
+
+[p35 | prose | 4.3 Mechanical access plant]
+– vehicle extension arms.
+
+[p35 | prose | 4.3 Mechanical access plant]
+These are specialised pieces of equipment often designed for specific kinds of operation. It is essential the right kind of machine is chosen for the intended work. The operator should be competent to operate the chosen type of mechanical access plant.
+
+[p35 | prose | 4.3 Mechanical access plant]
+It is essential that these types of plant are operated within the manufacturer’s guidelines.
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+Mobile elevating work platforms (MEWPs)
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+Common types of MEWPs include scissor lifts, hoists and travel towers. There are some key safety issues that should be considered before using a MEWP.
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+Some MEWPs are designed for hard flat surfaces only (for example, a concrete slab), while others are designed for operating on rough and uneven terrain.
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+Units powered by internal combustion engines are not suitable for use in buildings or areas with poor natural ventilation unless appropriate artificial ventilation is installed.
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+Mobile elevating work platforms:
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+– need to be clearly marked with the rated lifting capacity
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+– need to have a six-monthly inspection certificate displayed.
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+Before use the operator should make sure that:
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+– they are trained and competent in the use of the MEWP
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+– the MEWP has been inspected and tested within the previous six months
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+– the MEWP is set up level and on firm surfaces
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+– hazards associated with power lines are appropriately controlled
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+– the MEWP will not create a hazard (for example, the boom will not swing out into the path of other vehicles)
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+– the MEWP will not be overloaded or used as a crane. (As an estimate, a worker carrying tools is deemed to weigh a minimum of 120kg)
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+– the operator logbook should be completed before use or if there is a change in operator.
+
+[p35 | prose | Mobile elevating work platforms (MEWPs)]
+An operator in a boom-style MEWP should wear a safety harness with a lanyard including a short energy absorber attached to a certified anchor point. The line should be just long enough to allow free movement inside the bucket.
+
+[p36 | prose | Mobile elevating work platforms (MEWPs)]
+One means of demonstrating competency is through completing nationally recognised MEWPs NZQA unit standards or an equivalent or higher qualification.
+
+[p36 | prose | Mobile elevating work platforms (MEWPs)]
+FIGURE 11:
+
+[p36 | prose | Mobile elevating work platforms (MEWPs)]
+A worker restrained in a scissor lift.
+
+[p36 | prose | Mobile elevating work platforms (MEWPs)]
+All MEWPs are designed to be used with workers’ feet on the platform.
+
+[p36 | prose | Mobile elevating work platforms (MEWPs)]
+Operators should not over-reach or climb over the rails of the MEWP platform to reach a work area. The soles of both feet should be kept on the work platform.
+
+[p36 | prose | Mobile elevating work platforms (MEWPs)]
+Scissor lifts and other elevating work platforms can be used to access a work area. When doing this, the worker should be protected by a double lanyard system fixed to a certified anchor point.
+
+[p36 | prose | Mobile elevating work platforms (MEWPs)]
+Unless a risk assessment has clearly demonstrated that the work can be done without a harness and there is no risk of falling, a harness should be worn on a scissor lift. The harness must be attached to designated anchor points. The manufacturer’s instructions should also be followed.
+
+[p37 | prose | Mobile elevating work platforms (MEWPs)]
+A worker restrained in a boom-style elevating work platform
+
+[p37 | prose | Forklift platforms]
+Forklift platforms
+
+[p37 | prose | Forklift platforms]
+Work platforms may be constructed to be raised or lowered using a forklift.
+
+[p37 | prose | Forklift platforms]
+These non-integrated work platforms should be designed for use with the specific model of forklift truck.
+
+[p37 | prose | Forklift work platforms should:]
+Forklift work platforms should:
+
+[p37 | prose | Forklift work platforms should:]
+– be made to an industry-relevant recognised standard such as AS 2359, Powered Industrial Trucks series of standards.
+
+[p37 | prose | Forklift work platforms should:]
+– be fitted with guardrails, mid rails and kickboards
+
+[p37 | prose | Forklift work platforms should:]
+– only have gates that open inwards and are installed with a spring-loaded latch
+
+[p37 | prose | Forklift work platforms should:]
+– have a two-metre-high guard that is wide enough to stop contact with the lifting mechanism fitted to the back of the platform
+
+[p37 | prose | Forklift work platforms should:]
+– be operated with the tilt lever on the forklift controls locked out or made inoperable; alternatively, a fall-restraint system including a full harness and short lanyard, allowing free movement only within the platform confines, should be used
+
+[p37 | prose | Forklift work platforms should:]
+– have operating instructions available
+
+[p37 | prose | Forklift work platforms should:]
+– have the safe working load displayed in a prominent position
+
+[p37 | prose | Forklift work platforms should:]
+– have the platform secured to the forks in such a way that it cannot tilt, slide or be displaced
+
+[p37 | prose | Forklift work platforms should:]
+– only be used by a competent forklift operator
+
+[p37 | prose | Forklift work platforms should:]
+– only be used while an operator is at the controls of the forklift or there is an independent means of access to and egress from the platform.
+
+[p37 | prose | Crane lift platforms]
+Crane lift platforms
+
+[p37 | prose | Crane lift platforms]
+Where no other reasonably practicable and suitable method is available, a working platform may be suspended from a crane and the worker standing on the platform should be attached to the hook. The crane operator and the worker using the platform should discuss the operation and maintain direct communication by line of sight or by telecommunication at all times.
+
+[p37 | prose | Crane lift platforms]
+For more guidance refer to AS/NZS 2550.1 Cranes, Hoists and Winches; Approved Code of Practice for Cranes; Crane Safety Manual Crane Association of New Zealand; NZS 3404 – The Steel Structures Standard Parts 1 & 2; and NZS/ASME/ANSI B56.1 Safety standard for low and high lift trucks.
+
+[p38 | prose | 4.4 Safety mesh]
+4.4 Safety mesh
+
+[p38 | prose | 4.4 Safety mesh]
+Safety mesh systems protect construction workers from falling through a roof while they are laying roof sheets. If securely fixed, they also provide fall prevention for maintenance and repair workers.
+
+[p38 | prose | 4.4 Safety mesh]
+Safety mesh should be used alongside appropriate edge protection, such as guardrails. If isolation is not reasonably practicable then a safety harness system should be used.
+
+[p38 | prose | 4.4 Safety mesh]
+Safety mesh should comply with AS/NZS 4389 Safety Mesh. This specifies the minimum requirements for the design, construction, testing and installation of safety mesh for use in domestic, commercial and industrial building applications.
+
+[p38 | prose | Installing safety mesh]
+Installing safety mesh
+
+[p38 | prose | Installing safety mesh]
+Workers installing safety mesh should only use mesh where the product information has been made available by the manufacturer/supplier, including evidence of compliance with AS/NZS 4389 Safety Mesh.
+
+[p38 | prose | Installing safety mesh]
+Special care is required to make sure the mesh is securely connected to the structure and the overlap between adjoining sections of mesh is enough to get the necessary strength to resist the force of a worker falling onto it.
+
+[p38 | prose | Installing safety mesh]
+Use scaffolding or elevating work platforms to obtain safe access for installation workers.
+
+[p38 | prose | Installing safety mesh]
+The safety mesh should be covered by the roof cladding as soon as possible after it has been installed. Cladding installers should make sure this does not happen until the mesh has been formally inspected by a competent person in accordance with the manufacturer’s instructions.
+
+[p38 | prose | Installing safety mesh]
+The mesh is first cut to the right length and is then run out over the roof using a continuous rope system. Installers should not walk across the open purlins to draw the mesh.
+
+[p38 | prose | Installing safety mesh]
+FIGURE 13: Example of how safety mesh should be safely installed
+
+[p39 | prose | 4.5 Safety decking]
+4.5 Safety decking
+
+[p39 | prose | 4.5 Safety decking]
+Safety deck systems (also known as modular work platforms or safety platforms) provide a stable, walkable surface for workers to work at any height (often used to fill voids such as lift shafts, atriums or stairwells).
+
+[p39 | prose | 4.5 Safety decking]
+Although it can be more expensive and take longer to install than fall arrest systems (such as safety nets) it can reduce reliance on scaffolding.
+
+[p39 | prose | 4.5 Safety decking]
+Alongside providing a more stable base (similar to standing on solid ground) safety decking can allow for better worker posture and increased freedom and range of movement.
+
+[p39 | prose | 4.5 Safety decking]
+It can also provide a clear working space and unobstructed access between levels in a construction zone while eliminating fall zones from upper-level floors and floor pits.
+
+[p39 | prose | Installing safety decking]
+Installing safety decking
+
+[p39 | prose | Installing safety decking]
+Installation should be done in compliance with manufacturer’s instructions. Safety decking must be installed by a trained, competent person.
+
+[p39 | prose | Installing safety decking]
+If a safety deck is used for edge protection it must meet standards such as AS/NZS 4994.1.
+
+[p39 | prose | FIGURE 14:]
+FIGURE 14:
+
+[p39 | prose | FIGURE 14:]
+A worker installs a joist hanger from a safety deck on a residential building site
+
+[p40 | prose | 4.6 Harness systems]
+4.6 Harness systems
+
+[p40 | prose | 4.6 Harness systems]
+A harness system allows a worker to be positioned and safely supported while they are working at height. Harness systems are used for gaining access to, and working at, a workface where there is a risk of a fall. The most common harness systems include:
+
+[p40 | prose | 4.6 Harness systems]
+– travel restraint systems
+
+[p40 | prose | 4.6 Harness systems]
+– fall arrest systems
+
+[p40 | prose | 4.6 Harness systems]
+– work positioning systems
+
+[p40 | prose | 4.6 Harness systems]
+– safety lines, lifelines, prescribed or proprietary (engineered) systems.
+
+[p40 | prose | Hierarchy of fall-protection systems]
+Hierarchy of fall-protection systems
+
+[p40 | prose | Hierarchy of fall-protection systems]
+All fall-protection systems are considered personal protective equipment (PPE). If it is not reasonably practicable to eliminate the risk (for example, by working from the ground) or use risk-minimising engineering controls (such as scaffolding) then the last resort is using fall-protection PPE.
+
+[p40 | prose | Hierarchy of fall-protection systems]
+The list in Table 3 follows the hierarchy of controls - preferring restraint over fall arrest when minimising the risk of a fall:
+
+[p40 | table | Hierarchy of fall-protection systems]
+| SYSTEM RANKING | EXAMPLE | EXPLANATION |
+| --- | --- | --- |
+| 1. Travel restraint | Fixed-length lanyards | Preferred PPE system, as this physically prevents workers reaching the edge. |
+| 2. Restrained fall | Short lanyard and anchor | Often used interchangeably with ‘travel restraint’ as long as this method stops the user from reaching the fall edge. |
+| 3. Limited free-fall | Work-positioning straps | Work-positioning straps usually allow a small fall (less than 600mm) if positioning fails. |
+| 4. Free-fall | Inertia reels | Inertia reels are a fall arrest method. They are low on the hierarchy because they allow falls to happen. |
+| 5. Restraint technique | Active re-anchoring | This is a method within fall restraint (constantly re- anchoring to avoid the edge). |
+
+[p40 | prose | TABLE 3: Examples of fall protection systems]
+TABLE 3: Examples of fall protection systems
+
+[p40 | prose | TABLE 3: Examples of fall protection systems]
+Restraint technique systems require workers to make complex or frequent adjustments to stay restrained. Measures that improve reliability, such as minimising adjustment or additional training/supervision, may justify using a restraint technique over limited free-fall and free-fall.
+
+[p40 | prose | TABLE 3: Examples of fall protection systems]
+Fall-protection systems should be fit for purpose and be as high as reasonably practicable on the hierarchy of fall-protections systems.
+
+[p40 | prose | TABLE 3: Examples of fall protection systems]
+For example, if it is reasonably practicable to use option (3) limited free-fall, then this should be chosen over option (4) free-fall.
+
+[p40 | prose | TABLE 3: Examples of fall protection systems]
+Fall-protection systems should be chosen to minimise free-fall distance and potential injury in compliance with AS/NZS 1891.4:2025 – Personal equipment for work at height
+
+[p41 | prose | Travel restraint system]
+Travel restraint system
+
+[p41 | prose | Travel restraint system]
+The preferred harness system for working at height is the travel restraint system. This system protects workers from approaching an unprotected edge, preventing a free fall from happening.
+
+[p41 | prose | Travel restraint system]
+The system consists of equipment rated for a fall — such as a full body harness that is connected by a lanyard or safety line to a suitable anchorage point or horizontal lifeline.
+
+[p41 | prose | Fall arrest system]
+Fall arrest system
+
+[p41 | prose | Fall arrest system]
+A fall arrest system is designed to support and hold a worker if they fall. It is not a work positioning system as work positioning systemsare not designed to support someone while working.
+
+[p41 | prose | Fall arrest system]
+A fall arrest system should be considered only when a travel restraint system is not reasonably practicable to use. Fall arrest is a minimisation measure as it does not stop the fall from happening. These systems require a higher level of operator competency and supervision.
+
+[p41 | prose | Fall arrest system]
+When working at height, fall arrest systems should be considered only where higher-order controls (such as elimination, edge protection, scaffolding, MEWPs) are not reasonably practicable, and where sufficient fall clearance, rescue capability, and worker training and competency are in place. Fall arrest is not a substitute for edge protection - where edge protection is reasonably practicable.
+
+[p41 | prose | Fall arrest system]
+A fall arrest system is an assembly of interconnected components consisting of a harness which is connected to an anchorage point by means of a lanyard incorporating an energy absorber. They can be used where workers are required to carry out their work near an unprotected edge.
+
+[p41 | prose | Fall arrest system]
+When fall arrest systems are used an appropriate safety helmet should be worn to protect the worker from head injury during an uncontrolled fall.
+
+[p41 | prose | Fall arrest system]
+Harnesses should be connected, by a lanyard, to an anchor point. A harness not connected to an anchor point in a fall arrest system is rendered useless and is a critical safety failure that could create a fatal fall risk.
+
+[p41 | prose | Fall arrest system]
+Also consider the distance and consequences of a fall. Fall-arrest systems will be ineffective if the deployment length is greater than the fall height because the worker will hit the floor before the system can deploy.
+
+[p41 | prose | Work positioning systems]
+Work positioning systems
+
+[p41 | prose | Work positioning systems]
+Work positioning systems enable workers to work supported in a harness under tension in a way that stops a fall. Generally, the system allows the worker to maintain a stable position and to work hands-free while completing a task. The harness arrangement should not allow a fall of more than 600mm.
+
+[p42 | prose | Work positioning systems]
+A permanent anchor point should be designed by a chartered professional engineer.
+
+[p42 | prose | Work positioning systems]
+The manufacturer and designer should ensure that each permanent anchor is uniquely identified so that its installation, testing and maintenance can be tracked during its lifetime.
+
+[p42 | prose | Work positioning systems]
+Permanent anchor systems are exposed to environmental and other working stressors over time. They are also reliant on the condition and strength of the material they are installed into. This is why anchor testing and inspection regimes should consider all these factors.
+
+[p42 | prose | Work positioning systems]
+The expected design life of the anchor and the required maintenance should be specified by the designer.
+
+[p42 | prose | Work positioning systems]
+Anchors should be suitably rated for the expected use. All fall arrest and abseil anchors should be tagged and recertified annually to remain compliant with AS/NZS 1891 Industrial Fall Arrest Systems and Devices series of standards.
+
+[p42 | prose | Work positioning systems]
+For more information see Maintaining, inspecting and re-certifying permanent anchorage systems
+
+[p42 | prose | Temporary anchorage]
+Temporary anchorage
+
+[p42 | prose | Temporary anchorage]
+A temporary anchor can include proprietary fittings or an appropriate arrangement of strops and ropes. All temporary anchors should be set up by a competent person. Where a proprietary temporary system is used, it should be installed in accordance with the manufacturers’ or designers’ instructions and specifications.
+
+[p42 | prose | Temporary anchorage]
+The roof or other building component to which an anchor is attached should be checked by a competent person to verify that it is suitable for supporting the anchor.
+
+[p42 | prose | Temporary anchorage]
+Anchor points should ideally be positioned above head height of the worker to limit the free-fall distance. This is particularly important when using an inertia reel, as this will stop the line making contact with an obstruction and to limit the free-fall distance to that recommended by the designer/manufacturer.
+
+[p42 | prose | Temporary anchorage]
+For more information see Best Practice Guidelines for Industrial Rope Access in New Zealand
+
+[p43 | prose | Temporary anchorage]
+FIGURE 15:
+
+[p43 | prose | Temporary anchorage]
+Working within an arc below the inertia reel
+
+[p43 | prose | Training for harness work]
+Training for harness work
+
+[p43 | prose | Training for harness work]
+All harness work requires training and competence and only trained and competent workers can install and use harness systems on site. They should also be supervised at all times by another person who is also trained and competent. They should have their workplace competence verified through a combination of NZQA-registered training, practical, on-the-job assessments by a competent supervisor, and a Verification of Competency (VoC).
+
+[p43 | prose | Training for harness work]
+For workers doing basic work while under travel restraint, a recommended way of achieving competence is NZQA Unit Standard 23229 – Use a safety harness for personal fall prevention when working at height, or an equivalent or higher qualification.
+
+[p43 | prose | Training for harness work]
+A recommended means of training for workers who are involved in planning, installing, operating fall arrest systems and supervising staff is NZQA Unit Standard 15757 – Use, install and disestablish proprietary fall arrest systems when working at height or an equivalent or higher level of qualification. Note that NZQA Unit Standard 23229 is a prerequisite for achieving NZQA Unit Standard 15757.
+
+[p43 | prose | Minimising the potential fall distance]
+Minimising the potential fall distance
+
+[p43 | prose | Minimising the potential fall distance]
+When a fall arrest system is being used, the potential free-fall distance should be less than 2 metres. Energy-absorbing lanyards should not be used in conjunction with inertia reels as this can result in an excessive distance of fall prior to the fall being arrested.
+
+[p43 | prose | Minimising the potential fall distance]
+There should be sufficient distance between the work surface and any surface below to enable the system, including the action of any shock absorber, to deploy fully.
+
+[p44 | prose | Maintain minimum of slack in fall arrest line]
+Maintain minimum of slack in fall arrest line
+
+[p44 | prose | Maintain minimum of slack in fall arrest line]
+There should be no excessive slack in the fall arrest line between the worker and the attachment. The anchorage point should be as high as the equipment allows. Never work above the anchor point, as this will increase the free-fall distance if a worker falls, resulting in higher forces on the body and greater likelihood of the arrest line snagging on obstructions.
+
+[p44 | prose | Positioning the inertia reel anchor points]
+Positioning the inertia reel anchor points
+
+[p44 | prose | Positioning the inertia reel anchor points]
+Inertia reels should be anchored above head height to prevent the line making contact with an obstruction and to limit the free-fall distance to that recommended by the designer/manufacturer. The worker should work within an arc of up to 30 degrees below the inertia reel unless otherwise specified by the manufacturer.
+
+[p44 | prose | Swing fall (the pendulum effect)]
+Swing fall (the pendulum effect)
+
+[p44 | prose | Swing fall (the pendulum effect)]
+Swing fall is a potential hazard with the use of harness systems. It can happen in two situations, swing down and swing back.
+
+[p44 | prose | Swing fall (the pendulum effect)]
+To stop swing fall:
+
+[p44 | prose | Swing fall (the pendulum effect)]
+– place the anchorage point at a right angle to the position of the line at the perimeter edge; a mobile anchorage is helpful here
+
+[p44 | prose | Swing fall (the pendulum effect)]
+– use secondary anchor points and/or anchor lines
+
+[p44 | prose | Swing fall (the pendulum effect)]
+– use a perimeter guardrail to prevent any fall over the perimeter edge.
+
+[p44 | prose | Swing fall (the pendulum effect)]
+Where swing fall is possible, it is better to use a work positioning system, or another means of access such as an elevating work platform.
+
+[p45 | prose | Swing fall (the pendulum effect)]
+FIGURE 17:
+
+[p45 | prose | Swing fall (the pendulum effect)]
+Example of correctly placed anchor point
+
+[p45 | prose | Rescue planning]
+Rescue planning
+
+[p45 | prose | Rescue planning]
+A rescue plan should be developed before installing the harness system. It is critical that a suspended worker can be rescued quickly.
+
+[p45 | prose | Rescue planning]
+A worker suspended in a harness can develop suspension intolerance. This is a condition where blood pooling in the legs can lead to loss of consciousness, renal failure and, in extreme cases, death.
+
+[p45 | prose | Rescue planning]
+A pre-rigged retrieval system is a good way of ensuring quick rescue. A rescue plan should consider:
+
+[p45 | prose | Rescue planning]
+– the rescue method, such as using a crane or elevating work platform
+
+[p45 | prose | Rescue planning]
+– available equipment
+
+[p45 | prose | Rescue planning]
+– responsibilities and training
+
+[p45 | prose | Rescue planning]
+– communication
+
+[p45 | prose | Rescue planning]
+– medical requirements
+
+[p45 | prose | Rescue planning]
+– involving the emergency services.
+
+[p45 | prose | Rescue planning]
+Workers using fall arrest systems should never work alone.
+
+[p45 | prose | Rescue planning]
+A recommended means of achieving competency for rescue planning is NZQA Unit Standard 23232 – Develop a rescue plan for recovery of a suspended individual after a fall or equivalent or higher standard. NZQA Unit Standard 23229 is a prerequisite for achieving NZQA Unit Standard 23232.
+
+[p45 | prose | Industrial rope access]
+Industrial rope access
+
+[p45 | prose | Industrial rope access]
+Industrial rope access is a highly specialised work method. For more guidance see:
+
+[p45 | prose | Industrial rope access]
+– AS/NZS 1891 Industrial Fall Arrest Systems and Devices series of standards
+
+[p45 | prose | Industrial rope access]
+– Industrial Rope Access in New Zealand Best Practice Guidelines
+
+[p45 | prose | Industrial rope access]
+– AS/NZS 4488.1 Industrial rope access systems – Specifications
+
+[p45 | prose | Industrial rope access]
+– AS/NZS 4488.2 Industrial rope access systems – Selection, use and maintenance
+
+[p45 | prose | Industrial rope access]
+– The Approved Code of Practice for Arboriculture
+
+[p45 | prose | Industrial rope access]
+– IRAANZ Best Practice Guidelines Industrial Rope Access in New Zealand.
+
+[p46 | prose | Industrial rope access]
+Australia/New Zealand Standards that apply are:
+
+[p46 | prose | Industrial rope access]
+– AS/NZ1891 – Industrial fall-arrest systems and devices series of standards
+
+[p46 | prose | Industrial rope access]
+– AS/NZ4488.1 – Industrial rope access systems – Part 1: Specifications
+
+[p46 | prose | Industrial rope access]
+– AS/NZ4488.2 – Industrial rope access systems – Part 2: Selection, use and maintenance.
+
+[p46 | prose | Prescribed systems]
+Prescribed systems
+
+[p46 | prose | Prescribed systems]
+A prescribed system is a lifeline that is designed and installed in accordance with AS/NZS 1891.2 Supp 1:2001. The end anchor loadings on these systems may reach up to 63.3kN.
+
+[p46 | prose | Proprietary systems]
+Proprietary systems
+
+[p46 | prose | Proprietary systems]
+A proprietary system is a lifeline that is designed and installed in accordance with a manufacturer’s specification. These systems usually include shock- absorbing components that reduce the end anchor loadings of the lifeline. Some proprietary systems are installed with top-fixed anchors that depend partly on the strength of the roof sheeting.
+
+[p46 | prose | Proprietary systems]
+Refer to AS/NZS 1891 Industrial Fall Arrest Systems and Devices series of standards and the manufacturer/designer instructions and/or specifications.
+
+[p46 | prose | Engineered systems]
+Engineered systems
+
+[p46 | prose | Engineered systems]
+An engineered system is a lifeline that is designed and installed by a qualified structural engineer. These are not as common as proprietary systems but will accommodate most fall arrest systems.
+
+[p46 | prose | 4.7 Temporary work platforms (TWPs)]
+4.7 Temporary work platforms (TWPs)
+
+[p46 | prose | 4.7 Temporary work platforms (TWPs)]
+Temporary work platforms should be constructed by a competent person and should be suitable for carrying out specific work that is most often under five metres in height.
+
+[p46 | prose | 4.7 Temporary work platforms (TWPs)]
+They are either:
+
+[p46 | prose | 4.7 Temporary work platforms (TWPs)]
+– a proprietary (engineered) work platform constructed and used in accordance with the manufacturer’s instructions, or
+
+[p46 | prose | 4.7 Temporary work platforms (TWPs)]
+– a constructed work platform using construction materials and built by a competent person.
+
+[p46 | prose | 4.7 Temporary work platforms (TWPs)]
+Scaffold temporary work platforms
+
+[p46 | prose | 4.7 Temporary work platforms (TWPs)]
+The most common example is scaffolding—proprietary and tube and clip.
+
+[p46 | prose | 4.7 Temporary work platforms (TWPs)]
+For more information see Scaffolding in New Zealand for this type of temporary work platform.
+
+[p46 | prose | 4.7 Temporary work platforms (TWPs)]
+Guardrails, including mid-rails and toeboards, should be provided on the exposed sides and end of all working platforms regardless of height.
+
+[p46 | prose | 4.7 Temporary work platforms (TWPs)]
+All scaffolds or TWPs, from which a worker may fall five metres or more, are required to be notified to WorkSafe, and must be erected by a person holding a relevant Certificate of Competence.
+
+[p46 | prose | 4.7 Temporary work platforms (TWPs)]
+For more information on notifications see Section 7.0 of this guidance
+
+[p47 | prose | Non-scaffold temporary work platforms]
+Non-scaffold temporary work platforms
+
+[p47 | prose | Non-scaffold temporary work platforms]
+A variety of non-scaffold temporary work platforms are available, some with guardrail protection and some without. Where the work platform does not have any guardrail system it should be restricted to low-level use, for example, a hop-up platform or a step platform on a stepladder. The platform should be big enough in area for workers to work safely.
+
+[p47 | prose | Non-scaffold temporary work platforms]
+Proprietary TWPs are generally used on firm level ground and the manufacturer’s instructions for the use of the platform must be followed.
+
+[p47 | prose | Non-scaffold temporary work platforms]
+The stability of free-standing temporary work platforms is governed (under AS/NZS 1576 – Scaffolding series of standards) by specific base-to-height ratios to prevent tipping. While a 1:2 ratio (where the height is twice the base width) is common for smaller units, standard industrial practice generally allows for a 1:3 ratio (height up to three times the minimum base width) for most mobile scaffolds.
+
+[p47 | prose | Non-scaffold temporary work platforms]
+A risk assessment should be carried out to determine which TWP should be used for working at height. Always apply the hierarchy of controls.
+
+[p47 | prose | Non-scaffold temporary work platforms]
+Scaffolding components and assembled platforms must be clearly marked for safety and traceability in compliance with AS/NZS 1576 – Scaffolding series of standards.
+
+[p48 | prose | Podium, folding, and step-up platforms]
+Podium, folding, and step-up platforms
+
+[p48 | prose | Podium, folding, and step-up platforms]
+These platforms come in a variety of design configurations and may be of a fixed height or have adjustable deck heights. They are available with full guardrail, handrail only, or no edge protection.
+
+[p48 | prose | Podium, folding, and step-up platforms]
+Podium, folding or step-up platforms and platforms with no edge protection are generally intended for short-term interior work. They should be used on firm level ground. If used outside on soft ground, sole boards should be used to make sure the podium platform is stable.
+
+[p48 | prose | Podium, folding, and step-up platforms]
+A mobile scaffold/ mobile working platform.
+
+[p48 | prose | Low height mobile working platforms]
+Low height mobile working platforms
+
+[p48 | prose | Low height mobile working platforms]
+When using a mobile working platform (MWP) the work area should provide adequate safe space and be kept clean and clear of materials and equipment so workers can access, position, move and leave the platform safely.
+
+[p48 | prose | Low height mobile working platforms]
+Before use, the PCBU should confirm the platform is suitable for the task, environment, and workers. The surface must be level, stable, able to support the load, and have no gaps, edges, debris, or other hazards that could cause instability, slips, trips, or falls.
+
+[p48 | prose | Low height mobile working platforms]
+At low height, the MWP should not be more than 1 metre above the ground or floor unless a task-specific risk assessment confirms the equipment remains suitable and any additional controls are in place. Workers must be protected when getting on, working from, moving on, and getting off the platform.
+
+[p49 | prose | Low height mobile working platforms]
+Workers using the platform must be competent and given appropriate information, instruction, training, and supervision. A task analysis, safe work method statement, job safety analysis, or equivalent planning document should identify the suitable equipment, safe access arrangements, loading limits, movement controls and emergency arrangements.
+
+[p49 | prose | Low height mobile working platforms]
+Where the risk assessment confirms there is no significant risk of falling tools, materials, or objects, toeboards do not have to be used where the platform is less than 1 metre above the ground. If that risk exists, controls such as exclusion zones and tool restraint should be used.
+
+[p49 | prose | Low height mobile working platforms]
+Where toeboards would obstruct safely getting on or off the MWP at very low heights, the decision not to fit them should follow a risk assessment and should be recorded in the task planning document and supported by alternative controls - such as a designated step-on/step-off point with a stable, non-slip access surface - for any remaining risk.
+
+[p49 | prose | Low height mobile working platforms]
+If the platform is moved, it must be moved slowly, under control, and at less than walking pace. The route should be checked first, and a spotter or watcher used where needed to maintain visibility and prevent contact with people, plant,
+
+[p49 | prose | Trestle scaffolds]
+Trestle scaffolds
+
+[p49 | prose | Trestle scaffolds]
+Trestle scaffolds are only suitable for low-level work because of the difficulty of incorporating a guardrail system. For example, when a worker may need to paint a low ceiling.
+
+[p49 | prose | Trestle scaffolds]
+Guardrail systems are available for trestles and should be used wherever possible. Trestles without a guardrail system should only be used when the PCBU’s risk assessment shows the likelihood of a worker falling and injuring themselves is low and the work is of short duration.
+
+[p49 | prose | Trestle scaffolds]
+The risk assessment should also show that other alternative controls that give more protection cannot be used.
+
+[p49 | prose | Trestle scaffolds]
+If using timber planks they should be inspected by a competent person for:
+
+[p49 | prose | Trestle scaffolds]
+– splits
+
+[p49 | prose | Trestle scaffolds]
+– rot
+
+[p49 | prose | Trestle scaffolds]
+– delamination
+
+[p49 | prose | Trestle scaffolds]
+– excessive warping (especially after heavy wetting).
+
+[p49 | prose | Trestle scaffolds]
+Stored timber planks should be fillet stacked to provide ventilation and protected from moisture.
+
+[p49 | prose | Trestle scaffolds]
+Damaged planks should be removed from use.
+
+[p50 | prose | Trestle scaffolds]
+Aluminium and proprietary planks should be used in accordance with manufacturer instructions, scaffold system ratings and AS/NZS 1576.1 , with clear load ratings and certification.
+
+[p50 | prose | Trestle scaffolds]
+Never exceed the manufacturer’s stated maximum span for the intended duty rating. Common manufacturer duty-rated spans include:
+
+[p50 | prose | Trestle scaffolds]
+Steel or aluminium fold-out trestles are used in conjunction with scaffold boards or staging. These trestles must be manufactured and used in accordance with AS/NZS 1892 Portable Ladders series of standards .
+
+[p50 | prose | Trestle scaffolds]
+Another form of trestle is a self-supporting stand including horizontal rails designed to support one end of a light-duty work platform. It can be folding or telescopic.
+
+[p50 | prose | Trestle scaffolds]
+The design and construction of these trestles should comply with AS/NZS 1576.5 or other accepted international standards .
+
+[p50 | prose | Step platforms]
+Step platforms
+
+[p50 | prose | Step platforms]
+A step platform is a safer alternative to a stepladder, especially where the task involves working at height for extended periods or with restricted vision (such as welding or other hot work). The step platform is more stable and provides a much larger work surface than the stepladder. Some models are collapsible and
+
+[p51 | prose | Step platforms]
+FIGURE 21:
+
+[p51 | prose | Step platforms]
+A worker uses a step platform
+
+[p51 | prose | Stilts]
+Stilts
+
+[p51 | prose | Stilts]
+Stilts allow workers to reach high places when taping, stopping and texturing plasterboard inside a building. Stilts can also be used for other construction work. They should not be used on scaffolding or other equipment that might be used to elevate the worker.
+
+[p51 | prose | Stilts]
+Use stilts on even surfaces and on floor areas clear of rubbish or building materials, and where openings are covered. Stilts should be properly maintained between uses according to the manufacturer’s instructions.
+
+[p51 | prose | Stilts]
+The use of stilts raises a worker’s centre of gravity, making them less stable and prone to tripping, overbalancing, or falling through openings in floors or walls. Only workers competent in the use of a particular type of stilt are permitted to use that specific type of stilt.
+
+[p52 | prose | Stilts]
+FIGURE 22:
+
+[p52 | prose | Stilts]
+A plasterer uses stilts to comfortably reach above doorframes.
+
+[p52 | prose | For the safe use of stilts:]
+For the safe use of stilts:
+
+[p52 | prose | For the safe use of stilts:]
+– inspect the stilts every time before use
+
+[p52 | prose | For the safe use of stilts:]
+– use only on hard, level surfaces
+
+[p52 | prose | For the safe use of stilts:]
+– clear the area where workers will be working on stilts of any debris or construction materials
+
+[p52 | prose | For the safe use of stilts:]
+– provide barriers across any openings such as doors or windows that could create a fall hazard
+
+[p52 | prose | For the safe use of stilts:]
+– work directly over the stilts without reaching or leaning the body
+
+[p52 | prose | For the safe use of stilts:]
+– limit the amount of weight carried while working on the stilts.
+
+[p52 | prose | Constructed temporary work platforms]
+Constructed temporary work platforms
+
+[p52 | prose | Constructed temporary work platforms]
+Design, fabrication and erection of temporary work platforms from building materials should meet sound design and construction principles as prescribed by existing construction standards such as those found in Scaffolding in New Zealand
+
+[p52 | prose | Constructed temporary work platforms]
+Where construction workers build their own work platforms they should make sure that:
+
+[p52 | prose | Constructed temporary work platforms]
+– no alternative forms of work platform are readily available
+
+[p52 | prose | Constructed temporary work platforms]
+– they are constructed from suitable materials
+
+[p52 | prose | Constructed temporary work platforms]
+– competent and skilled tradespeople construct or supervise the construction of the work platform
+
+[p52 | prose | Constructed temporary work platforms]
+– the proposed structure can safely support the tradespeople, materials and plant necessary to complete the work
+
+[p52 | prose | Constructed temporary work platforms]
+– guardrails, toeboards and mid rails are in place
+
+[p52 | prose | Constructed temporary work platforms]
+– the proposed structure can stand up to the construction activities and processes necessary to complete the work safely.
+
+[p53 | prose | Constructed temporary work platforms]
+Temporary work platforms should never be constructed from construction materials such as pallets, bricks, concrete blocks, buckets or barrels, furniture, nail boxes, or packing crates.
+
+[p53 | prose | Constructed temporary work platforms]
+The platform width needs to be a minimum width of 675mm.
+
+[p53 | prose | Constructed temporary work platforms]
+The narrowest width of the platform should never be less than half of its height from the ground at the highest point. The maximum width of the platform is 1200mm wide and is covered in the general principles of light-duty platforms in Scaffolding in New Zealand. The span between supports should not exceed the recommended specifications found in Scaffolding in New Zealand. In the case of timber, maximum working load will be as for light-duty loading outlined in Scaffolding in New Zealand.
+
+[p53 | prose | 4.8 Catch platforms]
+4.8 Catch platforms
+
+[p53 | prose | 4.8 Catch platforms]
+A catch platform attaches to a scaffold to contain debris falling from a working platform. A cantilevered portion of a catch platform is also called a fan. Catch platforms are designed to catch debris only and should not be used to prevent or stop people from falling.
+
+[p53 | prose | 4.8 Catch platforms]
+The platform should be robustly constructed and designed to sustain the maximum potential impact load. Scaffolding components can be used to construct a mobile catch platform.
+
+[p53 | prose | 4.8 Catch platforms]
+More information on catch platforms and fans on scaffolds can be found in Scaffolding in New Zealand.
+
+[p53 | prose | 4.9 Soft landing systems (SLSs)]
+4.9 Soft landing systems (SLSs)
+
+[p53 | prose | 4.9 Soft landing systems (SLSs)]
+SLSs are designed to dull the effect of falls from height during construction by providing an energy-absorbing landing area. Most SLSs have been designed for use principally inside a building where the bags will be enclosed by walls or partitions. SLSs do not prevent a fall, but they may minimise the harm from one.
+
+[p53 | prose | 4.9 Soft landing systems (SLSs)]
+Refer to PAS 59:2004 – Filled collective fall arrest systems, available from the British Standards Institute.
+
+[p53 | prose | 4.10 Safety nets]
+4.10 Safety nets
+
+[p53 | prose | 4.10 Safety nets]
+Safety nets are used on construction sites and similar work sites mainly to stop a worker falling, although they can also be used to catch or contain debris.
+
+[p53 | prose | 4.10 Safety nets]
+Safety nets are manufactured from synthetic materials. They are lightweight and rot-resistant, but can be easily damaged by improper use, wear and tear, heat or flame, handling, or storage. They can also be weakened by weathering, UV degradation and environmental factors can cause strength loss. It is essential that safety nets are regularly examined by a competent person and are periodically tested in accordance with the manufacturer’s instructions. The manufacturer’s instructions should also be followed for installation, use and storage.
+
+[p53 | prose | Classification of safety nets]
+Classification of safety nets
+
+[p53 | prose | Classification of safety nets]
+Safety nets conforming to BS EN 1263-1 should be used. For more guidance see:
+
+[p53 | prose | Classification of safety nets]
+– EN 1263:1 (2002) Industry Safety Nets
+
+[p53 | prose | Classification of safety nets]
+– BS EN 1263:2 Safety Requirements for the Positioning Limits
+
+[p53 | prose | Classification of safety nets]
+– BS 3913: Industrial safety nets.
+
+[p54 | prose | 4.11 Fixed roof ladders and crawl boards]
+4.11 Fixed roof ladders and crawl boards
+
+[p54 | prose | 4.11 Fixed roof ladders and crawl boards]
+Fixed crawl boards and roof ladders can be used as permanent access to a work positioning system, or on pitched or brittle roofs as access to service plant.
+
+[p54 | prose | 4.11 Fixed roof ladders and crawl boards]
+– crawl boards should have a minimum width of 450mm and should have handrails
+
+[p54 | prose | 4.11 Fixed roof ladders and crawl boards]
+– on brittle roofs guardrails should be permanently installed on crawl boards and fixed roof ladders
+
+[p54 | prose | 4.11 Fixed roof ladders and crawl boards]
+– crawl boards should have a non-slip surface or cleats, depending on their pitch. Ensure that permanent access complies with the Building Act 2004
+
+[p54 | prose | 4.11 Fixed roof ladders and crawl boards]
+– temporary roof ladders and crawl boards should be of the same standard as for permanent installations
+
+[p54 | prose | 4.11 Fixed roof ladders and crawl boards]
+– roof ladders should be used on roof pitches over 25 degrees
+
+[p54 | prose | 4.11 Fixed roof ladders and crawl boards]
+– the bracket on the top of a crawl board or roof ladder should be deep enough to reach over the ridge and lap the roof framing.
+
+[p54 | prose | 4.11 Fixed roof ladders and crawl boards]
+Crawl boards, when used on their own, do not stop falls. Where the potential of a fall still exists while using crawl boards, extra measures such as edge protection and/or fall restraint systems may need to be used.
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+4.12 Ladders, stepladders, and means of access
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+Ladders and step ladders do not offer fall protection and should be the last form of work access equipment to be considered.
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+Ladders or stepladders should be used for low-risk and short-duration tasks. The worker should maintain three points of contact with a ladder or stepladder to reduce the likelihood of slipping and falling.
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+Never overreach while working from a ladder.
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+Where reasonably practicable you should use a podium ladder.
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+Ladders and stepladders should be of trade or industrial standard and be rated at not less than 120kg. In New Zealand, industrial-use ladders should be compliant with the AS/NZS 1892 series of standards.
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+Ladders should be:
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+– clearly labelled as “industrial” or “industrial rated” complying with AS/NZS 1891 series of standards
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+– structurally sound and free of defects, this means:
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+- no bent/split styles or rungs
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+- no rust
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+- no missing rubber footings
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+- styles must be parallel
+
+[p54 | prose | 4.12 Ladders, stepladders, and means of access]
+– not covered in chemicals or other materials.
+
+[p55 | prose | FIGURE 23:]
+FIGURE 23:
+
+[p55 | prose | FIGURE 23:]
+Worker maintaining three points of contact with the ladder
+
+[p55 | prose | Issues for ladder or stepladder use]
+Issues for ladder or stepladder use
+
+[p55 | prose | Issues for ladder or stepladder use]
+– Overload — the worker and anything they are taking up should not exceed the highest safe working load stated on the ladder.
+
+[p55 | prose | Issues for ladder or stepladder use]
+– Over-reach — keep the line of the belt buckle (navel) inside the stiles with both feet on the same rung throughout the task.
+
+[p55 | prose | Issues for ladder or stepladder use]
+– Do not keep tools or other items resting on the steps or hanging from the rungs.
+
+[p55 | prose | Issues for ladder or stepladder use]
+– Carry tools on a tool belt.
+
+[p55 | prose | Issues for ladder or stepladder use]
+– Stop at the third step from the top of a straight ladder.
+
+[p55 | prose | Working from stepladders]
+Working from stepladders
+
+[p55 | prose | Working from stepladders]
+When working from stepladders, avoid work that imposes side loading, such as side-on drilling through solid materials. Face the steps of the ladder towards the work activity.
+
+[p55 | prose | Working from stepladders]
+Where side-on loadings cannot be avoided, stop the stepladder from tipping over by tying the steps to a suitable point, or use a more suitable type of access equipment.
+
+[p55 | prose | Working from stepladders]
+Avoid holding items when climbing ladders and stepladders by using tool belts.
+
+[p56 | prose | On a stepladder]
+On a stepladder
+
+[p56 | prose | On a stepladder]
+Where a handhold cannot be maintained, the use of a stepladder should take into account:
+
+[p56 | prose | On a stepladder]
+– the height of the task
+
+[p56 | prose | On a stepladder]
+– if a safe handhold is available on the stepladder
+
+[p56 | prose | On a stepladder]
+– if it is light work
+
+[p56 | prose | On a stepladder]
+– if it avoids side loading
+
+[p56 | prose | On a stepladder]
+– if it avoids over-reaching
+
+[p56 | prose | On a stepladder]
+– if the worker’s feet are fully supported
+
+[p56 | prose | On a stepladder]
+– if the stepladder can be tied
+
+[p56 | prose | On a stepladder]
+– location, for example, away from driveways and doorways unless isolated
+
+[p56 | prose | On a stepladder]
+– that there is four metres clearance from electricity lines
+
+[p56 | prose | On a stepladder]
+– use of hand tools that require extra leverage.
+
+[p56 | prose | Preventing ladders from slipping]
+Preventing ladders from slipping
+
+[p56 | prose | Preventing ladders from slipping]
+All reasonably practicable steps should be taken to prevent a leaning ladder from slipping or falling. Where possible:
+
+[p56 | prose | Preventing ladders from slipping]
+– tie (or equally effectively secure) the ladder at the top. If this is not possible tie it where reasonably practicable
+
+[p56 | prose | Preventing ladders from slipping]
+– use an effective ladder stability device
+
+[p56 | prose | Preventing ladders from slipping]
+– wedge the ladder against a suitable fixed structure, such as a wall
+
+[p56 | prose | Preventing ladders from slipping]
+– ‘foot it’ by facing the ladder with both feet on the bottom rung, each foot as far apart as possible on the rung (stile to stile), and both hands on the stiles.
+
+[p56 | prose | Preventing ladders from slipping]
+The person footing the ladder should remain in the position described until the person using the ladder has descended to a point where they can safely step onto the ground. The worker and footer should not overload the ladder.
+
+[p56 | prose | Preventing ladders from slipping]
+When in use, the portable leaning ladder should:
+
+[p56 | prose | Preventing ladders from slipping]
+– rest against a solid surface at the top
+
+[p56 | prose | Preventing ladders from slipping]
+– rise at least one metre or three rungs above the landing point
+
+[p56 | prose | Preventing ladders from slipping]
+– be positioned so workers do not have to over-reach or climb over obstacles (workers should be able to do the job with both feet and one hand on the ladder)
+
+[p56 | prose | Preventing ladders from slipping]
+– rest on firm, level ground
+
+[p56 | prose | Preventing ladders from slipping]
+– be in good condition and free from slippery substances
+
+[p56 | prose | Preventing ladders from slipping]
+– be used with adequate clearance from traffic routes
+
+[p56 | prose | Preventing ladders from slipping]
+– be at an angle of one metre out for every four metres up.
+
+[p56 | prose | Ladder stability devices (LSDs)]
+Ladder stability devices (LSDs)
+
+[p56 | prose | Ladder stability devices (LSDs)]
+Ladder stability devices can give extra ladder stability where other methods do not work. For example, tying or footing.
+
+[p56 | prose | Ladder stability devices (LSDs)]
+Ladder stability devices and ladder levellers should only be used strictly in accordance with the manufacturers’ and suppliers’ instructions for use.
+
+[p57 | prose | Checking ladders before use]
+Checking ladders before use
+
+[p57 | prose | Checking ladders before use]
+The following should be checked before using a ladder and after any incident (for example, a ladder being dropped):
+
+[p57 | prose | Checking ladders before use]
+– check all feet and caps are present and in good condition and securely fastened
+
+[p57 | prose | Checking ladders before use]
+– make sure all side stays and clips are present and fixed in place
+
+[p57 | prose | Checking ladders before use]
+– all rivets are present and in good condition
+
+[p57 | prose | Checking ladders before use]
+– rungs have not been bent or damaged
+
+[p57 | prose | Checking ladders before use]
+– side stiles have no deformities such as dents or structural faults.
+
+[p57 | prose | Access and egress]
+Access and egress
+
+[p57 | prose | Access and egress]
+A single portable ladder set up and secured at a slope of a ratio of 4:1 (four metres up by one metre out) and extending at least one metre or three rungs above the stepping-off point is a suitable means of access and egress, provided it is:
+
+[p57 | prose | Access and egress]
+– a step ladder of maximum length six metres
+
+[p57 | prose | Access and egress]
+– a single ladder of maximum length nine metres
+
+[p57 | prose | Access and egress]
+– secured against sliding top and bottom
+
+[p57 | prose | Access and egress]
+– set on firm, level ground
+
+[p57 | prose | Access and egress]
+– extending by one metre higher than the roof or other step off point
+
+[p57 | prose | Access and egress]
+– used by no more than one person at a time except when footing.
+
+[p57 | prose | Access and egress]
+Climbing a ladder to secure it at the top can be dangerous. There should be another worker to secure the ladder at the bottom while doing this.
+
+[p57 | prose | Access and egress]
+For more information see: Safe working with ladders and stepladders
+
+[p59 | prose | 5.1 Working conditions]
+5.1 Working conditions
+
+[p59 | prose | 5.1 Working conditions]
+Slopes, rough or uneven ground, obstructions and traffic can decide what equipment you use. For example, an elevating work platform (EWP) could reach over bad ground or obstructions as long as its stability was not compromised. An EWP may be better than a tower scaffold in these kinds of situations.
+
+[p59 | prose | 5.2 Risk of falling objects]
+5.2 Risk of falling objects
+
+[p59 | prose | 5.2 Risk of falling objects]
+Falling tools, building materials, debris and other objects all have the potential to cause harm.
+
+[p59 | prose | 5.2 Risk of falling objects]
+Falls can be caused by these objects being unsecured, gaps in toeboards or scaffolding, high winds and items being stored poorly.
+
+[p59 | prose | 5.2 Risk of falling objects]
+If it is not reasonably practicable to eliminate the risk of falling objects, PCBUs should:
+
+[p59 | prose | 5.2 Risk of falling objects]
+– prevent the object falling from height by way of containment (scrim or other suitable sheeting material).
+
+[p59 | prose | 5.2 Risk of falling objects]
+If preventing the fall is not reasonably practicable, PCBUs should arrest the fall of the object (for example, with catch nets or lanyards).
+
+[p59 | prose | 5.2 Risk of falling objects]
+If arresting the fall is not reasonably practicable, a physical exclusion zone should be erected and maintained on the ground (for example, site fencing or another physical barrier).
+
+[p59 | prose | 5.2 Risk of falling objects]
+Preventing objects from falling is the easiest and most effective way of controlling the risks linked with falling objects.
+
+[p59 | prose | 5.3 Emergency planning]
+5.3 Emergency planning
+
+[p59 | prose | 5.3 Emergency planning]
+An emergency plan outlines the actions required of all onsite workers and must be accessible to them.
+
+[p59 | prose | 5.3 Emergency planning]
+It must be easy for everyone to understand and effective immediately if needed.
+
+[p59 | prose | 5.3 Emergency planning]
+For more information see Workplace emergency plans
+
+[p59 | prose | 5.4 Duration and frequency of use]
+5.4 Duration and frequency of use
+
+[p59 | prose | 5.4 Duration and frequency of use]
+Long-duration, higher frequency work justifies a higher standard of fall protection such as a tower scaffold rather than a ladder but a ladder may be justified for short duration low-risk repetitive work.
+
+[p59 | prose | 5.5 Rescue]
+5.5 Rescue
+
+[p59 | prose | 5.5 Rescue]
+If rescue from a deployed fall arrest system is going to be difficult, choose other work equipment. For example, an EWP.
+
+[p60 | prose | 5.6 Additional risk posed by the installation and removal of work equipment]
+5.6 Additional risk posed by the installation and removal of work equipment
+
+[p60 | prose | 5.6 Additional risk posed by the installation and removal of work equipment]
+An EWP used by one person may be less risky than getting two or three people to put up a tower or scaffold for the one person to work safely.
+
+[p60 | prose | 5.7 Operator logbooks]
+5.7 Operator logbooks
+
+[p60 | prose | 5.7 Operator logbooks]
+Operator logbooks are a practical way for PCBUs and workers to show working at height competency.
+
+[p60 | prose | 5.7 Operator logbooks]
+Logbooks provide a verifiable record of a worker’s training, experience, and proficiency across tasks such as harness-based work, scaffolding, MEWP operation, or rope access. They support compliance with relevant standards by showing operators are competent, appropriately supervised where required, and using the correct methods for the specific height safety control system.
+
+[p60 | prose | 5.7 Operator logbooks]
+For equipment, logbooks help track the safe use and condition of height safety control systems, including harnesses, lanyards, anchor points, scaffolds, and MEWPs.
+
+[p60 | prose | 5.7 Operator logbooks]
+Operators should complete entries that record dates of use, task details, equipment used, pre-use inspections, and any defects or incidents, along with confirmation of the relevant control system (such as fall restraint or fall arrest systems).
+
+[p60 | prose | 5.7 Operator logbooks]
+Entries may also include supervisor sign-off where needed. By maintaining accurate and up-to-date records, properly filled out logbooks show equipment is being used correctly, inspections are being carried out, and both worker competency and equipment management are being actively maintained.
+
+[p62 | prose | 6.1 Training and inductions]
+6.1 Training and inductions
+
+[p62 | prose | 6.1 Training and inductions]
+PCBUS have duties under Regulation 9 of the GRWM regulations to provide information, training and instruction to workers. In relation to working from height, this should include training workers on their role in managing the risks outlined in these guidelines – particularly in relation to managing the risks from working at height.
+
+[p62 | prose | 6.1 Training and inductions]
+In addition to training specific to work at height risks, workers should get training on general workplace requirements and expectations such as:
+
+[p62 | prose | 6.1 Training and inductions]
+– when/how to report a health and safety incident
+
+[p62 | prose | 6.1 Training and inductions]
+– information on how they can engage meaningfully on work health and safety matters.
+
+[p62 | prose | 6.1 Training and inductions]
+Initial training should be done before the worker starts and during their induction phase. Regular refresher training may also be required - refresher training is recommended every 2 years.
+
+[p62 | prose | 6.1 Training and inductions]
+Untrained workers require supervision by a competent person.
+
+[p62 | prose | 6.1 Training and inductions]
+You should have documented rescue plans, with on-site personnel trained in the rescue plans.
+
+[p62 | prose | 6.1 Training and inductions]
+For more general information see: Providing information, training, instruction or supervision for workers | WorkSafe
+
+[p62 | prose | 6.2 Fitness to work]
+6.2 Fitness to work
+
+[p62 | prose | 6.2 Fitness to work]
+Fitness for work means a worker is in a physical and mental condition that allows them to perform their assigned tasks safely and competently, without being a risk to themselves or others.
+
+[p62 | prose | 6.2 Fitness to work]
+This means workers should not go to work with severe fatigue or illness or be under the influence of drugs or alcohol.
+
+[p62 | prose | 6.2 Fitness to work]
+PCBUs should ensure, so far as is reasonably practicable, that a worker is fit to carry out their tasks safely, including monitoring health when required.
+
+[p62 | prose | 6.2 Fitness to work]
+Workers should take reasonable care of their own health and safety and ensure their actions do not harm others. They should comply with reasonable policies and instructions from the PCBU regarding fitness for work.
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+7.1 Notification of particular hazardous work
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+PCBUS who control a place of work must provide at least 24 hours’ notice to WorkSafe of certain high-risk activity.
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+Notifications of high-risk activity assists WorkSafe's workplace health and safety services to plan workplace visits to promote the prevention of harm to all persons at, or in the vicinity of, a place of work.
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+Notifiable work includes, but is not limited to:
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+– Construction work with a risk of falling 5 metres or more (see exclusions below) except:
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+- work in connection with a residential building up to and including 2 full storeys
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+- work on overhead telecommunications lines and overhead electric power lines
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+- work carried out from ladder only
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+- maintenance and repair work of a minor or routine nature.
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+– Erecting or dismantling scaffolding with a risk of falling 5 metres or more
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+– Excavations and Tunnels: Any excavation over 1.5m deep needing shoring, or work in tunnels/shafts
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+– High-Risk Operations: Logging/tree felling, using explosives, construction diving, or operating cranes lifting 500kg+ over a 5m vertical distance.
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+There are other types of work that require notification. See Particular hazardous work (Notifiable works) | WorkSafe for the full list of particular hazardous work.
+
+[p64 | prose | 7.1 Notification of particular hazardous work]
+If you meet the criteria for particular hazardous you must fill out the online form on the WorkSafe website
+
+[p64 | prose | 7.2 Notifiable events]
+7.2 Notifiable events
+
+[p64 | prose | 7.2 Notifiable events]
+WorkSafe must be notified when certain work-related events (notifiable events) happen.
+
+[p64 | prose | 7.2 Notifiable events]
+The PCBU must make sure WorkSafe is notified as soon as possible after becoming aware that a notifiable event related to the PCBU has happened.
+
+[p64 | prose | 7.2 Notifiable events]
+This allows WorkSafe to immediately investigate or follow up on events that cause, or have the potential to cause, death, serious injury or illness (serious health and safety risks).
+
+[p64 | prose | 7.2 Notifiable events]
+A notifiable event is any of the following work-related events:
+
+[p64 | prose | 7.2 Notifiable events]
+– a death
+
+[p64 | prose | 7.2 Notifiable events]
+– a notifiable injury or illness – is a specified serious work-related injury or illness. For example, all injuries or illnesses that require (or would usually require) a person to be admitted to hospital for immediate treatment are notifiable
+
+[p64 | prose | 7.2 Notifiable events]
+– a notifiable incident – is where someone’s health or safety is seriously endangered or threatened.
+
+[p64 | prose | 7.2 Notifiable events]
+For more information see Section 24 of HSWA – Meaning of a notifiable incident
+
+[p64 | prose | 7.2 Notifiable events]
+Only serious events need to be notified. These trigger requirements to preserve the site, notify the regulator and keep records.
+
+[p65 | prose | 7.2 Notifiable events]
+The notifiable incident, injury, illness or death could be due to the condition of the work site, the way the work activity is organised, or the way equipment or substances are used.
+
+[p65 | prose | 7.2 Notifiable events]
+Notifiable events may happen inside or outside the actual work site (for example, during an outcall).
+
+[p65 | prose | 7.2 Notifiable events]
+For more information WorkSafe’s Notifications webpage and HSWA Section 23 – Meaning of a notifiable injury or illness and HSWA Section 25 – Meaning of notifiable event
+
+[p65 | prose | HOW TO MAKE A NOTIFICATION TO WORKSAFE NEW ZEALAND]
+HOW TO MAKE A NOTIFICATION TO WORKSAFE NEW ZEALAND
+
+[p65 | prose | HOW TO MAKE A NOTIFICATION TO WORKSAFE NEW ZEALAND]
+If someone has been killed as a result of work, notify WorkSafe immediately by phone: 0800 030 040 (24/7).
+
+[p65 | prose | HOW TO MAKE A NOTIFICATION TO WORKSAFE NEW ZEALAND]
+In the case of emergency, phone 111.
+
+[p65 | prose | HOW TO MAKE A NOTIFICATION TO WORKSAFE NEW ZEALAND]
+For all other notifications, go to Notify WorkSafe
+
+[p67 | prose | 8.1 WorkSafe resources]
+8.1 WorkSafe resources
+
+[p67 | prose | 8.1 WorkSafe resources]
+Working at height suite of guidance
+
+[p67 | prose | 8.1 WorkSafe resources]
+– Working at height
+
+[p67 | prose | 8.1 WorkSafe resources]
+Health and Safety at Work Act 2015
+
+[p67 | prose | 8.1 WorkSafe resources]
+– Introduction to the Health and Safety at Work Act 2015 – special guide | WorkSafe
+
+[p67 | prose | 8.1 WorkSafe resources]
+– Overlapping duties | WorkSafe
+
+[p67 | prose | 8.1 WorkSafe resources]
+– Worker engagement and participation | WorkSafe
+
+[p67 | prose | 8.1 WorkSafe resources]
+– General requirements for workplaces | WorkSafe
+
+[p67 | prose | 8.1 WorkSafe resources]
+General principles of good health and safety management
+
+[p67 | prose | 8.1 WorkSafe resources]
+– Reasonably practicable Quick Guide
+
+[p67 | prose | 8.1 WorkSafe resources]
+– How to manage work risks | WorkSafe
+
+[p67 | prose | Managing physical health risks]
+Managing physical health risks
+
+[p67 | prose | Managing physical health risks]
+– Musculoskeletal disorders | WorkSafe
+
+[p67 | prose | Managing physical health risks]
+– Managing thermal comfort at work | WorkSafe
+
+[p67 | prose | Managing physical health risks]
+– Fatigue | WorkSafe
+
+[p67 | prose | Managing safety risks]
+Managing safety risks
+
+[p67 | prose | Managing safety risks]
+– Slips, trips and falls | WorkSafe
+
+[p67 | prose | Managing safety risks]
+– Lone working - what’s the problem? | WorkSafe
+
+[p67 | prose | Managing safety risks]
+– Safe working with ladders and stepladders
+
+[p67 | prose | General workplace requirements]
+General workplace requirements
+
+[p67 | prose | General workplace requirements]
+– Personal protective equipment – a guide for businesses
+
+[p67 | prose | General workplace requirements]
+– Worker accommodation
+
+[p67 | prose | General workplace requirements]
+– Workplace and facilities requirements | WorkSafe
+
+[p67 | prose | General workplace requirements]
+– First aid at work | WorkSafe
+
+[p67 | prose | General workplace requirements]
+– Workplace emergency plans | WorkSafe
+
+[p67 | prose | General workplace requirements]
+– Providing information, training, instruction or supervision for workers | WorkSafe
+
+[p67 | prose | General workplace requirements]
+– Health and safety representatives
+
+[p67 | prose | General workplace requirements]
+– Health and safety committees
+
+[p67 | prose | General workplace requirements]
+– Good practice for worker engagement, participation and representation
+
+[p67 | prose | Notifications]
+Notifications
+
+[p67 | prose | Notifications]
+– Notifications
+
+[p67 | prose | 8.2 Legislation]
+8.2 Legislation
+
+[p67 | prose | 8.2 Legislation]
+– Health and Safety at Work Act 2015
+
+[p67 | prose | 8.2 Legislation]
+– Health and Safety at Work (General Risk and Workplace Management) Regulations 2016
+
+[p69 | glossary | Appendix 1: Glossary]
+Appendix 1: Glossary
+
+[p69 | glossary | Appendix 1: Glossary]
+| TERM | EXPLANATION |
+| --- | --- |
+| Anchorage | A component cast or fixed into a building or structure for the purpose of attaching a scaffold or safety line. |
+| A rigid or flexible line secured to an anchorage point along which a fall arrest device travels, or a flexible line which unreels from a fall arrest device. |  |
+| Barrier to restrict access | A physical or visual barrier is a rope, tape or another visual prompt suspended at height to act as a boundary around a work area to prevent access to a hazard. It should be at least two metres away from a height hazard and the roof slope is less than 10 degrees. |
+| Chartered professional engineer (CPEng) | An engineer registered under the Chartered Professional Engineers of NZ Act 2002. |
+| Competent person | A competent person has the necessary skills, knowledge, training and experience to perform a task without putting themselves or others in danger. |
+| Contractor | A Person Conducting a Business or Undertaking (PCBU) that has been hired by another PCBU (the "contracting PCBU") to carry out work. |
+| Control measure | A way of eliminating or minimising risks to health and safety. For more information, see our guidance: How to manage work risks |
+| Construction work | Any work carried out in connection with the construction, alteration, conversion, fitting-out, commissioning, renovation, repair, maintenance, refurbishment, demolition, decommissioning, or dismantling of a structure. |
+| Crane lifted platform (man cages) | The equipment where employees carry out their work that is attached to a crane’s hook block. |
+| Duty | A duty is a legal requirement that must be met. Under HSWA, there are 4 groups with health and safety duties: ' persons conducting a business or undertaking (PCBUs) ' officers ' workers 1 other persons at the workplace. |
+| Duty holder | A person who has a duty under HSWA. There are four types of duty holders - PCBUs, officers, workers, and other persons at workplaces. |
+| Edge protection | Some form of guardrail or barrier designed to prevent a person reaching or falling over an exposed edge. |
+| Emergency | An emergency occurs if: - a structure or plant is structurally unsound and - the collapse of a structure or plant is imminent. |
+| Eliminate | To eliminate a risk means removing the hazard (the source of harm). For more information, see our guidance: How to manage work risks |
+| Fall arrest harness (safety harness) | An assembly of interconnected shoulder and leg straps, with or without a body belt, and used where there is likelihood of free or restrained fall. |
+| Fall arrest system | An assembly of interconnected components comprising a harness connected to an anchorage point or anchorage system either directly or by means of a lanyard or pole strap, and whose purpose is to arrest a fall in accordance with the principles and requirements of AS NZS 1891. |
+| Fall hazard area | Any areas that have been identified during the hazard identification process and secured to avoid harm. This normally refers to anywhere within two metres of the exposed or unprotected edge of the roof. |
+
+[p70 | glossary | Appendix 1: Glossary]
+| TERM | EXPLANATION |
+| --- | --- |
+| Fragile/brittle roofing | Consists of any flat, trough, or corrugated material such as asbestos cement, plastic or glass, whether reinforced or otherwise, or any other roofing material that, due to its properties, age or weathering, will not safely support a person at all points on its surface. |
+| Free fall | Any fall or part of a fall in excess of 600mm either vertically or on a slope on which it is not possible to walk without the assistance of a handrail or line. |
+| GRWM Regulations | Health and Safety at Work (General Risk and Workplace Management) Regulations 2016. |
+| Guardrail | A rail or barrier secured to standards or upright members, at a height above the work platform of 900mm (minimum) to 1100mm (maximum) and erected along the exposed sides and ends of working platforms to prevent persons from falling. It includes a lower rail that is fixed to standards midway between the guardrail and the platform. See Scaffolding in New Zealand | WorkSafe |
+| Handrail | A rail at a height of between 900mm (minimum) to 1100mm (maximum) designed to assist a person to retain their balance. See Scaffolding in New Zealand | WorkSafe |
+| Hazard and risk | A hazard is something that could cause harm. It could be an object, activity, event, or even a person’s behaviour. |
+| Risks to health and safety occur from people being exposed to hazards. Risk has two components - the likelihood that it will occur and the consequences (degree of harm) if it happens. |  |
+| For more information, see our guidance: How to manage work risks |  |
+| Height | Means the greatest distance from which a person or article may fall before coming to rest. In determining the distance that an article can fall, no account will be taken of any obstruction that may delay or stop the fall unless there is no possibility of the fall continuing after the obstruction is reached. |
+| Hierarchy of control measures | Using the hierarchy of control is a way PCBUs can manage health and safety risks. |
+| Following this approach, PCBUs first consider if the most effective control measures can be put in place before considering less effective ones. |  |
+| The first step is to try to eliminate a risk by removing the hazard. If a risk cannot be eliminated, the next step is to minimise the risk. |  |
+| This involves first trying to: - ubstitute - by swapping with something that has a lower risk - isolate - by separating people from the source of harm - apply engineering control measures - by changing physical components of the plant, structure or work area. |  |
+| If there is still risk, put in place administrative control measures - using safe methods of work, procedures or processes. |  |
+| The last step involves personal protective equipment (PPE) - using or wearing items (including clothing) to minimise risks to personal health and safety. |  |
+| For more information, see our guidance: How to manage work risks |  |
+| HSWA | Health and Safety at Work Act 2015. |
+| The key work health and safety legislation in New Zealand. HSWA applies to all work and |  |
+| workplaces unless specifically excluded. You can find the full text of the Act on the New Zealand Legislation website |  |
+| Kilonewton (kN) | A kilonewton is the general unit for the measurement of force and strength. A newton is the amount of force required to accelerate a body with a mass of one kilogram at a rate of one metre per second squared. A kilonewton is a thousand of these units. |
+| As an approximation 100kg hanging at rest on a line will exert a force of 1kN on the anchor. |  |
+| Ladder | An appliance consisting of two stiles joined by steps or rungs and designed for the purpose of climbing and descending. |
+
+[p71 | glossary | Appendix 1: Glossary]
+TERM
+
+[p71 | glossary | Appendix 1: Glossary]
+EXPLANATION
+
+[p71 | glossary | Appendix 1: Glossary]
+| Lanyard | A line used to connect a harness to an anchorage point or static line, usually as part of a lanyard assembly which includes a personal energy absorber. |
+| --- | --- |
+| Minimise | To minimise (reduce) a risk means to: - reduce how serious the consequences are if it does occur or if a worker is exposed to the hazard (source of harm) - reduce the chances of it occurring or a worker being exposed to the hazard. For more information, see our guidance: How to work risks |
+| Must | manage When ‘must’ is used in our guidance, it means a legal requirement that must be |
+| Notifiable event | complied with. WorkSafe must be told when certain things occur that are related to the work you do. |
+|  | These are called notifiable events. There are 3 kinds of notifiable events: - deaths - certain injuries or ilinesses (called notifiable injuries or illnesses) |
+| - certain incidents (called notifiable incidents). For more information, see our guidance: What events need to be notified? |  |
+| Notifiable work (particular hazardous work) | Notifiable work is a specific, high-risk activity that requires 24 hours’ notice given to WorkSafe before work starts. Notifiable work includes, but is not limited to: - High-risk construction/scaffolding: Work with a fall risk of 5+ metres (excluding certain |
+| residential/ladder work). and work |  |
+| Excavations Tunnels: Any excavation over 1.5m deep needing shoring, or in tunnels/shafts. High-Risk Operations: Logging/tree felling, using explosives, construction diving, or |  |
+|  | For more information, see our guidance: Officer duties |
+| Other persons at the workplace | ‘Other persons at the workplace’ is the term used to describe the people at a workplace who are not workers. This includes: - customers or clients - visitors - passers-by - casual volunteers (not volunteer workers). Like workers, these people have health and safety duties. |
+| For more information, see our guidance: Other persons at the workplace duties |  |
+| Overlapping duties | Overlapping duties is the term WorkSafe uses to describe when a PCBU shares duties with other PCBUs. |
+| Overlapping duties can occur in a shared workplace (for example, a building site or a port) where more than one business and its workers control and influence the work on site. |  |
+| Also, PCBUs do not need to be at the same worksite to have overlapping duties. For example, overlapping duties can also occur in a contracting chain, where contractors and subcontractors provide services to a head contractor or client. |  |
+| For more information, see our guidance: Overlapping duties |  |
+
+[p72 | glossary | Appendix 1: Glossary]
+TERM
+
+[p72 | glossary | Appendix 1: Glossary]
+EXPLANATION
+
+[p72 | glossary | Appendix 1: Glossary]
+| Person conducting business or undertaking | ‘Person conducting a business or undertaking’ (PCBU) is a term used to cover all types of working arrangements. |
+| --- | --- |
+| PCBU | PCBUSs can ranges from businesses (large corporates, small-medium companies, partnerships, sole traders) to non-commercial organisations (like not-for-profit groups). |
+| PCBUSs have many health and safety duties. |  |
+| Certain people/organisations are not PCBUs - including certain types of volunteer organisations. |  |
+| For more information, see our guidance: What is a PCBU |  |
+| Personal protective equipment | Personal protective equipment (PPE) are items used or worn by someone to reduce risks to their health or safety. |
+| PPE | Examples of PPE are: - respiratory protective equipment (often called RPE) - protective helmets, eyewear, gloves, suits, or boots = hearing protection = high-vis clothing - sun protection (sunhats, sunscreen, lip protection) - safety harness systems. |
+| Plant | guidance: Plant is a general term used to describe the machinery, equipment, and vehicles used to carry out work. |
+|  | Plant includes: - any machinery, vehicle, vessel, aircraft, equipment (including protective personal equipment - PPE), appliance, container, implement, or tool and any part or section of any of those things and anything fitted or connected to any of those things. |
+| Pole strap | A work positioning strap designed to be placed around a pole or other vertical structural member and attached at two points, one on each side of a harness whilst the wearer is working on a pole. |
+| Reasonably practicable | Certain legal requirements require you to do something ‘so far as is reasonably practicable’. |
+| So far as is reasonably practicable | ‘Reasonably practicable’ is the term used to describe what you need to think about when deciding how to meet certain health and safety duties. |
+| There are two parts to ‘reasonably practicable’. |  |
+| You first consider what is possible in your circumstances to ensure health and safety. You then consider, of these possible actions, what is reasonable to do in your circumstances. |  |
+| You need to achieve a result that provides the highest protection that is reasonably practicable in your circumstances. |  |
+| For more information, see our guidance: Reasonably practicable |  |
+| Restrained fall | A fall or the arrest of a fall where the person suffering the fall is partially restrained by a device such as a pole strap, or is sliding down a slope on which it is normally possible to walk without the assistance of a handrail or hand line. |
+| Roof work | Any work associated with roof cladding, gutters and spouting, or work carried out on a roof area. This includes roof installation and maintenance and installation of fixtures on a roof. |
+| Safe working load (SWL) | The maximum load calculated in accordance with sound and accepted engineering practice, which can be supported safely under normal working conditions. |
+| Scaffolding | Any temporary framework or structure designed to support people or materials for construction or related work. |
+
+[p73 | glossary | Appendix 1: Glossary]
+| TERM | EXPLANATION |
+| --- | --- |
+| Secure footing | That the combination of the type of shoes worn and the slope and surface friction of the surface being walked on will prevent the possibility of a person slipping or needing a handrail to assist balance. |
+| Should | When ‘should’ is used in our guidance, it means a recommended practice or approach. |
+| Standing scaffold | A working platform which is supported wholly or partly from its base. |
+| Static line | In relation to fall protection, means a rope, wire strop, or rail secured between two points and possibly at various points along its length in order to support anchor lines, fall arresters or other fall protection devices. It must have a minimum breaking strength of 44 kN. |
+| Structure | A structure is a general term used to describe anything that is constructed. It could be fixed, moveable, temporary, or permanent. A structure includes: - buildings, masts, towers, frameworks, pipelines, quarries, bridges, and underground works (including shafts or tunnels), and part or component of a structure. |
+| Toeboard | any A scaffold plank, kickboard or purpose designed component fixed at the edge of the |
+| Travel restraint (fall restraint) | platform to prevent materials falling from the platform. A control measure on a person’s movement through a combination of a full body harness, a line and a line anchorage which will physically prevent the person from |
+|  | reaching a position at which there is a risk of a free or limited free fall. |
+| Upstream PCBUs | ‘Upstream PCBU’ is a term WorkSafe uses to describe a PCBU in the supply chain. These are PCBUs who design, manufacture, import, or supply plant, substances, or structures, or who install, construct, or commission plant or structures. |
+| Volunteer | For more information, see our guidance: Upstream duties A volunteer is someone not paid for the voluntary work they do. Volunteers can be reimbursed for out-of-pocket expenses (for example, petrol expenses if the volunteer work them to drive). |
+| requires Depending on what tasks they carry out, volunteers are classed as ‘volunteer workers’ or ‘casual volunteers’. |  |
+| Volunteer workers are classed as workers. They: - work with the knowledge or consent of the PCBU on an ongoing and regular basis, and - are an integral part of the business or undertaking. |  |
+| If you are not a volunteer worker, you are called a ‘casual volunteer’ by WorkSafe. Casual volunteers are treated as ‘other persons at the workplace’. |  |
+| For more information about volunteer worker and casual volunteer and their health and safety duties, see our guidance: Volunteers |  |
+| Worker | A worker is someone who carries out work for a PCBU, like: - employees - contractors or sub-contractors - employees of contractors or sub-contractors outworkers (including homeworkers) apprentices and trainees people gaining work experience or on a work trial = volunteer workers = self-employed people (who are PCBUs as well as workers) Workers have health and safety duties. For more information, see our guidance: Worker duties |
+
+[p74 | glossary | Appendix 1: Glossary]
+| TERM | EXPLANATION |
+| --- | --- |
+| Workplace | A workplace is where work is carried out. It includes any location where a worker goes or is likely to be while working. |
+| Work at height | Working at a place, above or below ground level, where a person could be injured if they fell from that place— falling from one level to another. Access and egress, except by a staircase in a permanent workplace to, or within a place of work can also be work at height. |
+| Work at height does not include a fall at the same level (for example, falling or slipping at ground or floor level). |  |
+| Work positioning system | Work positioning systems enable a person to work supported in a harness under tension in a way that a fall is prevented. Generally, the arrangement allows for the worker maintain a stable position and to work hands-free while completing a task. The harness arrangement should not allow a fall of more than 600mm. |
+| WorkSafe New Zealand (WorkSafe) | WorkSafe is New Zealand’s main work health and safety regulator. In addition to WorkSafe: - Maritime New Zealand deals with ships as workplaces and work aboard ships. - Civil Aviation Authority (CAA) deals with work preparing aircraft for imminent flight and aircraft in operation. OSH, Department of Labour, and MBIE (Ministry of Business, Innovation and Employment) were earlier work health and safety regulators. |
+
+[p75 | prose | Disclaimer]
+Disclaimer

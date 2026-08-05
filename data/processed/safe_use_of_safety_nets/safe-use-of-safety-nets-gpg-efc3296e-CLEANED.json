@@ -1,0 +1,3746 @@
+[
+  {
+    "text": "This best practice guideline outlines safety net requirements and the safe use of safety nets.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 2,
+    "element_type": "Title",
+    "section_heading": "This best practice guideline outlines safety net requirements and the safe use of safety nets.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "DISCLAIMER",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 2,
+    "element_type": "Title",
+    "section_heading": "DISCLAIMER",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "WorkSafe NZ has made every effort to ensure the information contained in this publication is reliable, but makes no guarantee of its completeness. WorkSafe NZ may change the contents of this guideline at any time without notice.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 2,
+    "element_type": "NarrativeText",
+    "section_heading": "DISCLAIMER",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "This document is a guideline only. It should not be used as a substitute for legislation or legal advice. WorkSafe NZ is not responsible for the results of any action taken on the basis of information in this document, or for any errors or omissions.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 2,
+    "element_type": "NarrativeText",
+    "section_heading": "DISCLAIMER",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "MORE INFORMATION",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 2,
+    "element_type": "Title",
+    "section_heading": "MORE INFORMATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "FASET (Fall Arrest Safety Equipment Training) have technical bulletins that address technical and safety matters surrounding the safe use of nets. (see www.faset.org.uk/information-bulletins.htm)",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 2,
+    "element_type": "NarrativeText",
+    "section_heading": "MORE INFORMATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety nets installed below a high level work area reduce the distance a person can fall. Safety nets are designed to deflect and absorb the energy of a fall so they reduce the likelihood of a person being injured. There must be enough clear space below the net so that as the net deflects, the person who has fallen does not strike an obstacle or the ground. Safety nets allow people to work at height without restricting their movement.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 3,
+    "element_type": "NarrativeText",
+    "section_heading": "MORE INFORMATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "TABLE OF CONTENTS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "TABLE OF CONTENTS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "INTRODUCTION",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "INTRODUCTION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Purpose",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "Purpose",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Legal requirements",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "Legal requirements",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Referenced standards",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "Referenced standards",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "1.4 Definitions",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "1.4 Definitions",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Interpretation",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "Interpretation",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "02 SAFETY NETS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "02 SAFETY NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Principles of safety net design",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "Principles of safety net design",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety net systems",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "Safety net systems",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety net classification",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "Safety net classification",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.4 Mesh rope",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "2.4 Mesh rope",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.5 Border rope",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "2.5 Border rope",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Tie rope",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "NarrativeText",
+    "section_heading": "2.5 Border rope",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.7 Coupling rope",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "2.7 Coupling rope",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety net label",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "Safety net label",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.9 Removable test mesh",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "2.9 Removable test mesh",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.10 Size of safety nets",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "2.10 Size of safety nets",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.11 Safety nets less than 35 m2",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "2.11 Safety nets less than 35 m2",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.12 Fall height",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "2.12 Fall height",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.13 Clearance distances",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "2.13 Clearance distances",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.14 Net sag",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "2.14 Net sag",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.15 Over-tensioning and under-tensioning",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "NarrativeText",
+    "section_heading": "2.14 Net sag",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.16 Catching width",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "NarrativeText",
+    "section_heading": "2.14 Net sag",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.17 Catching width where the slope of the working platform is more than 20o",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "NarrativeText",
+    "section_heading": "2.14 Net sag",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "03 INSTALLING SAFETY NETS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "03 INSTALLING SAFETY NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Planning",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "Planning",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "3.2 Designer’s role",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "3.2 Designer’s role",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Installer’s role",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "Installer’s role",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "3.4 Main contractor or site supervisor’s roles",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "3.4 Main contractor or site supervisor’s roles",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Supplier or manufacturer’s role",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "Supplier or manufacturer’s role",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety net installation hierarchy",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 4,
+    "element_type": "Title",
+    "section_heading": "Safety net installation hierarchy",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "04 INSTALLATION REQUIREMENTS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "04 INSTALLATION REQUIREMENTS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Inspecting nets before installation",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "NarrativeText",
+    "section_heading": "04 INSTALLATION REQUIREMENTS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Installation (generally)",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "Installation (generally)",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.3 Net access",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "4.3 Net access",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.4 Anchor points",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "4.4 Anchor points",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.5 Attaching safety nets to steel structures",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "NarrativeText",
+    "section_heading": "4.4 Anchor points",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.6 Attaching safety nets to timber structures",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "NarrativeText",
+    "section_heading": "4.4 Anchor points",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.7 Under-rolling",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "4.7 Under-rolling",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.8 Eaves bagging",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "NarrativeText",
+    "section_heading": "4.7 Under-rolling",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.9 Gaps at net edges",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "4.9 Gaps at net edges",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.10 Joining and overlapping nets",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "NarrativeText",
+    "section_heading": "4.9 Gaps at net edges",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.11 Handover documentation",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "4.11 Handover documentation",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.12 Dismantling (striking)",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "NarrativeText",
+    "section_heading": "4.11 Handover documentation",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "05 RESCUE PLAN",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "05 RESCUE PLAN",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "06 INSPECTIONS, TESTING, MAINTENANCE AND REPAIR",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "06 INSPECTIONS, TESTING, MAINTENANCE AND REPAIR",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Inspections",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "Inspections",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.2 General testing",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "6.2 General testing",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Testing for UV deterioration",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "NarrativeText",
+    "section_heading": "6.2 General testing",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.4 Debris in the net",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "6.4 Debris in the net",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.5 Net care",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "6.5 Net care",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.6 Damaged safety nets",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "NarrativeText",
+    "section_heading": "6.5 Net care",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.7 Repairing safety nets and ropes",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "NarrativeText",
+    "section_heading": "6.5 Net care",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.8 Repairing a knotless safety net",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "NarrativeText",
+    "section_heading": "6.5 Net care",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.9 Repairing a knotted safety net",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "NarrativeText",
+    "section_heading": "6.5 Net care",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.10 Storing safety nets",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "NarrativeText",
+    "section_heading": "6.5 Net care",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.11 Further information",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "6.11 Further information",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "07 APPENDIX A",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "07 APPENDIX A",
+    "chunk_type": "appendix"
+  },
+  {
+    "text": "Visual inspection checklist",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "Visual inspection checklist",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "08 APPENDIX B",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "08 APPENDIX B",
+    "chunk_type": "appendix"
+  },
+  {
+    "text": "8.1 Handover checklist",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 5,
+    "element_type": "Title",
+    "section_heading": "8.1 Handover checklist",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "01/",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 6,
+    "element_type": "Title",
+    "section_heading": "01/",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "INTRODUCTION",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 6,
+    "element_type": "Title",
+    "section_heading": "INTRODUCTION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "IN THIS SECTION:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 6,
+    "element_type": "NarrativeText",
+    "section_heading": "INTRODUCTION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A fall from a height is likely to result in a serious injury. By installing safety nets below a high-level work area, there is less likelihood that the person will be injured if they fall.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 7,
+    "element_type": "Title",
+    "section_heading": "A fall from a height is likely to result in a serious injury. By installing safety nets below a high-level work area, there is less likelihood that the person will be injured if they fall.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Regardless of the time spent on a roof, the risk of falling is high. Any fall is likely to result in a serious injury. Safety nets installed below a high-level work area reduce the distance that a worker can fall. They absorb the impact of the fall and provide a ‘soft landing’ to reduce the likelihood of a person being injured.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 7,
+    "element_type": "NarrativeText",
+    "section_heading": "A fall from a height is likely to result in a serious injury. By installing safety nets below a high-level work area, there is less likelihood that the person will be injured if they fall.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety nets are collective fall arrest systems , not fall restraint systems. That is, they provide passive protection from falls while allowing people to work at height without restricting their movement.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 7,
+    "element_type": "NarrativeText",
+    "section_heading": "A fall from a height is likely to result in a serious injury. By installing safety nets below a high-level work area, there is less likelihood that the person will be injured if they fall.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Collective fall arrest systems include: > safety nets > soft landing systems, or fall arrest mats.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 7,
+    "element_type": "NarrativeText",
+    "section_heading": "A fall from a height is likely to result in a serious injury. By installing safety nets below a high-level work area, there is less likelihood that the person will be injured if they fall.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "1.1 PURPOSE",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 7,
+    "element_type": "Title",
+    "section_heading": "1.1 PURPOSE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "This Best Practice Guideline covers the safety requirements and safe use of safety nets to protect people from being injured by a fall from a height. This information is for anyone who has to provide a safe place of work and make sure that all plant and equipment is safe. It describes best practice for: > safety net design principles > types and classifications of safety nets > safety net components > installing of safety nets > inspection, repair and maintenance of safety nets.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 7,
+    "element_type": "NarrativeText",
+    "section_heading": "1.1 PURPOSE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "1.2 LEGAL REQUIREMENTS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 7,
+    "element_type": "Title",
+    "section_heading": "1.2 LEGAL REQUIREMENTS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The Health and Safety in Employment Act (HSE Act) 1992 requires that all practicable steps must be taken to prevent a person at work from being harmed. People who have responsibilities under the law include: > employers, who must ensure a safe working environment and facilities for safety and health; and ensure that any plant used by employees is designed, made, arranged and maintained so that it is safe (HSE Act s.6) > self-employed people, who must ensure that no action or inaction causes any harm to themselves or any other person (HSE Act s.17) > principals, who must ‘take all practicable steps’ to ensure that no one is harmed while the work is being done (HSE Act s.18) > anyone who hires, leases or loans plant or equipment to be used in a workplace must ensure that the plant or equipment is designed, made and maintained so that it is safe for its intended use (HSE Act s.18A). This means where it is possible for someone to fall from a height while working, all practicable steps must be taken to prevent them from being injured, regardless of whether they are working at height for a short or long time.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 7,
+    "element_type": "NarrativeText",
+    "section_heading": "1.2 LEGAL REQUIREMENTS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "1.3 REFERENCED STANDARDS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "Title",
+    "section_heading": "1.3 REFERENCED STANDARDS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "There are no New Zealand Standards for using safety nets as fall arrest systems, so this guide follows the test methods, installation procedures and safety net positioning limits described in the following British and European codes of practice and standards:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.3 REFERENCED STANDARDS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> BS 8411 (Code of practice for safety nets on construction sites and other works)",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.3 REFERENCED STANDARDS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> BS EN 1263-1 (Safety nets – Part 1: Safety requirements, test methods)",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.3 REFERENCED STANDARDS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> BS EN 1263-2 (Safety nets – Part 2: Safety requirements for the positioning limits).",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.3 REFERENCED STANDARDS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "This guideline should not be interpreted as excluding from use other materials, designs, installation procedures and test methods not specifically referred to in these standards and codes of practice. However, manufacturers and suppliers must be able to show their nets meet the same or better test and performance results than the European standards.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.3 REFERENCED STANDARDS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "1.4 DEFINITIONS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "Title",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Anchorage device (safety nets)",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A device or system used to connect a safety net to the structure. May include tie ropes, karabiners or other attachment devices.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Anchor point",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A fixing on the structure that the safety net is attached to.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Border rope",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A rope that passes through each mesh around the net’s perimeter and determines the net’s overall dimensions.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Catching width",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The horizontal distance from the edge of a work platform to the outer edge of the safety net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Characteristic load",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The calculated maximum load that an anchor point is designed to carry.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Class",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The safety net classification based on the mesh size and energy absorption capacity.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Clearance distance",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The distance below the net that must be kept clear of objects that a falling person might otherwise strike as the safety net deflects under their impact.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Competent person",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A person who has acquired through a combination of training and qualifications or experience, the knowledge and skills to correctly perform the required task.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Coupling rope",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The rope that joins two safety nets together.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Eaves bagging",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A rigging technique to prevent waisting at the unsupported perimeter of a safety net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Fall height",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The vertical distance between a work platform and the safety net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Initial sag",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The amount of sag due to the net’s self-weight.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Mesh",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A series of ropes arranged in either a square or diamond pattern to form a net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Mesh rope",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The rope used to make the net’s meshes.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Mesh size",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The distance from centre to centre of the mesh.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 8,
+    "element_type": "NarrativeText",
+    "section_heading": "1.4 DEFINITIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "SECTION 1.0 // INTRODUCTION",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "SECTION 1.0 // INTRODUCTION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Net system",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "Net system",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The safety net, tie ropes or other",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "The safety net, tie ropes or other",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "anchorage devices, and the supporting",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "The safety net, tie ropes or other",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "structure linked together to provide a",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "The safety net, tie ropes or other",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "collective fall arrest system.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "collective fall arrest system.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Principal",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "Principal",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A person who or that engages any person",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "Principal",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "(otherwise than as an employee) to do any",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "Principal",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "work for gain or reward.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "Principal",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety net",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "Safety net",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The combination of mesh, border ropes, test",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "The combination of mesh, border ropes, test",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "meshes and labels of the net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "meshes and labels of the net.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Supporting structure",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "meshes and labels of the net.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The structure to which the safety net",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "The structure to which the safety net",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "is attached.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "The structure to which the safety net",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Test mesh",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "Test mesh",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A separate piece of mesh attached to a net,",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "Test mesh",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "made from the same material and produced",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "Test mesh",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "in the same batch as the net to which it is",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "Test mesh",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "attached, that can be removed for testing the",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "Test mesh",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "net’s UV deterioration.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "net’s UV deterioration.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Tie rope",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "net’s UV deterioration.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A rope used to secure the border rope to an",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "net’s UV deterioration.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "anchor point on the structure.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "anchor point on the structure.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Waisting",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "Waisting",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The effect of a net being pulled horizontally",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "Waisting",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "away from the structure or intended perimeter",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "away from the structure or intended perimeter",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "of the net, either due to over-tensioning or the",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "of the net, either due to over-tensioning or the",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "net’s self-weight at an unsupported edge.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "net’s self-weight at an unsupported edge.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "1.5 INTERPRETATION",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "1.5 INTERPRETATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "‘Shall’ or ‘must’ are used where the statement",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "1.5 INTERPRETATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "is a legal requirement, or where a practice is",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "1.5 INTERPRETATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "the minimum threshold for safety.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "Title",
+    "section_heading": "the minimum threshold for safety.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "‘Should’ and ‘may’ are used when you should",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "the minimum threshold for safety.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "adopt the recommendation where practicable.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "the minimum threshold for safety.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "This will help you comply with the HSE Act’s",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "the minimum threshold for safety.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "requirement to ‘take all practicable steps’.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 9,
+    "element_type": "NarrativeText",
+    "section_heading": "the minimum threshold for safety.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "IN THIS SECTION:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 10,
+    "element_type": "Title",
+    "section_heading": "IN THIS SECTION:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "| 2.1 | Principles of safety net design | 2.12 | Fall height |\n| --- | --- | --- | --- |\n| 2.2 | Safety net systems | 2.13 | Clearance distances |\n| 2.3 | Safety net classification | 2.14 | Net sag |\n| 2.4 | Mesh rope | 2.15 | Over-tensioning and under-tensioning |\n| 2.5 | Border rope | 2.16 | Catching width |\n| 2.6 | Tie rope | 2.17 | Catching width where the slope of the working platform is more than 20° |\n| 2.7 | Coupling rope |  |  |\n| 2.8 | Safety net label |  |  |\n| 2.9 | Removable test mesh |  |  |\n| 2.10 | Size of safety nets |  |  |\n| 2.11 | Safety nets less than 35 m2 |  |  |",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 10,
+    "element_type": "Table",
+    "section_heading": "IN THIS SECTION:",
+    "chunk_type": "table"
+  },
+  {
+    "text": "Safety nets are designed to progressively deflect (stretch) and absorb the energy of a fall, so a falling person is less likely to be injured. The greater the fall height, the greater the impact; so the net’s deflection must also be greater.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 11,
+    "element_type": "NarrativeText",
+    "section_heading": "IN THIS SECTION:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.1 PRINCIPLES OF SAFETY NET DESIGN",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 11,
+    "element_type": "Title",
+    "section_heading": "2.1 PRINCIPLES OF SAFETY NET DESIGN",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety nets are designed to progressively deflect (stretch) and absorb the energy of a fall, so a falling person is less likely to be injured. The greater the fall height, the greater the impact; so the net’s deflection must also be greater. The safety net must be able to deform or deflect enough to absorb all of the energy from the fall’s impact up to the maximum fall height for the design. There must be enough clear distance below the net so that the person falling does not hit an obstacle or the ground while the net is deflecting. Notes: > When a load lands on a knotted net, the knots near the impact tighten. The tightening is permanent and reduces the amount of energy the net can absorb from further impacts. Knotless nets do not have this problem. > A person who falls onto a knotless net is less likely to receive facial injuries. > Square mesh is more popular than diamond mesh, with no obvious reason for the preference, according to research1 in the UK. > Square mesh has less sag when rigged so at its mid-point, it is closer to the work level. WorkSafe NZ recommends the use of knotless, square mesh for ‘S’ safety nets.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 11,
+    "element_type": "NarrativeText",
+    "section_heading": "2.1 PRINCIPLES OF SAFETY NET DESIGN",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.2 SAFETY NET SYSTEMS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 11,
+    "element_type": "Title",
+    "section_heading": "2.2 SAFETY NET SYSTEMS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "This guideline is for ‘System S’ safety nets, which are horizontally-installed safety nets with a continuous border rope. Safety nets may be either knotted or knotless with a square (Q) or diamond (D) mesh arrangement.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 11,
+    "element_type": "NarrativeText",
+    "section_heading": "2.2 SAFETY NET SYSTEMS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.3 SAFETY NET CLASSIFICATION",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 11,
+    "element_type": "Title",
+    "section_heading": "2.3 SAFETY NET CLASSIFICATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "BS EN 1263-1 lists four classes of nets: > classes A and B describe the net’s maximum energy absorption capacity (that is, how much energy it can absorb), measured in kilojoules (kJ). For example: class A = 2.3 kJ; class B = 4.4 kJ > classes 1 and 2 describe the mesh sizes. For example: class 1 = 60 mm; class 2 = 100 mm.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 11,
+    "element_type": "NarrativeText",
+    "section_heading": "2.3 SAFETY NET CLASSIFICATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Table 1 sets out the net classifications.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.3 SAFETY NET CLASSIFICATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "| Class | Energy absorption capacity (kJ) | Mesh size (mm) |\n| --- | --- | --- |\n| Al | 255 | 60 |\n| A2 | 23 | 100 |\n| Bl | 4.4 | 60 |\n| B2 | 4.4 | 100 |",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "Table",
+    "section_heading": "2.3 SAFETY NET CLASSIFICATION",
+    "chunk_type": "table"
+  },
+  {
+    "text": "Table 1: Classification of nets according to energy absorption capacity and mesh size.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.3 SAFETY NET CLASSIFICATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Both classes A1 and A2 nets are suitable for system S safety nets. Class A2 nets (2.3 kJ energy absorption capacity and 100 mm mesh size) are most commonly used as the larger mesh size is lighter and has less initial sag.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.3 SAFETY NET CLASSIFICATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.4 MESH ROPE",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "Title",
+    "section_heading": "2.4 MESH ROPE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Mesh rope should be made from at least three separate strands, braided so they cannot unravel. It should be tested according to BS EN 1263-1, clause 7.3.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.4 MESH ROPE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.5 BORDER ROPE",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "Title",
+    "section_heading": "2.5 BORDER ROPE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A border rope is a continuous rope passing through each mesh around the perimeter of S safety nets. It should have a minimum tensile strength of 30kN, and be tested according to BS EN 1263-1, clause 7.5.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.5 BORDER ROPE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.6 TIE ROPE",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "Title",
+    "section_heading": "2.6 TIE ROPE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Tie ropes fasten the safety net to the structural elements and/or the anchor points on the structure being netted. They should have a minimum tensile strength of 30kN and be tested according to BS EN 1263-1, clause 7.5.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.6 TIE ROPE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.7 COUPLING ROPE",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "Title",
+    "section_heading": "2.7 COUPLING ROPE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Coupling ropes join safety nets together when more than one net is needed to protect an area. They should have a minimum tensile strength of 7.5kN and tested according to BS EN 1263-1, clause 7.5.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.7 COUPLING ROPE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.8 SAFETY NET LABEL",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "Title",
+    "section_heading": "2.8 SAFETY NET LABEL",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "All safety nets should have a label showing the:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.8 SAFETY NET LABEL",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> manufacturer’s name and article code",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.8 SAFETY NET LABEL",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> date of manufacture",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.8 SAFETY NET LABEL",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> class and size of net",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.8 SAFETY NET LABEL",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> mesh size and configuration",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.8 SAFETY NET LABEL",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> net’s unique identity or serial number (ID)",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.8 SAFETY NET LABEL",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> net’s minimum energy absorption capacity",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.8 SAFETY NET LABEL",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> type of ongoing net inspections.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.8 SAFETY NET LABEL",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The label must be permanently attached to the net and be legible throughout the net’s life.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.8 SAFETY NET LABEL",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.9 REMOVABLE TEST MESH",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "Title",
+    "section_heading": "2.9 REMOVABLE TEST MESH",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Tests for UV deterioration of safety nets must be done at least every 12 months. All safety nets should have at least three test meshes loosely woven into the net so they can be removed one at a time for testing (see section 6 Inspections, testing, maintenance and repairs).",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.9 REMOVABLE TEST MESH",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Each test mesh must have the same ID number, be made from the same material, and produced in the same batch as the net to which it is attached.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.9 REMOVABLE TEST MESH",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Notes:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "Title",
+    "section_heading": "Notes:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> A current test label must be displayed on all safety nets older than 12 months, showing the net has been tested in the past 12 months and meets the manufacturer’s minimum test energy absorption capacity.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "Notes:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> Test labels are valid for 12 months and must not expire while the net is installed.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "Notes:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> The net owner should keep net test results.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "Notes:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.10 SIZE OF SAFETY NETS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "Title",
+    "section_heading": "2.10 SIZE OF SAFETY NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "BS EN 1263-2 only applies to safety nets over 35 m2 and where the shortest side is at least 5.0 metres.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 12,
+    "element_type": "NarrativeText",
+    "section_heading": "2.10 SIZE OF SAFETY NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "If the fall height is over 2.0 metres, the safety net must :",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 13,
+    "element_type": "NarrativeText",
+    "section_heading": "2.10 SIZE OF SAFETY NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> be larger than 35m2 > have the shortest side at least 5.0 metres, and > have a maximum fixing spacing of 2.5 metres.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 13,
+    "element_type": "NarrativeText",
+    "section_heading": "2.10 SIZE OF SAFETY NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.11 SAFETY NETS LESS THAN 35 M2",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 13,
+    "element_type": "Title",
+    "section_heading": "2.11 SAFETY NETS LESS THAN 35 M2",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "If a load falls onto a net less than 35 m2, the small net area means there will be less deflection and more limited energy absorption compared to nets with a larger area. System S safety nets that are less than 35 m2 are not covered by BS EN 1263-2. WorkSafe NZ recommends that when a net area is less than 35 m2, you should use a class B safety net with 4.4 kJ energy absorption capacity.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 13,
+    "element_type": "NarrativeText",
+    "section_heading": "2.11 SAFETY NETS LESS THAN 35 M2",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.12 FALL HEIGHT",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 13,
+    "element_type": "Title",
+    "section_heading": "2.12 FALL HEIGHT",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The fall height is the distance a person will fall from the work platform onto the safety net - see Figure 2. A greater fall height results in a greater fall impact.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 13,
+    "element_type": "NarrativeText",
+    "section_heading": "2.12 FALL HEIGHT",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Keep the fall height as low as possible by installing safety nets as close as practicably possible below the work platform. Where possible, install nets no more than 2.0 metres",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 13,
+    "element_type": "NarrativeText",
+    "section_heading": "2.12 FALL HEIGHT",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "below the work platform. Note that BS EN 1263-2 allows a maximum fall height of 6.0 metres (this gives a nominal fall height of 7.0 metres from a person’s centre of gravity) but this applies only to nets that are more than 35 m2 (see section 2.10 Size of safety nets). Within 2.0 metres of the net’s outer edges, the fall height between the work platform and net should be no more than 3.0 metres. This is because safety nets cannot deflect as much at corners and edges (BS EN 1263-2). See Figure 3.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 13,
+    "element_type": "NarrativeText",
+    "section_heading": "2.12 FALL HEIGHT",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.13 CLEARANCE DISTANCES",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 13,
+    "element_type": "Title",
+    "section_heading": "2.13 CLEARANCE DISTANCES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "There must be enough clearance below the safety net to allow for it to deform when a person falls onto it. The amount it will deform depends on the height of the fall and the span of the net. See Figure 4.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 13,
+    "element_type": "NarrativeText",
+    "section_heading": "2.13 CLEARANCE DISTANCES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The graph in Figure 5 (from BS EN 1263-2: Figure 4) shows typical deformation when an object lands on the net. It is based on fall height and can be used to calculate the minimum clearance distance needed below the net, but only applies where the: > area of the net is more than 35 m2 > shortest side of the net is at least 5.0 m > initial sag is no more than 10% of the smallest side of the net, and > fall height is no more than 6.0 m. As an additional safety factor BS 8411: 2007 recommends allowing an extra 0.5 metre clearance below the net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 14,
+    "element_type": "NarrativeText",
+    "section_heading": "2.13 CLEARANCE DISTANCES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "| 8 m |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 7 |  |  |  |  |  |\n| 6 |  |  |  |  |  |\n| 5 |  |  |  |  |  |\n| 4 |  |  | l=20m |  |  |\n| 3 |  |  | l=16m |  |  |\n| 2 |  |  | l=12m |  |  |\n| 1 |  |  | l=9m |  |  |\n| 0 | 1 | 2 | 3 | 4 | 5 m |",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 14,
+    "element_type": "Table",
+    "section_heading": "2.13 CLEARANCE DISTANCES",
+    "chunk_type": "table"
+  },
+  {
+    "text": "Fall height Figure 5: Deformation of net when an object falls on it.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 14,
+    "element_type": "NarrativeText",
+    "section_heading": "2.13 CLEARANCE DISTANCES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.14 NET SAG",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 14,
+    "element_type": "Title",
+    "section_heading": "2.14 NET SAG",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Net sag, or initial sag, is the amount of deformation from the net’s own weight. Net sag should be between 5% and 10% of the net’s shortest side.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 14,
+    "element_type": "NarrativeText",
+    "section_heading": "2.14 NET SAG",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "To have enough initial sag, the safety net should be at least 10% larger (along both sides) than the area it is going to cover. Excess netting should be under-rolled into the tie rope or attachment system (see section 4.7 Under-rolling) to spread the load evenly and avoid too much stress on individual meshes.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 14,
+    "element_type": "NarrativeText",
+    "section_heading": "2.14 NET SAG",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.15 OVER-TENSIONING AND UNDER-TENSIONING",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 14,
+    "element_type": "Title",
+    "section_heading": "2.15 OVER-TENSIONING AND UNDER-TENSIONING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety nets should not be over-tensioned as they must be able to deflect and absorb energy from the impact of a fall. An over-tensioned net, or a net with too many fixing points, may not be able to deflect enough. In either case, the impact on the person falling onto the net increases, as well as increasing the load imposed on the net and structure. An under-tensioned net may deflect too much and if there isn’t enough clearance below the net, a falling person may hit an obstacle or the ground.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 14,
+    "element_type": "NarrativeText",
+    "section_heading": "2.15 OVER-TENSIONING AND UNDER-TENSIONING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.16 CATCHING WIDTH",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 14,
+    "element_type": "Title",
+    "section_heading": "2.16 CATCHING WIDTH",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "If a person trips when they are moving forward, they fall forward as well as downward. The distance they fall forward is affected by the height of the fall; that is, the higher the fall, the further the forward movement. Nets providing protection at the edge of a work platform must be wide enough to include the falling person’s forward movement – see Figure 7. The width of the net between the edge of the work platform and the outer edge of the safety net is called the catching width.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 14,
+    "element_type": "NarrativeText",
+    "section_heading": "2.16 CATCHING WIDTH",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Figure 7: Catching width.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 15,
+    "element_type": "NarrativeText",
+    "section_heading": "2.16 CATCHING WIDTH",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "BS EN 1263-2: Table 2 sets out minimum catching widths for maximum fall heights – see Table 2 of this guide. As an added safety factor, BS 8411 recommends extending the net at least 1.5 metres beyond the distances given in Table 2 of BS EN 1263-2.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 15,
+    "element_type": "NarrativeText",
+    "section_heading": "2.16 CATCHING WIDTH",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "| Maximum fall height H, (metres) | Minimum catching width b as per BS EN 1263-2: Table 2 (metres) | Catching width recommended by BS 8411 (metres) |\n| --- | --- | --- |\n| 1.0 | 20 | 3.5 |\n| 3.0 | 25 | 4.0 |\n| 6.0 | 3.0 | 4.5 |",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 15,
+    "element_type": "Table",
+    "section_heading": "2.16 CATCHING WIDTH",
+    "chunk_type": "table"
+  },
+  {
+    "text": "Table 2: Catching widths for maximum fall heights (from BS EN 1263:2, Table 2 and Clause 4.3).",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 15,
+    "element_type": "NarrativeText",
+    "section_heading": "2.16 CATCHING WIDTH",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 15,
+    "element_type": "Title",
+    "section_heading": "2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "If the slope of the working platform is more than 20°:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 15,
+    "element_type": "NarrativeText",
+    "section_heading": "2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> the catching width must be at least 3.0 metres, and",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 15,
+    "element_type": "NarrativeText",
+    "section_heading": "2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> the distance (t) between the work platform’s edge and the lowest point of the safety net’s outside edge should be no more than 3.0 metres. See Figure 9.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 15,
+    "element_type": "NarrativeText",
+    "section_heading": "2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Figure 8: Fall heights where working platform has a slope of more than 20o.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 15,
+    "element_type": "NarrativeText",
+    "section_heading": "2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "IN THIS SECTION:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 16,
+    "element_type": "NarrativeText",
+    "section_heading": "2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "SECTION 3.0 // INSTALLING SAFETY NETS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "SECTION 3.0 // INSTALLING SAFETY NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety net installation must be planned and include everyone who is involved in supplying, installing and using nets.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "SECTION 3.0 // INSTALLING SAFETY NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "3.1 PLANNING",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "3.1 PLANNING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Plan the installation before installing a safety",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "3.1 PLANNING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "net. You should consider:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "3.1 PLANNING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> the installation (rigging) and dismantling",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "3.1 PLANNING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "(striking) sequence",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "3.1 PLANNING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> providing and locating anchor points",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "3.1 PLANNING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> how to keep the right clearance distance",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "3.1 PLANNING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "below the safety net",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "below the safety net",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> the means of access for rigging and striking",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "below the safety net",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "temporary repairs and removing debris, and",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "below the safety net",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> a rescue plan.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "> a rescue plan.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Planning should include everyone involved in",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "> a rescue plan.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "supplying, installing and using nets, including:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "> a rescue plan.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> the permanent works designer",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "> the permanent works designer",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> net supplier/installer",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "> net supplier/installer",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> main contractor/site supervisor",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "> main contractor/site supervisor",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> roofing contractor.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "> main contractor/site supervisor",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "3.2 DESIGNER’S ROLE",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "3.2 DESIGNER’S ROLE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The designer’s role includes:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "3.2 DESIGNER’S ROLE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> designing suitable anchorage points",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "3.2 DESIGNER’S ROLE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> avoiding details that make safety net",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "3.2 DESIGNER’S ROLE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "installation difficult or dangerous.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "installation difficult or dangerous.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "3.3 INSTALLER’S ROLE",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "3.3 INSTALLER’S ROLE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The installer rigs (installs) and strikes",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "3.3 INSTALLER’S ROLE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "(dismantles) the nets. Before starting",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "3.3 INSTALLER’S ROLE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "installation, the installer should give the main",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "3.3 INSTALLER’S ROLE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "contractor or site supervisor information about:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "contractor or site supervisor information about:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> their training and qualifications2 for installing",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "contractor or site supervisor information about:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "safety nets",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "safety nets",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> the testing, maintenance and energy",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "> the testing, maintenance and energy",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "absorption capacity of the nets",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "absorption capacity of the nets",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> the plant they intend to use to install",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "absorption capacity of the nets",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "the nets",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "the nets",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> the access facilities they need",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "the nets",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> the anchor points and/or fixing requirements",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "> the anchor points and/or fixing requirements",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> clearance distance requirements",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "> clearance distance requirements",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> a rescue plan",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "> a rescue plan",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> how to protect workers below the net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "> a rescue plan",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "They should also:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "They should also:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> check anchor points",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "They should also:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> make sure anchor points are suitable for",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "They should also:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "the loads",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "the loads",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> make sure the nets are fit for purpose",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "the loads",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> make sure there is enough clearance under",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "the loads",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "the nets.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "the nets.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Once the nets have been installed, the",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "the nets.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "installer should give handover documentation",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "the nets.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "to the main contractor/site supervisor. The",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "to the main contractor/site supervisor. The",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "documents should verify the safety net system",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "to the main contractor/site supervisor. The",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "is fit for purpose, as well as giving written",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "to the main contractor/site supervisor. The",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "instructions on:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "instructions on:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> rescue procedures",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "> rescue procedures",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> inspection procedures",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "> inspection procedures",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> removing debris from the nets.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "NarrativeText",
+    "section_heading": "> inspection procedures",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2 e.g. FASET certification",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 17,
+    "element_type": "Title",
+    "section_heading": "2 e.g. FASET certification",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The installer should also give verbal instructions on all procedures.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "2 e.g. FASET certification",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Everyone who may be involved in a rescue must have rescue training.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "2 e.g. FASET certification",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "(See also section 4.11 Handover documentation).",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "2 e.g. FASET certification",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "Title",
+    "section_heading": "3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The main contractor or site supervisor is responsible for:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> providing access for installation",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> providing suitable anchorage points",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> making sure ground conditions are suitable where mobile access equipment is needed.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The main contractor or site supervisor must also make sure:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> the installer has supplied the handover documentation",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> all subcontractors and workers on site are instructed on the safety net’s purpose and function",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> workers are trained to carry out a rescue",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> someone is responsible for inspecting and maintaining the nets according to the supplier’s/installer’s instructions",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> someone is responsible for maintaining clearance distances",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> nets are not used as a storage area or to protect workers from falling debris.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "3.5 SUPPLIER OR MANUFACTURER’S ROLE",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "Title",
+    "section_heading": "3.5 SUPPLIER OR MANUFACTURER’S ROLE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety net suppliers or manufacturers must provide an instruction manual on how to safely install and use the nets.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.5 SUPPLIER OR MANUFACTURER’S ROLE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "3.6 SAFETY NET INSTALLATION HIERARCHY",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "Title",
+    "section_heading": "3.6 SAFETY NET INSTALLATION HIERARCHY",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A hierarchy of safety net installation minimises risk to the riggers. The hierarchy goes from low to high risk as follows:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.6 SAFETY NET INSTALLATION HIERARCHY",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "1. At ground level with a remote anchorage attachment",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.6 SAFETY NET INSTALLATION HIERARCHY",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2. Using a mobile elevating work platform (MEWP). See Figure 9.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.6 SAFETY NET INSTALLATION HIERARCHY",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "3. Using a ladder for short-duration work, but only after carrying out a hazard assessment",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.6 SAFETY NET INSTALLATION HIERARCHY",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4. Using rope access techniques.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "3.6 SAFETY NET INSTALLATION HIERARCHY",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Notes:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "Title",
+    "section_heading": "Notes:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "1. Mobile access towers (or mobile scaffold towers) are not recommended for installing safety nets as they can catch in the nets when moving around.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "Notes:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "2. Rope access work is highly specialised. Only trained and competent people should do rope access work.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "Notes:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Figure 9: Safety net installation using a mobile elevating work platform.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 18,
+    "element_type": "NarrativeText",
+    "section_heading": "Notes:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "IN THIS SECTION: 4.1 Inspecting nets before installation 4.2 Installation (generally) 4.3 Net access 4.4 Anchor points 4.5 Attaching safety nets to steel structures 4.6 Attaching safety nets to timber structures 4.7 Under-rolling 4.8 Eaves bagging 4.9 Gaps at net edges 4.10 Joining and overlapping nets 4.11 Handover documentation 4.12 Dismantling (striking)",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 19,
+    "element_type": "NarrativeText",
+    "section_heading": "Notes:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Before installation, safety nets must be inspected for damage or defects. Do not use nets that are damaged or have defects.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 20,
+    "element_type": "Title",
+    "section_heading": "Before installation, safety nets must be inspected for damage or defects. Do not use nets that are damaged or have defects.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety nets must have the manufacturer’s and removable test mesh labels. Do not use nets that do not have labels attached.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 20,
+    "element_type": "NarrativeText",
+    "section_heading": "Before installation, safety nets must be inspected for damage or defects. Do not use nets that are damaged or have defects.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.1 INSPECTING NETS BEFORE INSTALLATION",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 20,
+    "element_type": "Title",
+    "section_heading": "4.1 INSPECTING NETS BEFORE INSTALLATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Before installing the nets, the installer should: > examine the safety nets on both sides for damage or defects > check the net’s labels (manufacturer’s and removable test mesh) are displayed, current and valid. If the installer finds any damage or defects, the net should not be used. If the damage is reparable, the net may be repaired; otherwise it must be withdrawn from service. If a label is not attached, or the label’s information is not legible, do not use the net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 20,
+    "element_type": "NarrativeText",
+    "section_heading": "4.1 INSPECTING NETS BEFORE INSTALLATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.2 INSTALLATION (GENERALLY)",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 20,
+    "element_type": "Title",
+    "section_heading": "4.2 INSTALLATION (GENERALLY)",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> Install safety nets as close as possible to the work platform. > Rig safety nets to follow the roof line. > Nets should not restrict the construction work. Ceiling battens must not be installed until the safety nets have been removed. If they are installed before or with safety nets in place, the battens will be the first obstacle the falling person hits. Before installing nets near live wires or overhead power cables, contact the line owner to make the wires or cabling safe.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 20,
+    "element_type": "NarrativeText",
+    "section_heading": "4.2 INSTALLATION (GENERALLY)",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.3 NET ACCESS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 20,
+    "element_type": "Title",
+    "section_heading": "4.3 NET ACCESS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Nets must be easily accessible to carry out a rescue or clear debris. Provide access by: > installing the nets next to a work platform > installing the nets next to the work platform’s access point > providing an access platform next to the net. People should be able to remove debris from the nets without walking on them. Do not use safety nets to collect debris, for storage, as a work platform, or for providing access to a work platform.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 20,
+    "element_type": "NarrativeText",
+    "section_heading": "4.3 NET ACCESS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.4 ANCHOR POINTS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 20,
+    "element_type": "Title",
+    "section_heading": "4.4 ANCHOR POINTS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety nets are attached with tie ropes or karabiners to the supporting structure or to specifically-designed anchor points on the structure. Based on a maximum fall height of 6 metres and an assumed load angle of 45° to the horizontal, each anchor point should have a 6 kN minimum load-carrying capacity—see Figure 10. The combined load-carrying capacity of the supporting structure applied over three adjacent anchor points should be at least 4 kN, 6 kN, 4 kN.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 20,
+    "element_type": "NarrativeText",
+    "section_heading": "4.4 ANCHOR POINTS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.6 ATTACHING SAFETY NETS TO TIMBER STRUCTURES",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 21,
+    "element_type": "Title",
+    "section_heading": "4.6 ATTACHING SAFETY NETS TO TIMBER STRUCTURES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety nets may be attached to timber structures such as rafters and top plates. Do not attach safety nets to timber purlins or ceiling battens.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 21,
+    "element_type": "NarrativeText",
+    "section_heading": "4.6 ATTACHING SAFETY NETS TO TIMBER STRUCTURES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The maximum distance between anchor points according to BS EN 1263-2 is 2.5 metres but WorkSafe NZ recommends installing anchor points at between 1.5 and 2.0 metre centres. Safety nets used in residential, timber frame construction may need to be attached at closer centres. Anchor points and the supporting structure that the safety nets are fastened to must not have sharp edges that could rub on the tie ropes.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 21,
+    "element_type": "NarrativeText",
+    "section_heading": "4.6 ATTACHING SAFETY NETS TO TIMBER STRUCTURES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.5 ATTACHING SAFETY NETS TO STEEL STRUCTURES",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 21,
+    "element_type": "Title",
+    "section_heading": "4.5 ATTACHING SAFETY NETS TO STEEL STRUCTURES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety nets may be attached directly to hot-rolled, structural steel members such as trusses, rafters, portal frames and purlin support cleats. Do not attach safety nets to gutter supports, pipework or electrical service installations. Cold-formed sections such as purlins, ceiling battens and scaffolding tubes should not be used unless calculations show they are strong enough for the load.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 21,
+    "element_type": "NarrativeText",
+    "section_heading": "4.5 ATTACHING SAFETY NETS TO STEEL STRUCTURES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.7 UNDER-ROLLING",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 21,
+    "element_type": "Title",
+    "section_heading": "4.7 UNDER-ROLLING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety nets should be at least 10% larger (along both sides) than the area requiring protection (see section 2.15 Over-tensioning and under-tensioning). Reduce the net size to fit by under-rolling. This is a preferred method of reducing the net size as it distributes the load on the net evenly and gives a strong edge for the tie rope or other attachment system. In some situations, such as when the netting must be installed from a ladder, under-rolling the net on a ladder may put the installer at more risk than gathering, so gathering may be a better option.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 21,
+    "element_type": "NarrativeText",
+    "section_heading": "4.7 UNDER-ROLLING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.8 EAVES BAGGING",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 21,
+    "element_type": "Title",
+    "section_heading": "4.8 EAVES BAGGING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Where anchor points are widely spaced (see section 4.4 Anchor points), the safety net’s edge may pull in or ‘waist’, leaving a gap that a person could fall through. If waisting occurs, make an ‘eaves bag’ by folding approximately 2.0 metres of net back on itself and stitching the sides together to create a bag around 1.0 metre deep. See Figure 12.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 21,
+    "element_type": "NarrativeText",
+    "section_heading": "4.8 EAVES BAGGING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.9 GAPS AT NET EDGES",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 22,
+    "element_type": "Title",
+    "section_heading": "4.9 GAPS AT NET EDGES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "There should be no gaps between the safety net and the adjacent structure. If unavoidable, gaps of up to 100mm are allowed. If there are obstructions (for example, around columns), a gap of no more than 225 mm is allowed but it must not be able to get any larger.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 22,
+    "element_type": "NarrativeText",
+    "section_heading": "4.9 GAPS AT NET EDGES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.10 JOINING AND OVERLAPPING NETS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 22,
+    "element_type": "Title",
+    "section_heading": "4.10 JOINING AND OVERLAPPING NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "If more than one net is needed to protect an area, join nets by: > lacing, or > overlapping. Safety nets can be laced together using a coupling rope with a minimum 7.5 kN breaking strain (type O or greater as defined in BS EN 1263-1). The coupling rope must pass through every second mesh and around both border ropes. Tie the ends off at the corners. The completed lacing should give a join with gaps no more than 100mm.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 22,
+    "element_type": "NarrativeText",
+    "section_heading": "4.10 JOINING AND OVERLAPPING NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "If joining nets by overlapping, the overlap must be at least 2.0 metres (or 20 meshes) wide, measured at the narrowest point for the entire length of the overlap. Nets that follow the slope of the roof should be installed with the upper net overlapping the lower net (referred to as ‘tiling’) so that if a person falls, they will not roll down the pitch and off the open end.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 22,
+    "element_type": "NarrativeText",
+    "section_heading": "4.10 JOINING AND OVERLAPPING NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.11 HANDOVER DOCUMENTATION",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 22,
+    "element_type": "Title",
+    "section_heading": "4.11 HANDOVER DOCUMENTATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Once installed, the installer must inspect the safety net to make sure it is correctly installed and fit for purpose. They must then give handover documentation to the main contractor or site supervisor that includes: > confirmation that all safety net components comply with BS EN 1263: parts 1 or equivalent > confirmation that the safety net was installed in accordance with BS 8411 and BS EN 1263-2 or equivalent > a description of the area being ‘handed over’ > evidence that the safety nets were tested within the past 12 months.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 22,
+    "element_type": "NarrativeText",
+    "section_heading": "4.11 HANDOVER DOCUMENTATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> an instruction manual for the nets including information on: > installation, use and dismantling > storage, care and inspection > dates for testing test meshes > conditions for removing safety nets from service > hazards (such as heat, chemicals, etc) > written instructions on rescue, inspection and debris removal procedures > the name of the person who inspected the net, the handover date, and the signature of the person receiving the handover documentation. The main contractor or site supervisor must keep the documentation on site for the duration of the construction project. The safety net system should have a label with the: > installer’s name > handover date > description and area of net > net serial or ID numbers > clearance distance needed under the nets. If there is no handover documentation, you should regard the nets as unsuitable for use. Do not carry out work above the nets until the installer provides documentation.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 23,
+    "element_type": "NarrativeText",
+    "section_heading": "4.11 HANDOVER DOCUMENTATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "4.12 DISMANTLING (STRIKING)",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 23,
+    "element_type": "Title",
+    "section_heading": "4.12 DISMANTLING (STRIKING)",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Dismantling (striking) safety nets is the reverse process to installation. Safety nets should only be dismantled by trained installers who can identify and mark net damage. Plan the dismantling process during the net installation planning stage, to recover the nets safely and intact. Do not drop nets to the ground in an uncontrolled way during dismantling, as damaged nets may not be able to be re-used.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 23,
+    "element_type": "NarrativeText",
+    "section_heading": "4.12 DISMANTLING (STRIKING)",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "05/ RESCUE PLAN",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 24,
+    "element_type": "NarrativeText",
+    "section_heading": "4.12 DISMANTLING (STRIKING)",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 25,
+    "element_type": "Title",
+    "section_heading": "A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Rescue operations will vary depending on the site, location of the fall and extent of the injuries to the person who has fallen.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 25,
+    "element_type": "NarrativeText",
+    "section_heading": "A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The main contractor or site supervisor is responsible for making sure that:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 25,
+    "element_type": "NarrativeText",
+    "section_heading": "A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> a rescue can be carried out, and",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 25,
+    "element_type": "NarrativeText",
+    "section_heading": "A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> all workers on the site know what the rescue plan is and their role in a rescue, if needed.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 25,
+    "element_type": "NarrativeText",
+    "section_heading": "A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "If possible, carry out a practice rescue before starting work above the safety net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 25,
+    "element_type": "NarrativeText",
+    "section_heading": "A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "06/",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 26,
+    "element_type": "Title",
+    "section_heading": "06/",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "RESCUE PLAN INSPECTIONS, TESTING, MAINTENANCE AND REPAIR",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 26,
+    "element_type": "Title",
+    "section_heading": "RESCUE PLAN INSPECTIONS, TESTING, MAINTENANCE AND REPAIR",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "IN THIS SECTION:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 26,
+    "element_type": "Title",
+    "section_heading": "IN THIS SECTION:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.1 Inspections 6.2 General testing 6.3 Testing for UV deterioration 6.4 Debris in the net 6.5 Net care 6.6 Damaged safety nets 6.7 Repairing safety nets and ropes 6.8 Repairing a knotless safety net 6.9 Repairing a knotted safety net 6.10 Storing safety nets 6.11 Further information",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 26,
+    "element_type": "NarrativeText",
+    "section_heading": "IN THIS SECTION:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Visual inspections must be carried out regularly. If a net does not pass a visual inspection, do not use it.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "IN THIS SECTION:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.1 INSPECTIONS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "Title",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Visual inspections of the safety nets must be carried out regularly by a competent person (see section 1.4 Definitions). An inspection regime is given in Table 3. Records of all inspections must be kept on site.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "| Carry out sual nspecti S | By tl |\n| --- | --- |\n| when the net is installed | installer |\n| daily before use | user |\n| weekly | site supervisor |\n| after adverse weather | site supervisor |",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "Table",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "table"
+  },
+  {
+    "text": "Table 3: Frequency of net inspections.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Visual inspections include checking for:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> incorrect installation",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> mesh abrasion",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> cuts or nicks in mesh",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> heat or friction damage to mesh",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> stitching damage",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> damaged or deformed fittings",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> dirt or debris in the net",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> defects in knots (if knotted mesh)",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> UV degradation (although generally not seen with visual inspection).",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "If a net does not pass the visual inspection, do not use it. Either remove and repair it, or take it out of service permanently.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Minimum ongoing net inspection requirements are described in BS EN 1263-1: Annex B.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.1 INSPECTIONS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.2 GENERAL TESTING",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "Title",
+    "section_heading": "6.2 GENERAL TESTING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "General testing includes:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.2 GENERAL TESTING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> visual examination (see 6.1)",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.2 GENERAL TESTING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> measuring the net",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.2 GENERAL TESTING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> weighing the net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.2 GENERAL TESTING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Test methods and requirements are described in BS EN 1263-1: clause 7.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.2 GENERAL TESTING",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.3 TESTING FOR UV DETERIORATION",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "Title",
+    "section_heading": "6.3 TESTING FOR UV DETERIORATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Test safety nets at least every 12 months to determine the amount of UV deterioration and to make sure the manufacturer’s minimum energy absorption capacity will be maintained for the next 12 months.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.3 TESTING FOR UV DETERIORATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Test meshes (see section 2.9 Removable test mesh) are attached to the safety net and removed one at a time for annual testing. Test meshes must remain attached to the net until needed for testing. Do not use test meshes for any other purpose.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.3 TESTING FOR UV DETERIORATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Nets more than 12 months old must have a current test tag or label attached to the net to confirm the net met the manufacturer’s energy absorption capacity requirements at the most recent testing. Keep the corresponding certificate with details on site. The test tag and certificate must not expire while the net is in use.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.3 TESTING FOR UV DETERIORATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Test methods for UV deterioration are described in BS EN 1263-1: clause 7.7.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 27,
+    "element_type": "NarrativeText",
+    "section_heading": "6.3 TESTING FOR UV DETERIORATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.4 DEBRIS IN THE NET",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 28,
+    "element_type": "Title",
+    "section_heading": "6.4 DEBRIS IN THE NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety nets catch a falling person, but they will also catch falling debris. Debris can damage the net, and if left in the net is a hazard because it might: > injure a falling person > cause the net to overload and deflect excessively > increase the net sag and fall distance.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 28,
+    "element_type": "NarrativeText",
+    "section_heading": "6.4 DEBRIS IN THE NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "When debris falls onto a safety net, immediately stop work above and below the net. Remove the debris, and have the net checked for damage by a competent person before work continues. WorkSafe NZ recommends one person on site is responsible for keeping safety nets free of debris. Note: Snow on the safety net can overload the net and cause excessive deflection.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 28,
+    "element_type": "NarrativeText",
+    "section_heading": "6.4 DEBRIS IN THE NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.5 NET CARE",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 28,
+    "element_type": "Title",
+    "section_heading": "6.5 NET CARE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Do not damage nets during handling and storage. Damage may occur from: > prolonged UV exposure > sharp objects > abrasion > sparks or exposure to heat from welding, grinding or burning",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 28,
+    "element_type": "NarrativeText",
+    "section_heading": "6.5 NET CARE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> adverse weather such as strong winds > significant load or impact. When handling nets during rigging or striking: > do not drag nets across the ground > avoid contact with sharp edges. When installing nets, do not: > stack material onto the net > let debris accumulate in the net > allow people to jump or throw objects into the net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 28,
+    "element_type": "NarrativeText",
+    "section_heading": "6.5 NET CARE",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.6 DAMAGED SAFETY NETS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 28,
+    "element_type": "Title",
+    "section_heading": "6.6 DAMAGED SAFETY NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Do not use damaged nets (see section 6.1 Inspections). Following impact from a heavy object (such as a person or debris), the safety net should be checked by a competent person and if necessary, repaired or taken out of service.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 28,
+    "element_type": "NarrativeText",
+    "section_heading": "6.6 DAMAGED SAFETY NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.7 REPAIRING SAFETY NETS AND ROPES",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 28,
+    "element_type": "Title",
+    "section_heading": "6.7 REPAIRING SAFETY NETS AND ROPES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Safety nets must be repaired by a competent person (i.e. someone who has completed a recognised 3 training course within the past 5 years). Nets should preferably be repaired in a controlled environment, away from the site.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 28,
+    "element_type": "NarrativeText",
+    "section_heading": "6.7 REPAIRING SAFETY NETS AND ROPES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Repairs must be made using new material that is similar to the net mesh cord and recommended for use by the manufacturer. Cable ties must not be used as a net repair, although they may be used to hold a patch in place before stitching or to tie up the loose ends of a patch.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 28,
+    "element_type": "NarrativeText",
+    "section_heading": "6.7 REPAIRING SAFETY NETS AND ROPES",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "SECTION 6.0 // INSPECTIONS, TESTING, MAINTENANCE AND REPAIR",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "SECTION 6.0 // INSPECTIONS, TESTING, MAINTENANCE AND REPAIR",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A label showing the repairer and date of",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "SECTION 6.0 // INSPECTIONS, TESTING, MAINTENANCE AND REPAIR",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "repair must be fixed to the net next to the",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "SECTION 6.0 // INSPECTIONS, TESTING, MAINTENANCE AND REPAIR",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "manufacturer’s label. The repairs must also",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "manufacturer’s label. The repairs must also",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "be recorded and another handover certificate",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "manufacturer’s label. The repairs must also",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "(see section 4.11 Handover documentation),",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "manufacturer’s label. The repairs must also",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "confirming that the safety net remains fit",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "manufacturer’s label. The repairs must also",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "for purpose, should be given to the main",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "manufacturer’s label. The repairs must also",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "contractor or site supervisor.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "contractor or site supervisor.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Border rope repairs must be made using rope",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "contractor or site supervisor.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "with at least 30kN tensile strength. Repairs",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "with at least 30kN tensile strength. Repairs",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "may be spliced or machine sewn but must not",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "with at least 30kN tensile strength. Repairs",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "be knotted. Repairs to the net selvedge should",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "with at least 30kN tensile strength. Repairs",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "maintain the original strength of the net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "with at least 30kN tensile strength. Repairs",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Damaged tie ropes should not be used.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "with at least 30kN tensile strength. Repairs",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "C-Ring and other proprietary repair systems",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "C-Ring and other proprietary repair systems",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "may only be used on safety net systems if they",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "C-Ring and other proprietary repair systems",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "have been approved by the manufacturer as",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "C-Ring and other proprietary repair systems",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "suitable for that net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "suitable for that net.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.8 REPAIRING A KNOTLESS SAFETY NET",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "6.8 REPAIRING A KNOTLESS SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "When multiple meshes of a knotless net are",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "6.8 REPAIRING A KNOTLESS SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "damaged, the net should be repaired using",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "6.8 REPAIRING A KNOTLESS SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "new patch material that has been approved",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "6.8 REPAIRING A KNOTLESS SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "by the manufacturer as being suitable for their",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "6.8 REPAIRING A KNOTLESS SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "net, and which complies with BS EN 1263-1.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "6.8 REPAIRING A KNOTLESS SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The repair should overlap the entire area that",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "6.8 REPAIRING A KNOTLESS SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "is damaged by at least one mesh.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "6.8 REPAIRING A KNOTLESS SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A patch may be laced to the safety net using",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "6.8 REPAIRING A KNOTLESS SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "lacing repair twine to attach all meshes",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "6.8 REPAIRING A KNOTLESS SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "(both the inside and perimeter meshes).",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "(both the inside and perimeter meshes).",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Alternatively cable ties may be used to attach",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "(both the inside and perimeter meshes).",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "the inside meshes of the patch but perimeter",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "(both the inside and perimeter meshes).",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "meshes must be laced using repair twine.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "(both the inside and perimeter meshes).",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Single mesh repairs should extend at least one",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "(both the inside and perimeter meshes).",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "square past the damage, and the repair twine",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "square past the damage, and the repair twine",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "must cross the damaged hole twice. Repairs",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "square past the damage, and the repair twine",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "should not overlap.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "square past the damage, and the repair twine",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Repair twine should be at least 3mm thick and",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "square past the damage, and the repair twine",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "double knotted on either side of each node.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "square past the damage, and the repair twine",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.9 REPAIRING A KNOTTED SAFETY NET",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "6.9 REPAIRING A KNOTTED SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "A knotted safety net should be repaired",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "6.9 REPAIRING A KNOTTED SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "using new repair twine of the same type and",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "6.9 REPAIRING A KNOTTED SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "thickness as the original net and has been",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "6.9 REPAIRING A KNOTTED SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "approved by the manufacturer as being",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "6.9 REPAIRING A KNOTTED SAFETY NET",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "suitable for their net.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "suitable for their net.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Cable ties must not be used to connect the",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "suitable for their net.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "repair twine. Knotted nets should not be",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "suitable for their net.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "repaired using a knotless patch repair.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "suitable for their net.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "The repairer must be competent in the repair",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "suitable for their net.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "of knotted nets. This is usually carried out by",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "suitable for their net.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "the manufacturer.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "the manufacturer.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.10 STORING SAFETY NETS",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "6.10 STORING SAFETY NETS",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "Store safety nets:",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "Store safety nets:",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> undercover",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "> undercover",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> in dry conditions",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "> in dry conditions",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> protected from UV",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "> in dry conditions",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "> away from heat sources and materials or",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "> away from heat sources and materials or",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "substances that could cause damage, like",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "> away from heat sources and materials or",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "acids, dyes, solvents and oil.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "acids, dyes, solvents and oil.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "If a safety net has been stored for more than",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "acids, dyes, solvents and oil.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "12 months, it must be inspected and tested for",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "acids, dyes, solvents and oil.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "UV deterioration before being re-used.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "acids, dyes, solvents and oil.",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "6.11 FOR MORE INFORMATION",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "6.11 FOR MORE INFORMATION",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "FASET (Fall Arrest Safety Equipment Training)",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "Title",
+    "section_heading": "FASET (Fall Arrest Safety Equipment Training)",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "have technical bulletins that address technical",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "FASET (Fall Arrest Safety Equipment Training)",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "and safety matters surrounding the safe use of",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "FASET (Fall Arrest Safety Equipment Training)",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "nets. See www.faset.org.uk.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 29,
+    "element_type": "NarrativeText",
+    "section_heading": "FASET (Fall Arrest Safety Equipment Training)",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "07/",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 30,
+    "element_type": "Title",
+    "section_heading": "07/",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "APPENDIX A IN THIS SECTION: 7.1 Visual inspection checklist",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 30,
+    "element_type": "NarrativeText",
+    "section_heading": "07/",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "7.1 VISUAL INSPECTION CHECKLIST",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 31,
+    "element_type": "Title",
+    "section_heading": "7.1 VISUAL INSPECTION CHECKLIST",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "| Checklist for safety net inspections | Y/N |  |\n| --- | --- | --- |\n| Are the nets correctly labelled? |  |  |\n| Are the labels current (i.e. less than 12 months old)? |  |  |\n| Are there distortions in the line or appearance of the nets or supporting framework? |  |  |\n| Has a net been used to arrest a fall or had a load imposed on it (appears as deformation of the net)? |  |  |\n| Has debris or an imposed load damaged the net? |  |  |\n| Are anchorage points intact and good order? |  |  |\n| Is the net clear of debris? |  |  |\n| Are cuts or fraying of the mesh cord, tie ropes, etc visible? |  |  |\n| Is there any other visible damage to the safety net system? |  |  |",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 31,
+    "element_type": "Table",
+    "section_heading": "7.1 VISUAL INSPECTION CHECKLIST",
+    "chunk_type": "table"
+  },
+  {
+    "text": "If any of the checks have a ‘yes’ response, nets should either be removed and repaired, or taken out of service permanently.",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 31,
+    "element_type": "NarrativeText",
+    "section_heading": "7.1 VISUAL INSPECTION CHECKLIST",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "08/",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 32,
+    "element_type": "Title",
+    "section_heading": "08/",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "APPENDIX B",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 32,
+    "element_type": "Title",
+    "section_heading": "APPENDIX B",
+    "chunk_type": "appendix"
+  },
+  {
+    "text": "IN THIS SECTION: 8.1 Handover checklist",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 32,
+    "element_type": "NarrativeText",
+    "section_heading": "APPENDIX B",
+    "chunk_type": "appendix"
+  },
+  {
+    "text": "8.1 HANDOVER CHECKLIST",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 33,
+    "element_type": "Title",
+    "section_heading": "8.1 HANDOVER CHECKLIST",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "| Checklist for handover documentati | Y/N |\n| --- | --- |\n| Are nets in good condition, been tested in the previous 12 months and have a valid ID and current test label attached? |  |\n| Have the nets been installed as close as is reasonably practicable to the underside of the work platform? |  |\n| Are all gaps between net and structure less than 100 mm? |  |\n| Are attachment points a maximum of 2.5 m apart for tie ropes; 1.8 m apart for Grippas; 1.5-2.0 m apart for net claws? |  |\n| Does the net sag between 5-10% of the shortest side of the net? |  |\n| If overlapped, are overlaps at least 2.0 m and tiled correctly? |  |\n| If laced, has 8 mm lacing/12 mm rope ties been used and any gaps are less than 100mm? |  |\n| Are the knots tied correctly? |  |\n| Are all the nets attached to the structure/anchor points correctly? |  |\n| Is the net under-rolled correctly? |  |\n| Are there any materials/obstacles less than 3.0 m below the netted area? |  |\n| Do people working above the nets need to take additional safety measures e.g. a harness? |  |",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 33,
+    "element_type": "Table",
+    "section_heading": "8.1 HANDOVER CHECKLIST",
+    "chunk_type": "table"
+  },
+  {
+    "text": "Notes",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 34,
+    "element_type": "Title",
+    "section_heading": "Notes",
+    "chunk_type": "prose"
+  },
+  {
+    "text": "New Zealand Government WORKSAFE NEW ZEALAND",
+    "source_file": "safe-use-of-safety-nets-gpg-efc3296e.pdf",
+    "page_number": 36,
+    "element_type": "NarrativeText",
+    "section_heading": "Notes",
+    "chunk_type": "prose"
+  }
+]

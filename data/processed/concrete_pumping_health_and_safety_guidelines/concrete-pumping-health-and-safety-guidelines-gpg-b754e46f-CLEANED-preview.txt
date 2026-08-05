@@ -1,0 +1,3104 @@
+[p1 | prose | Concrete Pumping Health and Safety Guidelines]
+Concrete Pumping Health and Safety Guidelines
+
+[p1 | prose | Concrete Pumping Health and Safety Guidelines]
+FEBRUARY 2013
+
+[p2 | prose | Concrete Pumping Health and Safety Guidelines]
+More information
+
+[p2 | table | Concrete Pumping Health and Safety Guidelines]
+| www.mbie.govt.nz | Information, examples and answers to your questions about the topics covered here can be found on our website www.mbie.govt.nz or by calling us free on 0800 20 90 20. |
+| --- | --- |
+| 0800 20 90 20 |  |
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+These guidelines are based on the Industry Standard for Concrete Pumping from WorkSafe Victoria, Australia. The Ministry of Business, Innovation and Employment and the Concrete Pumping Association of New Zealand thank WorkSafe Victoria and the Victorian WorkCover Authority for the use and adaptation of their material.
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+The Ministry and the Concrete Pumping Association of New Zealand also thank:
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+SiteSafe New Zealand for the use of their Task Analysis Template
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+New Zealand Ready Mix Concrete Inc for the use of their Concrete Truck Driver Hand Signals poster.
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+Cover photograph: Construction site with concrete mixer and cement pump. Photo by ewg3D/iStockphoto.
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+Disclaimer: The Ministry of Business, Innovation and Employment and the Concrete Pumping Association of New Zealand have made every effort to ensure that the information contained in this publication is reliable, but make no guarantee of its accuracy or completeness and do not accept any liability for any errors. The Ministry and the Concrete Pumping Association of New Zealand may change the contents of this publication at any time without notice.
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+Published by the Concrete Pumping Association of New Zealand in association with the Ministry of Business, Innovation and Employment
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+Concrete Pumping Association of New Zealand
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+Beachlands
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+Auckland 2147
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+www.cpanz.co.nz
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+Ministry of Business, Innovation and Employment
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+Wellington 6011
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+Website: www.mbie.govt.nz
+
+[p3 | prose | Concrete Pumping Health and Safety Guidelines]
+Copyright © Concrete Pumping Association of New Zealand
+
+[p4 | prose | TABLE OF CONTENTS]
+TABLE OF CONTENTS
+
+[p4 | table | TABLE OF CONTENTS]
+| SECTION | 1: GENERAL. |  |
+| --- | --- | --- |
+| 1.1 | [ Purpose |  |
+| 1.2 | Scope |  |
+| 1.3 | Relationship to New Zealand Standards |  |
+| 1.4 | Reference documents P |  |
+| 1.5 | Definitions . |  |
+| 1.6 | Legislation . |  |
+| 1.7 | Hazard controls |  |
+| 2.1 | Manual handling hazards | 10 |
+| 2.2 | Cement hazards | 11 |
+| 2.3 | Noise hazards | 12 |
+| 2.4 | Carbon monoxide hazards. | 16 |
+| 2.5 17 Overhead power lines and other electrical equipment |  |  |
+| SECTION | 3: PLANNING AND PREPARATION | 20 |
+| 3.1 | General | 20 |
+| 3.2 | The construction site principal . | 20 |
+| 3.3 | Concrete pumping contractor | 21 |
+| 3.4 | Equipment hirer | 22 |
+| SECTION | 4: SET-UP | 23 |
+| 4.1 | General | 23 |
+| 4.2 | Arrival on site PP | 23 |
+| 4.3 | Pump set-up . | 23 |
+| 4.4 | Boom set-up . | 23 |
+|  |  |  |
+| 4.5 | Outriggers | 24 |
+| 4.6 | Placing the boom P | 24 |
+| 4.7 | Receiving hopper | e 25 |
+| 4.8 | Operational safety zone | 26 |
+| 4.9 | Delivery pipeline set-up e | 28 |
+| 5.1 | General | 32 |
+| 5.2 | Communications | 32 |
+| 5.3 | Pump and boom operators | 32 |
+| 5.4 | Pump operator/hose-hand | 32 |
+| 5.5 | Hose-hand . | 33 |
+| 5.6 | Workers... | 34 |
+| 5.7 | Trainee workers | 35 |
+| 5.8 | Concrete delivery drivers | 35 |
+| 5.9 | Cleaning of equipment | 35 |
+| 5.10 | Preparation for road travel | 38 |
+| SECTION | 6: EQUIPMENT.. | 40 |
+| 6.1 General requirements | 40 |  |
+
+[p4 | prose | TABLE OF CONTENTS]
+6.2
+
+[p4 | prose | TABLE OF CONTENTS]
+Documentation
+
+[p4 | prose | TABLE OF CONTENTS]
+Documentation ....................................................................................................... 40
+
+[p5 | table | TABLE OF CONTENTS]
+| 6.3 | Identification | 40 |
+| --- | --- | --- |
+| 6.4 | Pipeline components | 41 |
+| 6.5 | Hydraulic systems 888 8 81 1861 8 S | RS S 41 |
+| 6.6 | Controls N | 41 |
+| 6.7 | Pipeline and hose sections | 41 |
+| 6.8 | Manuals and logbooks | 41 |
+| 6.9 | Warning and safety signs | 42 |
+| 6.10 | Disposal and acquisition of used equipment P | 42 |
+| 6.11 Acquisition of unserviceable equipment | 43 |  |
+| SECTION 7: MAINTENANCE AND INSPECTION | .44 |  |
+| 7.1 | e R General | 44 |
+| 7.2 | Annual inspections | 44 |
+| 7.3 | Major inspection | s 45 |
+| 7.4 | Repairs and modifications | 45 |
+| 7.5 | Testing pipeline components | 46 |
+| APPENDIX | A: SUMMARY OF THE HEALTH AND SAFETY IN EMPLOYMENT ACT 1992. | .50 |
+| Introduction N General responsibilities of employers | 50 |  |
+| 50 |  |  |
+| General responsibilities of employees | 50 |  |
+| Hazard management | 51 |  |
+| Information for employees | 51 |  |
+| Training and supervision | 51 |  |
+| Accidents and serious harm recording and notification . | 53 |  |
+| Duties of others P | 54 |  |
+|  |  |  |
+| APPENDIX B: REFERENCE DOCUMENTS | n 56 |  |
+| Acts Regulations n | 56 |  |
+| 56 |  |  |
+| Approved Codes of Practice | 56 |  |
+| Standards |  | 56 |
+| Other | publications | 56 |
+| Research documents | 57 |  |
+| APPENDIX D: HAND SIGNALS FOR CONCRETE PUMPING........c | 64 |  |
+| APPENDIX | E: CONCRETE TRUCK DRIVER HAND SIGNALS | 67 |
+| APPENDIX F: SIGNIFICANT HAZARD REGISTER (EXAMPLE) | .68 |  |
+| Significant hazard register. | 71 |  |
+| APPENDIX | G: TASK ANALYSIS WORKSHEET n | 72 |
+| APPENDIX H: PIPELINE INSPECTION LOG SHEET nn | 74 |  |
+
+[p6 | prose | LIST OF TABLES AND FIGURES]
+LIST OF TABLES AND FIGURES
+
+[p6 | prose | Tables]
+Tables
+
+[p6 | table | Tables]
+| Table 1: Symptoms of carbon monoxide exposure at increasing levels | 16 |
+| --- | --- |
+| Table 2: Required minimum approach distances (where written consent has been obtained)* | 17 |
+| Table 3: Minimum pipe wall thickness (mm) | 47 |
+
+[p6 | prose | Figures]
+Figures
+
+[p6 | table | Figures]
+| Figure 1: Truck-mounted placing boom.. |  |
+| --- | --- |
+| Figure 2: Wet cement caused the burns to this person's leg | 11 |
+| Figure 3: Noise levels of selected construction tools | 13 |
+| Figure 4: Beware of hazards when set up in enclosed areas | 15 |
+| Figure 5: Minimum safe distances for the operation of mobile plant near conductors | 18 |
+| Figure 6: Position pumping equipment clear of excavations | 23 |
+| Figure 7: Look up and live - comply with area restrictions .. | 25 |
+| Figure 8: Keep clear when truck is reversing - don't stand between the truck and hopper | 27 |
+| Figure 9: Keep clear when truck is reversing - remain in the driver's view | 27 |
+| Figure 10 Securely fix the pipeline to avoid movement | 29 |
+| Figure 11 Quick-release clamp with locking pin | 30 |
+| Figure 12 Use anchor brackets to restrict pipe movement | 30 |
+| Figure 13 End-hose and reducer with safety slings | 31 |
+| Figure 14 Do not allow hose to kink | 34 |
+| 15 Let the boom do the work.. Figure | 34 |
+| Figure 16 The end-hose should be secured or removed | 36 |
+| Figure 17 Keep clear of discharge end of pipe | 36 |
+| Figure 18 Never dismantle pipeline while under pressure | 36 |
+| Figure 19 Dangerous cleaning practices | 37 |
+| Figure 20 Dangerous cleaning practices | 38 |
+| Figure 21 Confirm everything is secured before moving. | 39 |
+| Figure 22 Warning and safety signs must be legible | 42 |
+| Figure 23 Worker wearing personal protective clothing | 53 |
+
+[p7 | prose | INTRODUCTION]
+INTRODUCTION
+
+[p7 | prose | INTRODUCTION]
+Concrete pumping is an efficient method of moving and placing concrete. This process is used in the manufacture of pre-cast and tilt-up panels, concrete formwork, slab construction, concrete paving and concrete spraying.
+
+[p7 | prose | INTRODUCTION]
+The construction and concrete pumping industries must be aware of the obligations to prevent harm to employees, contractors and others under the Health and Safety in Employment Act 1992 (the Act) and its regulations.
+
+[p7 | prose | INTRODUCTION]
+These guidelines provide practical advice about the safe operation and maintenance of concrete pumping equipment. The emphasis is to ensure a safe working environment whenever this equipment is used. They are not intended to be an all-encompassing design, maintenance and operation manual. This information is available in manufacturers’ operating manuals.
+
+[p7 | prose | INTRODUCTION]
+This document is based on the current knowledge of construction methods within the industry, and is not intended to exclude other methods or processes that can be shown to meet the requirements of providing a safe workplace under the Act.
+
+[p7 | prose | INTRODUCTION]
+The guidelines were prepared by a committee of representatives from the Concrete Pumping Association of New Zealand (CPANZ) and underwent a public consultation process. This resulted in submissions from a range of affected parties, including the self-employed, employers and employees within the industry.
+
+[p7 | prose | INTRODUCTION]
+Consultation with the Ministry of Business, Innovation and Employment ensured overall compatibility with occupational health and safety legislation and technical alignment with standards.
+
+[p7 | prose | Figure 1: Truck-mounted placing boom]
+Figure 1: Truck-mounted placing boom
+
+[p8 | prose | SECTION 1: GENERAL]
+SECTION 1: GENERAL
+
+[p8 | prose | 1.1 Purpose]
+1.1 Purpose
+
+[p8 | prose | 1.1 Purpose]
+This guideline provides practical guidance about the health and safety issues of concrete pumping to ensure as far as practicable a safe working environment for people in the industry. It provides guidance for principals, employers, contractors and pump operators (employees or contractors) on how to meet their obligations to provide a safe working environment when using concrete pumping equipment.
+
+[p8 | prose | 1.2 Scope]
+1.2 Scope
+
+[p8 | prose | 1.2 Scope]
+The guideline applies to the supply, acquisition, disposal, inspection, maintenance, registration and safe operation of all types of concrete pumps and associated placing equipment used in pumping or spraying concrete in the construction industry throughout New Zealand.
+
+[p8 | prose | 1.3 Relationship to New Zealand Standards]
+1.3 Relationship to New Zealand Standards
+
+[p8 | prose | 1.3 Relationship to New Zealand Standards]
+This guideline complements the key New Zealand and Australian standards applying to concrete pumps (listed in Appendix B).
+
+[p8 | prose | 1.4 Reference documents]
+1.4 Reference documents
+
+[p8 | prose | 1.4 Reference documents]
+Documents referenced in this guideline are listed in Appendix B. This appendix also provides a list of suggested documents for further reading.
+
+[p8 | prose | 1.5 Definitions]
+1.5 Definitions
+
+[p8 | prose | 1.5 Definitions]
+A list of definitions is provided in Appendix C.
+
+[p8 | prose | 1.6 Legislation]
+1.6 Legislation
+
+[p8 | prose | 1.6 Legislation]
+A summary of applicable health and safety legislation is provided in Appendix A.
+
+[p8 | prose | 1.7 Hazard controls]
+1.7 Hazard controls
+
+[p8 | prose | 1.7 Hazard controls]
+All practicable steps must be taken to ensure that hazards are eliminated or isolated, or minimise the significance of the hazard by (for example) changing or modifying the proposed work method, construction method, or by using alternative equipment.
+
+[p8 | prose | 1.7 Hazard controls]
+A significant hazard is something that has the potential to cause a person serious harm. “Serious harm” is defined in Appendix C.
+
+[p8 | prose | 1.7 Hazard controls]
+If the hazard cannot be eliminated or isolated, control measures must be put in place to minimise risk to employees. In these circumstances, measures such as barricading areas of danger, providing specific safety training and work instructions, using protective equipment and posting of warning signs (as examples) should be implemented.
+
+[p8 | prose | 1.7 Hazard controls]
+Such measures should be discussed with employees and other workers, and evaluated to ensure that they are effective and do not create additional hazards.
+
+[p9 | prose | 1.7 Hazard controls]
+While it is not a legal requirement to record identified hazards and strategies for controls on a hazard register, this is recommended to ensure that everyone has received the appropriate information on how to keep safe when exposed to the hazards.
+
+[p9 | prose | 1.7 Hazard controls]
+An example of a hazard register is located at Appendix F.
+
+[p9 | prose | Task Analysis]
+Task Analysis
+
+[p9 | prose | Task Analysis]
+A task analysis that lists the hazards and safe work procedures should be prepared for each concrete pumping operation. A generic task analysis may be acceptable in some cases, but it is likely to be modified to reflect specific site situations.
+
+[p9 | prose | Task Analysis]
+The minimum requirements for a task analysis include:
+
+[p9 | prose | Task Analysis]
+ assessing the significance of the hazards and the control measures
+
+[p9 | prose | Task Analysis]
+identifying the hazards
+
+[p9 | prose | Task Analysis]
+required to eliminate, isolate or minimise harm posed by the hazards identifying a person or people responsible for implementing and monitoring the control measures.
+
+[p9 | prose | Task Analysis]
+An example of a task analysis worksheet is located at Appendix G.
+
+[p10 | prose | SECTION 2: MANAGING SITE HAZARDS]
+SECTION 2: MANAGING SITE HAZARDS
+
+[p10 | prose | SECTION 2: MANAGING SITE HAZARDS]
+This section outlines some of the significant hazards that are likely to occur on concrete pumping sites.
+
+[p10 | prose | 2.1 Manual handling hazards]
+2.1 Manual handling hazards
+
+[p10 | prose | 2.1 Manual handling hazards]
+An employer has a duty to identify and control hazards, including hazardous manual handling tasks. These tasks must be assessed, and if the potential for serious injury is determined, control measures should be put in place to reduce the likelihood that harm will occur.
+
+[p10 | prose | 2.1 Manual handling hazards]
+These and other manual handling tasks should be addressed as likely causes of injury:
+
+[p10 | table | 2.1 Manual handling hazards]
+| During set-up, pump workers manually handle items such as timber pads, reducers, pipes and hoses. Whe handling these items, the terrain or the access to the work area may increase the risk of injury. | Where practicable, establish walkways around the site and keep it clear of obstacles and debris. Provide non-slip ramps where workers are required to walk up inclines. |
+| --- | --- |
+| The use of hammers on clamps and the flapper box lever, if carried out in areas of restricted access, are tasks that may create an increased risk of injury due to working in cramped positions. | Ensure that impact tools are kept in good condition; wear appropriate protective equipment, such as eye protection. Where practicable, conduct work in environments where there is more space to move. |
+| The incorrect positioning of the pump, ineffective boom placement, wind forces or oscillation due to pumping may cause the hose-hand to forcibly restrain the hose in the required position, risking strain injuries. | Plan the work before the pour commences to ensure that the hose-hand can work in the optimal area. Also refer to section 5.4 for further information. |
+| The laying out of pipes is a task that requires carrying bulky objects. The risk of injury presented by this task can be increased by walking long distances and the need to manoeuvre pipes around obstacles. | Where practicable, use mechanical equipment to lift and move bulky objects. Position bulk stores of equipment as close as practicable to labouring sites to minimise carrying. |
+| Bending one’s back to move beneath objects, and stepping over obstructions whilst carrying pipes increases the risk of injury. | Where practicable, establish walkways that are kept clear of debris. Use mechanical equipment to lift pipes over objects or up to higher floors. |
+
+[p11 | table | 2.1 Manual handling hazards]
+| The location and design of the storage points on the truck for things like pipes, hoses, reducer and outrigger pads have a bearing on the operators’ postures and the distance these items must be carried. | Position the truck as close as practicable to the concrete pour site. Do not use hoses longer than specified by the concrete pump manufacturer. |
+| --- | --- |
+| Clearing blockages in pipelines can be a highly hazardous task, as their removal may release built-up air pressure. This may also be the case during clean-up or when removing and inverting the hose reducer to | The end of the hose should not be enclosed by metal. Ensure that non-necessary personnel are kept clear of the pour area. The end-hose should not be longer than what the concrete pump manufacturer recommends. |
+| empty out concrete. | Operators should be trained in how to recognise the potential signs of when air blockages could occur in the hose, for example: when first starting, re-starting after moving, when the hopper is empty, if the concrete is too stiff and when the pump is reversed (although it should be recognised that sometimes it may not be possible to predict when an air blockage has occurred inside the hose). |
+
+[p11 | prose | 2.2 Cement hazards]
+2.2 Cement hazards
+
+[p11 | prose | 2.2 Cement hazards]
+Overseas research shows that between five and ten percent of construction workers may be sensitised, or allergic, to cement. Exposing the skin to cement can cause both irritant and allergic dermatitis.
+
+[p11 | prose | 2.2 Cement hazards]
+Irritant dermatitis occurs because the abrasive and drying nature of cement on the skin causes it to become dry, itchy, red and scaly.
+
+[p11 | prose | 2.2 Cement hazards]
+Allergic dermatitis is caused by a person becoming allergic to a chemical component in the cement, usually chromium salts. This usually occurs upon skin exposure to wet cement. Further, repeated exposure to cement can lead to allergic contact dermatitis. The more often the person is exposed, the worse the dermatitis becomes. Affected people may have to leave the industry if the dermatitis becomes serious.
+
+[p11 | prose | 2.2 Cement hazards]
+Figure 2: Wet cement caused the burns to this person's leg.
+
+[p12 | prose | 2.2 Cement hazards]
+The symptoms of dermatitis usually show within 24-48 hours of cement exposure. Depending on the severity of exposure, symptoms include:
+
+[p12 | prose | 2.2 Cement hazards]
+a red rash or bumps on the exposed skin
+
+[p12 | prose | 2.2 Cement hazards]
+itching, sometimes severe
+
+[p12 | prose | 2.2 Cement hazards]
+dry, cracked, red patches resembling a burn
+
+[p12 | prose | 2.2 Cement hazards]
+blisters that drain fluid or become crusted
+
+[p12 | prose | 2.2 Cement hazards]
+pain, tenderness or heat on the exposed skin
+
+[p12 | prose | 2.2 Cement hazards]
+scaly, raw or thickened lesions.
+
+[p12 | prose | 2.2 Cement hazards]
+Some components or additives in the cement are classified as hazardous substances. This means that the cement supplier has to provide the person in charge of the place of work with safety data sheets. Safety data sheets contain useful information on how to keep safe when handling the concrete, what to do if an emergency occurs or if significant health reactions occur.
+
+[p12 | prose | 2.2 Cement hazards]
+Wet cement can cause burns if trapped against the skin (see figure 2). Personal protective clothing or equipment such as gloves or boots must not allow wet cement to be held against the skin.
+
+[p12 | prose | 2.2 Cement hazards]
+However, if this occurs, it is important to immediately wash the area with soap and water to remove cement from the skin.
+
+[p12 | table | 2.2 Cement hazards]
+| Working in wet cement | . Wear appropriate protective clothing and equipment: gloves, safety goggles (if splashes to the face could occur), long clothing, waterproof footwear. Remove footwear/clothing immediately and wash skin with a pH-neutral soap and water if direct contact with concrete occurs. If the symptoms of dermatitis appear, see a doctor as soon as possible for treatment. |
+| --- | --- |
+
+[p12 | prose | 2.3 Noise hazards]
+2.3 Noise hazards
+
+[p12 | prose | 2.3 Noise hazards]
+Workers in the construction industry use a variety of tools and machinery in the course of their work. A significant hazard of using this equipment, or working near people who use this equipment, is excessive noise.
+
+[p12 | prose | 2.3 Noise hazards]
+Prolonged exposure to excessive noise causes permanent hearing loss. It is not a general loss of hearing; the ability to hear some frequencies of sound is lost. It is a bit like listening to music with the treble control turned all the way down. Although a person with hearing loss may hear people talking, it becomes more difficult for that person to understand what they are saying.
+
+[p12 | prose | 2.3 Noise hazards]
+Continuous exposure to noise above 85dB(A) (an average noise level of 85 decibels over an eight-hour work shift) will cause permanent hearing damage. As a rule, worksite noise exceeds 85dB(A) if conversation at a normal level between people is difficult when standing one metre apart.
+
+[p13 | prose | 2.3 Noise hazards]
+Noise is measured on a logarithmic scale instead of a linear scale. This means that if machine A is 85dB and machine B is 88dB, machine B is, in fact, twice as loud as machine A.
+
+[p13 | prose | 2.3 Noise hazards]
+On many construction sites, noise levels can be difficult to control. However, if a noise level assessment shows that workplace noise exposure exceeds 85dB(A) over an eight-hour timeframe, the employer must implement hazard controls such as:  elimination (for example, substituting noisy equipment for less noisy
+
+[p13 | prose | 2.3 Noise hazards]
+equipment, or using less noisy work processes) isolation (for example, noise-reducing booths where noisy portable work can be conducted)
+
+[p13 | prose | 2.3 Noise hazards]
+minimisation (for example, reducing worker exposure to the noise by
+
+[p13 | prose | 2.3 Noise hazards]
+conducting noisy work at less busy times of the day or night, increasing employees’ working distances from noise sources, and providing hearing protection and conducting health monitoring).
+
+[p13 | prose | 2.3 Noise hazards]
+The Ministry of Business, Innovation and Employment has carried out noise tests on
+
+[p13 | prose | 2.3 Noise hazards]
+common construction tools to give an estimate of how loud they are. See figure 3: Noise
+
+[p13 | prose | 2.3 Noise hazards]
+levels of selected construction tools (overleaf).
+
+[p14 | prose | 2.3 Noise hazards]
+Faintest Audible Sounds Conversation BELT SANDER 79 - 83 dB ELECTRIC DRILL (into wood) 87 - 91 dB ELECTRIC CHAINSAW 89 - 93 dB ROUTER 90 - 94 dB BENCH GRINDER 92 - 96 dB HAMMER ON NAIL (into timber) 93 - 97 dB CIRCULAR SAW 94 - 98 dB BENCH RIP SAW 95 - 99 dB HAND HELD PLANER & MASONRY DRILL (timber then concrete) 96 - 100 dB PASLODE NAIL GUN 97 - 104 dB CUT OFF SAW & ELECTRIC GRINDER (on aluminium) 98 - 102 dB POWDER ACTUATED TOOL (into timber) 100 - 104 dB (into masonry) 107 - 110 dB Jetcraft taking off 25m away 85 dB(A) Average Allowable Exposure Limit over an 8 hour period in New Zealand Sound levels measured in decibels (dB)
+
+[p15 | prose | Figure 4: Beware of hazards when set up in enclosed areas]
+Figure 4: Beware of hazards when set up in enclosed areas
+
+[p15 | prose | Figure 4: Beware of hazards when set up in enclosed areas]
+An increase to normal operating noise levels may occur due to sound being reflected back from other structures. Suitable control measures may need to be put in place to ensure that workers in the area are protected. These workers include:
+
+[p15 | prose | Figure 4: Beware of hazards when set up in enclosed areas]
+the workers in the affected area
+
+[p15 | prose | Figure 4: Beware of hazards when set up in enclosed areas]
+the concrete pump operators
+
+[p15 | prose | Figure 4: Beware of hazards when set up in enclosed areas]
+the delivery truck drivers
+
+[p15 | prose | Figure 4: Beware of hazards when set up in enclosed areas]
+the operators of other associated equipment.
+
+[p15 | prose | Figure 4: Beware of hazards when set up in enclosed areas]
+When positioning the pump, efforts should be made to minimise the effect of the surroundings on the workers’ overall noise exposure.
+
+[p15 | prose | Figure 4: Beware of hazards when set up in enclosed areas]
+If workers in affected areas are provided with hearing protection to control exposure to noise, the hearing protection must be worn all of the times when noise levels exceed 85dB(A). Atmospheric testing is required when hearing protection is worn, as the noise hazards fluctuate depending upon the work activities.
+
+[p15 | prose | Figure 4: Beware of hazards when set up in enclosed areas]
+For further information on noise level monitoring, refer to the Approved Code of Practice for the Management of Noise in the Workplace, available at www.osh.dol.govt.nz/order/catalogue/15.shtml.
+
+[p15 | prose | Figure 4: Beware of hazards when set up in enclosed areas]
+Visit the New Zealand Occupational Hygiene Society at www.nzohs.org.nz to find a noise level testing provider, or contact the Ministry of Business, Innovation and Employment on 0800 20 90 20.
+
+[p16 | prose | 2.4 Carbon monoxide hazards]
+2.4 Carbon monoxide hazards
+
+[p16 | prose | 2.4 Carbon monoxide hazards]
+If concrete pumping equipment is set up in an enclosed or semi-enclosed area, special attention should be given to the hazards created by the build-up of hazardous exhaust vapours, particularly carbon monoxide.
+
+[p16 | prose | 2.4 Carbon monoxide hazards]
+Carbon monoxide (CO) is a deadly poison – it is colourless, odourless and non- irritating. Over 10% of people who have survived high carbon monoxide exposures are left with a permanent brain injury. Carbon monoxide is more likely to build up in enclosed or poorly ventilated areas where machines using petrol, diesel or gas are operated. All practicable steps must be taken to control this hazard.
+
+[p16 | prose | 2.4 Carbon monoxide hazards]
+This is what happens to the body when exposed to increasing levels of carbon monoxide:
+
+[p16 | table | 2.4 Carbon monoxide hazards]
+|  | . |
+| --- | --- |
+| 35ppm | Headaches and dizziness within six to eight hours of continual exposure |
+| 100ppm | Headache within two to three hours |
+| 200ppm | Headache within two to three hours; loss of judgement |
+| 400ppm | Headache within one to two hours |
+| 800ppm | Headache, dizziness, nausea and convulsions within 45 minutes; unconscious within two hours |
+| 1,600ppm | Headache, accelerated heart rate, dizziness and nausea within 20 minutes, death in less than two hours |
+| 3,200ppm | Headache, dizziness and nausea within five to ten minutes; death within 30 minutes |
+| 6,400ppm | Headache and dizziness in one to two minutes; convulsions, breathing stops, and death in less than 20 minutes |
+| 12,800ppm | Unconsciousness after two to three breaths; death in less than three minutes. |
+
+[p16 | prose | Table 1: Symptoms of carbon monoxide exposure at increasing levels]
+Table 1: Symptoms of carbon monoxide exposure at increasing levels
+
+[p17 | prose | 2.5 Overhead power lines and other electrical equipment]
+2.5 Overhead power lines and other electrical equipment
+
+[p17 | prose | 2.5 Overhead power lines and other electrical equipment]
+If a concrete placing boom is set up in the vicinity of aerial power lines, the principal and concrete pumping contractors should take all practicable steps to ensure that workers are not harmed by the significant hazards faced by working near high-voltage electricity, such as electrocution from direct contact with the lines, or arc flash, where a flashover of electric current leaves its intended path and travels through the air from to another conductor or the ground.
+
+[p17 | prose | 2.5 Overhead power lines and other electrical equipment]
+In line with the hierarchy of controls, where work is being planned in the vicinity of overhead power lines, principals and concrete pumping contractors should take all practicable steps to eliminate the hazard by de-energising the power lines through the line owner. Please note that the line owner will require a reasonable period of notice for this to be arranged.
+
+[p17 | prose | 2.5 Overhead power lines and other electrical equipment]
+If it not practicable to de-energise the power line, principals and concrete pumping contractors must ensure, during all stages of the concrete pumping operation, that no part of the concrete placing boom comes within FOUR METRES of live power lines, unless the operator has received written consent from the line owner allowing a reduced distance.
+
+[p17 | prose | 2.5 Overhead power lines and other electrical equipment]
+Reasonable notice should be provided for written applications for consent to work within reduced minimum approach distances or to turn the power off to the area.
+
+[p17 | prose | 2.5 Overhead power lines and other electrical equipment]
+If approval to work closer to overhead power lines has been obtained in writing, the minimum approach distance between a power line and any mobile plant (in this case, the concrete placing vehicle) shall not be less than specified in Table 21.
+
+[p17 | table | 2.5 Overhead power lines and other electrical equipment]
+| Crease M | spprosch demc () |
+| --- | --- |
+| Not exceeding 1 kV - insulated conductor | 0.15 |
+| Not exceeding 1 kV - conductor not insulated | 1.0 |
+| Exceeding 1 kV but not exceeding 66kV | 1.0 |
+| Exceeding 66kV but not exceeding 110 kV a.c. or d.c. | 1.5 |
+| Exceeding 110 kV but not exceeding 220 kV a.c. or d.c. | 2.2 |
+| Exceeding 220 kV d.c. but not exceeding 270 kV d.c. | 2.3 |
+| Exceeding 270 kV d.c. but not exceeding 350 kV d.c. | 2.8 |
+| Exceeding 350 kV d.c. or 220 kV a.c. |  |
+
+[p17 | prose | 2.5 Overhead power lines and other electrical equipment]
+Table 2: Required minimum approach distances (written consent has been obtained)1
+
+[p17 | prose | 2.5 Overhead power lines and other electrical equipment]
+1 Table 6 – Reduced Minimum Approach Distances (where written consent has been obtained) from NZECP 34:2001 New Zealand Electrical Code of Practice for Electrical Safe Distances, Energy Safety Service (Ministry of Economic Development)
+
+[p18 | prose | 2.5 Overhead power lines and other electrical equipment]
+Consent from the power line owner shall also include:
+
+[p18 | prose | 2.5 Overhead power lines and other electrical equipment]
+
+
+[p18 | prose | 2.5 Overhead power lines and other electrical equipment]
+the section of power line to which the consent applies any other reasonable conditions to be observed when working in proximity to or above the power line.
+
+[p18 | prose | Competent employees]
+Competent employees
+
+[p18 | prose | Competent employees]
+If the operator of any mobile plant is a competent person working in, or in the proximity of, an overhead power line, the approach distances may be reduced in accordance with the safety practices determined by the overhead power line owner.
+
+[p18 | prose | Competent employees]
+It is recommended in these cases that the mobile plant operator is assisted by a spotter, who can determine the machine’s proximity to the power lines.
+
+[p18 | prose | Competent employees]
+If concrete placing booms or other mobile plant are likely to be used at any time in the proximity of overhead power lines, the owner or operator of the plant should affix an approved warning notice in a conspicuous place as near as practicable to the operator’s position. The notice shall be maintained in a legible condition and shall state:
+
+[p18 | prose | Competent employees]
+When considering minimum approach distances, take into account the surge action of the concrete pump boom when it is pumping. This action has resulted in serious harm and fatal accidents through contact with electrical conductors.
+
+[p18 | prose | Competent employees]
+For further information on safe distances when working in the vicinity of overhead power lines, refer to the New Zealand Electrical Code of Practice for Electrical Safe Distances NZECP 34:2001, available from the Energy Safety Service of the Ministry of Business, Innovation and Employment (Economic Development). Website: www.med.govt.nz.
+
+[p18 | prose | Competent employees]
+It is recommended that concrete pumping companies engage proactively with the power line companies in order to ensure a viable and efficient working partnership.
+
+[p18 | prose | Safety Service (Ministry of Economic Development)]
+Safety Service (Ministry of Economic Development)
+
+[p19 | table | Safety Service (Ministry of Economic Development)]
+| ALL WORKSThe distance between any live overhead electric line and any mobile plant or load carried shall be at least 4m, unless the operator has written consent from the overhead electric line ownerSection 5.2.1 |  |  | WORKING ABOVE OVERHEAD LINESWritten consent from line owner required for the operation of mobile plant or any load carried above the overhead electric lineSection 5.3.1 |
+| --- | --- | --- | --- |
+| ALL WORKS - REDUCED DISTANCESWhen approval is obtained pursuant to clause 5.2.1, and subject to clause 5.5.1, the minimum approach distance between a conductor and any mobile plant shall not be less than specified in Table 6Section 5.2.2 |  |  | HEDGE CUTTERSMechanically operated hedge cutters used in close proximity to overhead lines shall be operated to prevent hedge clippings or other material from being thrown into contact with the conductors or creating any other hazardSection 5.6.2 |
+| REDUCED DISTANCES FOR COMPETENT EMPLOYEESWhere the operator of any mobile plant is a competent employee working on, or near, an overhead electric line, approach distances may be reduced in accordance with safety practices determined by the electric line ownerSection 5.5.1 |  |  | WARNING NOTICEWhere mobile plant is likely to be used close to overhead electric lines, the owner or operator of such device shall affix a warning notice in a conspicuous place as near as practicable to the operator's position, stating:"WARNING, KEEP CLEAR OF POWER LINES"Section 5.6.1 |
+
+[p20 | prose | SECTION 3: PLANNING AND PREPARATION]
+SECTION 3: PLANNING AND PREPARATION
+
+[p20 | prose | 3.1 General]
+3.1 General
+
+[p20 | prose | 3.1 General]
+Planning and preparation is the first step in ensuring that concrete pumping is done safely, and must involve consultation with all those engaged in the work.
+
+[p20 | prose | 3.1 General]
+Planning should incorporate the project’s total pumping operational requirements. This plan may need to be reviewed each time a concrete pumping operation is scheduled, to take into account any unforeseen circumstances.
+
+[p20 | prose | 3.1 General]
+Information regarding principals’ legal duties
+
+[p20 | prose | 3.1 General]
+Section 18 of the Health and Safety in Employment Act 1992 (the Act) places a duty on a principal to a contract to take all practicable steps to ensure that contractors, subcontractors and their employees, are not harmed while undertaking any work under the contract.
+
+[p20 | prose | 3.1 General]
+A principal or contractor may also be an employer, a self-employed person, or a person who controls a place of work (with duties under section 16 of the Act).
+
+[p20 | prose | 3.1 General]
+A principal's duty under the Act is limited to matters which they can reasonably be expected to control. There are situations where control of a place of work may be shared by the principal and by contractors. For example, an electrical subcontractor working on scaffolding on a construction site may not be subject to the control of the main contractor (a "principal" in this case) regarding the electrical work he or she is doing, but the use of the scaffolding may be under the control of the principal.
+
+[p20 | prose | 3.1 General]
+Section 18 is intended to cover situations where either:
+
+[p20 | prose | 3.1 General]
+the contractor does not have full control because of conditions in a contract or because hazards are under the control of the principal, or
+
+[p20 | prose | 3.1 General]
+work is being carried out where there is no employer/employee
+
+[p20 | prose | 3.1 General]
+relationship, and the principal retains control of the place of work.
+
+[p20 | prose | 3.1 General]
+For further information about health and safety in contract management, read “A Principal’s Guide to Contracting to Meet the Health and Safety in Employment Act 1992” (refer to Appendix B).
+
+[p20 | prose | 3.2 The construction site principal]
+3.2 The construction site principal
+
+[p20 | prose | 3.2 The construction site principal]
+The construction site principal, in consultation with other involved contractors and the pumping contractor should:
+
+[p20 | prose | 3.2 The construction site principal]
+ensure that enough trained and competent workers are available to safely
+
+[p20 | prose | 3.2 The construction site principal]
+use the pumping equipment
+
+[p20 | prose | 3.2 The construction site principal]
+ensure that pumping equipment is well maintained and in a sound
+
+[p20 | prose | 3.2 The construction site principal]
+mechanical condition select the most suitable location for the pump set-up, including:
+
+[p20 | prose | o an accessible, reasonably level area with a firm base, able to]
+o an accessible, reasonably level area with a firm base, able to
+
+[p20 | prose | o an accessible, reasonably level area with a firm base, able to]
+support the fully loaded working pump and concrete delivery trucks
+
+[p20 | prose | o clearance from obstructions and excavations]
+o clearance from obstructions and excavations
+
+[p21 | prose | o clearance from obstructions and excavations]
+o observing the restrictions of operating near overhead power lines o
+
+[p21 | prose | the pump’s operational safety zone]
+the pump’s operational safety zone
+
+[p21 | prose | the pump’s operational safety zone]
+if the pump unit or delivery area is set up in the street:
+
+[p21 | prose | the pump’s operational safety zone]
+o observe all local by-laws o observe any requirements for traffic management o ensure that the general public is provided with safe and segregated
+
+[p21 | prose | access away from the pumping operation]
+access away from the pumping operation
+
+[p21 | prose | access away from the pumping operation]
+have an appropriate method for the collection of residue or waste
+
+[p21 | prose | access away from the pumping operation]
+concrete, before it enters storm water drains, which may result from:
+
+[p21 | prose | o concrete truck deliveries o spillage o]
+o concrete truck deliveries o spillage o
+
+[p21 | prose | the wash-out and cleaning of the pump or lines]
+the wash-out and cleaning of the pump or lines
+
+[p21 | prose | the wash-out and cleaning of the pump or lines]
+set a realistic time schedule for pumping concrete, allowing for:
+
+[p21 | prose | 3.3 Concrete pumping contractor]
+3.3 Concrete pumping contractor
+
+[p21 | prose | 3.3 Concrete pumping contractor]
+The concrete pumping contractor, after consulting with the principal and other involved contractors, should ensure that the most suitable location for the pump set-up is selected, including:
+
+[p21 | prose | 3.3 Concrete pumping contractor]
+an accessible, reasonably level area within the operating capacity of the
+
+[p21 | prose | equipment]
+equipment
+
+[p21 | prose | equipment]
+a firm base able to support the fully loaded working pump and delivery
+
+[p21 | prose | trucks clearance from obstructions and excavations]
+trucks clearance from obstructions and excavations
+
+[p21 | prose | trucks clearance from obstructions and excavations]
+ observing electricity safety, including the restrictions of operating near overhead power lines the pump’s operational safety zone.
+
+[p21 | prose | trucks clearance from obstructions and excavations]
+The pumping contractor must ensure that any supplied pumping equipment is in a mechanically sound condition and has:
+
+[p21 | prose | trucks clearance from obstructions and excavations]
+
+
+[p21 | prose | trucks clearance from obstructions and excavations]
+all of the correctly positioned, legible warning and safety signs/stickers  all required safety equipment  an adequate supply of packing for the stabiliser base plates  a completed assessment of the risks of injury from all associated tasks   any required transport authority permits and vehicle registration  detailed maintenance and inspection records available upon request. current equipment maintenance logbooks(s)
+
+[p21 | prose | trucks clearance from obstructions and excavations]
+The pumping contractor must ensure that:
+
+[p21 | prose | trucks clearance from obstructions and excavations]
+enough workers are available to safely pump concrete
+
+[p22 | prose | trucks clearance from obstructions and excavations]
+ personal protective equipment (PPE) is provided and used  other required safety equipment is supplied and used  all workers are adequately trained and/or supervised.
+
+[p22 | prose | trucks clearance from obstructions and excavations]
+safe systems of work are being followed
+
+[p22 | prose | Other equipment]
+Other equipment
+
+[p22 | prose | Other equipment]
+Each mobile concrete pump should be equipped with all necessary safety equipment, including a:
+
+[p22 | prose | Other equipment]
+  a sufficient number of reflective traffic cones (minimum 450mm high for identifying wet roads or pavements).
+
+[p22 | prose | Other equipment]
+stocked first aid kit charged and current fire extinguisher
+
+[p22 | prose | Other equipment]
+Additional safety equipment may need to be provided if the pump is set up on or near a roadway, and may include:
+
+[p22 | prose | Other equipment]
+pedestrian warning and diversion signs  vehicle traffic warning signs  traffic management equipment.
+
+[p22 | prose | 3.4 Equipment hirer]
+3.4 Equipment hirer
+
+[p22 | prose | 3.4 Equipment hirer]
+A supplier who hires or leases out concrete pumping equipment has duties under the Regulation 67 of the Health and Safety in Employment Regulations 1995, including ensuring that the pumping equipment is:
+
+[p22 | prose | 3.4 Equipment hirer]
+well-maintained and in a sound mechanical condition  equipped with all necessary safe use and operating information  provided with the required maintenance and inspection records.
+
+[p22 | prose | 3.4 Equipment hirer]
+The vehicle component of the concrete pump shall have a suitable Certificate of Fitness and be registered to operate on the road.
+
+[p23 | prose | SECTION 4: SET-UP]
+SECTION 4: SET-UP
+
+[p23 | prose | 4.1 General]
+4.1 General
+
+[p23 | prose | 4.1 General]
+Concrete pumping equipment in operation should not create a hazard to the operators, other workers or the public.
+
+[p23 | prose | 4.2 Arrival on site]
+4.2 Arrival on site
+
+[p23 | prose | 4.2 Arrival on site]
+When arriving on site (where practicable), the concrete pump operator, or other experienced representative, should be shown the set-up area, and the site conditions reviewed with the other contractors involved in the pumping operation. Where any of the conditions under which the pumping equipment is to operate are not satisfactory, or if confirmation of the equipment’s mechanical soundness is not available, rectification should occur before pumping commences.
+
+[p23 | prose | 4.3 Pump set-up]
+4.3 Pump set-up
+
+[p23 | prose | 4.3 Pump set-up]
+The concrete pumping area should be reasonably level, solid and free of obstructions, with careful attention paid to the positioning of the pumping equipment and any stabilising devices. In particular, the area should be:
+
+[p23 | prose | 4.3 Pump set-up]
+clear of excavations, trenches or holes in the ground
+
+[p23 | prose | 4.3 Pump set-up]
+clear of inadequately compacted or soft ground
+
+[p23 | prose | 4.3 Pump set-up]
+clear of cellars, basements, pits or back-filled ground, unless stability is approved in writing by a qualified engineer
+
+[p23 | prose | 4.3 Pump set-up]
+clear of overhead power lines and fixed electrical equipment
+
+[p23 | prose | 4.3 Pump set-up]
+of a size enough to allow for safe operation
+
+[p23 | prose | 4.3 Pump set-up]
+of a size enough to allow for the safe discharge from the concrete delivery trucks.
+
+[p23 | prose | 4.4 Boom set-up]
+4.4 Boom set-up
+
+[p23 | prose | 4.4 Boom set-up]
+The boom placement system should be set up level or at no greater angle than recommended by the manufacturer, as specified in the operator’s instruction manual.
+
+[p23 | prose | 4.4 Boom set-up]
+Figure 6: Position pumping equipment clear of excavations
+
+[p24 | prose | 4.5 Outriggers]
+4.5 Outriggers
+
+[p24 | prose | 4.5 Outriggers]
+Where outriggers are fitted, ensure that:
+
+[p24 | prose | 4.5 Outriggers]
+adequate packing of sufficient strength and load bearing area is available for the outrigger stabilising pads. Packing may include engineered bog mats or suitable timbers. The use of loose softwood timbers is not recommended
+
+[p24 | prose | 4.5 Outriggers]
+before the boom is erected, that the outriggers are extended, lowered and
+
+[p24 | prose | 4.5 Outriggers]
+locked in position. Wherever possible, the outriggers should be fully extended. o
+
+[p24 | prose | 4.5 Outriggers]
+If outriggers are not fully extended, the reduced safe operating radius must be known and recorded in the task analysis.
+
+[p24 | prose | 4.5 Outriggers]
+the pads are clear of excavations; soft or filled ground or other obstacles are liable to interfere with the safe operation of the machine regular inspections of the outrigger pads are conducted to check for subsidence and loss of stability the boom is folded in the travel position before raising the outriggers when making any positioning adjustments.
+
+[p24 | prose | 4.5 Outriggers]
+4.6 Placing the boom
+
+[p24 | prose | 4.5 Outriggers]
+A concrete placing boom should not be:
+
+[p24 | prose | 4.5 Outriggers]
+raised or left extended when winds exceed the maximum safe wind speed for operation (specified by the manufacturer) raised or left extended during an electrical storm or thunderstorm
+
+[p24 | prose | 4.5 Outriggers]
+ used as a crane  used to pump concrete with the rams in tension, unless designed for this purpose raised, lowered or moved when there is insufficient light to do so safely.
+
+[p24 | prose | 4.5 Outriggers]
+In addition, any truck-mounted placing boom should:
+
+[p24 | prose | 4.5 Outriggers]
+have the earth safety chain deployed before operation  not be raised from the travel position if under a power line, unless complying with section 2.6.
+
+[p25 | prose | Figure 7: Look up and live - comply with area restrictions]
+Figure 7: Look up and live - comply with area restrictions
+
+[p25 | prose | Figure 7: Look up and live - comply with area restrictions]
+Note: Tiger battens do not protect people from the risk of electrocution or electric shock - they only provide a visual warning for people working in the area of power lines.
+
+[p25 | prose | 4.7 Receiving hopper]
+4.7 Receiving hopper
+
+[p25 | prose | General]
+General
+
+[p25 | prose | General]
+The concrete pump should be positioned so the receiving hopper is at a height that allows a gravity flow of concrete from the pre-mix delivery trucks into the hopper.
+
+[p25 | prose | Hopper guard]
+Hopper guard
+
+[p25 | prose | Hopper guard]
+The concrete pump should not be operated unless the hopper opening is fitted with a grille-type safety guard:
+
+[p25 | prose | Hopper guard]
+upon which no-one is allowed to stand
+
+[p25 | prose | Hopper guard]
+which prevents access to dangerous moving parts
+
+[p25 | prose | Hopper guard]
+is constructed of parallel or mesh bars complying with AS 1418.15: Cranes (Including Hoists and Winches) – Concrete Placing Equipment
+
+[p25 | prose | Hopper guard]
+which requires a tool to be removed
+
+[p25 | prose | Hopper guard]
+is connected to an interlocked cut-out switch designed to stop all moving parts if the guard is lifted.
+
+[p25 | prose | Hopper guard]
+A correctly fitted hopper guard reduces the risk of body entrapment within the moving parts of the hopper, but due to its design, it cannot protect against all possible contact with the moving parts. Equipment manufacturers use a range of additional measures to limit the likelihood of entrapment, including:
+
+[p25 | prose | Hopper guard]
+separating the operator’s controls away from the moving parts
+
+[p25 | prose | Hopper guard]
+raising the height of the hopper lid from the ground.
+
+[p26 | prose | Hopper guard]
+When working in the vicinity of the hopper, the manufacturer’s operating and safety instructions should be strictly observed.
+
+[p26 | prose | 4.8 Operational safety zone]
+4.8 Operational safety zone
+
+[p26 | prose | General]
+General
+
+[p26 | prose | General]
+Access to areas around the concrete pump and delivery pipeline should be restricted - the most appropriate method of isolating the area should be used.
+
+[p26 | prose | General]
+The use of one or more of the following controls is recommended:
+
+[p26 | prose | General]
+ barricades  posts and safety mesh  posts and danger tape or flags.
+
+[p26 | prose | General]
+covered walkways
+
+[p26 | prose | General]
+Where the pumping or pipeline set-up is for a longer duration project, the isolation methods should be made more permanent.
+
+[p26 | prose | Other people]
+Other people
+
+[p26 | prose | Other people]
+No person, other than those workers directly involved in the concrete pumping operation, should be in the operational safety zone during concrete pumping.
+
+[p26 | prose | Concrete delivery area]
+Concrete delivery area
+
+[p26 | prose | Concrete delivery area]
+The concrete truck delivery area, including the area around the pump hopper, should be set up to ensure that:
+
+[p26 | prose | Concrete delivery area]
+workers are safe from other vehicles  adequate lighting is provided if pumping in non-daylight hours  appropriate signage is posted  there is clear access for delivery trucks.
+
+[p26 | prose | Concrete delivery area]
+If multiple concrete deliveries are expected and on-site traffic management is not provided, only one delivery truck should approach and discharge into the hopper at a time.
+
+[p26 | prose | Concrete delivery area]
+If a designated on-site traffic controller is provided, the following safety rules should be followed:
+
+[p26 | prose | Concrete delivery area]
+all personnel connected with discharging from concrete trucks are to wear
+
+[p26 | prose | appropriate high-visibility safety vests]
+appropriate high-visibility safety vests
+
+[p26 | prose | appropriate high-visibility safety vests]
+all concrete delivery trucks must have operational reversing beepers  the traffic controller and truck driver should be in positions which prevent them from being caught between the hopper and a reversing truck the traffic controller should warn the driver at the pump of the presence of another truck being reversed into position the traffic controller should be in a position visible to the reversing driver and where the hopper area can be observed
+
+[p26 | prose | appropriate high-visibility safety vests]
+delivery drivers should ensure that their vehicles remain clear of the discharge area until signalled to reverse into position by the traffic controller
+
+[p27 | prose | appropriate high-visibility safety vests]
+• if the driver loses sight of the traffic controller when reversing into position, the driver should stop immediately.
+
+[p27 | prose | Hand signals]
+Hand signals
+
+[p27 | prose | Hand signals]
+Information about hand signals for concrete truck reversing is located at Appendix E.
+
+[p27 | prose | Public areas]
+Public areas
+
+[p27 | prose | Public areas]
+If the concrete pumping equipment or pipeline is in an area accessible to the general public, the principal should provide adequate control measures to protect the public from any dangers associated with the pumping operation.
+
+[p28 | prose | Pedestrian Controls]
+Pedestrian Controls
+
+[p28 | prose | Pedestrian Controls]
+If the general public can come close to any part of the concrete pumping operation, the following options are recommended:
+
+[p28 | prose | Pedestrian Controls]
+directing the public to an alternative footpath, or providing an alternative
+
+[p28 | prose | Pedestrian Controls]
+pathway installing protective screens to prevent concrete splashing on members of the public
+
+[p28 | prose | Pedestrian Controls]
+erecting barricades and warning signs that are compliant with New
+
+[p28 | prose | Zealand Transport Agency (NZTA) requirements.]
+Zealand Transport Agency (NZTA) requirements.
+
+[p28 | prose | Zealand Transport Agency (NZTA) requirements.]
+For longer concrete pumping operations, pedestrian controls should be of a more permanent nature.
+
+[p28 | prose | Traffic Controls]
+Traffic Controls
+
+[p28 | prose | Traffic Controls]
+The principal, in consultation with the pumping contractor, should provide adequate traffic control measures to comply with NZTA or local government requirements.
+
+[p28 | prose | 4.9 Delivery pipeline set-up]
+4.9 Delivery pipeline set-up
+
+[p28 | prose | 4.9 Delivery pipeline set-up]
+When installing a pipeline system, all individual components must be compatible and comply with the pump manufacturer’s specifications for minimum pressure rating and maximum diameter. A pipeline should be installed in accordance with AS 2550.15: Cranes – Safe use – Concrete placing equipment, ensuring that:
+
+[p28 | prose | 4.9 Delivery pipeline set-up]
+unnecessary bends are avoided  each section of the pipeline is adequately supported and secured to the building to avoid extra load on the pipe clamps
+
+[p28 | prose | 4.9 Delivery pipeline set-up]
+when changing the pipeline from the horizontal to the vertical, the pipeline is fixed to stop movement of the bend or the vertical and horizontal lines which may cause the 90 ̊ bend to snap off at the clamps cranes or hoist towers, scaffolding or formwork are not to be used to secure the pipeline unless designed for this purpose
+
+[p28 | prose | 4.9 Delivery pipeline set-up]
+all metal pipes and pipeline components are identified and inspected
+
+[p28 | prose | 4.9 Delivery pipeline set-up]
+before installation the designed pressure of the pipeline is compatible with the rated maximum concrete pressure of all pumps to be used on the pipeline during normal operations.
+
+[p29 | prose | Figure 10: Securely fix the pipeline to avoid movement]
+Figure 10: Securely fix the pipeline to avoid movement
+
+[p29 | prose | Figure 10: Securely fix the pipeline to avoid movement]
+Note: If a pump fails during operation, a replacement may be required to complete the pour and clean out the pipeline. If a pump of the same or lower (if suitable) pressure rating is not available, a higher pressure rated pump may be used to complete the pour, provided:
+
+[p29 | prose | Figure 10: Securely fix the pipeline to avoid movement]
+the concrete pressure rating of the pipeline is known
+
+[p29 | prose | Figure 10: Securely fix the pipeline to avoid movement]
+there is a method of monitoring concrete pressure
+
+[p29 | prose | Figure 10: Securely fix the pipeline to avoid movement]
+an operator is continually monitoring the concrete pressure
+
+[p29 | prose | Figure 10: Securely fix the pipeline to avoid movement]
+the concrete pressure does not exceed the pressure rating of the pipeline.
+
+[p29 | prose | Figure 10: Securely fix the pipeline to avoid movement]
+Note: if the manufacturer provides a conversion factor, the pump’s hydraulic pressure gauge may be used as an indicator of concrete pressure.
+
+[p29 | prose | Pipe clamps]
+Pipe clamps
+
+[p29 | prose | Pipe clamps]
+Clamps connecting concrete piping need to be of the correct size, appropriate for the pressure rating of the pump, and maintained in good condition.
+
+[p29 | prose | Pipe clamps]
+All pipe clamps used on any pipeline system must be:
+
+[p29 | prose | Pipe clamps]
+able to sustain the maximum concrete pressure applied to the pipeline by the pump
+
+[p29 | prose | Pipe clamps]
+regularly inspected by a competent person for signs of wear or fatigue
+
+[p29 | prose | Pipe clamps]
+immediately replaced if deformed or damaged.
+
+[p29 | prose | Pipe clamps]
+Clamps should also be permanently marked with the manufacturer’s name (or trademark), and the maximum permissible operating pressure. The clamps should be rated at a working pressure equal to or greater than the maximum working pressure of the concrete pump.
+
+[p30 | prose | Pipe clamps]
+Quick-release pipe clamps may only be used if provided with locking pins, and should be visually checked prior to each pumping operation. Locking pins, R-type or equivalent, are to be fitted and engaged when quick-release pipe clamps are used on fixed or vertical pipelines, or:
+
+[p30 | prose | Pipe clamps]
+All pipeline connections from the boom must be secured by safety chains or wire strops to prevent the pipeline falling to the ground if a clamp fails.
+
+[p30 | prose | Pipeline movement]
+Pipeline movement
+
+[p30 | prose | Pipeline movement]
+The pipeline should be adequately secured to the building or structure, with attention given to the reaction forces generated where high pump pressures are involved. The mounting system should be designed to ensure the pipeline remains in place. Support brackets in a vertical pipeline should be spaced no more than three metres apart. Expansion anchors of the high-load slip control type or other fixing methods of at least the same structural strength should be used if fixed to masonry. The surging action of the pump should not cause excessive pipe movement. If required, additional anchor brackets or other suitable methods to restrict pipe movement should be used.
+
+[p30 | prose | End-hose]
+End-hose
+
+[p30 | prose | End-hose]
+The rubber delivery end-hose should:
+
+[p31 | prose | End-hose]
+where connected to a boom: be secured by a safety chain, sling or other restraining device
+
+[p31 | prose | End-hose]
+not contain metallic parts
+
+[p31 | prose | End-hose]
+not be longer than specified by the pump manufacturer.
+
+[p31 | prose | End-hose]
+If concrete pumping has stopped and the hose is manoeuvred over a work or public area, the operator must prevent concrete falling from the hose outlet.
+
+[p31 | prose | End-hose and reducer combination]
+End-hose and reducer combination
+
+[p31 | prose | End-hose and reducer combination]
+If the delivery end-hose is replaced by a hose and reducer combination, only those combinations assembled to the manufacturer’s instructions should be used, and:
+
+[p31 | prose | End-hose and reducer combination]
+locking pins are to be engaged on all quick-release pipe clamps in the assembly
+
+[p31 | prose | End-hose and reducer combination]
+each piece must be capable of withstanding the rated maximum pressure of the pump
+
+[p31 | prose | End-hose and reducer combination]
+each hanging piece is tethered by a safety cable, sling or chain
+
+[p31 | prose | End-hose and reducer combination]
+the combined weight of all pieces MUST NOT EXCEED the weight of the manufacturer’s recommended end-hose.
+
+[p31 | prose | End-hose and reducer combination]
+Figure 13: End-hose and reducer with safety slings
+
+[p32 | prose | SECTION 5: OPERATION]
+SECTION 5: OPERATION
+
+[p32 | prose | 5.1 General]
+5.1 General
+
+[p32 | prose | 5.1 General]
+To safely operate any type of concrete pumping equipment, it is necessary to have enough workers to control the pumping operation. These workers need not be directly employed by the concrete pumping contractor, but should be trained and experienced, and require their employer’s authorisation before commencing the work.
+
+[p32 | prose | 5.2 Communications]
+5.2 Communications
+
+[p32 | prose | 5.2 Communications]
+The effective passing of directions from the hose-hand to the pump operator is essential for safe concrete pumping. The following examples may be used:
+
+[p32 | prose | 5.2 Communications]
+non-verbal: a set of standard hand signals which cover all of the pump’s
+
+[p32 | prose | 5.2 Communications]
+operational functions (refer to Appendices D and E)
+
+[p32 | prose | 5.2 Communications]
+verbal: standard operational phrases that may be delivered by a dedicated
+
+[p32 | prose | two-way radio system.]
+two-way radio system.
+
+[p32 | prose | 5.3 Pump and boom operators]
+5.3 Pump and boom operators
+
+[p32 | prose | 5.3 Pump and boom operators]
+The concrete pumping equipment operator should be trained in the operation of the type of plant being used, and:
+
+[p32 | prose | 5.3 Pump and boom operators]
+be familiar with the instruction manual(s)  be able to carry out daily maintenance inspections  before pumping commences, carry out a visual inspection of the pipeline  not leave operating equipment unattended  not adjust the hydraulic pressure of the pump and pipeline to which the pump is connected
+
+[p32 | prose | 5.3 Pump and boom operators]
+not pump concrete unless the hopper guard is in the closed position  not stand or allow any other person to stand on the hopper guard or beneath the raised boom
+
+[p32 | prose | 5.3 Pump and boom operators]
+be located at the pump controls, or if using a remote control, have a clear
+
+[p32 | prose | 5.3 Pump and boom operators]
+
+
+[p32 | prose | 5.3 Pump and boom operators]
+view of either the hose-hand or the hopper follow the directions of the hose-hand if using hand signals and out of view of the hose-hand, be assisted by another worker to relay directions if out of view of the hopper, have a worker positioned at the hopper to operate emergency systems and control the discharge process report defects to the pumping supervisor without delays; if they are considered to be a significant hazard, stop pumping operations until they are repaired record daily inspections, defects and repairs in the logbook.
+
+[p32 | prose | 5.4 Pump operator/hose-hand]
+5.4 Pump operator/hose-hand
+
+[p32 | prose | 5.4 Pump operator/hose-hand]
+If a mobile concrete pump is fitted with remote control facilities, the operator may operate as a hose-hand and also control the concrete pump under the following conditions:
+
+[p32 | prose | 5.4 Pump operator/hose-hand]
+a site-specific task analysis has been completed that addresses all issues
+
+[p32 | prose | 5.4 Pump operator/hose-hand]
+relating to this dual function
+
+[p33 | prose | 5.4 Pump operator/hose-hand]
+a worker is positioned at the hopper to operate the emergency systems and to control the discharge process.
+
+[p33 | prose | 5.4 Pump operator/hose-hand]
+If a mobile concrete placing boom is to be controlled, these additional conditions should be followed:
+
+[p33 | prose | 5.4 Pump operator/hose-hand]
+the hazards of accessibility by the public or other workers have been addressed
+
+[p33 | prose | 5.4 Pump operator/hose-hand]
+the boom is visible to the operator and the pump is in an audible range
+
+[p33 | prose | 5.4 Pump operator/hose-hand]
+there are no obstructions which the moving boom may contact during the pumping operation.
+
+[p33 | prose | 5.5 Hose-hand]
+5.5 Hose-hand
+
+[p33 | prose | 5.5 Hose-hand]
+Fatal accidents have occurred where hose-hands have been killed by the end- hose whipping around under high pressure and hitting their head or body. This is a significantly hazardous operation, and all practicable steps to ensure the safety of the hose-hand and others in the vicinity of the hose must be taken.
+
+[p33 | prose | Hose-whip]
+Hose-whip
+
+[p33 | prose | Hose-whip]
+Hose-whip can occur either during the concrete pumping operation, or when the hose is being cleaned out. It is generally caused by air getting trapped in the hose line, usually behind a concrete blockage. If this happens, the air pressure behind the blockage builds up, and can eject the blockage with such force that the hose becomes unmanageable. Often the hose ‘whips around’ and strikes the operator with force. Fatal accidents have occurred when the hose has struck operators in the head or face.
+
+[p33 | table | Hose-whip]
+| Hazad | Comtrls |
+| --- | --- |
+| Fatal or serious accidents caused | . Do not attach metal fittings to the free end of the rubber |
+|  | pump operator at a distance. Experienced operators should be used to operate the hose. (Trainee workers may operate the hose under the direct supervision from a competent and experienced operator). |
+
+[p34 | prose | Hose-whip]
+including a hard hat.
+
+[p34 | prose | Hose-whip]
+Maintain good housekeeping around the pour site to minimise tripping hazards.
+
+[p34 | prose | Hose-whip]
+If possible, avoid working directly beneath the raised boom by manoeuvring the hose from the side.
+
+[p34 | prose | Hose-whip]
+The delivery hose on a boom pump should hang vertically and only be guided (instead of forced) by the hose-hand.
+
+[p34 | prose | Hose-whip]
+Do not allow concrete to fall out of the hose when pumping is stopped (this lets air into the hose).
+
+[p34 | prose | Hose-whip]
+The hose-hand should stand on a flat surface, and not on walls or unguarded structure edges.
+
+[p34 | prose | Hose-whip]
+Ensure that someone is in position to view the hopper and shut the pump down if air gets into the system, for example, if concrete runs out.
+
+[p34 | prose | Hose-whip]
+Other personnel (not related to concrete pumping) should be kept clear of the pour area.
+
+[p34 | prose | Hose-whip]
+Figure 14: Do not allow hose to kink
+
+[p34 | prose | Hose-whip]
+Figure 15: Let the boom do the work
+
+[p34 | prose | 5.6 Workers]
+5.6 Workers
+
+[p34 | prose | 5.6 Workers]
+All workers engaged in concrete pumping should be instructed in the concrete pumping task analysis. Where it is applicable to the tasks undertaken, additional instruction may need to include:
+
+[p34 | prose | 5.6 Workers]
+manual handling procedures relating to concrete pumping;
+
+[p34 | prose | 5.6 Workers]
+communication methods for relaying directions;
+
+[p34 | prose | 5.6 Workers]
+traffic management if directing multiple reversing pre-mix concrete delivery trucks.
+
+[p34 | prose | 5.6 Workers]
+Only those workers who are appropriately trained in traffic management and road safety procedures should act as road traffic controllers.
+
+[p35 | prose | 5.6 Workers]
+Note: Generally, drivers of pre-mix concrete delivery trucks should not be considered workers for concrete pumping operations, unless trained to carry out this function and authorised to act in this capacity by their employer or the concrete pumping contractor.
+
+[p35 | prose | 5.7 Trainee workers]
+5.7 Trainee workers
+
+[p35 | prose | 5.7 Trainee workers]
+Trainee workers must be under the direct supervision of a suitably trained or experienced worker who has been appointed as a supervisor by the employer or contractor, and can immediately take action to rectify a dangerous situation.
+
+[p35 | prose | 5.8 Concrete delivery drivers]
+5.8 Concrete delivery drivers
+
+[p35 | prose | 5.8 Concrete delivery drivers]
+When delivering to the site, it is essential that all concrete delivery drivers follow the directions of the worker(s) responsible for controlling traffic and the concrete discharge process. This is critical when multiple trucks are discharging or manoeuvring at the pump site.
+
+[p35 | prose | 5.8 Concrete delivery drivers]
+A number of concrete mixer drivers have been injured by bursting pump lines and couplings. The following actions should be undertaken by drivers working near concrete pumping operations:
+
+[p35 | prose | 5.8 Concrete delivery drivers]
+ wear all required personal protective equipment (PPE); and 
+
+[p35 | prose | 5.8 Concrete delivery drivers]
+stay well clear of pump lines and couplings where practicable;
+
+[p35 | prose | 5.8 Concrete delivery drivers]
+immediately report any safety problems to the pump operator or foreman for action.
+
+[p35 | prose | 5.9 Cleaning of equipment]
+5.9 Cleaning of equipment
+
+[p35 | prose | 5.9 Cleaning of equipment]
+Cleaning out residual concrete from pumping equipment should only be carried out by trained workers in accordance with the manufacturer’s procedures or the detailed written instructions developed by a competent person. When concrete pumping equipment is being cleaned out, ensure that another person is in the immediate vicinity to provide help in an emergency.
+
+[p35 | prose | Pipeline]
+Pipeline
+
+[p35 | prose | Pipeline]
+When cleaning out pipelines, the following safety precautions should be observed: the end-hose should be secured or removed before cleaning to prevent the hose whipping around the discharge end of the pipeline should be fitted with a cage to safely catch the cleaning device, but at the same time allow the concrete to flow  all workers are to be kept clear of the discharge end while the concrete is
+
+[p35 | prose | under pressure]
+under pressure
+
+[p35 | prose | under pressure]
+never attempt to dismantle the pipeline while it is still under pressure.
+
+[p36 | prose | under pressure]
+If compressed air is used to clean the pipeline, the following safety precautions apply:
+
+[p36 | prose | Semi-permanent pipeline]
+Semi-permanent pipeline
+
+[p36 | prose | Semi-permanent pipeline]
+If a semi-permanent pipeline is installed, (for example, a large construction project), the clean-out procedure(s) should be specifically designed for that installation, taking into account the general requirements in section 6.9 and specific site conditions.
+
+[p37 | prose | Pump and hopper]
+Pump and hopper
+
+[p37 | prose | Pump and hopper]
+When cleaning out the pump and/or hopper, the operator should ensure that the manufacturer’s cleaning instructions are followed. To prevent the risk of entanglement, the following should be taken into account:
+
+[p37 | prose | Pump and hopper]
+mechanically locking the moving parts in position
+
+[p37 | prose | Pump and hopper]
+shutting down the equipment
+
+[p37 | prose | Pump and hopper]
+disengaging the hydraulic pumps
+
+[p37 | prose | Pump and hopper]
+exhausting accumulated hydraulic or air pressure and allowing time for the pressure to be fully released from all systems
+
+[p37 | prose | Pump and hopper]
+ensuring the pump is not under pressure before it is dismantled
+
+[p37 | prose | Pump and hopper]
+not allowing any part of the worker’s body to be placed into the pump or hopper while cleaning.
+
+[p37 | prose | Pump and hopper]
+Figure 19: Dangerous cleaning practices
+
+[p38 | prose | Figure 20: Dangerous cleaning practices]
+Figure 20: Dangerous cleaning practices
+
+[p38 | prose | Figure 20: Dangerous cleaning practices]
+Note: Where fitted, the interlocked cut-out switch on the hopper guard should not be solely relied on to prevent movement of parts during cleaning.
+
+[p38 | prose | 5.10 Preparation for road travel]
+5.10 Preparation for road travel
+
+[p38 | prose | 5.10 Preparation for road travel]
+The manufacturer’s instruction manual should always be followed; and may include:
+
+[p38 | prose | 5.10 Preparation for road travel]
+the boom being is folded and placed in the travel position before the outriggers are retracted, and securely stowed in the travel position with locking devices engaged
+
+[p38 | prose | 5.10 Preparation for road travel]
+any loose components (such as pipes, couplings, or tools) are to be correctly stowed or restrained on the vehicle as per the New Zealand Road Rules
+
+[p38 | prose | 5.10 Preparation for road travel]
+all power take-off (PTO) drives to hydraulic pumps for the concrete pump, boom and outriggers are disengaged and the controls put in the OFF position
+
+[p38 | prose | 5.10 Preparation for road travel]
+before moving, visually inspect the vehicle to confirm everything is secured.
+
+[p39 | prose | 5.10 Preparation for road travel]
+Figure 21: Confirm everything is secured before moving
+
+[p40 | prose | SECTION 6: EQUIPMENT]
+SECTION 6: EQUIPMENT
+
+[p40 | prose | 6.1 General requirements]
+6.1 General requirements
+
+[p40 | prose | 6.1 General requirements]
+All concrete pumping equipment should fully comply with the 1418 series of Australian Standards, including AS 1418.15 – Concrete Placing Equipment, or equivalent standards.
+
+[p40 | prose | 6.2 Documentation]
+6.2 Documentation
+
+[p40 | prose | 6.2 Documentation]
+Any equipment – new, used, imported or locally manufactured - should be accompanied by all the appropriate documentation, including evidence of compliance to the appropriate standards, and should be retained for the life of the equipment. All documentation, including operation and safe use instructions, should be in English.
+
+[p40 | prose | 6.3 Identification]
+6.3 Identification
+
+[p40 | prose | Data plates and vehicle permits]
+Data plates and vehicle permits
+
+[p40 | prose | Data plates and vehicle permits]
+Concrete pumps and associated equipment prior to operation must have:
+
+[p40 | prose | Data plates and vehicle permits]
+all required vehicle permits and road registration 
+
+[p40 | prose | Data plates and vehicle permits]
+if it is a truck-mounted placing boom, a Certificate of Fitness and registration legible and permanently marked data plate(s) in prominent position(s), containing:
+
+[p40 | prose | o]
+o
+
+[p40 | prose | o]
+o
+
+[p40 | prose | o o]
+o o
+
+[p40 | prose | o o]
+the manufacturer’s, distributor’s or certifying competent person’s name the date of manufacture, or if unknown, the date the data plate was issued the make and model numbers if known the serial number.
+
+[p40 | prose | o o]
+The Manufacturers/Operators Manual should include the following information:
+
+[p40 | prose | o o]
+rated length and height of the boom   maximum allowable concrete pressure  maximum length and nominal size of the end hose  maximum nominal size of delivery pipe  maximum loading, if fitted, of each outrigger leg  maximum hydraulic pressure  maximum concrete pressure  pump capacity.
+
+[p40 | prose | o o]
+(The manufacturer’s or operator’s manual should always be carried in the cab of the vehicle).
+
+[p40 | prose | o o]
+A vehicle chassis on which any concrete pumping equipment is mounted must:
+
+[p40 | prose | o o]
+be registered for travelling on public roads  be in a roadworthy condition  have an engineer’s report for any structural alterations  if required by transport regulations, have a vehicle logbook.
+
+[p41 | prose | 6.4 Pipeline components]
+6.4 Pipeline components
+
+[p41 | prose | 6.4 Pipeline components]
+The manufacturer or supplier must certify that all materials, pipes, hoses and accessories are safe to use in concrete pumping systems and are within the calculated design pressures. When components from different manufacturers are assembled, all components should be compatible, and the pipeline must have the design pressure of the lowest-rated component.
+
+[p41 | prose | 6.5 Hydraulic systems]
+6.5 Hydraulic systems
+
+[p41 | prose | 6.5 Hydraulic systems]
+The main hydraulic control panel should be fitted with an easy-to-read and accurate gauge that indicates the hydraulic fluid pressure supplied to the concrete pumping equipment. The entire concrete pumping system shall be protected against over-pressurisation.
+
+[p41 | prose | 6.5 Hydraulic systems]
+Where variable pressure is available, the maximum must not exceed the manufacturer’s recommended maximum safe operating pressure.
+
+[p41 | prose | 6.6 Controls]
+6.6 Controls
+
+[p41 | prose | 6.6 Controls]
+All concrete pumping equipment controls should comply with the relevant requirements of AS 1418.1, including:
+
+[p41 | prose | 6.6 Controls]
+emergency stop button(s) that immediately stops all movement and
+
+[p41 | prose | 6.6 Controls]
+pumps controls clearly marked with symbols or words in English to show their function
+
+[p41 | prose | 6.6 Controls]
+where practicable, movement of controls should correspond with the
+
+[p41 | prose | 6.6 Controls]
+direction of the motion being controlled
+
+[p41 | prose | 6.6 Controls]
+all controls, when released, should return to the neutral position  where multiple control positions are fitted, be operable from only one position at a time.
+
+[p41 | prose | 6.7 Pipeline and hose sections]
+6.7 Pipeline and hose sections
+
+[p41 | prose | 6.7 Pipeline and hose sections]
+Prior to being placed in service, each pipeline and hose component should be clearly and permanently identified with a unique mark or number to distinguish it from other components of the pipeline.
+
+[p41 | prose | 6.7 Pipeline and hose sections]
+The following information should also be permanently recorded on the pipe or in the pipeline inspection logbook: the grade of pipe
+
+[p41 | prose | 6.7 Pipeline and hose sections]
+ designated pipe diameter  maximum concrete pressures and minimum wall thickness 
+
+[p41 | prose | 6.7 Pipeline and hose sections]
+if a flexible hose, the manufacturer’s recommended maximum operating pressure.
+
+[p41 | prose | 6.8 Manuals and logbooks]
+6.8 Manuals and logbooks
+
+[p41 | prose | 6.8 Manuals and logbooks]
+The pumping contractor or hirer must ensure that the pumping equipment has:
+
+[p41 | prose | 6.8 Manuals and logbooks]
+a copy of the manufacturer’s or operator’s manual, or sufficiently detailed
+
+[p41 | prose | 6.8 Manuals and logbooks]
+written instructions developed by a competent person, covering:
+
+[p42 | prose | 6.8 Manuals and logbooks]
+transportation
+
+[p42 | prose | 6.8 Manuals and logbooks]
+o set-up and safe operation
+
+[p42 | prose | 6.8 Manuals and logbooks]
+o emergency procedures
+
+[p42 | prose | 6.8 Manuals and logbooks]
+o minor maintenance and repairs
+
+[p42 | prose | 6.8 Manuals and logbooks]
+o note: pumping equipment should only be operated under those conditions specifically covered in these manuals
+
+[p42 | prose | 6.8 Manuals and logbooks]
+a maintenance logbook that contains the information listed on the data plates and has been maintained up-to-date, listing:
+
+[p42 | prose | 6.8 Manuals and logbooks]
+o any defects found
+
+[p42 | prose | 6.8 Manuals and logbooks]
+o all repairs carried out
+
+[p42 | prose | 6.8 Manuals and logbooks]
+o details of all equipment inspections
+
+[p42 | prose | 6.8 Manuals and logbooks]
+o details of monthly pipe inspections
+
+[p42 | prose | 6.8 Manuals and logbooks]
+o note: logbooks are available to purchase from concrete boom manufacturers and suppliers
+
+[p42 | prose | 6.8 Manuals and logbooks]
+maintenance records that are up-to-date with any additional information from the manufacturer.
+
+[p42 | prose | 6.8 Manuals and logbooks]
+The pumping contractor or the principal contractor must ensure that the pump operator is trained and competent in:
+
+[p42 | prose | 6.8 Manuals and logbooks]
+understanding the operator’s manual or instructions
+
+[p42 | prose | 6.8 Manuals and logbooks]
+carrying out the daily operational inspections
+
+[p42 | prose | 6.8 Manuals and logbooks]
+maintaining the logbook.
+
+[p42 | prose | 6.9 Warning and safety signs]
+6.9 Warning and safety signs
+
+[p42 | prose | 6.9 Warning and safety signs]
+The pumping contractor or hirer must ensure that all appropriate warning and safety signs/stickers are available, in good condition and correctly positioned on the equipment.
+
+[p42 | prose | 6.9 Warning and safety signs]
+OUTRIGGERS MUST BE FULLY EXTENDED AND ON A FIRM BASE BEFORE RAISING BOOM
+
+[p42 | prose | 6.10 Disposal and acquisition of used equipment]
+6.10 Disposal and acquisition of used equipment
+
+[p42 | prose | 6.10 Disposal and acquisition of used equipment]
+When selling or disposing of used concrete pumping equipment, the supplier should identify any components of the plant that are unserviceable. The unserviceable components may constitute a hazard in the operation of the plant. Where plant is identified as not fully serviceable, the supplier shall inform the purchaser in writing that the plant should not be used until the plant is fully serviceable.
+
+[p43 | prose | 6.10 Disposal and acquisition of used equipment]
+The supplier should provide any information in their possession relating to the safe use of equipment and any inspection, maintenance and repair records.
+
+[p43 | prose | 6.10 Disposal and acquisition of used equipment]
+It is recommended that prior to purchasing any concrete pumping equipment, an experienced engineer, or the manufacturer’s agent or representative or similar competent person, should inspect the equipment and determine if its condition is such that is can be expected to be safe for use of the repairs necessary to make it serviceable.
+
+[p43 | prose | 6.10 Disposal and acquisition of used equipment]
+Section 18A of the Act also applies, placing duties on people who sell or supply plant for use in a place of work. The intention of section 18A is to ensure that any plant used or for use in a place of work is designed and made, and has been maintained, so that it is safe for its intended use.
+
+[p43 | prose | 6.11 Acquisition of unserviceable equipment]
+6.11 Acquisition of unserviceable equipment
+
+[p43 | prose | 6.11 Acquisition of unserviceable equipment]
+A person who acquires concrete pumping equipment in need of repair must ensure this equipment complies with the necessary standards before it can be returned to service. An experienced engineer, or the manufacturer’s agent or representative or similar competent person, should certify in writing that the unit complies with the appropriate standard(s), and its condition is such that it can be expected to be safe for use until its next scheduled inspection.
+
+[p43 | prose | 6.11 Acquisition of unserviceable equipment]
+If a record of the maintenance and inspection is not supplied with the equipment, it should be subjected to a major inspection and assessment in accordance with section 7.3 and AS 2550.15, to determine its suitability for use.
+
+[p44 | prose | SECTION 7: MAINTENANCE AND INSPECTION]
+SECTION 7: MAINTENANCE AND INSPECTION
+
+[p44 | prose | 7.1 General]
+7.1 General
+
+[p44 | prose | 7.1 General]
+A preventative maintenance and inspection regime is essential for the safe and efficient operation of concrete pumping equipment.
+
+[p44 | prose | Programme types]
+Programme types
+
+[p44 | prose | Programme types]
+This maintenance and inspection programmes should follow either:
+
+[p44 | prose | Programme types]
+a programme designed by a competent person to comply with the requirements of AS 2550.15 or a programme based on the manufacturer’s recommendations in consultation with a competent person. This type of programme can only be established where there are verifiable records stating that:
+
+[p44 | prose | (ii)]
+(ii)
+
+[p44 | prose | (ii)]
+the concrete pumping equipment has been continually maintained in accordance with those recommendations since the pump was first put into service or the manufacturer, at the time of purchase, had inspected the used concrete pumping equipment and issued a certificate deeming it satisfactory for continued service, and has been maintained in accordance with the manufacturer’s recommendations since being put back into service.
+
+[p44 | prose | Programme structure]
+Programme structure
+
+[p44 | prose | Programme structure]
+The maintenance and inspection programme should include provisions for:
+
+[p44 | prose | Programme structure]
+pre-operational tests and checks   inspections and maintenance
+
+[p44 | prose | Programme structure]
+pre-operational tests and checks   inspections and maintenance
+
+[p44 | prose | Programme structure]
+o o defects found and repairs undertaken o structural alterations.
+
+[p44 | prose | 7.2 Annual inspections]
+7.2 Annual inspections
+
+[p44 | prose | General]
+General
+
+[p44 | prose | General]
+All concrete pumping equipment should be inspected annually by a competent person such as a chartered professional engineer (CPEng) at intervals not exceeding 365 days.
+
+[p44 | prose | General]
+Where there are no verifiable records of previous maintenance, inspection, repairs or modifications, a major inspection should be carried out by the competent person to determine the equipment’s suitability for use.
+
+[p44 | prose | Criteria]
+Criteria
+
+[p44 | prose | Criteria]
+The annual inspection should be in accordance with the maintenance and inspection programme defined in AS 2550.15 or in the manufacturers’ recommendations, and must include a report on specific critical wear and stress issues.
+
+[p45 | prose | Criteria]
+The inspection will also include an audit of the equipment’s logbook to:
+
+[p45 | prose | Criteria]
+determine that the required inspections and maintenance have occurred   ensure the necessary repairs have been carried out. review the record of defects
+
+[p45 | prose | 7.3 Major inspection]
+7.3 Major inspection
+
+[p45 | prose | 7.3 Major inspection]
+The purpose of this inspection is to ensure that older equipment is suitable to continue in service.
+
+[p45 | prose | Assessment for continued service]
+Assessment for continued service
+
+[p45 | prose | Assessment for continued service]
+All concrete pumping equipment over 10 years old that does not meet the requirements of section 7.1 should be subject to an initial major inspection in accordance with AS 2550.15.
+
+[p45 | prose | Assessment for continued service]
+This inspection report, prepared by a competent person (such as a CPEng), should include:
+
+[p45 | prose | Assessment for continued service]
+a confirmation of visual and selected strip-down of critical components as
+
+[p45 | prose | Assessment for continued service]
+required or where necessary
+
+[p45 | prose | Assessment for continued service]
+any defects discovered and all remedial actions undertaken to bring the
+
+[p45 | prose | equipment up to standard]
+equipment up to standard
+
+[p45 | prose | equipment up to standard]
+an assessment of the mechanical condition of the equipment  a review of the existing inspection and maintenance regime to assess its continued suitability and modify as required
+
+[p45 | prose | equipment up to standard]
+a confirmation of the implementation of the inspection and maintenance
+
+[p45 | prose | regime]
+regime
+
+[p45 | prose | regime]
+a specified time period (not greater than five years) until the next
+
+[p45 | prose | assessment for continued service.]
+assessment for continued service.
+
+[p45 | prose | 7.4 Repairs and modifications]
+7.4 Repairs and modifications
+
+[p45 | prose | 7.4 Repairs and modifications]
+Any repairs made to concrete pumping equipment should follow the detailed instructions of the manufacturer or the competent person as outlined in the maintenance and repair manuals.
+
+[p45 | prose | 7.4 Repairs and modifications]
+All repairs and any replacement of components should be:
+
+[p45 | prose | 7.4 Repairs and modifications]
+   detailed in the maintenance records.
+
+[p45 | prose | 7.4 Repairs and modifications]
+carried out by trained and competent persons compatible with the equipment and parts supplied from the manufacturer recorded in the logbook
+
+[p45 | prose | 7.4 Repairs and modifications]
+Fitting of any concrete pumping equipment which involves modifications to a carrier vehicle should comply with AS 2550.15.
+
+[p45 | prose | Welding]
+Welding
+
+[p45 | prose | Welding]
+Welding of any type of concrete pumping equipment or pipeline component should be:
+
+[p45 | prose | Welding]
+  detailed in the maintenance records.
+
+[p45 | prose | Welding]
+carried out by a suitably qualified welder recorded in the logbook
+
+[p46 | prose | Welding]
+Outriggers and concrete placing booms or any other stressed load bearing components should be welded in accordance with AS/NZS 1554 by a qualified welder, competent in welding high-stressed components.
+
+[p46 | prose | 7.5 Testing pipeline components]
+7.5 Testing pipeline components
+
+[p46 | prose | 7.5 Testing pipeline components]
+All metal pipes and pipeline components should be checked for wall thickness at frequent intervals and the results recorded. Any used components in storage should be tested before being returned to service. Piping that has a wall thickness less than the recommended thickness for the pump’s designed maximum concrete pressure should not be used.
+
+[p46 | prose | 7.5 Testing pipeline components]
+An example pipeline inspection log sheet is located at Appendix F.
+
+[p46 | prose | Criteria]
+Criteria
+
+[p46 | prose | Criteria]
+Wall thickness testing should be conducted by ultrasonic test instruments or other suitable method. All testing must be carried out by competent persons. The test equipment should be calibrated regularly and maintained according to the manufacturer’s requirements.
+
+[p46 | prose | Criteria]
+Pipes must not be used if the wall thickness is less than that recommended by the pipe manufacturer for the maximum concrete pressure of the pump. The suppliers of pipes for concrete pumps should provide data on the minimum wall thickness for differing pump pressures. The minimum wall thickness of single wall pipe is dependent on the grade of pipe, the maximum working concrete pressure of the pump and diameter of the pipe.
+
+[p46 | prose | Criteria]
+If the supplier’s information is not available, minimum wall thickness can be calculated using the formula in AS 4041: Pressure Piping (refer to section 3.14.3(a)(1) of AS 4041 for greater detail).
+
+[p46 | prose | Criteria]
+The following table, calculated using the formula in AS 4041, provides default minimum pipe wall thicknesses for 108mm and 133mm outside diameter seamless steel pipes at different concrete pressures. These minimum thickness values cannot be used for pipe with diameters greater than those specified, nor can the table be extrapolated for other grades of pipe.
+
+[p47 | table | Criteria]
+| Maximum pressure | Outside diameter of pipe |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| kPa | Bar | Grade 200 | Grade 250 | Grade 350/ST-52 |  |  |  |
+| 108mm | 133mm | 108mm | 133mm | 108mm | 133mm |  |  |
+| 4,500 | 45 | 2.2 | 2.7 | 1.7 | 2.1 | 1.3 | 1.6 |
+| 6,000 | 60 | 2.9 | 3.5 | 2.3 | 2.8 | 1.7 | 2.1 |
+| 8,000 | 80 | 3.8 | N/A | 3.0 | 3.7 | 2.3 | 2.8 |
+| 10,000 | 100 | N/A | N/A | 3.8 | N/A | 2.9 | 3.5 |
+| 12,000 | 120 | N/A | N/A | N/A | N/A | 3.4 | N/A |
+
+[p47 | prose | Table 3: Minimum pipe wall thickness (mm)]
+Table 3: Minimum pipe wall thickness (mm)
+
+[p47 | prose | Table 3: Minimum pipe wall thickness (mm)]
+Grade 200 pipe thickness values are to be used if the grade of pipe is unknown.
+
+[p47 | prose | Table 3: Minimum pipe wall thickness (mm)]
+120 Bar thickness values are to be used if the maximum concrete pressure of the pump is unknown.
+
+[p47 | prose | Table 3: Minimum pipe wall thickness (mm)]
+These requirements are for normal operating conditions; fixed pipeline systems for high-rise developments could use greater pressures and may need thicker pipes.
+
+[p47 | prose | Table 3: Minimum pipe wall thickness (mm)]
+Double wall pipe should use the manufacturer’s nominal outer wall thickness as a minimum wall thickness.
+
+[p47 | prose | Testing personnel]
+Testing personnel
+
+[p47 | prose | Testing personnel]
+A person who carries out testing or inspection of any pipeline component should be competent and have received instruction in the method used, which may include the:
+
+[p47 | prose | Testing personnel]
+use of supplied test instruments
+
+[p47 | prose | Testing personnel]
+interpretation of test results against the testing criteria
+
+[p47 | prose | Testing personnel]
+methods to be followed to achieve consistency of test results
+
+[p47 | prose | Testing personnel]
+recognition of double thickness or faulty readings
+
+[p47 | prose | Testing personnel]
+visual inspection of test and inspection results.
+
+[p47 | prose | Ultrasonic testing]
+Ultrasonic testing
+
+[p47 | prose | Ultrasonic testing]
+When using ultrasonic testers it is essential to have the test instrument calibrated for the material to be tested before carrying out any tests. This can be achieved by using a piece of pipe material of a known thickness to calibrate the instrument and by following the manufacturer’s instructions. The test equipment should be maintained according to the manufacturer’s requirements, which may include regular factory calibration and replacement of worn transducers.
+
+[p47 | prose | Test surface]
+Test surface
+
+[p47 | prose | Test surface]
+The areas to be tested on any pipe component should be:
+
+[p47 | prose | Test surface]
+smooth with no imperfections
+
+[p47 | prose | Test surface]
+free of weld spatter
+
+[p47 | prose | Test surface]
+protected from rust
+
+[p47 | prose | Test surface]
+free from thick paint
+
+[p47 | prose | Test surface]
+free of concrete residue and dirt.
+
+[p48 | prose | Single wall pipe]
+Single wall pipe
+
+[p48 | prose | Single wall pipe]
+Single wall pipeline components in regular use should be tested at least monthly. Tests should measure the wall thicknesses at all known high wear areas on components. Generally these are close to the ends of straight sections of pipe and on the outer radius of the bends. Pump operators may also be aware of other areas of high wear, caused by the component’s location within the pipeline.
+
+[p48 | prose | Single wall pipe]
+Pipe sections should be tested at these known high wear areas and at locations within 500mm of each flange. Each location should contain four test points evenly spaced around the circumference of the pipe. For fixed horizontal pipes, one of these test points must be on the bottom of the pipe. Bends or elbows should be tested at three evenly spaced test points along the outside radius.
+
+[p48 | prose | Single wall pipe]
+The lowest thickness measurement of each component should be recorded in the pipeline logbook against the component’s unique identification number.
+
+[p48 | prose | Double wall pipe]
+Double wall pipe
+
+[p48 | prose | Double wall pipe]
+The manufacturer’s recommendations for the testing of double wall pipe components should be followed. If the manufacturer recommends no testing prior to a component having pumped a portion of its design life, no monthly thickness testing is required, provided:
+
+[p48 | prose | Double wall pipe]
+the manufacturer’s design life, in pumped cubic metres for the component, is known the manufacturer’s recommendation for starting pipe testing (in pumped cubic metres) is known the component has not pumped either the manufacturer’s recommended pre-testing volume, or 60% of the pipe’s design life, whichever is the lesser
+
+[p48 | prose | Double wall pipe]
+an accurate log is kept of pumped cubic metres of the component  a visual inspection of the internal lining, or thickness test of the outer wall is undertaken every 10,000 pumped cubic metres.
+
+[p48 | prose | Double wall pipe]
+Once the volume of pumped concrete exceeds the manufacturer’s recommendation, or 60% of the pipe component’s design life, whichever is the lesser, a monthly visual inspection of the internal lining or a thickness test of the outer wall in accordance with the manufacturer’s recommendations should commence.
+
+[p48 | prose | Double wall pipe]
+Any double wall pipe component should be replaced if:
+
+[p48 | prose | Double wall pipe]
+wall thickness testing indicates wear to the outer layer   a visual inspection detects excessive or abnormal wear to the inner lining. the inner lining is breached
+
+[p48 | prose | Double wall pipe]
+A record of testing and inspection should be detailed in the pipeline logbook against the component’s unique identification number.
+
+[p48 | prose | Pipeline test recording]
+Pipeline test recording
+
+[p48 | prose | Pipeline test recording]
+To assist operators to detect thickness error measurements, cross referencing to previous wall thickness measurements during the testing process is essential. A
+
+[p49 | prose | Pipeline test recording]
+suggested method of recording this information is to maintain a test sheet over the life of each component.
+
+[p49 | prose | Pipeline test recording]
+This record of pipe component testing may include:
+
+[p49 | prose | Pipeline test recording]
+Single wall:
+
+[p49 | prose | Pipeline test recording]
+Double wall:
+
+[p49 | prose | Pipeline test recording]
+o component identification number or mark o minimum allowable wall thickness o estimated life of component in cubic metres o total volume of pumped concrete in cubic metres o visual inspections at 10,000 cubic metre intervals o volume in cubic metres when monthly testing is to commence o monthly test or inspection results.
+
+[p49 | prose | Hoses]
+Hoses
+
+[p49 | prose | Hoses]
+Any hose that is used to pump concrete should be visually inspected before every concrete pumping operation.
+
+[p50 | appendix | APPENDIX A: SUMMARY OF THE HEALTH AND SAFETY IN EMPLOYMENT ACT 1992]
+APPENDIX A: SUMMARY OF THE HEALTH AND SAFETY IN EMPLOYMENT ACT 1992
+
+[p50 | appendix | APPENDIX A: SUMMARY OF THE HEALTH AND SAFETY IN EMPLOYMENT ACT 1992]
+Note: This appendix provides are summary of duties under the Health and Safety in Employment Act 1992. A complete copy of the Act can be accessed at the New Zealand Government’s Legislation website: www.legislation.govt.nz.
+
+[p50 | prose | Introduction]
+Introduction
+
+[p50 | prose | Introduction]
+The Health and Safety in Employment Act 1992 (the Act) requires the provision of a safe working environment and the protection of persons at work from health and safety hazards. To achieve this, it imposes duties on employers, employees and others to ensure that workplaces and work practices are safe. The Act also requires employers and employees to work together in good faith for the benefit of health and safety in the workplace. Duties are also imposed on the suppliers of plant to a workplace.
+
+[p50 | prose | General responsibilities of employers]
+General responsibilities of employers
+
+[p50 | prose | General responsibilities of employers]
+Employers have a duty to ensure the health and safety of employees while at work. In particular, they must take all practicable steps to:
+
+[p50 | prose | General responsibilities of employers]
+provide and maintain a safe working environment  provide and maintain facilities for the safety and health of employees  ensure that the hazards associated with the set-up and use of concrete
+
+[p50 | prose | General responsibilities of employers]
+pumping equipment are controlled so as to be safe for employees implement appropriate inspection and maintenance regimes for concrete pumping equipment
+
+[p50 | prose | General responsibilities of employers]
+provide procedures to deal with emergencies that may arise while
+
+[p50 | prose | General responsibilities of employers]
+employees are at work.
+
+[p50 | prose | Employers:]
+Employers:
+
+[p50 | prose | Employers:]
+must inform employees of the results of any health and environmental
+
+[p50 | prose | Employers:]
+monitoring
+
+[p50 | prose | Employers:]
+are responsible for the health and safety of people who are not employees
+
+[p50 | prose | Employers:]
+but are in or near the workplace
+
+[p50 | prose | Employers:]
+must take all practicable steps to ensure that employees do not harm any other person while at work, including members of the public or visitors to the workplace.
+
+[p50 | prose | General responsibilities of employees]
+General responsibilities of employees
+
+[p50 | prose | General responsibilities of employees]
+Employees are required to take all practicable steps to ensure their own safety and of others in the workplace. This includes considering both the things they do and the things they omit to do (such as not using safety gear).
+
+[p50 | prose | General responsibilities of employees]
+Employers should make clear to employees their responsibilities to use the provided safety equipment and to wear protective clothing. The expected level of an individual employee’s responsibility will often increase with knowledge and seniority, but the employer’s overall responsibility to ensure a safe workplace remains.
+
+[p51 | prose | General responsibilities of employees]
+The practicable steps an employee should take also includes reporting to the employer any hazards or accidents, so that their employer can investigate and put safeguards in place to prevent any accidents.
+
+[p51 | prose | General responsibilities of employees]
+An employee has a right to refuse to undertake work that they consider likely to cause them serious harm. However, employees have an obligation to work in good faith with the employer to try to resolve the matter prior to considering refusal.
+
+[p51 | prose | Hazard management]
+Hazard management
+
+[p51 | prose | Hazard management]
+The Act requires employers to identify hazards, assess their significance in the workplace, and to implement, monitor and review hazard control measures. The hazard control measures are usually defined as the “hierarchy of control” – to eliminate, isolate (if elimination is impracticable), and minimise (if elimination and isolation is impracticable) significant hazards in the workplace.
+
+[p51 | prose | Hazard identification]
+Hazard identification
+
+[p51 | prose | Hazard identification]
+Employers must have effective methods in place to identify hazards; and to determine if there are significant hazards that require further action.
+
+[p51 | prose | Hazard identification]
+“Hazard” is defined in Appendix C.
+
+[p51 | prose | Information for employees]
+Information for employees
+
+[p51 | prose | Information for employees]
+Before employees begin work, they must be informed by their employer about:
+
+[p51 | prose | Information for employees]
+hazards they may be exposed to while at work  hazards they may create which could harm other people  how to minimise the likelihood of these hazards becoming a source of
+
+[p51 | prose | Information for employees]
+harm to themselves and others the location and correct use of safety equipment (including personal protective equipment or clothing)
+
+[p51 | prose | Information for employees]
+emergency procedures.
+
+[p51 | prose | Information for employees]
+Employers are also required to inform employees of the results of any health and safety monitoring undertaken. In doing so, the privacy of individual employees must be protected.
+
+[p51 | prose | Training and supervision]
+Training and supervision
+
+[p51 | prose | Training and supervision]
+An employer must ensure that every employee who:
+
+[p51 | prose | Training and supervision]
+does work of any kind, or  uses plant (machinery or equipment) of any kind, or  deals with a substance of any kind
+
+[p51 | prose | Training and supervision]
+in a place of work has the knowledge and experience — or is supervised by someone who has — so that they are not likely to suffer harm, or lead to the harm of others.
+
+[p51 | prose | Training and supervision]
+Every employee must be adequately trained in the safe use of all plant, objects, substances, protective clothing and equipment that they are, or may be, required to use or handle.
+
+[p52 | prose | Training and supervision]
+To work safely, employees must be trained and instructed in safe work practices. Employers must ensure that an appropriately experienced person maintains a high level of supervision of employees who are not yet deemed competent to carry out their work safely.
+
+[p52 | prose | Training and supervision]
+Such training should be in addition to, and not replace:
+
+[p52 | prose | Training and supervision]
+general construction industry occupational health and safety induction
+
+[p52 | prose | Training and supervision]
+   
+
+[p52 | prose | Training and supervision]
+training site-specific induction induction on these guidelines induction on the site concrete pumping task analysis tool box talks supervised practical experience programmes, specific to the tasks being performed by the employee.
+
+[p52 | prose | Training and supervision]
+Where possible, any education or training programme should be complementary to, or part of a programme leading to nationally recognised qualifications.
+
+[p52 | prose | Training and supervision]
+It is recommended that specific training in concrete pumping operational and maintenance safety should reflect the detail in sections 4 to 7 of this Guide.
+
+[p52 | prose | Specific training]
+Specific training
+
+[p52 | prose | Specific training]
+Employers are required to provide the information, instruction, training and supervision to employees necessary to enable them to perform their work in a safe manner.
+
+[p52 | prose | Specific training]
+Information, training and instruction should include:
+
+[p52 | prose | Specific training]
+safe work methods to be used in the set-up and operation of concrete pumping equipment  emergency procedures   procedures for inspection and maintenance of concrete pumping
+
+[p52 | prose | Specific training]
+identifying hazards associated with the use of plant and equipment
+
+[p52 | prose | Specific training]
+
+
+[p52 | prose | Specific training]
+equipment the use of the manufacturer’s operating and service manuals the correct use, care and storage of:
+
+[p52 | prose | Specific training]
+electricity safety involving the dangers of:
+
+[p52 | prose | Specific training]
+o overhead power lines o ground-mounted electrical equipment
+
+[p52 | prose | Specific training]
+the procedures to be adopted in the event of an accident or injury.
+
+[p52 | prose | Supervision]
+Supervision
+
+[p52 | prose | Supervision]
+Supervision must include sufficient monitoring of the work and workers to ensure:
+
+[p52 | prose | Supervision]
+that it is only carried out by competent, experienced workers
+
+[p53 | prose | Supervision]
+that a truck-mounted concrete placing boom is driven by a person with a vehicle licence appropriate for the type and weight of the truck
+
+[p53 | prose | Supervision]
+that all safe work practices are being followed
+
+[p53 | prose | Supervision]
+the use, by workers, of all protection systems and personal protective equipment.
+
+[p53 | prose | Trainee workers]
+Trainee workers
+
+[p53 | prose | Trainee workers]
+The employer should ensure that a worker undergoing training is directly supervised by an authorised person who:
+
+[p53 | prose | Trainee workers]
+understands what is required in providing supervision
+
+[p53 | prose | Trainee workers]
+is competent and experienced in the use of the equipment
+
+[p53 | prose | Trainee workers]
+can immediately take action to rectify a dangerous situation.
+
+[p53 | prose | Personal protective equipment/clothing]
+Personal protective equipment/clothing
+
+[p53 | prose | Personal protective equipment/clothing]
+Concrete pumping employers should ensure that their employees use appropriate personal protective equipment/clothing, which may include:
+
+[p53 | prose | Personal protective equipment/clothing]
+eye and hearing protection
+
+[p53 | prose | Personal protective equipment/clothing]
+leather and rubber work gloves
+
+[p53 | prose | Personal protective equipment/clothing]
+safety boots or safety gumboots
+
+[p53 | prose | Personal protective equipment/clothing]
+safety helmets or hard hats
+
+[p53 | prose | Personal protective equipment/clothing]
+sunglasses (safety type)
+
+[p53 | prose | Personal protective equipment/clothing]
+wide brim hats
+
+[p53 | prose | Personal protective equipment/clothing]
+sunscreen
+
+[p53 | prose | Personal protective equipment/clothing]
+appropriate high visibility or reflective safety vests
+
+[p53 | prose | Personal protective equipment/clothing]
+appropriate clothing for the weather conditions.
+
+[p53 | prose | Personal protective equipment/clothing]
+Personal protective clothing requirements should be determined from an assessment of the hazards the workers are likely to be exposed to.
+
+[p53 | prose | Personal protective equipment/clothing]
+Figure 23: Worker wearing personal protective clothing
+
+[p53 | prose | Accidents and serious harm recording and notification]
+Accidents and serious harm recording and notification
+
+[p53 | prose | Accidents and serious harm recording and notification]
+The Act requires employers, the self-employed and principals to contractors to keep a register of work-related accidents and serious harm.
+
+[p53 | prose | Accidents and serious harm recording and notification]
+For employers, this includes every accident that harmed (or might have harmed):
+
+[p53 | prose | Accidents and serious harm recording and notification]
+any employee at work, or
+
+[p53 | prose | Accidents and serious harm recording and notification]
+any person in a place of work controlled by the employer.
+
+[p53 | prose | Accidents and serious harm recording and notification]
+Employers are also required to investigate all accidents, harm and “near misses” to determine whether they were caused by a significant hazard.
+
+[p53 | prose | Accidents and serious harm recording and notification]
+Any accidents where a serious harm injury has occurred must be notified to the Labour Group of the Ministry of Business, Innovation and Employment as soon as
+
+[p54 | prose | Accidents and serious harm recording and notification]
+possible after the occurrence becomes known to the employer.
+
+[p54 | prose | Accidents and serious harm recording and notification]
+Details of the accident must also be reported to the Ministry on the prescribed form within seven days. Forms are available from: www.osh.dol.govt.nz/services/notification/accident.shtml.
+
+[p54 | prose | Accidents and serious harm recording and notification]
+If a person suffers serious harm, the scene of the accident must not be interfered with unless to:
+
+[p54 | prose | Accidents and serious harm recording and notification]
+save the life of, prevent harm to or prevent suffering to, any person
+
+[p54 | prose | Accidents and serious harm recording and notification]
+maintain public access for essential services, e.g. electricity, gas
+
+[p54 | prose | Accidents and serious harm recording and notification]
+prevent serious damage or loss of property.
+
+[p54 | prose | Duties of others]
+Duties of others
+
+[p54 | prose | Persons in control of a place of work]
+Persons in control of a place of work
+
+[p54 | prose | Persons in control of a place of work]
+The Act places duties on persons who control a place of work in relation to people in the vicinity of the workplace, and to visitors.
+
+[p54 | prose | Persons in control of a place of work]
+A person who controls a place of work is responsible for taking all practicable steps to ensure people in the vicinity are not exposed to harm - regardless of the purpose for which they are in the vicinity.
+
+[p54 | prose | Persons in control of a place of work]
+Where people are visiting for work-related reasons, pay to be there, or are present for the benefit of the controller, the person who controls the place of work is responsible for taking all practicable steps to ensure they are not exposed to harm. This includes people in the place of work:
+
+[p54 | prose | Persons in control of a place of work]
+working as employees, contractors, subcontractors (or their employees) for the person who controls the place or
+
+[p54 | prose | Persons in control of a place of work]
+with express or implied consent, and who have paid to be there, or who are customers or potential customers.
+
+[p54 | prose | Persons in control of a place of work]
+There is a duty to authorised visitors not included in the above categories - to warn all people who are to be in the place of work of known significant, out-of- the-ordinary hazards arising from the work that has been, or is being, carried on there. For this duty to apply, the visitors must have:
+
+[p54 | prose | Persons in control of a place of work]
+the express authorisation of the occupier to be in the place of work, or
+
+[p54 | prose | Persons in control of a place of work]
+have given the controller of the place oral advice that they will be working there under statutory authority.
+
+[p54 | prose | Persons in control of a place of work]
+People visiting a place of work under any other circumstances are owed no duty under section 16 by the controller. This includes people visiting for the purpose of recreation or leisure.
+
+[p54 | prose | Persons in control of a place of work]
+People who are working in the place of work - but not as employees or contractors of the occupier - are owed only the warning duty, and then only if they have express or statutory authority to be there.
+
+[p54 | prose | Persons in control of a place of work]
+People who control a place of work have no duty to trespassers.
+
+[p55 | prose | Persons in control of a place of work]
+A “person who controls a place of work” includes a person who owns, leases, subleases or occupies a place of work, or who owns, leases or subleases plant or equipment used in a place of work.
+
+[p55 | prose | Persons in control of a place of work]
+Duties of the self-employed
+
+[p55 | prose | Persons in control of a place of work]
+Every self-employed person must take all practicable steps to ensure that no action or inaction of theirs while at work harms the self-employed person or any other person.
+
+[p55 | prose | Duties of principals]
+Duties of principals
+
+[p55 | prose | Duties of principals]
+Principals to contractors are required to take all practicable steps to ensure that:
+
+[p55 | prose | Duties of principals]
+no employee of a contractor or subcontractor, or if an individual, no contractor or subcontractor 
+
+[p55 | prose | Duties of principals]
+is harmed while doing any work (other than residential work) that the contractor was engaged to do.
+
+[p55 | prose | Hirers, sellers and suppliers of plant]
+Hirers, sellers and suppliers of plant
+
+[p55 | prose | Hirers, sellers and suppliers of plant]
+The Act places duties on people to ensure that any plant or equipment that is used in a place of work is designed, manufactured and maintained so that it is safe for its intended use. The duties apply to people who:
+
+[p55 | prose | Hirers, sellers and suppliers of plant]
+hire, lease or lend plant to another person that could be used in a place of
+
+[p55 | prose | Hirers, sellers and suppliers of plant]
+
+
+[p55 | prose | Hirers, sellers and suppliers of plant]
+work sell or supply plant (other than for hire, lease or loan) install or arrange plant in addition to either of the above.
+
+[p55 | prose | Hirers, sellers and suppliers of plant]
+For further information on legal requirements under the Act, go to www.osh.dol.govt.nz/order/catalogue/hseact-text/index.shtml.
+
+[p56 | appendix | APPENDIX B: REFERENCE DOCUMENTS]
+APPENDIX B: REFERENCE DOCUMENTS
+
+[p56 | appendix | APPENDIX B: REFERENCE DOCUMENTS]
+Note: the Ministry of Business, Innovation and Employment and the Concrete Pumping Association of New Zealand (CPANZ) have made every effort to ensure that the websites referenced in this Appendix are correct at the time of publishing. However, due to circumstances beyond our control, external website addresses may change without notice.
+
+[p56 | prose | Acts]
+Acts
+
+[p56 | prose | Acts]
+Health and Safety in Employment Act 1992
+
+[p56 | prose | Regulations]
+Regulations
+
+[p56 | prose | Regulations]
+Health and Safety in Employment Regulations 1995
+
+[p56 | prose | Regulations]
+Full copies of the Act and Regulations can be downloaded from the New Zealand Legislation website at www.legislation.govt.nz.
+
+[p56 | prose | Approved Codes of Practice]
+Approved Codes of Practice
+
+[p56 | prose | Approved Codes of Practice]
+Department of Labour, Wellington (2001). Approved Code of Practice for the Management of Noise in the Workplace (2nd Edition). www.osh.govt.nz/order/catalogue/15.shtml
+
+[p56 | prose | Approved Codes of Practice]
+Department of Labour, Wellington (2010). Approved Code of Practice for Cranes (3rd Edition) www.osh.govt.nz/order/catalogue/10.shtml
+
+[p56 | prose | Standards]
+Standards
+
+[p56 | prose | Standards]
+AS 2550.1 Cranes, Hoists and Winches – Safe Use – Part 1: General
+
+[p56 | prose | Requirements]
+Requirements
+
+[p56 | prose | Requirements]
+AS 2550.15 Cranes – Safe Use – Part 15: Concrete Pumps  AS 1418.15 Cranes (Including Hoists and Winches) – Concrete Placing Equipment
+
+[p56 | prose | Requirements]
+AS 4041 Pressure Piping  AS 2452.3 Non-Destructive Testing – Determination of Thickness – Use of Ultrasonic Testing
+
+[p56 | prose | Requirements]
+AS 3920.1 Assurance and Product Quality – Pressure Equipment
+
+[p56 | prose | Manufacture]
+Manufacture
+
+[p56 | prose | Manufacture]
+AS 4343 Pressure Equipment – Hazard Levels  AS/NZS 1554 Structural Steel Welding
+
+[p56 | prose | Manufacture]
+AS/NZS (joint Australian and New Zealand) Standards are available to purchase from www.standards.co.nz.
+
+[p56 | prose | Manufacture]
+AS (Australian) Standards are available to purchase from www.standards.com.au.
+
+[p56 | prose | Other publications]
+Other publications
+
+[p56 | prose | Other publications]
+Department of Labour, Wellington (2001). Code of Practice for Manual
+
+[p56 | prose | Handling. www.osh.govt.nz/order/catalogue/pdf/manualcode.pdf]
+Handling. www.osh.govt.nz/order/catalogue/pdf/manualcode.pdf
+
+[p57 | prose | Handling. www.osh.govt.nz/order/catalogue/pdf/manualcode.pdf]
+Department of Labour Wellington (2012). Best Practice Guidelines for
+
+[p57 | prose | Working at Height in New Zealand. www.osh.govt.nz/publications/booklets/working-height/index.asp]
+Working at Height in New Zealand. www.osh.govt.nz/publications/booklets/working-height/index.asp
+
+[p57 | prose | Working at Height in New Zealand. www.osh.govt.nz/publications/booklets/working-height/index.asp]
+WorkSafe Victoria (2004): Concrete Pumping Industry Standard.
+
+[p57 | prose | www.worksafe.vic.gov.au/wps/wcm/connect/wsinternet/worksafe/home/fo rms+and+publications/publications/import_concrete+pumping]
+www.worksafe.vic.gov.au/wps/wcm/connect/wsinternet/worksafe/home/fo rms+and+publications/publications/import_concrete+pumping
+
+[p57 | prose | www.worksafe.vic.gov.au/wps/wcm/connect/wsinternet/worksafe/home/fo rms+and+publications/publications/import_concrete+pumping]
+Transit New Zealand (2004): Code of Practice for Temporary Traffic
+
+[p57 | prose | Management. www.nzta.govt.nz/resources/code-temp-traffic- management/index.html]
+Management. www.nzta.govt.nz/resources/code-temp-traffic- management/index.html
+
+[p57 | prose | Management. www.nzta.govt.nz/resources/code-temp-traffic- management/index.html]
+New Zealand Ready Mixed Concrete Association Inc (2006): Onsite
+
+[p57 | prose | Management of Concrete Washwater. www.nzrmca.org.nz/files/sitemanagementofconcretewashwater- generaledition.pdf]
+Management of Concrete Washwater. www.nzrmca.org.nz/files/sitemanagementofconcretewashwater- generaledition.pdf
+
+[p57 | prose | Management of Concrete Washwater. www.nzrmca.org.nz/files/sitemanagementofconcretewashwater- generaledition.pdf]
+New Zealand Ready Mixed Concrete Association Inc (2011): Concrete
+
+[p57 | prose | Truck Driver Hand Signals. www.nzrmca.org.nz/nzrmca.htm]
+Truck Driver Hand Signals. www.nzrmca.org.nz/nzrmca.htm
+
+[p57 | prose | Truck Driver Hand Signals. www.nzrmca.org.nz/nzrmca.htm]
+Scaffolding and Rigging New Zealand (SARNZ), 2009: Best Practice
+
+[p57 | prose | Truck Driver Hand Signals. www.nzrmca.org.nz/nzrmca.htm]
+Guidelines for Scaffolding in New Zealand. Available for purchase from SARNZ:
+
+[p57 | prose | Truck Driver Hand Signals. www.nzrmca.org.nz/nzrmca.htm]
+Energy Safety Service, 2001. NZECP 34:2001 New Zealand Electrical
+
+[p57 | prose | Code of Practice for Electrical Safe Distances. www.energysafety.govt.nz/upload/33443/nzecp34_2001.pdf.]
+Code of Practice for Electrical Safe Distances. www.energysafety.govt.nz/upload/33443/nzecp34_2001.pdf.
+
+[p57 | prose | Code of Practice for Electrical Safe Distances. www.energysafety.govt.nz/upload/33443/nzecp34_2001.pdf.]
+Workplace Health and Safety Queensland (2011): Safety Alert: Hose
+
+[p57 | prose | Whip on Concrete Pumps. www.deir.qld.gov.au/workplace/publications/alerts/hosewhippumps/index. htm]
+Whip on Concrete Pumps. www.deir.qld.gov.au/workplace/publications/alerts/hosewhippumps/index. htm
+
+[p57 | prose | Whip on Concrete Pumps. www.deir.qld.gov.au/workplace/publications/alerts/hosewhippumps/index. htm]
+Department of Labour, Wellington (2010). A Principal’s Guide to
+
+[p57 | prose | Whip on Concrete Pumps. www.deir.qld.gov.au/workplace/publications/alerts/hosewhippumps/index. htm]
+Contracting to meet the Health and Safety in Employment Act 1992. www.osh.govt.nz/order/catalogue/contracting-guide.shtml
+
+[p57 | prose | Research documents]
+Research documents
+
+[p57 | prose | Research documents]
+Workplace Health and Safety, Queensland (2009): Concrete Pumping
+
+[p57 | prose | Compliance Campaign. www.deir.qld.gov.au/workplace/subjects/concretepump/compliance/camp aign/index.htm]
+Compliance Campaign. www.deir.qld.gov.au/workplace/subjects/concretepump/compliance/camp aign/index.htm
+
+[p58 | prose | Compliance Campaign. www.deir.qld.gov.au/workplace/subjects/concretepump/compliance/camp aign/index.htm]
+Workplace Health and Safety, Queensland (2005): Concrete Pumping
+
+[p58 | prose | Code of Practice. www.deir.qld.gov.au/workplace/resources/pdfs/concretepump_code2005.p df]
+Code of Practice. www.deir.qld.gov.au/workplace/resources/pdfs/concretepump_code2005.p df
+
+[p58 | prose | Code of Practice. www.deir.qld.gov.au/workplace/resources/pdfs/concretepump_code2005.p df]
+Cement, Concrete & Aggregates Australia: Concrete Pump Safety. www.concrete.net.au/publications/pdf/ConcretePumpSafetyrev.pdf
+
+[p58 | prose | Code of Practice. www.deir.qld.gov.au/workplace/resources/pdfs/concretepump_code2005.p df]
+WorkSafe Victoria Construction & Utilities Report 06:004 (2006): End-
+
+[p58 | prose | Code of Practice. www.deir.qld.gov.au/workplace/resources/pdfs/concretepump_code2005.p df]
+Hose of Concrete Pump Bursts. www.worksafe.vic.gov.au/wps/wcm/connect/wsinternet/worksafe/home/fo rms+and+publications/educational+material/end- hose+of+concrete+pump+bursts
+
+[p58 | prose | Code of Practice. www.deir.qld.gov.au/workplace/resources/pdfs/concretepump_code2005.p df]
+Sydney Hospital Hand Unit (2002): Safety, Health and Environmental
+
+[p58 | prose | Procedure: Fluid Injection Protocol. www.dpi.nsw.gov.au/__data/assets/pdf_file/0004/84505/FIProtocol.pdf]
+Procedure: Fluid Injection Protocol. www.dpi.nsw.gov.au/__data/assets/pdf_file/0004/84505/FIProtocol.pdf
+
+[p58 | prose | Procedure: Fluid Injection Protocol. www.dpi.nsw.gov.au/__data/assets/pdf_file/0004/84505/FIProtocol.pdf]
+American Concrete Pumping Association (2010): Safety Bulletin: Hose
+
+[p58 | prose | Whipping. www.concretepumpers.com/pdfs/Hosewhip_Bulletin_FINAL.pdf]
+Whipping. www.concretepumpers.com/pdfs/Hosewhip_Bulletin_FINAL.pdf
+
+[p58 | prose | Whipping. www.concretepumpers.com/pdfs/Hosewhip_Bulletin_FINAL.pdf]
+British Concrete Pumping Group (2004): Code of Practice for the Safe Use of Concrete Pumps. www.cpa.uk.net/p/Concrete-Pumping-Interest- Group/
+
+[p58 | prose | Whipping. www.concretepumpers.com/pdfs/Hosewhip_Bulletin_FINAL.pdf]
+National Ready Mixed Concrete Association, American Society of Concrete Contractors, and the American Concrete Pumping Association: Checklist for Pumping Ready Mixed Concrete. www.concretepumpers.com/cgi- bin/start.cgi/home.html
+
+[p58 | prose | Whipping. www.concretepumpers.com/pdfs/Hosewhip_Bulletin_FINAL.pdf]
+Health and Safety Executive: Information Sheet: Cement. Construction Information Sheet 26, 2nd edition. www.hse.gov.uk/pubns/cis26.pdf
+
+[p59 | appendix | APPENDIX C: DEFINITIONS]
+APPENDIX C: DEFINITIONS
+
+[p59 | prose | a.c. or AC]
+a.c. or AC
+
+[p59 | prose | a.c. or AC]
+Alternating current.
+
+[p59 | prose | Anchor brackets]
+Anchor brackets
+
+[p59 | prose | Anchor brackets]
+Metal components designed to support the weight and movement
+
+[p59 | prose | Anchor brackets]
+of pump pipelines when fixed to a structure.
+
+[p59 | prose | All practicable]
+All practicable
+
+[p59 | prose | steps]
+steps
+
+[p59 | prose | (Health and Safety in Employment Act 1992): “all practicable]
+(Health and Safety in Employment Act 1992): “all practicable
+
+[p59 | prose | (Health and Safety in Employment Act 1992): “all practicable]
+steps”, in relation to achieving any result in any circumstances,
+
+[p59 | prose | (Health and Safety in Employment Act 1992): “all practicable]
+means all steps to achieve the result that it is reasonable
+
+[p59 | prose | (Health and Safety in Employment Act 1992): “all practicable]
+practicable to take in the circumstances, having regard to –
+
+[p59 | prose | (Health and Safety in Employment Act 1992): “all practicable]
+the nature and severity of the harm that may be suffered if
+
+[p59 | prose | (Health and Safety in Employment Act 1992): “all practicable]
+the result is not achieved; and
+
+[p59 | prose | the current state of knowledge about the likelihood that harm]
+the current state of knowledge about the likelihood that harm
+
+[p59 | prose | the current state of knowledge about the likelihood that harm]
+of that nature and severity will be suffered if the result is not
+
+[p59 | prose | the current state of knowledge about the likelihood that harm]
+achieved; and
+
+[p59 | prose | the current state of knowledge about harm of that nature;]
+the current state of knowledge about harm of that nature;
+
+[p59 | prose | and]
+and
+
+[p59 | prose | the current state of knowledge about the means available to]
+the current state of knowledge about the means available to
+
+[p59 | prose | the current state of knowledge about the means available to]
+achieve the result, and about the likely efficacy of each of
+
+[p59 | prose | those means; and]
+those means; and
+
+[p59 | prose | the availability and cost of each of those means.]
+the availability and cost of each of those means.
+
+[p59 | prose | the availability and cost of each of those means.]
+To avoid doubt, a person required by this Act to take all practicable
+
+[p59 | prose | the availability and cost of each of those means.]
+steps is required to take those steps only in respect of
+
+[p59 | prose | the availability and cost of each of those means.]
+circumstances that the person knows or ought reasonably to know
+
+[p59 | prose | about.]
+about.
+
+[p59 | prose | Base plate]
+Base plate
+
+[p59 | prose | Base plate]
+Outrigger foot – a swivelling metal plate at the base of an
+
+[p59 | prose | Base plate]
+extendable outrigger stabilising leg that acts as a foot.
+
+[p59 | prose | Boom pump]
+Boom pump
+
+[p59 | prose | Boom pump]
+A truck-mounted combination concrete pump and boom system.
+
+[p59 | prose | Boom]
+Boom
+
+[p59 | prose | Boom]
+A delivery system that uses a hydraulically operated, folding multi-
+
+[p59 | prose | Boom]
+section boom and attached pipeline to deliver concrete.
+
+[p59 | prose | Chartered]
+Chartered
+
+[p59 | prose | Professional]
+Professional
+
+[p59 | prose | Engineer (CPEng)]
+Engineer (CPEng)
+
+[p59 | prose | Engineer (CPEng)]
+A person who is registered and holds a current registration
+
+[p59 | prose | certificate under the Chartered Professional Engineers of New]
+certificate under the Chartered Professional Engineers of New
+
+[p59 | prose | Zealand Act 2002.]
+Zealand Act 2002.
+
+[p59 | prose | Zealand Act 2002.]
+A list of CPEngs can be downloaded from IPENZ (Institute of
+
+[p59 | prose | Professional Engineers New Zealand) at www.ipenz.org.nz/ipenz/finding/cpeng/Search/search.cfm]
+Professional Engineers New Zealand) at www.ipenz.org.nz/ipenz/finding/cpeng/Search/search.cfm
+
+[p59 | prose | Competent person]
+Competent person
+
+[p59 | prose | Competent person]
+The person, who by their training or experience has the skills and
+
+[p59 | prose | Competent person]
+knowledge to carry out the task they are to undertake.
+
+[p59 | prose | Concrete pump]
+Concrete pump
+
+[p59 | prose | Concrete pump]
+The equipment that applies pressure to the concrete and forces it
+
+[p59 | prose | through the delivery pipeline.]
+through the delivery pipeline.
+
+[p60 | prose | through the delivery pipeline.]
+Concrete pumping Any type of equipment used for pumping concrete.
+
+[p60 | prose | Concrete residue]
+Concrete residue
+
+[p60 | prose | Concrete residue]
+Matter left over from wet concrete operations, e.g. slurry or
+
+[p60 | prose | cement run-off.]
+cement run-off.
+
+[p60 | prose | Edge protection]
+Edge protection
+
+[p60 | prose | (Best Practice Guidelines for Working at Height in New Zealand):]
+(Best Practice Guidelines for Working at Height in New Zealand):
+
+[p60 | prose | (Best Practice Guidelines for Working at Height in New Zealand):]
+Means a barrier or system to prevent persons and/or objects or
+
+[p60 | prose | (Best Practice Guidelines for Working at Height in New Zealand):]
+materials from falling to a lower level from working or access
+
+[p60 | prose | (Best Practice Guidelines for Working at Height in New Zealand):]
+surfaces. Edge protection may involve a proprietary system,
+
+[p60 | prose | (Best Practice Guidelines for Working at Height in New Zealand):]
+materials to form a guardrail and/or barrier isolation, erected
+
+[p60 | prose | (Best Practice Guidelines for Working at Height in New Zealand):]
+scaffolding supporting a temporary edge protection system, or a
+
+[p60 | prose | combination of solutions.]
+combination of solutions.
+
+[p60 | prose | Employee]
+Employee
+
+[p60 | prose | (Health and Safety in Employment Act 1992): Subject to sections]
+(Health and Safety in Employment Act 1992): Subject to sections
+
+[p60 | prose | (Health and Safety in Employment Act 1992): Subject to sections]
+3C to 3F of the Act, means any person of any age employed by an
+
+[p60 | prose | (Health and Safety in Employment Act 1992): Subject to sections]
+employer to do any work (other than residential work) for hire or
+
+[p60 | prose | (Health and Safety in Employment Act 1992): Subject to sections]
+reward under a contract of service and, in relation to any
+
+[p60 | prose | (Health and Safety in Employment Act 1992): Subject to sections]
+employer, means an employee of the employer.
+
+[p60 | prose | Employer]
+Employer
+
+[p60 | prose | (Health and Safety in Employment Act 1992):]
+(Health and Safety in Employment Act 1992):
+
+[p60 | prose | (Health and Safety in Employment Act 1992):]
+means a person who or that employs any other person to
+
+[p60 | prose | (Health and Safety in Employment Act 1992):]
+do any work for hire or reward; and, in relation to any
+
+[p60 | prose | (Health and Safety in Employment Act 1992):]
+employee, means an employer of the employee; and
+
+[p60 | prose | (Health and Safety in Employment Act 1992):]
+includes, in relation to any person employed by the chief
+
+[p60 | prose | (Health and Safety in Employment Act 1992):]
+executive or other employee of a Crown organisation to do
+
+[p60 | prose | (Health and Safety in Employment Act 1992):]
+work for the Crown organisation for hire or reward, that
+
+[p60 | prose | Crown organisation.]
+Crown organisation.
+
+[p60 | prose | Crown organisation.]
+Enclosed/confined
+
+[p60 | prose | area]
+area
+
+[p60 | prose | area]
+Any space of an enclosed nature where there is a specified risk of
+
+[p60 | prose | serious injury from hazardous substances or conditions within or]
+serious injury from hazardous substances or conditions within or
+
+[p60 | prose | near the space.]
+near the space.
+
+[p60 | prose | near the space.]
+Toxic fumes and vapours can also be produced by work inside the
+
+[p60 | prose | near the space.]
+enclosed/confined area, for example, exhaust fume from mobile
+
+[p60 | prose | plant, especially on construction sites.]
+plant, especially on construction sites.
+
+[p60 | prose | End-hose]
+End-hose
+
+[p60 | prose | End-hose]
+The rubber flexible pipe fitted to the discharge end of the pipeline
+
+[p60 | prose | system]
+system
+
+[p60 | prose | Hazard]
+Hazard
+
+[p60 | prose | (Health and Safety in Employment Act 1992):]
+(Health and Safety in Employment Act 1992):
+
+[p60 | prose | (Health and Safety in Employment Act 1992):]
+means an activity, arrangement, circumstance, event,
+
+[p60 | prose | occurrence, phenomenon, process, situation, or substance]
+occurrence, phenomenon, process, situation, or substance
+
+[p60 | prose | occurrence, phenomenon, process, situation, or substance]
+(whether arising or caused within or outside a place of
+
+[p60 | prose | occurrence, phenomenon, process, situation, or substance]
+work) that is an actual or potential cause or source of
+
+[p60 | prose | harm; and]
+harm; and
+
+[p60 | prose | harm; and]
+includes –
+
+[p60 | prose | harm; and]
+a situation where a person’s behaviour may be an
+
+[p60 | prose | actual or potential cause or source of harm to the]
+actual or potential cause or source of harm to the
+
+[p61 | prose | (ii)]
+(ii)
+
+[p61 | prose | person or another person; and]
+person or another person; and
+
+[p61 | prose | person or another person; and]
+without limitation, a situation described in
+
+[p61 | prose | person or another person; and]
+subparagraph (i) resulting from physical or mental
+
+[p61 | prose | fatigue, drugs, alcohol, traumatic shock, or another]
+fatigue, drugs, alcohol, traumatic shock, or another
+
+[p61 | prose | fatigue, drugs, alcohol, traumatic shock, or another]
+temporary condition that affects a person’s
+
+[p61 | prose | behaviour.]
+behaviour.
+
+[p61 | prose | HSE Act]
+HSE Act
+
+[p61 | prose | The Health and Safety in Employment Act 1992.]
+The Health and Safety in Employment Act 1992.
+
+[p61 | prose | Hopper]
+Hopper
+
+[p61 | prose | The loading reservoir of a concrete pump.]
+The loading reservoir of a concrete pump.
+
+[p61 | prose | Hose-hand]
+Hose-hand
+
+[p61 | prose | Hose-hand]
+The worker who controls the end-hose.
+
+[p61 | prose | kV]
+kV
+
+[p61 | prose | Kilovolts (1,000 volts).]
+Kilovolts (1,000 volts).
+
+[p61 | prose | Line pump]
+Line pump
+
+[p61 | prose | Line pump]
+A concrete pump connected to a pipeline system.
+
+[p61 | prose | Logbook]
+Logbook
+
+[p61 | prose | Logbook]
+A record setting out complete details of all inspections, tests,
+
+[p61 | prose | Logbook]
+repairs, and modifications carried out on pump equipment.
+
+[p61 | prose | Manual handling]
+Manual handling
+
+[p61 | prose | Manual handling]
+Any activity requiring a person to interact with their environment
+
+[p61 | prose | Manual handling]
+and use any part of their muscles or skeletal system to lift, lower,
+
+[p61 | prose | Manual handling]
+push, pull, carry, throw, move, restrain or hold any animate, or
+
+[p61 | prose | Manual handling]
+inanimate, object.
+
+[p61 | prose | Mobile pump]
+Mobile pump
+
+[p61 | prose | Mobile pump]
+A concrete pump mounted on a truck chassis or trailer.
+
+[p61 | prose | Outriggers or]
+Outriggers or
+
+[p61 | prose | Outriggers or]
+outrigging pads
+
+[p61 | prose | Outriggers or]
+The extendible structural members on a concrete pump used to
+
+[p61 | prose | Outriggers or]
+increase the unit’s stability.
+
+[p61 | prose | Pipe clamp]
+Pipe clamp
+
+[p61 | prose | Pipe clamp]
+A device used to firmly/securely hold pipeline joints together.
+
+[p61 | prose | Pipeline system]
+Pipeline system
+
+[p61 | prose | Pipeline system]
+A delivery system which uses rigid or flexible pipe sections coupled
+
+[p61 | prose | Pipeline system]
+together to deliver concrete.
+
+[p61 | prose | Pour area]
+Pour area
+
+[p61 | prose | Pour area]
+The location/section where concrete pouring or concrete work
+
+[p61 | prose | Pour area]
+activities are being undertaken.
+
+[p61 | prose | Principal]
+Principal
+
+[p61 | prose | (Health and Safety in Employment Act 1992): A person who or that]
+(Health and Safety in Employment Act 1992): A person who or that
+
+[p61 | prose | (Health and Safety in Employment Act 1992): A person who or that]
+engages any other person (otherwise than as employee) to do
+
+[p61 | prose | (Health and Safety in Employment Act 1992): A person who or that]
+work for gain or reward.
+
+[p61 | prose | Pumping]
+Pumping
+
+[p61 | prose | contractor]
+contractor
+
+[p61 | prose | contractor]
+The person engaged to provide the concrete pumping equipment
+
+[p61 | prose | contractor]
+with operator(s) and to pump concrete on-site.
+
+[p61 | prose | Pump operator]
+Pump operator
+
+[p61 | prose | Pump operator]
+The person who operates the controls of the pumping equipment.
+
+[p61 | prose | Pump operator]
+Qualified engineer A person, having appropriate qualifications, e.g. Chartered
+
+[p61 | prose | Professional Engineer, with experience in concrete pumping]
+Professional Engineer, with experience in concrete pumping
+
+[p62 | prose | Professional Engineer, with experience in concrete pumping]
+equipment (refer to definition for Chartered Professional Engineer).
+
+[p62 | prose | Reducer]
+Reducer
+
+[p62 | prose | Reducer]
+A pipe that changes the internal diameter of the pipeline.
+
+[p62 | prose | Serious harm]
+Serious harm
+
+[p62 | prose | (Health and Safety in Employment Act 1992):]
+(Health and Safety in Employment Act 1992):
+
+[p62 | prose | Death.]
+Death.
+
+[p62 | prose | Death.]
+Any of the following conditions that amounts to or
+
+[p62 | prose | results in permanent loss of bodily function, or]
+results in permanent loss of bodily function, or
+
+[p62 | prose | temporary severe loss of bodily function: respiratory]
+temporary severe loss of bodily function: respiratory
+
+[p62 | prose | temporary severe loss of bodily function: respiratory]
+disease, noise-induced hearing loss, neurological
+
+[p62 | prose | temporary severe loss of bodily function: respiratory]
+illness caused by exposure to infected material,
+
+[p62 | prose | temporary severe loss of bodily function: respiratory]
+chemical or hot-metal burn of eye, penetrating wound
+
+[p62 | prose | temporary severe loss of bodily function: respiratory]
+of eye, bone fracture, laceration, crushing.
+
+[p62 | prose | Amputation of body part.]
+Amputation of body part.
+
+[p62 | prose | Amputation of body part.]
+Burns requiring referral to a specialist registered
+
+[p62 | prose | medical practitioner or specialist outpatient clinic.]
+medical practitioner or specialist outpatient clinic.
+
+[p62 | prose | Loss of consciousness from lack of oxygen.]
+Loss of consciousness from lack of oxygen.
+
+[p62 | prose | Loss of consciousness from lack of oxygen.]
+Loss of consciousness, or acute illness requiring
+
+[p62 | prose | Loss of consciousness from lack of oxygen.]
+treatment by a registered medical practitioner, from
+
+[p62 | prose | absorption, inhalation, or ingestion, of any substance.]
+absorption, inhalation, or ingestion, of any substance.
+
+[p62 | prose | absorption, inhalation, or ingestion, of any substance.]
+Any harm that causes the person harmed to be
+
+[p62 | prose | absorption, inhalation, or ingestion, of any substance.]
+hospitalised for a period of 48 hours or more
+
+[p62 | prose | absorption, inhalation, or ingestion, of any substance.]
+commencing within 7 days of the harm's occurrence.
+
+[p62 | prose | Significant hazard]
+Significant hazard
+
+[p62 | prose | (Health and Safety in Employment Act 1992):]
+(Health and Safety in Employment Act 1992):
+
+[p62 | prose | (Health and Safety in Employment Act 1992):]
+A hazard that is an actual or potential cause or source of-
+
+[p62 | prose | (a) Serious harm; or]
+(a) Serious harm; or
+
+[p62 | prose | (a) Serious harm; or]
+(b) Harm (being harm that is more than trivial) the severity of
+
+[p62 | prose | (a) Serious harm; or]
+whose effects on any person depend (entirely or among
+
+[p62 | prose | other things) on the extent or frequency of the person’s]
+other things) on the extent or frequency of the person’s
+
+[p62 | prose | exposure to the hazard; or]
+exposure to the hazard; or
+
+[p62 | prose | exposure to the hazard; or]
+(c) Harm that does not usually occur, or usually is not easily
+
+[p62 | prose | detectable, until a significant time after exposure to the]
+detectable, until a significant time after exposure to the
+
+[p62 | prose | hazard.]
+hazard.
+
+[p62 | prose | The Act]
+The Act
+
+[p62 | prose | The Health and Safety in Employment Act 1992.]
+The Health and Safety in Employment Act 1992.
+
+[p62 | prose | Traffic controller]
+Traffic controller
+
+[p62 | prose | Traffic controller]
+A person who, using approved traffic control equipment and
+
+[p62 | prose | Traffic controller]
+management methods, guide traffic and pedestrians around the
+
+[p62 | prose | Traffic controller]
+worksite and hazards created by the work conducted on the
+
+[p62 | prose | worksite.]
+worksite.
+
+[p62 | prose | Tower boom]
+Tower boom
+
+[p62 | prose | Tower boom]
+A tower-mounted boom system supplied with concrete through a
+
+[p62 | prose | Tower boom]
+fixed pipeline system.
+
+[p62 | prose | Worker]
+Worker
+
+[p62 | prose | Worker]
+In the context of this guideline, a worker can be one or any of the
+
+[p63 | prose | Worker]
+following: an employee, a self-employed person, a contractor, or a
+
+[p63 | prose | subcontractor.]
+subcontractor.
+
+[p65 | prose | subcontractor.]
+OPEN OR EXTEND BOOM Both forearms raised in front of body, thumbs pointing out in opposite directions
+
+[p65 | prose | subcontractor.]
+CLOSE OR RETRACT BOOM Both forearms raised, thumbs pointing towards the centre.
+
+[p65 | prose | subcontractor.]
+STOP BOOM Hand raised in front of body at face level, hand closed into fist.
+
+[p65 | prose | subcontractor.]
+START PUMP SPEED UP Forearm raised, index finger pointing up.
+
+[p66 | prose | SLOW PUMP DOWN]
+SLOW PUMP DOWN
+
+[p66 | prose | SLOW PUMP DOWN]
+Elbow raised, hand in front of body, index finger pointing down and moving in a circle.
+
+[p66 | prose | STOP PUMP]
+STOP PUMP
+
+[p66 | prose | STOP PUMP]
+Index finger pointed, move finger from one side to the other at neck level.
+
+[p66 | prose | LITTLE BIT]
+LITTLE BIT
+
+[p66 | prose | LITTLE BIT]
+Elbow raised, hand at face level, thumb and index finger joined together to form a pinch.
+
+[p66 | prose | ALL DONE CLEAN UP]
+ALL DONE CLEAN UP
+
+[p66 | prose | ALL DONE CLEAN UP]
+Both thumbs raised, pointing up.
+
+[p67 | prose | Back up]
+Back up
+
+[p67 | prose | Back up]
+Arm bent at elbow, hand cupped. Move arm back and forth towards the body.
+
+[p67 | prose | Move truck forward]
+Move truck forward
+
+[p67 | prose | Move truck forward]
+Outstretched arm with hand out-stretched and thumb pointing upward.
+
+[p67 | prose | Speed up bowl]
+Speed up bowl
+
+[p67 | prose | Speed up bowl]
+Speed up, Lift outstretched arm, palm up.
+
+[p67 | prose | Shift truck over]
+Shift truck over
+
+[p67 | prose | Shift truck over]
+Outstretched arms with open hands apart, clearly indicating where the truck is to be moved.
+
+[p67 | prose | Mix]
+Mix
+
+[p67 | prose | Mix]
+Left hand palm facing up. Right hand closed, fist rotating above left.
+
+[p67 | prose | Slow down bowl]
+Slow down bowl
+
+[p67 | prose | Slow down bowl]
+Slow down. Lower outstretched arm, palm down.
+
+[p67 | prose | Stop truck, bowl]
+Stop truck, bowl
+
+[p67 | prose | Stop truck, bowl]
+Arm bent at elbow, fist with knuckles facing outwards.
+
+[p67 | prose | Discharge bowl]
+Discharge bowl
+
+[p67 | prose | Discharge bowl]
+Arm bent at elbow, rotating clockwise.
+
+[p67 | prose | Load finished, spin out bowl]
+Load finished, spin out bowl
+
+[p67 | prose | Load finished, spin out bowl]
+Arm bent at elbow and quickly rotating in a clockwise (discharge) direction.
+
+[p67 | prose | Load finished, spin out bowl]
+No response should be made to unclear signals
+
+[p68 | appendix | APPENDIX F: SIGNIFICANT HAZARD REGISTER (EXAMPLE – NOT FOR USE)]
+APPENDIX F: SIGNIFICANT HAZARD REGISTER (EXAMPLE – NOT FOR USE)
+
+[p68 | appendix | APPENDIX F: SIGNIFICANT HAZARD REGISTER (EXAMPLE – NOT FOR USE)]
+|  | e | e | e |
+| --- | --- | --- | --- |
+| Insufficient lighting | . Walking into objects . Slips, trips, falls and other injuries | Eliminate | provide sufficient lighting so that tasks can be safely conducted regardless of weather conditions, time of day or building enclosure clearly define and light accessways |
+| Poor access to work site Poor access around work site | Slips, trips, falls and other injuries Manual handling injuries | Minimise | housekeeping regimes to help keep site clear ensure sufficient space around work areas ensure there is good access for concrete personnel and equipment keep other people not directly involved with concrete pouring clear from area |
+| Working at height | Falls from height | Isolate | Ensure scaffolding complies with SARNZ Best Practice Guide for Scaffolding and MBIE Best Practice Guidelines for Working at Height in New Zealand |
+| Penetrations not covered | Falling onto sharp objects | Isolate | Ensure that penetrations are secured, identified and covered |
+| Inadequate formwork | Falls due to formwork failure | Eliminate | . Formwork to be structurally installed as per engineer’s requirements . Regularly inspect formwork for defects and repair immediately |
+| Exposure to ultra- violet light, glare | Skin cancer Eye damage sunburn | Minimise | Ensure that appropriate clothing and equipment is used/worn e.g. sunscreen, shirts, sunglasses |
+| Skin/eye contact with concrete | Skin rash or allergy/dermatitis Concrete splashed in eye Concrete burns | Minimise | ensure water is available to flush eyes ensure that eye protection is worn in situations where concrete splashes may occur ensure that gloves and other protective clothing are worn |
+
+[p69 | appendix | APPENDIX F: SIGNIFICANT HAZARD REGISTER (EXAMPLE – NOT FOR USE)]
+| e |  |  |  |
+| --- | --- | --- | --- |
+| Contact with hazardous substances | Short or long term health effects: . overcome by vapours . rash/allergy Disease | Minimise Eliminate Minimise | Identify hazardous substances and provide Safety Data Sheets Use less or non-hazardous alternatives where possible Ensure that users are adequately trained in the substance’s safe use and that appropriate protective clothing/equipment is used |
+| Hot weather | Dehydration Dizziness | Minimise | Ensure adequate drinking water is available Suitable clothing to be worn e.g. light-coloured clothing Ensure that there are shaded areas where appropriate Provide temporary cover for work areas |
+| Violent ejection of concrete from hose at first moment of delivery | Struck by concrete causing body injuries or falls | Minimise | Give warning prior to starting or re-commencing the pour Check hoses for air sources, such as: o blockage o change in supply o poor mix or delays in the pour Ensure delivery hose is not damaged prior to pour Be aware of potential for blow back in the line Ensure appropriate edge protection |
+| Delivery pipe/joint failure | Struck by concrete causing injuries or falls | Minimise | Ensure connecting pipes are adequately secured Ensure brackets are positioned close together to minimise excessive movement Ensure that pipe’s operating pressure is appropriate for diameter of pipe Check pipe to ensure it is of correct thickness for operating pressure Do not use damaged pipes Provide support where a change in direction or reducer occurs |
+| Walking on the concrete foundation during the pour | Slipping on wet ply or reinforcement | Minimise | Do not walk backwards during delivery Avoid getting feet caught in reinforcement |
+
+[p70 | appendix | APPENDIX F: SIGNIFICANT HAZARD REGISTER (EXAMPLE – NOT FOR USE)]
+|  |  | e | e e |
+| --- | --- | --- | --- |
+| Sharp edges | Cuts from reinforcement bar ends or tie wire | Isolate | . Put caps on ends of exposed reinforcement bars . Turn tie wires into reinforcement cages |
+| Noise from operating machinery | Hearing loss | Minimise | Use quieter or muffled equipment where practicable Provide adequate hearing protection suitable for the level of noise exposure |
+| Fumes from fuel Fuel used in vibrator | Explosion and/or fire, burns, rashes or allergies from skin contact | Minimise | Use correct fuel storage containers and funnels Do not smoke when refuelling Do not refuel when machine is in operation |
+| Iliness, breathing difficulties from carbon monoxide | Minimise | Ensure there is adequate ventilation when refuelling and using the vibrator |  |
+| Electric powered vibrator | Electric shock | Minimise | Ensure equipment is not faulty or damaged rior to use Ensure equipment is earthed Ensure extension leads are tested/tagged by an electrician and that faulty leads are not used/repaired with tape Ensure extension leads are not lying in water |
+| Manual handling | Sprains and strains | Minimise | Provide rest times Avoid long periods of twisting, repetitive movements Provide job rotation where there are enough trained employees Ensure the concrete is not too dry when screeding and shovelling |
+
+[p71 | prose | Significant hazard register]
+Significant hazard register
+
+[p71 | prose | Location]
+Location
+
+[p71 | prose | Location]
+Date of Assessment
+
+[p71 | table | Location]
+| Hazards | Potential Harm | Eliminate, Isolate or Minimise | Controls |
+| --- | --- | --- | --- |
+
+[p72 | appendix | APPENDIX G: TASK ANALYSIS WORKSHEET]
+APPENDIX G: TASK ANALYSIS WORKSHEET
+
+[p72 | appendix | APPENDIX G: TASK ANALYSIS WORKSHEET]
+| JOB DESCRIPTION SEQUENCE OF BASIC STEPS List the four-eight steps required to complete the job. (Follow the flow of the Product or the Process.) | LOCATION/SITE POTENTIAL SIGNIFICANT HAZARDS List the potential SIGNIFICANT hazards beside each step. Focus on what can cause harm and what can go wrong. Use Seven Point Analysis. | OPERATORS DATE |  |  |
+| --- | --- | --- | --- | --- |
+| HAZARD CONTROL METHOD |  |  |  |  |
+| List the control methods required to ELIMINATE, ISOLATE or MINIMISE each SIGNIFICANT hazard. | Person responsible to implement control(s): |  |  |  |
+| STEP NO | STEP NO |  | E/I/M |  |
+
+[p72 | prose | Seven Point Analysis]
+Seven Point Analysis
+
+[p72 | prose | Seven Point Analysis]
+Strain or sprain my back or other muscle
+
+[p72 | prose | Seven Point Analysis]
+Be caught in anything
+
+[p72 | prose | Seven Point Analysis]
+Slip, trip or fall on the same or different level
+
+[p72 | prose | Seven Point Analysis]
+Cause a fire, property damage or pollution
+
+[p72 | prose | Seven Point Analysis]
+Be struck by or against anything
+
+[p72 | prose | Seven Point Analysis]
+Come in contact with a hazardous substance
+
+[p72 | prose | Seven Point Analysis]
+Come in contact with an energy source
+
+[p73 | table | Seven Point Analysis]
+| PPE REQUIRED |  |
+| --- | --- |
+| T/A COMPLETED BY PLANT REQUIRED |  |
+| SIGNAGE REQUIRED DATE |  |
+
+[p74 | appendix | APPENDIX H: PIPELINE INSPECTION LOG SHEET]
+APPENDIX H: PIPELINE INSPECTION LOG SHEET
+
+[p74 | appendix | APPENDIX H: PIPELINE INSPECTION LOG SHEET]
+|  | Date | Date | Date | Date | Date | Date | Date | Date | Date | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pipe No. | Thickness | | Thickness | | Thickness | | Thickness | | Thickness | | Thickness | == | Thickness | | Thickness | | Thickness |  |
