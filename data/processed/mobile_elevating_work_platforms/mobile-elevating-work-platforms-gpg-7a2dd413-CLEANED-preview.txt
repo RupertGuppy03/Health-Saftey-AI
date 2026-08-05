@@ -1,0 +1,4720 @@
+[p2 | prose | ]
+WorkSafe NZ would like to thank the following for their input and involvement in the development of these guidelines:
+
+[p2 | prose | > Asplundh]
+> Asplundh
+
+[p2 | prose | > Central Hire Services Ltd]
+> Central Hire Services Ltd
+
+[p2 | prose | > Elevating Work Platform Association (EWPA)]
+> Elevating Work Platform Association (EWPA)
+
+[p2 | prose | > EWP Technical Solutions Ltd]
+> EWP Technical Solutions Ltd
+
+[p2 | prose | > The Fletcher Construction Company Ltd]
+> The Fletcher Construction Company Ltd
+
+[p2 | prose | > Franklin Tree Services Ltd]
+> Franklin Tree Services Ltd
+
+[p2 | prose | > Hire Industry Association of New Zealand (Inc) (HIANZ)]
+> Hire Industry Association of New Zealand (Inc) (HIANZ)
+
+[p2 | prose | > Hirepool Ltd]
+> Hirepool Ltd
+
+[p2 | prose | > Hydralada Company Limited]
+> Hydralada Company Limited
+
+[p2 | prose | > NZ Amalgamated Engineering, Printing & Manufacturing Union Inc. (EPMU)]
+> NZ Amalgamated Engineering, Printing & Manufacturing Union Inc. (EPMU)
+
+[p2 | prose | > Safety’n Action Ltd]
+> Safety’n Action Ltd
+
+[p2 | prose | > Site Safe Ltd]
+> Site Safe Ltd
+
+[p2 | prose | > Snorkel New Zealand Ltd]
+> Snorkel New Zealand Ltd
+
+[p2 | prose | > Transpower New Zealand Ltd.]
+> Transpower New Zealand Ltd.
+
+[p3 | prose | TABLE OF CONTENTS]
+TABLE OF CONTENTS
+
+[p3 | table | TABLE OF CONTENTS]
+| INTRODUCTION |  |  |  |
+| --- | --- | --- | --- |
+|  | 11 | Scope and application |  |
+|  | 1.2 | Definitions |  |
+| Z» | SAFE | WORK PRACTICES WHEN USING MOBILE ELEVATING WORK PLATFORMS | 10 |
+|  | 21 | Hazard management | kl |
+| 2.2 | Identify hazards | 11 |  |
+| 2.3 Assess the hazard | 12 |  |  |
+| 24 | Hazard controls | 12 |  |
+|  | > Confined overhead working | 12 |  |
+|  | > Ground conditions | 12 |  |
+|  | > Outriggers | 12 |  |
+|  | Preventing falls | 12 |  |
+|  | Falling objects | 13 |  |
+|  | Weather | 13 |  |
+|  | Handling materials | 13 |  |
+|  | Working near or over water | 13 |  |
+|  | Nearby hazards | 13 |  |
+|  | > Travelling between work areas | 13 |  |
+|  |  | > Working near others | 1% |
+| 2.5 | Electrical hazards | 13 |  |
+|  | > No-go zone - Stay 4 metres away from overhead power lines | i3] |  |
+|  | > Exclusion zone - 4 to 6.4 metres from power lines | 14 |  |
+|  | > Operating within the exclusion zone | 14 |  |
+|  | > Emergency procedures | 14 |  |
+|  | > Electricity industry safety information | 3 |  |
+| 2.6 | Weather conditions and wind | 15 |  |
+| » |  | PLANNING THE WORK | 16 |
+| 31 | Stages of planning | 17 |  |
+|  | > Identify the tasks to be done | 17 |  |
+|  | > Identify the hazards associated with the task | 17 |  |
+|  | > Pick the right MEWP for the job | 17 |  |
+
+[p4 | prose | TABLE OF CONTENTS]
+> Identify control measures
+
+[p4 | prose | TABLE OF CONTENTS]
+> Develop the plan
+
+[p4 | prose | TABLE OF CONTENTS]
+> Make a plan for what to do in an emergency
+
+[p4 | prose | TABLE OF CONTENTS]
+> Record the plan, including any rescue plan
+
+[p4 | prose | TABLE OF CONTENTS]
+> Involve people and talk to everyone working on the job about the plan
+
+[p4 | prose | TABLE OF CONTENTS]
+> Review the plan before the job starts
+
+[p4 | prose | TABLE OF CONTENTS]
+Transporting MEWPs
+
+[p4 | prose | TABLE OF CONTENTS]
+> Getting ready to transport
+
+[p4 | prose | TABLE OF CONTENTS]
+> Method of loading MEWPs
+
+[p4 | prose | TABLE OF CONTENTS]
+> Method of unloading MEWPs
+
+[p4 | prose | 3.3 Use of harness systems]
+3.3 Use of harness systems
+
+[p4 | prose | > Harness systems in scissor lifts]
+> Harness systems in scissor lifts
+
+[p4 | prose | > Harness systems in general]
+> Harness systems in general
+
+[p4 | prose | > Harness systems in general]
+> Getting on and off the platform when it is elevated
+
+[p4 | prose | 04 DESIGN]
+04 DESIGN
+
+[p4 | prose | 4.1 General requirements]
+4.1 General requirements
+
+[p4 | prose | 4.1 General requirements]
+> Types of mobile elevating work platforms (representative)
+
+[p4 | prose | 4.2 Compliance and modification of work platforms]
+4.2 Compliance and modification of work platforms
+
+[p4 | prose | > Compliance of all machines currently in New Zealand]
+> Compliance of all machines currently in New Zealand
+
+[p4 | prose | > Compliance of all machines currently in New Zealand]
+> Compliance of imported second-hand machines
+
+[p4 | prose | > Modification of a MEWP]
+> Modification of a MEWP
+
+[p4 | prose | 4.3 Machine controls]
+4.3 Machine controls
+
+[p4 | prose | 4.3 Machine controls]
+> Switching on and using the MEWP
+
+[p4 | prose | > Direction of movement]
+> Direction of movement
+
+[p4 | prose | > Work platform controls: location, accessibility, protection]
+> Work platform controls: location, accessibility, protection
+
+[p4 | prose | > Work platform controls: location, accessibility, protection]
+> Duplicate controls
+
+[p4 | prose | > Work platform controls: location, accessibility, protection]
+> Emergency stops
+
+[p4 | prose | > Other requirements]
+> Other requirements
+
+[p4 | prose | > Other requirements]
+4.4 Safety features
+
+[p4 | prose | > Other requirements]
+> General features
+
+[p4 | prose | > Other requirements]
+> Platform and guardrails
+
+[p4 | prose | > Fuel and exhaust systems]
+> Fuel and exhaust systems
+
+[p4 | prose | 4.5 Markings, documentation and records]
+4.5 Markings, documentation and records
+
+[p4 | prose | 05 MAINTENANCE, INSPECTION AND REPAIR]
+05 MAINTENANCE, INSPECTION AND REPAIR
+
+[p4 | prose | 05 MAINTENANCE, INSPECTION AND REPAIR]
+Logbook and registers
+
+[p4 | prose | > Records]
+> Records
+
+[p4 | prose | 5.2 Maintenance]
+5.2 Maintenance
+
+[p5 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS
+
+[p5 | prose | Inspection]
+Inspection
+
+[p5 | prose | > Pre-operation inspection]
+> Pre-operation inspection
+
+[p5 | prose | > Routine inspection]
+> Routine inspection
+
+[p5 | prose | 5.4 Six-monthly inspection]
+5.4 Six-monthly inspection
+
+[p5 | prose | 5.4 Six-monthly inspection]
+> Operational test and check
+
+[p5 | prose | > Certification]
+> Certification
+
+[p5 | prose | > Competent person for inspection]
+> Competent person for inspection
+
+[p5 | prose | 5.5 Electrical insulation testing]
+5.5 Electrical insulation testing
+
+[p5 | prose | 5.6 PAT Testing]
+5.6 PAT Testing
+
+[p5 | prose | 5.7 Acoustic emission testing of fibreglass booms]
+5.7 Acoustic emission testing of fibreglass booms
+
+[p5 | prose | 5.8 Enhanced periodic inspections]
+5.8 Enhanced periodic inspections
+
+[p5 | prose | 5.9 Major inspections]
+5.9 Major inspections
+
+[p5 | prose | 5.10 Repairs]
+5.10 Repairs
+
+[p5 | prose | 06 MEWP OPERATOR TRAINING REQUIREMENTS]
+06 MEWP OPERATOR TRAINING REQUIREMENTS
+
+[p5 | prose | 6.1 General training]
+6.1 General training
+
+[p5 | prose | 6.1 General training]
+6.2 Getting to know your MEWP
+
+[p5 | prose | 6.3 Refresher training and assessment]
+6.3 Refresher training and assessment
+
+[p5 | prose | 6.3 Refresher training and assessment]
+6.4 Working at height
+
+[p5 | prose | 07 APPENDICES]
+07 APPENDICES
+
+[p5 | prose | Legal framework]
+Legal framework
+
+[p5 | prose | 7.2 Duty holder responsibilities]
+7.2 Duty holder responsibilities
+
+[p5 | prose | > Employer responsibilities]
+> Employer responsibilities
+
+[p5 | prose | > Employee responsibilities]
+> Employee responsibilities
+
+[p5 | prose | > Principals and contractors]
+> Principals and contractors
+
+[p5 | prose | > Principals and contractors]
+> Self-employed
+
+[p5 | prose | > Principals and contractors]
+> Person who controls a place of work
+
+[p5 | prose | > Employee participation]
+> Employee participation
+
+[p5 | prose | > Employee participation]
+7.3 Obligations for employers, owners, suppliers and principals using MEWPs 47
+
+[p5 | prose | Inspection and certification requirements]
+Inspection and certification requirements
+
+[p5 | prose | 7.5 Notification of hazardous works and serious harm]
+7.5 Notification of hazardous works and serious harm
+
+[p5 | prose | > Notification of particular hazardous work]
+> Notification of particular hazardous work
+
+[p5 | prose | > Notification of particular hazardous work]
+> Work that needs to be notified to WorkSafe NZ
+
+[p5 | prose | > Notification of particular hazardous work]
+7.6 Hazards faced when using a MEWP
+
+[p5 | prose | > Notification of particular hazardous work]
+Example checklist to pick the right MEWP
+
+[p5 | prose | Example MEWPs hazard assessment checklist]
+Example MEWPs hazard assessment checklist
+
+[p5 | prose | Example MEWP prestart inspection checklist]
+Example MEWP prestart inspection checklist
+
+[p5 | prose | 7.10 Publications and reference material]
+7.10 Publications and reference material
+
+[p6 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS
+
+[p6 | prose | TABLES]
+TABLES
+
+[p6 | prose | 2 Unit standard requirements by the MEWP type]
+2 Unit standard requirements by the MEWP type
+
+[p6 | prose | FIGURES]
+FIGURES
+
+[p6 | prose | 1 Attach harnesses to a certified anchor point on the MEWP.]
+1 Attach harnesses to a certified anchor point on the MEWP.
+
+[p6 | prose | 1 Attach harnesses to a certified anchor point on the MEWP.]
+2 Before starting work, operators should be familiar with the type
+
+[p6 | prose | 1 Attach harnesses to a certified anchor point on the MEWP.]
+of MEWP they are using.
+
+[p6 | prose | 1 Attach harnesses to a certified anchor point on the MEWP.]
+3 Decals for rated capacity displayed on the MEWP.
+
+[p6 | prose | 1 Attach harnesses to a certified anchor point on the MEWP.]
+Typical features of self-propelled boom lifts.
+
+[p6 | prose | Typical features of scissor-lifts.]
+Typical features of scissor-lifts.
+
+[p6 | prose | Typical features of scissor-lifts.]
+Typical features of trailer mounted boom-lift.
+
+[p6 | prose | Typical features of scissor-lifts.]
+7 The operator checks the MEWP’s controls before starting work.
+
+[p6 | prose | Typical features of scissor-lifts.]
+The operator’s manual must be kept with the MEWP in a weather proof container.
+
+[p6 | prose | Typical features of scissor-lifts.]
+The operator’s logbook should be kept in a pouch located within the basket on the machine.
+
+[p6 | prose | 10 Example six-monthly test certificate.]
+10 Example six-monthly test certificate.
+
+[p6 | prose | 10 Example six-monthly test certificate.]
+Inspect the MEWP before use.
+
+[p7 | prose | IN THIS SECTION:]
+IN THIS SECTION:
+
+[p7 | prose | IN THIS SECTION:]
+1.1 Scope and application 1.2 Definitions
+
+[p8 | prose | IN THIS SECTION:]
+Mobile elevating work platforms (MEWPs) are useful but complex pieces of equipment that are often used for access in hazardous areas. People have been seriously injured and killed in accidents involving MEWPs.
+
+[p8 | prose | IN THIS SECTION:]
+The causes of these accidents have included:
+
+[p8 | prose | IN THIS SECTION:]
+> equipment failure
+
+[p8 | prose | IN THIS SECTION:]
+> not following the manufacturer’s recommendations
+
+[p8 | prose | IN THIS SECTION:]
+> inadequate training and supervision
+
+[p8 | prose | IN THIS SECTION:]
+> not fully assessing the hazards and risks of the job, site and the equipment.
+
+[p8 | prose | IN THIS SECTION:]
+The guidelines outline the safe work practices on how to use and maintain MEWPs safely and help duty holders meet their obligations under the Health and Safety in Employment Act 1992 (HSE Act), and the Health and Safety in Regulations 1995 (HSE Regulations). Duty holders include employers, employees, principals, designers and manufacturers, hirers and suppliers engaged in work associated with MEWPs.
+
+[p8 | prose | IN THIS SECTION:]
+This document is based on the current state of knowledge for the safe use of MEWPs. There may be other methods or processes that meet the requirements for providing a safe workplace under the HSE Act.
+
+[p8 | prose | IN THIS SECTION:]
+The Best Practice Guidelines for Mobile Elevating Work Platforms are non-industry specific. Some industries have guidelines that deal with specific problems faced in their working environments, such as the electricity sector or horticulture. When deciding how to do a job safely, make sure you check any industry specific guidance.
+
+[p8 | prose | IN THIS SECTION:]
+These guidelines may apply to the following activities and industries:
+
+[p8 | prose | IN THIS SECTION:]
+> arboriculture
+
+[p8 | prose | IN THIS SECTION:]
+> building and construction
+
+[p8 | prose | IN THIS SECTION:]
+> bush and forest industries
+
+[p8 | prose | IN THIS SECTION:]
+> electrical supply and distribution
+
+[p8 | prose | IN THIS SECTION:]
+> film and television
+
+[p8 | prose | IN THIS SECTION:]
+> plant and machinery hire
+
+[p8 | prose | IN THIS SECTION:]
+> port operations
+
+[p8 | prose | IN THIS SECTION:]
+> sign writing and advertising
+
+[p8 | prose | IN THIS SECTION:]
+> stock picking
+
+[p8 | prose | IN THIS SECTION:]
+> railways
+
+[p8 | prose | IN THIS SECTION:]
+> telecommunications
+
+[p8 | prose | IN THIS SECTION:]
+> warehousing.
+
+[p8 | prose | 1.1 SCOPE AND APPLICATION]
+1.1 SCOPE AND APPLICATION
+
+[p8 | prose | 1.1 SCOPE AND APPLICATION]
+The advice in these guidelines represents the current state of knowledge (the best available at the time of publication) on the safe design, use and maintenance of MEWPs.
+
+[p8 | prose | 1.1 SCOPE AND APPLICATION]
+It includes the principles and requirements for using MEWPs that are common across a broad range of industries and applications.
+
+[p8 | prose | 1.1 SCOPE AND APPLICATION]
+This document refers to other guidance material about MEWP safety and hazard control measures. This includes industry standards, codes of practice, guidelines, manufacturers’ instructions and other material. This document does not repeat the information from these sources but incorporates their key principles where possible.
+
+[p8 | prose | 1.1 SCOPE AND APPLICATION]
+These guidelines apply to work platforms where the height of the platform can be adjusted by powered scissor mechanisms, telescoping boom or tower, articulation or any combination of these. They can be vehicle-mounted, self-propelled, towed or moved by hand and used to access work above or below ground level. The guidelines also apply to work platforms temporarily or permanently attached to truck hoists.
+
+[p9 | prose | 1.1 SCOPE AND APPLICATION]
+These guidelines do not apply to the following:
+
+[p9 | prose | > Forklift trucks with working platforms]
+> Forklift trucks with working platforms
+
+[p9 | prose | > Forklift trucks with working platforms]
+(refer to WorkSafe NZ publication Forklifts
+
+[p9 | prose | > Forklift trucks with working platforms]
+Approved Code of Practice for Training
+
+[p9 | prose | Operators and Instructors of Powered]
+Operators and Instructors of Powered
+
+[p9 | prose | Industrial Lift Trucks).]
+Industrial Lift Trucks).
+
+[p9 | prose | Industrial Lift Trucks).]
+> Cages or platforms attached to crane
+
+[p9 | prose | Industrial Lift Trucks).]
+hooks (refer to WorkSafe NZ publication
+
+[p9 | prose | Approved Code of Practice for Cranes –]
+Approved Code of Practice for Cranes –
+
+[p9 | prose | Safe Operation, Maintenance and Inspection]
+Safe Operation, Maintenance and Inspection
+
+[p9 | prose | of Cranes (Cranes ACOP)).]
+of Cranes (Cranes ACOP)).
+
+[p9 | prose | of Cranes (Cranes ACOP)).]
+> Work platforms temporarily attached to a
+
+[p9 | prose | of Cranes (Cranes ACOP)).]
+mobile crane (refer to the Cranes ACOP).
+
+[p9 | prose | of Cranes (Cranes ACOP)).]
+> Suspended scaffolds (refer to Best Practice
+
+[p9 | prose | Guidelines for Scaffolding in New Zealand).]
+Guidelines for Scaffolding in New Zealand).
+
+[p9 | prose | Guidelines for Scaffolding in New Zealand).]
+> Lifts or elevators (refer to New Zealand
+
+[p9 | prose | Standard NZS 4332: Non-Domestic]
+Standard NZS 4332: Non-Domestic
+
+[p9 | prose | Passenger and Goods Lifts).]
+Passenger and Goods Lifts).
+
+[p9 | prose | > Telescopic handlers, except when]
+> Telescopic handlers, except when
+
+[p9 | prose | > Telescopic handlers, except when]
+configured as a MEWP.
+
+[p9 | prose | > Horticultural MEWP (See Best Practice]
+> Horticultural MEWP (See Best Practice
+
+[p9 | prose | Guideline: Safe Use of Elevating Work]
+Guideline: Safe Use of Elevating Work
+
+[p9 | prose | Platforms in the Horticultural Industry).]
+Platforms in the Horticultural Industry).
+
+[p9 | prose | > The New Zealand Fire Service.]
+> The New Zealand Fire Service.
+
+[p9 | prose | > Building maintenance units.]
+> Building maintenance units.
+
+[p9 | prose | SECTION 1.0 // INTRODUCTION]
+SECTION 1.0 // INTRODUCTION
+
+[p10 | table | SECTION 1.0 // INTRODUCTION]
+| HSE Act | The Health and Safety in Employment Act 1992. |
+| --- | --- |
+| HSE Regulations | The Health and Safety in Employment Regulations 1995. |
+| All practicable steps | Defined in the Health and Safety in Employment Act as being in relation to achieving any result in any circumstances, means all steps to achieve the result that it is reasonably practicable to take in the circumstances, having regard to — a the nature and severity of the harm that may be suffered if the result is not achieved; and b. the current state of knowledge about the likelihood that harm of that nature and severity will be suffered if the result is not achieved; and the current state of knowledge about harm of that nature; and the current state of knowledge about the means available to achieve the result, and about the likely efficacy of each of those means; and =] the availability and cost of each of those means. To avoid doubt, a person required by this Act to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know about. |
+| Anemometer | A device for measuring wind speed. |
+| Beaufort wind scale | A method that relates wind speed to observed conditions. |
+| Competent person | A person who has acquired through training, qualification, experience or a combination of these, the knowledge and skill enabling that person to correctly perform the required task. Note: Different types of MEWPs require different competencies, including appropriate training and/or qualifications. |
+| Critical component | One whose failure could result in a risk to the health and safety of persons using the MEWP or in its vicinity. |
+| Employee | As defined in the Health and Safety in Employment Act 1992, subject to Sections 3C to 3F of the Act, means any person of any age employed by an employer to do any work (other than residential work) for hire or reward under a contract of service and, in relation to any employer, means an employee of the employer. |
+| Employer | According to the Health and Safety in Employment Act 1992: a. means a person who employs any other person to do any work for hire or reward; and, in relation to any employee, means an employer of the employee; and includes, in relation to any person employed by the chief executive or other employee of a Crown organisation to do any work for the Crown organisation for hire or reward, that Crown organisation. |
+
+[p11 | table | SECTION 1.0 // INTRODUCTION]
+| Harness system | A safety harness with a lanyard incorporating a short energy absorber or fit-for-purpose self-retracting lifeline (SRL) attached to a certified anchor point. If using an adjustable lanyard arrangement the length will be adjusted to a length as short as practicable that will restrain the operator inside the platform. |
+| --- | --- |
+| Manual force | A side loading imposed on the machine by the operator pushing/pulling on an object outside the work platform. |
+| Mobile elevating work platform (MEWP) | The complete machine including the platform, lifting mechanism, attachments, chassis or vehicle as applicable. |
+| Operator | A person who controls the movements of the MEWP. |
+| Personal energy absorber | A device that reduces the deceleration force imposed when a fall is suddenly arrested, and correspondingly reduces the loadings on the anchorage and the person’s body. The energy absorber may either be a separate item or manufactured as part of the lanyard. |
+| Principal | A person who, or organisation that, engages any person (other than as an employee) to do any work for gain or reward. |
+| Rated capacity | The maximum load, expressed in kilograms, for which the MEWP has been designed for normal operation, and includes persons, tools, materials, acting vertically on the work platform. |
+| Safety observer | A person who watches the MEWP to warn the operator if they are getting too close to overhead power lines or other hazards. An observer must not do any other job while they are watching the MEWP. |
+| Shall or must | Indicates a legal requirement. |
+| Should | Indicates recommended best practice. |
+| Spreader plates | An item that may be constructed of a suitable material (steel, timber or other) to sit under outriggers that help distribute the weight of the MEWP on softer ground. |
+| Work platform | The portion of equipment where people carry out their work. |
+| Work platform supplier | Owner, hirer (supplying for hire) or supplier of a MEWP. |
+
+[p12 | prose | 02/]
+02/
+
+[p12 | prose | 02/]
+SAFE WORK PRACTICES WHEN USING MEWPS IN THIS SECTION: 2.1 Hazard management 2.2 Identify hazards 2.3 Assess the hazard 2.4 Hazard controls 2.5 Electrical hazards 2.6 Weather conditions and wind
+
+[p13 | prose | Identifying hazards and putting control measures in place makes using MEWPs in the workplace safer.]
+Identifying hazards and putting control measures in place makes using MEWPs in the workplace safer.
+
+[p13 | prose | Identifying hazards and putting control measures in place makes using MEWPs in the workplace safer.]
+Duty holders must choose the best MEWP for the task, given the type of work and the work environment. The work needs to be properly planned and hazards managed at the worksite. Operators must be trained and competent before using the MEWP and must follow the manufacturer’s operating instructions. Operators must also use safe working practices and use the MEWP within its limits. MEWPs can seriously injure people in the following ways:
+
+[p13 | table | Identifying hazards and putting control measures in place makes using MEWPs in the workplace safer.]
+| Entrapment | An operator can get trapped between the work platform and a fixed structure, such as when moving in tight overhead areas of steelwork. Operators can be trapped against the platform controls and, if this happens, they may not be able to stop the MEWP. |
+| --- | --- |
+| Overturning | On an uneven surface, the MEWP can overturn throwing the operator from the work platform. |
+| Falling | An operator can fall from the platform while working. They can even be catapulted out if, for example, the wheels go into a sink hole. |
+| Collision | The MEWP may hit pedestrians, or nearby vehicles or touch overhead power lines. |
+
+[p13 | prose | 2.1 HAZARD MANAGEMENT]
+2.1 HAZARD MANAGEMENT
+
+[p13 | prose | 2.1 HAZARD MANAGEMENT]
+Planning a safe way to do a job can help identify the hazards of any work using a MEWP. Planning safe work includes the hazard management process, which is: > Identify the hazards. > Assess the hazards – decide if the identified hazards are significant. Would they cause serious harm? > Control the hazards – eliminate, isolate or minimise the hazard. This includes selecting the right MEWP for the task and workplace. > Maintain the work plan or other safety documentation. > Monitor the hazards and keep the work plan or task analysis updated
+
+[p13 | prose | 2.2 IDENTIFY HAZARDS]
+2.2 IDENTIFY HAZARDS
+
+[p13 | prose | 2.2 IDENTIFY HAZARDS]
+Identify and assess all hazards for every job, site or task. These are some ways to identify hazards while working with a MEWP: > Physical inspections – walk around the workplace using a checklist to identify and manage hazards. > Task analysis – look at each task and identify the hazards involved. > Process analysis – identify hazards at each stage of the project or piece of work. > Review accident and incident investigations – identify hazards and see what caused any accidents using investigations of accidents on similar equipment or work. See appendices 9.7 and 9.8 for examples of hazard and site assessment checklists.
+
+[p14 | prose | 2.3 ASSESS THE HAZARD]
+2.3 ASSESS THE HAZARD
+
+[p14 | prose | 2.3 ASSESS THE HAZARD]
+Decide if the identified hazards are significant. How likely is it that someone could be harmed and, if they are harmed, how seriously could they be hurt? If someone could be seriously harmed, then it’s a significant hazard. All significant hazards need to be controlled to stop anyone being seriously hurt. While significant hazards are a top priority, all hazards should have effective controls.
+
+[p14 | prose | 2.4 HAZARD CONTROLS]
+2.4 HAZARD CONTROLS
+
+[p14 | prose | 2.4 HAZARD CONTROLS]
+First try and eliminate the hazard but if that’s not possible, then isolate it, and as a last resort try to reduce the harm that could be caused by a hazard, by minimising it. A combination of controls may need to be used. Develop ways to control the hazards that use ‘group controls’ (such as edge protection) that protect more than one worker from a hazard. Group controls are better than ‘individual controls’, which protect only one person (such as a fall restraint). In this section some of the main hazards of using MEWPs are covered along with recommended control measures. MEWPs that comply with AS/NZS 1418.10 will have the safety features listed below.
+
+[p14 | prose | CONFINED OVERHEAD WORKING]
+CONFINED OVERHEAD WORKING
+
+[p14 | prose | CONFINED OVERHEAD WORKING]
+Operators should: > be briefed on the risks of working in and around structures where they could be trapped or pinned between the platform and the structure > be aware of their working environment at all times > wear hardhats with a chin strap.
+
+[p14 | prose | GROUND CONDITIONS]
+GROUND CONDITIONS
+
+[p14 | prose | GROUND CONDITIONS]
+> Use the MEWP on firm and level ground where possible. Make sure the MEWP is rated for any slopes it may face. Problems – like trenches, manholes and soft ground conditions, – can cause a MEWP to overturn. > Do not use a MEWP on a slope beyond the limits of the inclinometer or manufacturer’s specifications. > Make sure any temporary covers used to block holes are strong enough to take the whole weight of the MEWP, including the maximum rated capacity – that is the weight of the MEWP fully loaded with people, tools and equipment. > Be careful when reaching out from the platform, going too far can affect stability, especially when working on slopes.
+
+[p14 | prose | OUTRIGGERS]
+OUTRIGGERS
+
+[p14 | prose | OUTRIGGERS]
+> Set the outriggers correctly before using the MEWP. > Use the manufacturer’s instructions to set the outriggers before raising the platform. > Use spreader plates when needed because of the ground conditions. They should be made of a material that gives good grip to both the spreader foot and ground. > When setting up a MEWP on-ramps using outriggers, extreme caution is required to prevent slipping down the ramp. Do not set up the outriggers’ footplates on a slope.
+
+[p14 | prose | PREVENTING FALLS]
+PREVENTING FALLS
+
+[p14 | prose | PREVENTING FALLS]
+> Make sure the work platform has effective guard rails and toe boards, if it is not fully enclosed. > Use an appropriate harness system if someone could fall from the MEWP. Secure the harness to a certified anchor point within the MEWP.
+
+[p15 | prose | SECTION 2.0 // SAFE WORK PRACTICES WHEN USING MEWPS]
+SECTION 2.0 // SAFE WORK PRACTICES WHEN USING MEWPS
+
+[p15 | prose | FALLING OBJECTS]
+FALLING OBJECTS
+
+[p15 | prose | FALLING OBJECTS]
+> Isolate the area around the MEWP so
+
+[p15 | prose | FALLING OBJECTS]
+that falling tools or objects do not strike
+
+[p15 | prose | people below.]
+people below.
+
+[p15 | prose | people below.]
+> Anyone working nearby should wear
+
+[p15 | prose | a hard hat.]
+a hard hat.
+
+[p15 | prose | WEATHER]
+WEATHER
+
+[p15 | prose | WEATHER]
+> Poor weather can make affect a platform’s
+
+[p15 | prose | WEATHER]
+stability and make it unsafe to use.
+
+[p15 | prose | WEATHER]
+> Only use a MEWP within the manufacturer’s
+
+[p15 | prose | WEATHER]
+specified wind rating. The wind rating
+
+[p15 | prose | WEATHER]
+should be on the manufacturer’s serial plate.
+
+[p15 | prose | WEATHER]
+> Bad weather and storms can also damage
+
+[p15 | prose | WEATHER]
+a MEWP. After severe weather, inspect the
+
+[p15 | prose | WEATHER]
+MEWP before using it again.
+
+[p15 | prose | WEATHER]
+> Do not park or store the MEWP with the
+
+[p15 | prose | WEATHER]
+platform elevated.
+
+[p15 | prose | HANDLING MATERIALS]
+HANDLING MATERIALS
+
+[p15 | prose | HANDLING MATERIALS]
+> If the MEWP is being used to install
+
+[p15 | prose | HANDLING MATERIALS]
+materials, check the weight, dimensions and
+
+[p15 | prose | HANDLING MATERIALS]
+distribution of the materials so it does not
+
+[p15 | prose | HANDLING MATERIALS]
+exceed the rated capacity of the MEWP.
+
+[p15 | prose | HANDLING MATERIALS]
+> Do not use handrails to support loads.
+
+[p15 | prose | HANDLING MATERIALS]
+> Make sure workers can handle any
+
+[p15 | prose | materials safely.]
+materials safely.
+
+[p15 | prose | materials safely.]
+> Use extra lifting equipment to move
+
+[p15 | prose | materials safely.]
+materials to the work position, if needed.
+
+[p15 | prose | WORKING NEAR OR OVER WATER]
+WORKING NEAR OR OVER WATER
+
+[p15 | prose | WORKING NEAR OR OVER WATER]
+> When working over or near water, assess
+
+[p15 | prose | WORKING NEAR OR OVER WATER]
+the hazards and risks to decide what
+
+[p15 | prose | WORKING NEAR OR OVER WATER]
+personal protective equipment should be
+
+[p15 | prose | WORKING NEAR OR OVER WATER]
+worn and what control measures should
+
+[p15 | prose | WORKING NEAR OR OVER WATER]
+be in place. Personal protective equipment
+
+[p15 | prose | WORKING NEAR OR OVER WATER]
+includes life jackets and harness systems.
+
+[p15 | prose | WORKING NEAR OR OVER WATER]
+> Have a rescue plan in place and take into
+
+[p15 | prose | WORKING NEAR OR OVER WATER]
+account the extra hazards working near
+
+[p15 | prose | WORKING NEAR OR OVER WATER]
+water can create.
+
+[p15 | prose | NEARBY HAZARDS]
+NEARBY HAZARDS
+
+[p15 | prose | NEARBY HAZARDS]
+> Check the area for nearby hazards,
+
+[p15 | prose | such as overhead power lines, traffic]
+such as overhead power lines, traffic
+
+[p15 | prose | or dangerous machinery.]
+or dangerous machinery.
+
+[p15 | prose | TRAVELLING BETWEEN WORK AREAS]
+TRAVELLING BETWEEN WORK AREAS
+
+[p15 | prose | TRAVELLING BETWEEN WORK AREAS]
+> The operator must face the direction the
+
+[p15 | prose | TRAVELLING BETWEEN WORK AREAS]
+MEWP is travelling in.
+
+[p15 | prose | TRAVELLING BETWEEN WORK AREAS]
+> Lower the MEWP when travelling between
+
+[p15 | prose | work areas.]
+work areas.
+
+[p15 | prose | work areas.]
+> Lower any boom and point it in line with the
+
+[p15 | prose | direction of travel.]
+direction of travel.
+
+[p15 | prose | WORKING NEAR OTHERS]
+WORKING NEAR OTHERS
+
+[p15 | prose | WORKING NEAR OTHERS]
+> Use barriers to keep pedestrians and traffic
+
+[p15 | prose | WORKING NEAR OTHERS]
+separated from where MEWPs are working.
+
+[p15 | prose | 2.5 ELECTRICAL HAZARDS]
+2.5 ELECTRICAL HAZARDS
+
+[p15 | prose | 2.5 ELECTRICAL HAZARDS]
+Any hazard assessment must identify:
+
+[p15 | prose | > all overhead power lines near the workplace]
+> all overhead power lines near the workplace
+
+[p15 | prose | > all trees, structures and work positions that]
+> all trees, structures and work positions that
+
+[p15 | prose | > all trees, structures and work positions that]
+are within 4 metres of the power lines.
+
+[p15 | prose | > all trees, structures and work positions that]
+> trees can conduct electricity if they are
+
+[p15 | prose | > all trees, structures and work positions that]
+too close to or touch live power lines.
+
+[p15 | prose | > all trees, structures and work positions that]
+All safety plans must include these
+
+[p15 | prose | > all trees, structures and work positions that]
+identified hazards and give details of
+
+[p15 | prose | > all trees, structures and work positions that]
+how the hazards are controlled.
+
+[p15 | prose | > all trees, structures and work positions that]
+> treat all overhead power lines as being live,
+
+[p15 | prose | > all trees, structures and work positions that]
+unless the power company that owns the
+
+[p15 | prose | > all trees, structures and work positions that]
+power lines formally advises that the lines
+
+[p15 | prose | > all trees, structures and work positions that]
+are safe.
+
+[p15 | prose | NO-GO ZONE – STAY 4 METRES AWAY FROM OVERHEAD POWER LINES]
+NO-GO ZONE – STAY 4 METRES AWAY FROM OVERHEAD POWER LINES
+
+[p15 | prose | NO-GO ZONE – STAY 4 METRES AWAY FROM OVERHEAD POWER LINES]
+> Never work within 4 metres of any power
+
+[p15 | prose | NO-GO ZONE – STAY 4 METRES AWAY FROM OVERHEAD POWER LINES]
+line without first contacting the power
+
+[p15 | prose | NO-GO ZONE – STAY 4 METRES AWAY FROM OVERHEAD POWER LINES]
+company. Written consent is required from
+
+[p15 | prose | the power company before any work can]
+the power company before any work can
+
+[p15 | prose | the power company before any work can]
+be done within 4 metres of the power line.
+
+[p15 | prose | the power company before any work can]
+A copy of the consent must be on site at
+
+[p15 | prose | all times.]
+all times.
+
+[p16 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS
+
+[p16 | prose | EXCLUSION ZONE – 4 TO 6.4 METRES FROM POWER LINES]
+EXCLUSION ZONE – 4 TO 6.4 METRES FROM POWER LINES
+
+[p16 | prose | EXCLUSION ZONE – 4 TO 6.4 METRES FROM POWER LINES]
+If any MEWP is likely to get closer than 6.4
+
+[p16 | prose | EXCLUSION ZONE – 4 TO 6.4 METRES FROM POWER LINES]
+metres to an overhead power line, make sure:
+
+[p16 | prose | EXCLUSION ZONE – 4 TO 6.4 METRES FROM POWER LINES]
+> operators, the MEWP including loads,
+
+[p16 | prose | attachments, tools and equipment, and all]
+attachments, tools and equipment, and all
+
+[p16 | prose | attachments, tools and equipment, and all]
+work activity must stay at least 4 metres
+
+[p16 | prose | attachments, tools and equipment, and all]
+away from any overhead power lines. This is
+
+[p16 | prose | attachments, tools and equipment, and all]
+called the minimum approach distance (MAD)
+
+[p16 | prose | attachments, tools and equipment, and all]
+> hazard controls are in place to make sure
+
+[p16 | prose | attachments, tools and equipment, and all]
+no one and nothing can enter the 4 metre
+
+[p16 | prose | no-go zone (MAD)]
+no-go zone (MAD)
+
+[p16 | prose | > the area between 6.4 and 4 metres from]
+> the area between 6.4 and 4 metres from
+
+[p16 | prose | > the area between 6.4 and 4 metres from]
+the overhead power line is separated from
+
+[p16 | prose | > the area between 6.4 and 4 metres from]
+the workspace using cones or tape to show
+
+[p16 | prose | > the area between 6.4 and 4 metres from]
+where the exclusion zone is
+
+[p16 | prose | > the area between 6.4 and 4 metres from]
+> the safety plan explains how the MEWP will
+
+[p16 | prose | > the area between 6.4 and 4 metres from]
+be used so the operator can always see the
+
+[p16 | prose | power lines]
+power lines
+
+[p16 | prose | power lines]
+> all operators of machines are briefed on
+
+[p16 | prose | limits to their movements and they must]
+limits to their movements and they must
+
+[p16 | prose | limits to their movements and they must]
+understand only specific operators can
+
+[p16 | prose | limits to their movements and they must]
+work in the exclusion zone (4–6.4 metres
+
+[p16 | prose | from a power line).]
+from a power line).
+
+[p16 | prose | OPERATING WITHIN THE EXCLUSION ZONE]
+OPERATING WITHIN THE EXCLUSION ZONE
+
+[p16 | prose | OPERATING WITHIN THE EXCLUSION ZONE]
+Anyone working in the exclusion zone must
+
+[p16 | prose | OPERATING WITHIN THE EXCLUSION ZONE]
+be competent to operate the specific type
+
+[p16 | prose | OPERATING WITHIN THE EXCLUSION ZONE]
+of MEWP used, be thoroughly briefed and
+
+[p16 | prose | OPERATING WITHIN THE EXCLUSION ZONE]
+must understand the dangers of working near
+
+[p16 | prose | overhead power lines.]
+overhead power lines.
+
+[p16 | prose | overhead power lines.]
+A competent safety observer must be present at
+
+[p16 | prose | overhead power lines.]
+all times to make sure everyone and everything
+
+[p16 | prose | overhead power lines.]
+(including the MEWP and tools) stay out of the
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+4 metre no-go zone (MAD).
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+The safety observer must be able to alert the
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+MEWP operator immediately if they are about
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+to enter the 4 metre no-go zone (MAD).
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+Operators working with MEWPs in the
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+exclusion zone (4–6.4m) must obey any
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+instructions given by the safety observer.
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+People working in the safety observer role
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+must not do any other task at the same time.
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+Operators must not use mobile phones or
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+electronic equipment of any kind to avoid
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+being distracted.
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+Operators must not wear clothing that could
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+block their vision or movement in any way
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+while working in the exclusion zone.
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+Everyone must treat power lines as live until
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+the power company can formally advise that
+
+[p16 | prose | 4 metre no-go zone (MAD).]
+any line is safe.
+
+[p16 | prose | EMERGENCY PROCEDURES]
+EMERGENCY PROCEDURES
+
+[p16 | prose | EMERGENCY PROCEDURES]
+If a MEWP does touch overhead power lines,
+
+[p16 | prose | EMERGENCY PROCEDURES]
+anyone in the MEWP should stay there and
+
+[p16 | prose | EMERGENCY PROCEDURES]
+warn any others nearby to stay clear. If it
+
+[p16 | prose | EMERGENCY PROCEDURES]
+is safe to do so, operate the controls to
+
+[p16 | prose | break contact.]
+break contact.
+
+[p16 | prose | break contact.]
+If it is not safe to break contact:
+
+[p16 | prose | break contact.]
+> call for help, warning everyone to keep well
+
+[p16 | prose | clear of the machine]
+clear of the machine
+
+[p16 | prose | clear of the machine]
+> stay put until the power company can de-
+
+[p16 | prose | clear of the machine]
+energise the line and advise that it is safe to
+
+[p16 | prose | clear of the machine]
+get off the MEWP.
+
+[p16 | prose | clear of the machine]
+If help is not immediately available, electrical
+
+[p16 | prose | clear of the machine]
+contact cannot be broken and there is an
+
+[p16 | prose | clear of the machine]
+urgent reason to get off the MEWP (such
+
+[p16 | prose | as fire):]
+as fire):
+
+[p16 | prose | as fire):]
+> switch off the motor and – where applicable
+
+[p16 | prose | as fire):]
+apply brakes
+
+[p16 | prose | as fire):]
+> remove any loose clothing
+
+[p16 | prose | as fire):]
+> climb to a point on the MEWP where you
+
+[p16 | prose | as fire):]
+can safely jump to the ground about 1 metre
+
+[p16 | prose | above the ground]
+above the ground
+
+[p16 | prose | above the ground]
+> jump so that you are well clear of the
+
+[p16 | prose | platform before any part of you touches]
+platform before any part of you touches
+
+[p16 | prose | the ground]
+the ground
+
+[p16 | prose | the ground]
+> fall away from the MEWP and not towards it
+
+[p16 | prose | the ground]
+> do not touch the MEWP until the power
+
+[p16 | prose | the ground]
+company advises it is safe to do so.
+
+[p17 | prose | SECTION 2.0 // SAFE WORK PRACTICES WHEN USING MEWPS]
+SECTION 2.0 // SAFE WORK PRACTICES WHEN USING MEWPS
+
+[p17 | prose | ELECTRICITY INDUSTRY SAFETY INFORMATION]
+ELECTRICITY INDUSTRY SAFETY INFORMATION
+
+[p17 | prose | ELECTRICITY INDUSTRY SAFETY INFORMATION]
+Further information on how to use mobile
+
+[p17 | prose | ELECTRICITY INDUSTRY SAFETY INFORMATION]
+plant safely around power lines is on the
+
+[p17 | prose | Electricity Engineers Association’s (EEA)]
+Electricity Engineers Association’s (EEA)
+
+[p17 | prose | Electricity Engineers Association’s (EEA)]
+website at www.eea.co.nz. The EEA Guide
+
+[p17 | prose | for Non-Electricity Industry Employees Using]
+for Non-Electricity Industry Employees Using
+
+[p17 | prose | Mobile Plant Near Power Lines and Electricity]
+Mobile Plant Near Power Lines and Electricity
+
+[p17 | prose | Mobile Plant Near Power Lines and Electricity]
+Cables explains how to avoid electrical
+
+[p17 | prose | Mobile Plant Near Power Lines and Electricity]
+hazards when using MEWPs near power lines.
+
+[p17 | prose | Mobile Plant Near Power Lines and Electricity]
+It also has information to help people identify
+
+[p17 | prose | electrical hazards.]
+electrical hazards.
+
+[p17 | prose | The Guide for Electricity Supply Industry]
+The Guide for Electricity Supply Industry
+
+[p17 | prose | Employees Using Mobile Plant gives the]
+Employees Using Mobile Plant gives the
+
+[p17 | prose | Employees Using Mobile Plant gives the]
+minimum accepted practices for competent
+
+[p17 | prose | Employees Using Mobile Plant gives the]
+electricity industry workers who are using
+
+[p17 | prose | MEWPs for electricity industry work.]
+MEWPs for electricity industry work.
+
+[p17 | prose | MEWPs for electricity industry work.]
+Be aware that high buildings can funnel wind,
+
+[p17 | prose | MEWPs for electricity industry work.]
+which can cause high winds even when wind
+
+[p17 | prose | MEWPs for electricity industry work.]
+speed in open areas is low. This can even
+
+[p17 | prose | MEWPs for electricity industry work.]
+happen indoors in large warehouses, aircraft
+
+[p17 | prose | hangers and high rise buildings. Local wind]
+hangers and high rise buildings. Local wind
+
+[p17 | prose | hangers and high rise buildings. Local wind]
+speeds can be increased by things like aircraft
+
+[p17 | prose | slipstreams at airports and high-sided vehicles]
+slipstreams at airports and high-sided vehicles
+
+[p17 | prose | on motorways.]
+on motorways.
+
+[p17 | prose | 2.6 WEATHER CONDITIONS AND WIND]
+2.6 WEATHER CONDITIONS AND WIND
+
+[p17 | prose | All MEWPs (except those for indoor use)]
+All MEWPs (except those for indoor use)
+
+[p17 | prose | All MEWPs (except those for indoor use)]
+can work in wind, up to a maximum rating.
+
+[p17 | prose | All MEWPs (except those for indoor use)]
+The maximum wind rating must be clearly
+
+[p17 | prose | All MEWPs (except those for indoor use)]
+marked clearly either on the machine or the
+
+[p17 | prose | All MEWPs (except those for indoor use)]
+manufacturer’s serial plate. The MEWP must
+
+[p17 | prose | All MEWPs (except those for indoor use)]
+not be operated outside the maximum limits.
+
+[p17 | prose | All MEWPs (except those for indoor use)]
+A traditional method of assessing wind
+
+[p17 | prose | All MEWPs (except those for indoor use)]
+speed is using the Beaufort wind scale. This
+
+[p17 | prose | All MEWPs (except those for indoor use)]
+scale relies on an operator looking at their
+
+[p17 | prose | All MEWPs (except those for indoor use)]
+environment to figure out wind speed. This
+
+[p17 | prose | All MEWPs (except those for indoor use)]
+can lead to the operator underestimating
+
+[p17 | prose | All MEWPs (except those for indoor use)]
+the wind speed and its hazards. Wind speed
+
+[p17 | prose | All MEWPs (except those for indoor use)]
+increases with height and may be 50% faster
+
+[p17 | prose | 20 metres above ground.]
+20 metres above ground.
+
+[p17 | prose | 20 metres above ground.]
+An accurate way of measuring wind speed is
+
+[p17 | prose | 20 metres above ground.]
+by using an anemometer. This is a common
+
+[p17 | prose | 20 metres above ground.]
+tool used to assess weather conditions.
+
+[p17 | prose | 20 metres above ground.]
+Building cladding, sheet materials, panels and
+
+[p17 | prose | 20 metres above ground.]
+other such materials can act as sails and make
+
+[p17 | prose | 20 metres above ground.]
+a MEWP more likely to tip over, especially in
+
+[p17 | prose | 20 metres above ground.]
+gusty wind conditions. For the same reason,
+
+[p17 | prose | 20 metres above ground.]
+never attach signboards, banners and the like
+
+[p17 | prose | 20 metres above ground.]
+to the platform, even if it is for a short time.
+
+[p18 | prose | 03/]
+03/
+
+[p18 | prose | PLANNING THE WORK]
+PLANNING THE WORK
+
+[p18 | prose | PLANNING THE WORK]
+IN THIS SECTION: 3.1 Stages of planning 3.2 Transporting MEWPs 3.3 Use of harness systems
+
+[p19 | prose | SECTION 3.0 // PLANNING THE WORK]
+SECTION 3.0 // PLANNING THE WORK
+
+[p19 | prose | SECTION 3.0 // PLANNING THE WORK]
+Before starting the job, the first step is to plan how to do the work safely. The nature of the task and the hazards linked with it determine how much planning is needed.
+
+[p19 | prose | SECTION 3.0 // PLANNING THE WORK]
+At a minimum the following steps should
+
+[p19 | prose | SECTION 3.0 // PLANNING THE WORK]
+be taken.
+
+[p19 | prose | 3.1 STAGES OF PLANNING]
+3.1 STAGES OF PLANNING
+
+[p19 | prose | 3.1 STAGES OF PLANNING]
+Follow the steps below when planning any job:
+
+[p19 | prose | 3.1 STAGES OF PLANNING]
+1. identify the tasks to be done
+
+[p19 | prose | 3.1 STAGES OF PLANNING]
+2. identify the hazards linked to each task
+
+[p19 | prose | 3.1 STAGES OF PLANNING]
+3. pick the right MEWP for the job
+
+[p19 | prose | 3.1 STAGES OF PLANNING]
+4. identify control measures
+
+[p19 | prose | 3.1 STAGES OF PLANNING]
+5. develop your plan
+
+[p19 | prose | 3.1 STAGES OF PLANNING]
+6. make a plan for what to do in an emergency
+
+[p19 | prose | 3.1 STAGES OF PLANNING]
+7. record the planning, including any
+
+[p19 | prose | rescue plan]
+rescue plan
+
+[p19 | prose | rescue plan]
+8. involve people and talk to everyone working
+
+[p19 | prose | on the job about the plan]
+on the job about the plan
+
+[p19 | prose | on the job about the plan]
+9. review the plan before the job starts and
+
+[p19 | prose | on the job about the plan]
+add any changes.
+
+[p19 | prose | IDENTIFY THE TASKS TO BE DONE]
+IDENTIFY THE TASKS TO BE DONE
+
+[p19 | prose | IDENTIFY THE TASKS TO BE DONE]
+> First, identify exactly what work needs to be
+
+[p19 | prose | IDENTIFY THE TASKS TO BE DONE]
+done, where and when.
+
+[p19 | prose | IDENTIFY THE TASKS TO BE DONE]
+> Visit the location and check the conditions
+
+[p19 | prose | IDENTIFY THE TASKS TO BE DONE]
+of the worksite. Take along site staff who
+
+[p19 | prose | IDENTIFY THE TASKS TO BE DONE]
+can identify hazards in the area and any
+
+[p19 | prose | problems with the ground where the MEWP]
+problems with the ground where the MEWP
+
+[p19 | prose | problems with the ground where the MEWP]
+will need to work.
+
+[p19 | prose | problems with the ground where the MEWP]
+> For simple tasks, planning could happen
+
+[p19 | prose | at the same time as the site visit. For more]
+at the same time as the site visit. For more
+
+[p19 | prose | at the same time as the site visit. For more]
+complicated jobs planning may need to be
+
+[p19 | prose | at the same time as the site visit. For more]
+completed off site.
+
+[p19 | prose | IDENTIFY THE HAZARDS ASSOCIATED WITH THE TASK]
+IDENTIFY THE HAZARDS ASSOCIATED WITH THE TASK
+
+[p19 | prose | IDENTIFY THE HAZARDS ASSOCIATED WITH THE TASK]
+> Identify the hazards of each task. These
+
+[p19 | prose | IDENTIFY THE HAZARDS ASSOCIATED WITH THE TASK]
+might be caused by the location of the
+
+[p19 | prose | work, the type of MEWP or the people]
+work, the type of MEWP or the people
+
+[p19 | prose | work, the type of MEWP or the people]
+and equipment being carried.
+
+[p19 | prose | work, the type of MEWP or the people]
+> ISO 16368 Annex H identifies some potential
+
+[p19 | prose | work, the type of MEWP or the people]
+hazards. These have been detailed in
+
+[p19 | appendix | Appendix 9.7 of this document.]
+Appendix 9.7 of this document.
+
+[p19 | prose | PICK THE RIGHT MEWP FOR THE JOB]
+PICK THE RIGHT MEWP FOR THE JOB
+
+[p19 | prose | PICK THE RIGHT MEWP FOR THE JOB]
+> MEWPs vary in rated capacity, working
+
+[p19 | prose | PICK THE RIGHT MEWP FOR THE JOB]
+height and reach. The MEWP that best
+
+[p19 | prose | PICK THE RIGHT MEWP FOR THE JOB]
+matches the particular work task should be
+
+[p19 | prose | PICK THE RIGHT MEWP FOR THE JOB]
+chosen. The choice will be guided by the
+
+[p19 | prose | site access and how near the public or other]
+site access and how near the public or other
+
+[p19 | prose | site access and how near the public or other]
+workers will be.
+
+[p19 | prose | IDENTIFY CONTROL MEASURES]
+IDENTIFY CONTROL MEASURES
+
+[p19 | prose | IDENTIFY CONTROL MEASURES]
+> Once the hazards and the risks are
+
+[p19 | prose | IDENTIFY CONTROL MEASURES]
+identified, control measures to eliminate,
+
+[p19 | prose | IDENTIFY CONTROL MEASURES]
+isolate or minimise the hazard need to be
+
+[p19 | prose | IDENTIFY CONTROL MEASURES]
+put in place.
+
+[p19 | prose | IDENTIFY CONTROL MEASURES]
+> Control measures will include any personal
+
+[p19 | prose | IDENTIFY CONTROL MEASURES]
+protective equipment to be used, such as
+
+[p19 | prose | hard hats and harness systems.]
+hard hats and harness systems.
+
+[p19 | prose | DEVELOP THE PLAN]
+DEVELOP THE PLAN
+
+[p19 | prose | DEVELOP THE PLAN]
+> Having identified the hazards, evaluated the
+
+[p19 | prose | DEVELOP THE PLAN]
+risks and worked out the control measures
+
+[p19 | prose | DEVELOP THE PLAN]
+needed to do the job safely, develop a
+
+[p19 | prose | safety plan.]
+safety plan.
+
+[p19 | prose | MAKE A PLAN FOR WHAT TO DO IN AN EMERGENCY]
+MAKE A PLAN FOR WHAT TO DO IN AN EMERGENCY
+
+[p19 | prose | MAKE A PLAN FOR WHAT TO DO IN AN EMERGENCY]
+> The plan needs to include how you will
+
+[p19 | prose | MAKE A PLAN FOR WHAT TO DO IN AN EMERGENCY]
+rescue anyone stuck on the work platform
+
+[p19 | prose | MAKE A PLAN FOR WHAT TO DO IN AN EMERGENCY]
+if the platform can’t be lowered for any
+
+[p19 | prose | reason, such as a machine fault or the work]
+reason, such as a machine fault or the work
+
+[p19 | prose | reason, such as a machine fault or the work]
+platform gets tangled.
+
+[p19 | prose | reason, such as a machine fault or the work]
+> The rescue plan should cover what to do in
+
+[p19 | prose | reason, such as a machine fault or the work]
+case someone is sick, injured or exposed to
+
+[p19 | prose | chemicals or fumes.]
+chemicals or fumes.
+
+[p20 | prose | chemicals or fumes.]
+> Any rescue plan must take into account the reason the platform was stranded at height and any need for urgent action.
+
+[p20 | prose | chemicals or fumes.]
+> Wherever possible, a trained person should do the rescue using the machine’s ground controls or secondary lowering system. If this is not possible, use another MEWP to carry out the rescue.
+
+[p20 | prose | chemicals or fumes.]
+> All sites need an emergency plan in place. Before starting any rescue, do a hazard assessment. Have an emergency plan for the operator to complete their own rescue.
+
+[p20 | prose | chemicals or fumes.]
+> The plan needs to allow for any hazards, like the ones listed in Appendix 9.7 (based on ISO 16368, Annex H) and the following:
+
+[p20 | prose | chemicals or fumes.]
+> the rescue machine needs to be placed so the people doing the rescue are not put at risk
+
+[p20 | prose | chemicals or fumes.]
+> the work platforms of both machines need to be next to each other with as little gap as possible between them
+
+[p20 | prose | chemicals or fumes.]
+> switch off the engines on both machines during the transfer
+
+[p20 | prose | chemicals or fumes.]
+> where practicable, the person being rescued and the rescuer should wear full body harnesses with adjustable lanyards. Attach lanyards to certified anchor points on the rescue machine before starting the transfer
+
+[p20 | prose | chemicals or fumes.]
+> do not overload the rescue machine. More than one trip may be needed to make to complete the rescue.
+
+[p20 | prose | chemicals or fumes.]
+> Caution – make sure the floor can take the weight of all machines used during the rescue operation.
+
+[p20 | prose | chemicals or fumes.]
+> Call emergency services if:
+
+[p20 | prose | chemicals or fumes.]
+> there is an injury, illness or risk of exposure to toxic substances
+
+[p20 | prose | chemicals or fumes.]
+> someone has been hanging for any length of time – they might be suffering from suspension trauma
+
+[p20 | prose | chemicals or fumes.]
+> the operators on the work platform cannot communicate with rescuers on the ground.
+
+[p20 | prose | RECORD THE PLAN, INCLUDING ANY RESCUE PLAN]
+RECORD THE PLAN, INCLUDING ANY RESCUE PLAN
+
+[p20 | prose | RECORD THE PLAN, INCLUDING ANY RESCUE PLAN]
+> Record the plan and keep a copy onsite where it can be easily accessed. The length and detail of the plan will depend on the complexity of the task and the risks involved.
+
+[p20 | prose | RECORD THE PLAN, INCLUDING ANY RESCUE PLAN]
+> A simple, low-risk task – such as routine maintenance work in a factory – might only need a brief safety plan; while a more complex and high-risk job will need a more detailed task specific plan.
+
+[p20 | prose | INVOLVE PEOPLE AND TALK TO EVERYONE WORKING ON THE JOB ABOUT THE PLAN]
+INVOLVE PEOPLE AND TALK TO EVERYONE WORKING ON THE JOB ABOUT THE PLAN
+
+[p20 | prose | INVOLVE PEOPLE AND TALK TO EVERYONE WORKING ON THE JOB ABOUT THE PLAN]
+> A critical part of successful planning is making sure everyone knows what is in the plan. Make sure the plan can be understood by people with low literacy or for who English is a second language.
+
+[p20 | prose | REVIEW THE PLAN BEFORE THE JOB STARTS]
+REVIEW THE PLAN BEFORE THE JOB STARTS
+
+[p20 | prose | REVIEW THE PLAN BEFORE THE JOB STARTS]
+> Just before the job starts, check that nothing in the tasks or the working environment has changed. If it has, assess what effect that could have on the safety of the job.
+
+[p20 | prose | REVIEW THE PLAN BEFORE THE JOB STARTS]
+> Communicate any changes to the plan to everyone involved.
+
+[p20 | prose | 3.2 TRANSPORTING MEWPS]
+3.2 TRANSPORTING MEWPS
+
+[p20 | prose | 3.2 TRANSPORTING MEWPS]
+> Accidents and injuries can happen when getting MEWPs to and from sites. Any health and safety planning should cover the hazards of moving machinery to and from sites.
+
+[p20 | prose | 3.2 TRANSPORTING MEWPS]
+> Transport operators must be competent if they need to drive the MEWP to load or unload it from a truck. Always read, understand and follow the manufacturer’s instructions for loading and unloading the MEWP and the tie down and lifting procedures.
+
+[p20 | prose | 3.2 TRANSPORTING MEWPS]
+> Refer to the New Zealand Transport Agency’s The Official New Zealand Road Code for Heavy Vehicle Users for more information on loading transport vehicles.
+
+[p21 | prose | SECTION 3.0 // PLANNING THE WORK]
+SECTION 3.0 // PLANNING THE WORK
+
+[p21 | prose | GETTING READY TO TRANSPORT]
+GETTING READY TO TRANSPORT
+
+[p21 | prose | GETTING READY TO TRANSPORT]
+> Complete a hazard assessment of the site
+
+[p21 | prose | GETTING READY TO TRANSPORT]
+and decide the best method for loading
+
+[p21 | prose | the MEWP.]
+the MEWP.
+
+[p21 | prose | the MEWP.]
+> Remove all loose items, tools and
+
+[p21 | prose | the MEWP.]
+equipment from the platform, deck or tray.
+
+[p21 | prose | the MEWP.]
+> Check and secure all engine and access
+
+[p21 | prose | the MEWP.]
+covers, ensure battery box trays and doors
+
+[p21 | prose | the MEWP.]
+are secure. Secure tool bin lids.
+
+[p21 | prose | the MEWP.]
+> Ensure turntable lock pins are engaged
+
+[p21 | prose | (slew lock pin, if applicable).]
+(slew lock pin, if applicable).
+
+[p21 | prose | (slew lock pin, if applicable).]
+> Ensure boom lockdowns are in place (pins/
+
+[p21 | prose | straps/over centre buckles).]
+straps/over centre buckles).
+
+[p21 | prose | straps/over centre buckles).]
+> Secure the boom and basket of any
+
+[p21 | prose | straps/over centre buckles).]
+self-propelled booms using the
+
+[p21 | prose | manufacturer’s instructions.]
+manufacturer’s instructions.
+
+[p21 | prose | METHOD OF LOADING MEWPS]
+METHOD OF LOADING MEWPS
+
+[p21 | prose | > Park the truck safely and legally.]
+> Park the truck safely and legally.
+
+[p21 | prose | > Park the truck safely and legally.]
+> Before loading the MEWP, do a full hazard
+
+[p21 | prose | > Park the truck safely and legally.]
+assessment to identify any soft or uneven
+
+[p21 | prose | ground, overhead power lines, sufficient]
+ground, overhead power lines, sufficient
+
+[p21 | prose | lighting, traffic and public access.]
+lighting, traffic and public access.
+
+[p21 | prose | lighting, traffic and public access.]
+> Make sure the operator is wearing the
+
+[p21 | prose | such as high visibility gear, gloves and]
+such as high visibility gear, gloves and
+
+[p21 | prose | a total restraint system.]
+a total restraint system.
+
+[p21 | prose | a total restraint system.]
+> Put hazard control measures in place where
+
+[p21 | prose | a total restraint system.]
+needed, such as flashing lights, marker
+
+[p21 | prose | cones and traffic management.]
+cones and traffic management.
+
+[p21 | prose | cones and traffic management.]
+> Check how steep an angle the MEWP can
+
+[p21 | prose | cones and traffic management.]
+work at to decide how to load it.
+
+[p21 | prose | cones and traffic management.]
+> Where more than one machine is loaded,
+
+[p21 | prose | cones and traffic management.]
+consider loading methods, weight
+
+[p21 | prose | distribution and restraint methods.]
+distribution and restraint methods.
+
+[p21 | prose | distribution and restraint methods.]
+> Follow safe operating procedures for
+
+[p21 | prose | distribution and restraint methods.]
+loading, such as placing the MEWP ready
+
+[p21 | prose | distribution and restraint methods.]
+to load, drive on, winch and drive, or free
+
+[p21 | prose | wheel and winch.]
+wheel and winch.
+
+[p21 | prose | wheel and winch.]
+> Once the MEWP is on the truck, secure
+
+[p21 | prose | it with strops, chains and load restraints]
+it with strops, chains and load restraints
+
+[p21 | prose | it with strops, chains and load restraints]
+(using the right tie-down points) as outlined
+
+[p21 | prose | in The Official New Zealand Road Code for]
+in The Official New Zealand Road Code for
+
+[p21 | prose | Heavy Vehicle Drivers.]
+Heavy Vehicle Drivers.
+
+[p21 | prose | Heavy Vehicle Drivers.]
+> When loading a slide bed, have chains in
+
+[p21 | prose | Heavy Vehicle Drivers.]
+place, but pre-tensioning them is optional
+
+[p21 | prose | Heavy Vehicle Drivers.]
+while lifting the tray.
+
+[p21 | prose | Heavy Vehicle Drivers.]
+> Once the tray is packed up and or
+
+[p21 | prose | Heavy Vehicle Drivers.]
+the ramps are lifted and secured with
+
+[p21 | prose | Heavy Vehicle Drivers.]
+pretension chains with dogs, secure the
+
+[p21 | prose | boom basket with the ratchet strap.]
+boom basket with the ratchet strap.
+
+[p21 | prose | boom basket with the ratchet strap.]
+> Check the height and width of the
+
+[p21 | prose | boom basket with the ratchet strap.]
+load so the maximum rated capacity
+
+[p21 | prose | boom basket with the ratchet strap.]
+is not exceeded.
+
+[p21 | prose | boom basket with the ratchet strap.]
+> Do one final check of the loading area,
+
+[p21 | prose | truck, load, chains, dogs and straps before]
+truck, load, chains, dogs and straps before
+
+[p21 | prose | truck, load, chains, dogs and straps before]
+leaving the site.
+
+[p21 | prose | METHOD OF UNLOADING MEWPS]
+METHOD OF UNLOADING MEWPS
+
+[p21 | prose | > Park the truck safely and legally.]
+> Park the truck safely and legally.
+
+[p21 | prose | > Park the truck safely and legally.]
+> On arrival, check the drop-off area and
+
+[p21 | prose | conditions for hazards (such as wet or]
+conditions for hazards (such as wet or
+
+[p21 | prose | dry ground conditions, overhead power]
+dry ground conditions, overhead power
+
+[p21 | prose | uneven ground).]
+uneven ground).
+
+[p21 | prose | uneven ground).]
+> Make sure the operator is wearing the right
+
+[p21 | prose | PPE, such as high visibility gear, gloves and]
+PPE, such as high visibility gear, gloves and
+
+[p21 | prose | a total restraint system.]
+a total restraint system.
+
+[p21 | prose | a total restraint system.]
+> Put hazard control measures in place,
+
+[p21 | prose | a total restraint system.]
+such as flashing lights, marker cones
+
+[p21 | prose | and traffic control.]
+and traffic control.
+
+[p21 | prose | and traffic control.]
+> Release the basket ratchet strap, chains and
+
+[p21 | prose | and traffic control.]
+twitches and remove rear chains. If driving
+
+[p21 | prose | and traffic control.]
+the MEWP off the truck to unload, leave
+
+[p21 | prose | and traffic control.]
+the front chain for safety. Only remove the
+
+[p21 | prose | and traffic control.]
+chain once the tray is tilted. If using a winch,
+
+[p21 | prose | and traffic control.]
+pre-tension the cable before tilting the tray.
+
+[p21 | prose | and traffic control.]
+> Tilt or lower the tray or ramps safely.
+
+[p21 | prose | and traffic control.]
+> Drive the MEWP to a safe place then park
+
+[p21 | prose | and traffic control.]
+and secure it. Engage the free wheel hubs
+
+[p21 | prose | and traffic control.]
+or brakes before releasing winch cable.
+
+[p22 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS
+
+[p22 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+> Once the truck is packed up and the ramps
+
+[p22 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+are lifted and secure, make a final check
+
+[p22 | prose | of the unloading area and truck before it]
+of the unloading area and truck before it
+
+[p22 | prose | of the unloading area and truck before it]
+leaves the site. Make sure chains, twitches,
+
+[p22 | prose | of the unloading area and truck before it]
+straps and truck outriggers have been
+
+[p22 | prose | of the unloading area and truck before it]
+packed and stowed away.
+
+[p22 | prose | 3.3 USE OF HARNESS SYSTEMS]
+3.3 USE OF HARNESS SYSTEMS
+
+[p22 | prose | 3.3 USE OF HARNESS SYSTEMS]
+Operators must wear a harness with the
+
+[p22 | prose | 3.3 USE OF HARNESS SYSTEMS]
+following MEWPs:
+
+[p22 | prose | 3.3 USE OF HARNESS SYSTEMS]
+> truck-mounted boom lift
+
+[p22 | prose | 3.3 USE OF HARNESS SYSTEMS]
+> self-propelled boom lift
+
+[p22 | prose | 3.3 USE OF HARNESS SYSTEMS]
+> trailer-mounted boom lift (cherry pickers)
+
+[p22 | prose | > vertical masts, where manufacturer]
+> vertical masts, where manufacturer
+
+[p22 | prose | > vertical masts, where manufacturer]
+recommends a harness
+
+[p22 | prose | > vertical masts, where manufacturer]
+> any other boom-type lift, including
+
+[p22 | prose | spider lifts]
+spider lifts
+
+[p22 | prose | spider lifts]
+> that has a knuckle or pivot arrangement
+
+[p22 | prose | > any machine where a risk assessment]
+> any machine where a risk assessment
+
+[p22 | prose | > any machine where a risk assessment]
+shows it is necessary.
+
+[p22 | prose | > any machine where a risk assessment]
+> Operators must be harnessed inside the
+
+[p22 | prose | platform because the platforms of the]
+platform because the platforms of the
+
+[p22 | prose | platform because the platforms of the]
+above types of MEWP can tip suddenly
+
+[p22 | prose | platform because the platforms of the]
+when elevating (such as if it hits something
+
+[p22 | prose | platform because the platforms of the]
+or the levelling system fails) or the operator
+
+[p22 | prose | platform because the platforms of the]
+can be catapulted out when driving.
+
+[p22 | prose | platform because the platforms of the]
+> Operators in boom-style MEWPs must wear
+
+[p22 | prose | platform because the platforms of the]
+a safety harness with a lanyard – fitted with
+
+[p22 | prose | platform because the platforms of the]
+a short energy absorber or self-retracting
+
+[p22 | prose | platform because the platforms of the]
+lifeline (SRL). The harness must be attached
+
+[p22 | prose | platform because the platforms of the]
+to a certified anchor point. If using an
+
+[p22 | prose | platform because the platforms of the]
+adjustable lanyard, make it as short as
+
+[p22 | prose | platform because the platforms of the]
+practical to keep the operator inside the
+
+[p22 | prose | platform because the platforms of the]
+platform. Select a lanyard length based on the
+
+[p22 | prose | platform because the platforms of the]
+size of the platform of the MEWP being used.
+
+[p22 | prose | platform because the platforms of the]
+> Anchor points should be as close to the
+
+[p22 | prose | platform floor as possible.]
+platform floor as possible.
+
+[p22 | prose | HARNESS SYSTEMS IN SCISSOR LIFTS]
+HARNESS SYSTEMS IN SCISSOR LIFTS
+
+[p22 | prose | HARNESS SYSTEMS IN SCISSOR LIFTS]
+> Before starting work, a hazard assessment
+
+[p22 | prose | HARNESS SYSTEMS IN SCISSOR LIFTS]
+should be completed to decide whether a
+
+[p22 | prose | HARNESS SYSTEMS IN SCISSOR LIFTS]
+harness system will be needed to complete
+
+[p22 | prose | the job safely.]
+the job safely.
+
+[p22 | prose | the job safely.]
+> Use the manufacturer's operating
+
+[p22 | prose | the job safely.]
+instructions to help decide whether a
+
+[p22 | prose | the job safely.]
+harness is required.
+
+[p22 | prose | the job safely.]
+> Attach any harness used on a scissor lift
+
+[p22 | prose | the job safely.]
+to a certified anchor point using a lanyard
+
+[p22 | prose | the job safely.]
+or adjustable lanyard – fitted with a short
+
+[p22 | prose | energy absorber or fit for purpose self-]
+energy absorber or fit for purpose self-
+
+[p22 | prose | energy absorber or fit for purpose self-]
+retracting lifeline (SRL).
+
+[p22 | prose | energy absorber or fit for purpose self-]
+> When guardrails are in place for normal
+
+[p22 | prose | energy absorber or fit for purpose self-]
+work duties, harness systems are not
+
+[p22 | prose | energy absorber or fit for purpose self-]
+generally required; however, workers should
+
+[p22 | prose | energy absorber or fit for purpose self-]
+wear harnesses if the planned operating
+
+[p22 | prose | energy absorber or fit for purpose self-]
+work may require them to hook on.
+
+[p22 | prose | energy absorber or fit for purpose self-]
+> People must work inside guardrails and not
+
+[p22 | prose | energy absorber or fit for purpose self-]
+reach or climb over the rails. Workers need
+
+[p22 | prose | energy absorber or fit for purpose self-]
+to keep both feet on the work platform.
+
+[p22 | prose | HARNESS SYSTEMS IN GENERAL]
+HARNESS SYSTEMS IN GENERAL
+
+[p22 | prose | HARNESS SYSTEMS IN GENERAL]
+An anchored harness system stops someone
+
+[p22 | prose | HARNESS SYSTEMS IN GENERAL]
+falling or being thrown from a platform.
+
+[p22 | prose | HARNESS SYSTEMS IN GENERAL]
+Harness systems must be certified to meet
+
+[p22 | prose | the standard AS/NZS 1891.1: Industrial Fall-]
+the standard AS/NZS 1891.1: Industrial Fall-
+
+[p22 | prose | Arrest Systems and Devices – Harnesses and]
+Arrest Systems and Devices – Harnesses and
+
+[p22 | prose | Ancillary Equipment.]
+Ancillary Equipment.
+
+[p22 | prose | In a boom-type MEWP, people should]
+In a boom-type MEWP, people should
+
+[p22 | prose | In a boom-type MEWP, people should]
+normally use a full body harness and lanyard
+
+[p22 | prose | with a personal energy absorber. If the]
+with a personal energy absorber. If the
+
+[p22 | prose | with a personal energy absorber. If the]
+boom-type MEWP has a larger platform,
+
+[p22 | prose | with a personal energy absorber. If the]
+operators need a fall arrest harness with
+
+[p22 | prose | personal energy absorber.]
+personal energy absorber.
+
+[p22 | prose | personal energy absorber.]
+The harness system should give the wearer
+
+[p22 | prose | maximum freedom of movement with]
+maximum freedom of movement with
+
+[p22 | prose | maximum freedom of movement with]
+immediate restraint if the platform hits
+
+[p22 | prose | maximum freedom of movement with]
+something or the levelling system fails.
+
+[p23 | prose | SECTION 3.0 // PLANNING THE WORK]
+SECTION 3.0 // PLANNING THE WORK
+
+[p23 | prose | SECTION 3.0 // PLANNING THE WORK]
+Choose the right lanyard length based on
+
+[p23 | prose | SECTION 3.0 // PLANNING THE WORK]
+the type of MEWP being used.
+
+[p23 | prose | SECTION 3.0 // PLANNING THE WORK]
+People using a harness must be competent
+
+[p23 | prose | SECTION 3.0 // PLANNING THE WORK]
+in how to wear, use and secure it. They must
+
+[p23 | prose | SECTION 3.0 // PLANNING THE WORK]
+also be competent to follow their company
+
+[p23 | prose | SECTION 3.0 // PLANNING THE WORK]
+approved rescue plan. A recommended means
+
+[p23 | prose | SECTION 3.0 // PLANNING THE WORK]
+of demonstrating competence for rescue and
+
+[p23 | prose | SECTION 3.0 // PLANNING THE WORK]
+recovery when using harness systems is the
+
+[p23 | prose | NZQA Unit Standard 23229 – Use a Safety]
+NZQA Unit Standard 23229 – Use a Safety
+
+[p23 | prose | Harness for Personal Fall Prevention When]
+Harness for Personal Fall Prevention When
+
+[p23 | prose | Working at Height.]
+Working at Height.
+
+[p23 | prose | Working at Height.]
+A combination of the following NZQA
+
+[p23 | prose | Working at Height.]
+unit standards could also demonstrate
+
+[p23 | prose | competency:]
+competency:
+
+[p23 | prose | competency:]
+> NZQA Unit Standard 17600 = Explain Safe
+
+[p23 | prose | Work Practices for Working at Heights]
+Work Practices for Working at Heights
+
+[p23 | prose | > NZQA Unit Standards 25045 - Employ]
+> NZQA Unit Standards 25045 - Employ
+
+[p23 | prose | Height Safety Equipment in the Workplace.]
+Height Safety Equipment in the Workplace.
+
+[p23 | prose | GETTING ON AND OFF THE PLATFORM WHEN IT IS ELEVATED]
+GETTING ON AND OFF THE PLATFORM WHEN IT IS ELEVATED
+
+[p23 | prose | GETTING ON AND OFF THE PLATFORM WHEN IT IS ELEVATED]
+Scissor lifts and other elevating work platforms
+
+[p23 | prose | GETTING ON AND OFF THE PLATFORM WHEN IT IS ELEVATED]
+can be used to access work areas.
+
+[p23 | prose | GETTING ON AND OFF THE PLATFORM WHEN IT IS ELEVATED]
+Where the MEWP’s platform is next to the
+
+[p23 | prose | GETTING ON AND OFF THE PLATFORM WHEN IT IS ELEVATED]
+work area landing and the MEWP is used to
+
+[p23 | prose | GETTING ON AND OFF THE PLATFORM WHEN IT IS ELEVATED]
+access the work area, the landing and platform
+
+[p23 | prose | GETTING ON AND OFF THE PLATFORM WHEN IT IS ELEVATED]
+must be no more than 100mm apart.
+
+[p23 | prose | GETTING ON AND OFF THE PLATFORM WHEN IT IS ELEVATED]
+If work needs to be done with the guardrails
+
+[p23 | prose | GETTING ON AND OFF THE PLATFORM WHEN IT IS ELEVATED]
+removed, a double lanyard system, fixed to a
+
+[p23 | prose | GETTING ON AND OFF THE PLATFORM WHEN IT IS ELEVATED]
+certified anchor point at all times should be
+
+[p23 | prose | GETTING ON AND OFF THE PLATFORM WHEN IT IS ELEVATED]
+used by workers. Workers should not reach
+
+[p23 | prose | outside the platform.]
+outside the platform.
+
+[p23 | prose | outside the platform.]
+Figure 1: Attach harnesses to a certified anchor point on the MEWP.
+
+[p23 | prose | outside the platform.]
+Put tags on the base controls to show that the
+
+[p23 | prose | outside the platform.]
+equipment is in use and to stop interference.
+
+[p23 | prose | outside the platform.]
+Where possible, lock out the base controls so
+
+[p23 | prose | outside the platform.]
+they cannot be used.
+
+[p23 | prose | outside the platform.]
+Place the scissor lift end on when the work
+
+[p23 | prose | outside the platform.]
+platform is next to a landing to stop the
+
+[p23 | prose | outside the platform.]
+scissor lift from moving up and down.
+
+[p24 | prose | 04/]
+04/
+
+[p24 | prose | DESIGN]
+DESIGN
+
+[p24 | prose | DESIGN]
+IN THIS SECTION: 4.1 General requirements 4.2 Compliance and modification of work platforms 4.3 Machine controls 4.4 Safety features 4.5 Markings, documentation and records
+
+[p25 | prose | All MEWPs must be designed using sound and accepted engineering practices, and must be manufactured using the best methods and practices.]
+All MEWPs must be designed using sound and accepted engineering practices, and must be manufactured using the best methods and practices.
+
+[p25 | prose | 4.1 GENERAL REQUIREMENTS]
+4.1 GENERAL REQUIREMENTS
+
+[p25 | prose | 4.1 GENERAL REQUIREMENTS]
+The design, manufacture, testing and stability testing of new or used machines first entering service in New Zealand, must meet AS/NZS 1418.10 Cranes, Hoists and Winches – Mobile Elevating Work Platforms. To meet AS/NZS 1418.10, the owner must register any used machines with the manufacturer (or their New Zealand representative), when selling or importing the machine. This ensures the new owner gets all service and safety bulletins. MEWPs that were already in service in New Zealand prior to 22 October 2015 (the revocation date of the previous ACOP) must meet the requirements of one or more of the following standards:
+
+[p25 | prose | 4.1 GENERAL REQUIREMENTS]
+> AS/NZS 1418.10 Cranes, Hoists and Winches - Mobile Elevating Work Platforms > BS EN 280 Mobile Elevating Work Platforms. Design Calculations. Stability Criteria. Construction. Safety. Examinations and Tests > ANSI/SIA A92 series of standards > ISO 16368 Mobile Elevating Work Platforms - Design, Calculations, Safety Requirements and Test Methods. Complying with the above standards is evidence of taking all practicable steps to keep people safe. Make sure this is documented with the MEWP’s records. You can use materials, designs, methods of assembly, or procedures that are not covered in this guidance, if they achieve the same or better safety outcomes.
+
+[p25 | table | 4.1 GENERAL REQUIREMENTS]
+| TYPES OF MOBILE ELEVATING WORK PLATFORMS |  |
+| --- | --- |
+| Scissor lift (SL)For operating on flat, solid surfaces or rough terrain surfaces |  |
+
+[p26 | table | 4.1 GENERAL REQUIREMENTS]
+| TYPES OF MOBILE ELEVATING WORK PLATFORMS |
+| --- |
+| Truck mounted (TM)Mainly used in the electrical or arborist industries. Other common names: bucket truck, cherry picker. |
+| Self-propelled boom lift (BL)For driving on flat solid surfaces and rough terrain surfaces and hard to reach places. Other common names: knuckle boom, cherry picker. |
+| Trailer mounted (TL)For getting to hard to reach places. Commonly called a cherry picker. |
+
+[p27 | table | 4.1 GENERAL REQUIREMENTS]
+| TYPES OF MOBILE ELEVATING WORK PLATFORMS |
+| --- |
+| Vertical mast lift (VL)Mainly used on flat solid surfaces. Manually operated or mobilised units. |
+
+[p27 | prose | 4.2 COMPLIANCE AND MODIFICATION OF WORK PLATFORMS]
+4.2 COMPLIANCE AND MODIFICATION OF WORK PLATFORMS
+
+[p27 | prose | COMPLIANCE OF ALL MACHINES CURRENTLY IN NEW ZEALAND]
+COMPLIANCE OF ALL MACHINES CURRENTLY IN NEW ZEALAND
+
+[p27 | prose | COMPLIANCE OF ALL MACHINES CURRENTLY IN NEW ZEALAND]
+To prove a MEWP is safe to use, it needs either: > a manufacturer’s certificate of compliance to one of the Standards listed in Section 4.1 or, if the manufacturer no longer exists > a certificate of compliance from a competent person that the machine meets one of the Standards listed in Section 4.1. It also needs: > a certificate of compliance from a competent person as required by this document (see section 5.1)
+
+[p27 | prose | COMPLIANCE OF ALL MACHINES CURRENTLY IN NEW ZEALAND]
+> continuous working records and maintenance records as specified in Section 6.6 of AS2550.10 Cranes, Hoists and Winches - Safe Use - Mobile Elevating Work Platforms
+
+[p27 | prose | COMPLIANCE OF ALL MACHINES CURRENTLY IN NEW ZEALAND]
+> proof that the MEWP owner is registered with the manufacturer or their agent so the owner receives safety bulletins and notifications.
+
+[p27 | prose | COMPLIANCE OF IMPORTED SECOND-HAND MACHINES]
+COMPLIANCE OF IMPORTED SECOND-HAND MACHINES
+
+[p27 | prose | COMPLIANCE OF IMPORTED SECOND-HAND MACHINES]
+The importer that is also a supplier must make sure any second-hand MEWP meets the requirements of AS/NZS 1418.10 and Section 4.2 of these guidelines. The MEWP must have: > a manufacturer’s certificate of compliance with Section 4.1 above. It must be current when the MEWP is put into service in New Zealand > operating and full workshop/maintenance manuals, in English. If the manuals are translated from another language, the manufacturer must certify that the translations are accurate > continuous maintenance records or re-certification by the manufacturer.
+
+[p28 | prose | COMPLIANCE OF IMPORTED SECOND-HAND MACHINES]
+If an imported second-hand MEWP does not have evidence of a continuous service record, it must have a major inspection before use, as described in Section 5.9 of these guidelines.
+
+[p28 | prose | MODIFICATION OF A MEWP]
+MODIFICATION OF A MEWP
+
+[p28 | prose | MODIFICATION OF A MEWP]
+If a MEWP is significantly altered or changed, the owner must get a certificate from the manufacturer or (if the manufacturer no longer exists) a report from a competent person to confirm that the MEWP still meets the requirements of these guidelines.
+
+[p28 | prose | 4.3 MACHINE CONTROLS]
+4.3 MACHINE CONTROLS
+
+[p28 | prose | 4.3 MACHINE CONTROLS]
+Detailed requirements for control systems are found in AS/NZS 1418.10: Cranes, Hoists and Winches – Part 10: Mobile Elevating Work Platforms.
+
+[p28 | prose | SWITCHING ON AND USING THE MEWP]
+SWITCHING ON AND USING THE MEWP
+
+[p28 | prose | SWITCHING ON AND USING THE MEWP]
+The operator must be able to see the direction of travel and the movement of the extending structure from the controls.
+
+[p28 | prose | SWITCHING ON AND USING THE MEWP]
+The MEWP must only move when the controls are activated. Controls must automatically return to ‘off’ or ‘neutral’ when released and be protected to prevent someone accidentally turning them on. The operator must be safe from moving parts when using the controls.
+
+[p28 | prose | DIRECTION OF MOVEMENT]
+DIRECTION OF MOVEMENT
+
+[p28 | prose | DIRECTION OF MOVEMENT]
+All controls must have words or symbols that show the direction of the MEWP’s movements. Protect the controls against faults that could cause the MEWP to move in a direction other than that selected by the operator.
+
+[p28 | prose | DIRECTION OF MOVEMENT]
+Controls must be strong enough to stand up to normal use. A guard must be in place to prevent accidental activation of hand controls.
+
+[p28 | prose | WORK PLATFORM CONTROLS: LOCATION, ACCESSIBILITY, PROTECTION]
+WORK PLATFORM CONTROLS: LOCATION, ACCESSIBILITY, PROTECTION
+
+[p28 | prose | WORK PLATFORM CONTROLS: LOCATION, ACCESSIBILITY, PROTECTION]
+Controls must be on the work platform and in reach of the operator.
+
+[p28 | prose | WORK PLATFORM CONTROLS: LOCATION, ACCESSIBILITY, PROTECTION]
+Protect the controls against:
+
+[p28 | prose | WORK PLATFORM CONTROLS: LOCATION, ACCESSIBILITY, PROTECTION]
+> faults that could cause the MEWP to move in a direction other than the one selected by the operator
+
+[p28 | prose | WORK PLATFORM CONTROLS: LOCATION, ACCESSIBILITY, PROTECTION]
+> being accidentally turned on.
+
+[p28 | prose | WORK PLATFORM CONTROLS: LOCATION, ACCESSIBILITY, PROTECTION]
+> Clearly mark platform control boxes with which way up they go if they are not permanently attached.
+
+[p28 | prose | WORK PLATFORM CONTROLS: LOCATION, ACCESSIBILITY, PROTECTION]
+> Foot controls should have non-slip surfaces and be easy to clean.
+
+[p28 | prose | WORK PLATFORM CONTROLS: LOCATION, ACCESSIBILITY, PROTECTION]
+> Install guards at least 50mm above the highest point of the hand controls.
+
+[p28 | prose | DUPLICATE CONTROLS]
+DUPLICATE CONTROLS
+
+[p28 | prose | DUPLICATE CONTROLS]
+Provide duplicate controls at ground level so the platform can be returned in an emergency. The ground level controls must override the work platform controls.
+
+[p28 | prose | DUPLICATE CONTROLS]
+Have a locking mechanism so the MEWP can only be moved from one, preselected control station. The ground level controls must override all other controls, including the platform emergency-stop control.
+
+[p28 | prose | EMERGENCY STOPS]
+EMERGENCY STOPS
+
+[p28 | prose | EMERGENCY STOPS]
+Every control position must have a red emergency-stop control, in line with AS/NZS 1418.10. This standard references AS 4024.1604, Safety of Machinery – Design of Controls, Interlocks and Guarding – Emergency Stop – Principles for Design.
+
+[p28 | prose | OTHER REQUIREMENTS]
+OTHER REQUIREMENTS
+
+[p28 | prose | OTHER REQUIREMENTS]
+Electrical systems
+
+[p28 | prose | OTHER REQUIREMENTS]
+MEWP controls should have:
+
+[p28 | prose | OTHER REQUIREMENTS]
+> electrical switches controlling specific safety functions
+
+[p28 | prose | OTHER REQUIREMENTS]
+> pilot and solenoid valves stopping any movement if the power fails
+
+[p28 | prose | OTHER REQUIREMENTS]
+> no movement on start up or return of power after a failure, unless through deliberate action by the operator
+
+[p28 | prose | OTHER REQUIREMENTS]
+> a safety device and ‘hold to run’ controls that override the emergency-stop control
+
+[p29 | prose | SECTION 4.0 // DESIGN]
+SECTION 4.0 // DESIGN
+
+[p29 | prose | SECTION 4.0 // DESIGN]
+> an overriding emergency system in an easy
+
+[p29 | prose | SECTION 4.0 // DESIGN]
+to reach place that returns the platform to a
+
+[p29 | prose | safe position in an emergency, with features]
+safe position in an emergency, with features
+
+[p29 | prose | safe position in an emergency, with features]
+that stop misuse
+
+[p29 | prose | safe position in an emergency, with features]
+> a speed limiting device.
+
+[p29 | prose | safe position in an emergency, with features]
+Hydraulic controls
+
+[p29 | prose | safe position in an emergency, with features]
+Mechanically-actuated hydraulic control valves
+
+[p29 | prose | safe position in an emergency, with features]
+that control any movement of the MEWP
+
+[p29 | prose | safe position in an emergency, with features]
+must be full-flow with spring return to ‘off’
+
+[p29 | prose | safe position in an emergency, with features]
+to manage the risks of unintended motion.
+
+[p29 | prose | 4.4 SAFETY FEATURES]
+4.4 SAFETY FEATURES
+
+[p29 | prose | 4.4 SAFETY FEATURES]
+This section covers the minimum requirements
+
+[p29 | prose | 4.4 SAFETY FEATURES]
+for safety features outlined in AS/NZS 1418.10:
+
+[p29 | prose | Cranes, Hoists and Winches – Part 10: Mobile]
+Cranes, Hoists and Winches – Part 10: Mobile
+
+[p29 | prose | Elevating Work Platforms.]
+Elevating Work Platforms.
+
+[p29 | prose | GENERAL FEATURES]
+GENERAL FEATURES
+
+[p29 | prose | Warning systems]
+Warning systems
+
+[p29 | prose | Warning systems]
+MEWPs must have:
+
+[p29 | prose | > out-of-level safety interlocks and/or alarms]
+> out-of-level safety interlocks and/or alarms
+
+[p29 | prose | > out-of-level safety interlocks and/or alarms]
+warning lights and alarms, flashing work
+
+[p29 | prose | lights and a horn.]
+lights and a horn.
+
+[p29 | prose | Brakes and safety systems]
+Brakes and safety systems
+
+[p29 | prose | Brakes and safety systems]
+> Brakes on self-propelled platforms must
+
+[p29 | prose | Brakes and safety systems]
+have a fail-safe system.
+
+[p29 | prose | Brakes and safety systems]
+> All safety signage must be in English
+
+[p29 | prose | and readable.]
+and readable.
+
+[p29 | prose | and readable.]
+> The slewing mechanism must be fitted with
+
+[p29 | prose | and readable.]
+a service brake or similar device, and have
+
+[p29 | prose | a fail-safe design.]
+a fail-safe design.
+
+[p29 | prose | a fail-safe design.]
+> The machine must have maintenance
+
+[p29 | prose | safety features, such as a safety bar, so]
+safety features, such as a safety bar, so
+
+[p29 | prose | safety features, such as a safety bar, so]
+maintenance can be done safely under
+
+[p29 | prose | or in machine.]
+or in machine.
+
+[p29 | prose | Hydraulic systems]
+Hydraulic systems
+
+[p29 | prose | Hydraulic systems]
+> Hydraulic systems must be designed so the
+
+[p29 | prose | Hydraulic systems]
+platform will not freefall if a hose or fitting
+
+[p29 | prose | Hydraulic systems]
+fails. Do not use velocity valves.
+
+[p29 | prose | Hydraulic systems]
+> All hydraulic systems must have fail-safes.
+
+[p29 | prose | Guarding]
+Guarding
+
+[p29 | prose | Guarding]
+MEWPs must have:
+
+[p29 | prose | > guards on all dangerous parts, especially]
+> guards on all dangerous parts, especially
+
+[p29 | prose | > guards on all dangerous parts, especially]
+sharp, hot or moving parts and trapping
+
+[p29 | prose | hazards.]
+hazards.
+
+[p29 | prose | hazards.]
+> interlocking outriggers, so the machine
+
+[p29 | prose | hazards.]
+cannot lift the platform unless outriggers are
+
+[p29 | prose | hazards.]
+in a safe position, and stop the outriggers
+
+[p29 | prose | hazards.]
+being moved with the platform up
+
+[p29 | prose | > travel safety interlocks so the machine]
+> travel safety interlocks so the machine
+
+[p29 | prose | > travel safety interlocks so the machine]
+goes at a safe speed while driving with the
+
+[p29 | prose | platform up.]
+platform up.
+
+[p29 | prose | platform up.]
+Emergency stop and isolating function controls
+
+[p29 | prose | platform up.]
+> All controls must have a ‘dead-man
+
+[p29 | prose | platform up.]
+function’ so they automatically stop or
+
+[p29 | prose | platform up.]
+return to neutral when released, such as, a
+
+[p29 | prose | trigger with a joystick or foot switch on a]
+trigger with a joystick or foot switch on a
+
+[p29 | prose | boom-type machine.]
+boom-type machine.
+
+[p29 | prose | boom-type machine.]
+> An emergency-stop control must stop all
+
+[p29 | prose | boom-type machine.]
+movement or the engine when pressed.
+
+[p29 | prose | boom-type machine.]
+Each control station must have a clearly-
+
+[p29 | prose | boom-type machine.]
+marked, red emergency-stop control.
+
+[p29 | prose | boom-type machine.]
+> Ground level controls must override controls
+
+[p29 | prose | boom-type machine.]
+on the platform using a clearly marked switch.
+
+[p29 | prose | Instructions]
+Instructions
+
+[p29 | prose | Instructions]
+> Labels must clearly list everything the
+
+[p29 | prose | Instructions]
+controls do in clear English and show the
+
+[p29 | prose | direction of any movement. Decals (labels)]
+direction of any movement. Decals (labels)
+
+[p29 | prose | direction of any movement. Decals (labels)]
+on the chassis should show direction of
+
+[p29 | prose | travel or movement.]
+travel or movement.
+
+[p29 | prose | travel or movement.]
+> The operation manual must be in English
+
+[p29 | prose | travel or movement.]
+and stored in a weather-proof container.
+
+[p29 | prose | travel or movement.]
+> Emergency descent instructions must be in
+
+[p29 | prose | travel or movement.]
+the operator manual and displayed next to
+
+[p29 | prose | the emergency controls.]
+the emergency controls.
+
+[p29 | prose | Anchor points]
+Anchor points
+
+[p29 | prose | Anchor points]
+> If installing an anchor point to an existing
+
+[p29 | prose | MEWP, a chartered professional engineer]
+MEWP, a chartered professional engineer
+
+[p29 | prose | MEWP, a chartered professional engineer]
+(CPEng) should assess and certify the type
+
+[p29 | prose | MEWP, a chartered professional engineer]
+of anchor to be used before and after it
+
+[p29 | prose | MEWP, a chartered professional engineer]
+is installed.
+
+[p29 | prose | MEWP, a chartered professional engineer]
+> They must also confirm that the anchor
+
+[p29 | prose | MEWP, a chartered professional engineer]
+point has passed any testing needed
+
+[p29 | prose | after installation.]
+after installation.
+
+[p30 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS
+
+[p30 | prose | PLATFORM AND GUARDRAILS]
+PLATFORM AND GUARDRAILS
+
+[p30 | prose | PLATFORM AND GUARDRAILS]
+The platform must have a self-closing and
+
+[p30 | prose | PLATFORM AND GUARDRAILS]
+self-latching entry gate. The gate must have
+
+[p30 | prose | PLATFORM AND GUARDRAILS]
+kick-plates to stop debris falling under the
+
+[p30 | prose | PLATFORM AND GUARDRAILS]
+gate. The gate must open inwards. A drop bar
+
+[p30 | prose | PLATFORM AND GUARDRAILS]
+is enough as long as:
+
+[p30 | prose | PLATFORM AND GUARDRAILS]
+> a kick plate is used
+
+[p30 | prose | and]
+and
+
+[p30 | prose | and]
+> the top rail is at the same height as the top
+
+[p30 | prose | hand rail.]
+hand rail.
+
+[p30 | prose | hand rail.]
+The guardrail must be at least 950mm high.
+
+[p30 | prose | hand rail.]
+The platform floor must be non-slip and
+
+[p30 | prose | self-draining.]
+self-draining.
+
+[p30 | prose | self-draining.]
+A safe way to access the platform must
+
+[p30 | prose | self-draining.]
+be provided. If access is by steps or a fixed
+
+[p30 | prose | ladder, the gap between steps or rungs must]
+ladder, the gap between steps or rungs must
+
+[p30 | prose | ladder, the gap between steps or rungs must]
+be uniform and no more than 300mm.
+
+[p30 | prose | ladder, the gap between steps or rungs must]
+The stepsand rungs must be non-slip.
+
+[p30 | prose | ladder, the gap between steps or rungs must]
+The platform should have side walls or
+
+[p30 | prose | ladder, the gap between steps or rungs must]
+guardrails with mid-rails and toe boards.
+
+[p30 | prose | FUEL AND EXHAUST SYSTEMS]
+FUEL AND EXHAUST SYSTEMS
+
+[p30 | prose | FUEL AND EXHAUST SYSTEMS]
+> Protect fuel lines for engines from engine
+
+[p30 | prose | FUEL AND EXHAUST SYSTEMS]
+and exhaust heat. Some industries also
+
+[p30 | prose | FUEL AND EXHAUST SYSTEMS]
+require safety measures like spark arrestors
+
+[p30 | prose | and external fuel cut-offs.]
+and external fuel cut-offs.
+
+[p30 | prose | and external fuel cut-offs.]
+> Exhaust systems must have mufflers and be
+
+[p30 | prose | and external fuel cut-offs.]
+set up to keep fumes away from operators,
+
+[p30 | prose | and external fuel cut-offs.]
+so they are not at risk of carbon monoxide
+
+[p30 | prose | poisoning.]
+poisoning.
+
+[p30 | prose | 4.5 MARKINGS, DOCUMENTATION AND RECORDS]
+4.5 MARKINGS, DOCUMENTATION AND RECORDS
+
+[p30 | prose | 4.5 MARKINGS, DOCUMENTATION AND RECORDS]
+The following are minimum requirements
+
+[p30 | prose | for markings, labels, signage, documentation]
+for markings, labels, signage, documentation
+
+[p30 | prose | and records of maintenance and inspection]
+and records of maintenance and inspection
+
+[p30 | prose | for MEWPs.]
+for MEWPs.
+
+[p30 | prose | for MEWPs.]
+All MEWPs must have:
+
+[p30 | prose | for MEWPs.]
+a. safety inspection certification, including
+
+[p30 | prose | a six-monthly inspection certificate and]
+a six-monthly inspection certificate and
+
+[p30 | prose | a six-monthly inspection certificate and]
+major inspection certificate (where needed)
+
+[p30 | prose | a six-monthly inspection certificate and]
+permanently attached and displayed
+
+[p30 | prose | prominently.]
+prominently.
+
+[p30 | prose | prominently.]
+b. a compliance plate with the following
+
+[p30 | prose | information in permanent lettering:]
+information in permanent lettering:
+
+[p30 | prose | information in permanent lettering:]
+> make, model, serial number, and
+
+[p30 | prose | manufacturer’s name and address]
+manufacturer’s name and address
+
+[p30 | prose | manufacturer’s name and address]
+commissioning date
+
+[p30 | prose | > design standard]
+> design standard
+
+[p30 | prose | > design standard]
+> rated capacity in kilograms
+
+[p30 | prose | > design standard]
+> the maximum number of people, refer to
+
+[p30 | prose | Figure 3]
+Figure 3
+
+[p30 | prose | > maximum platform height (not all plates]
+> maximum platform height (not all plates
+
+[p30 | prose | state this)]
+state this)
+
+[p30 | prose | > maximum wind speed and operating]
+> maximum wind speed and operating
+
+[p30 | prose | gradient]
+gradient
+
+[p30 | prose | gradient]
+> for electrically insulated machines, the
+
+[p30 | prose | working voltage]
+working voltage
+
+[p30 | prose | working voltage]
+> any special warnings, cautions or
+
+[p30 | prose | working voltage]
+restrictions needed to use the MEWP
+
+[p30 | prose | working voltage]
+safely; the rated capacity for each
+
+[p30 | prose | working voltage]
+configuration must be shown, such as:
+
+[p30 | prose | working voltage]
+> where a work platform has different
+
+[p30 | prose | capacities at different heights or]
+capacities at different heights or
+
+[p30 | prose | reaches]
+reaches
+
+[p30 | prose | > outrigger settings]
+> outrigger settings
+
+[p30 | prose | > wind ratings or side-loading]
+> wind ratings or side-loading
+
+[p30 | prose | > wind ratings or side-loading]
+> the words: ‘Read manual for operating
+
+[p30 | prose | > wind ratings or side-loading]
+and servicing details’.
+
+[p30 | prose | > wind ratings or side-loading]
+c. Manufacturers, importers that are
+
+[p30 | prose | > wind ratings or side-loading]
+suppliers or agents for imported MEWPs,
+
+[p30 | prose | > wind ratings or side-loading]
+(new or second-hand) must provide a
+
+[p30 | prose | comprehensive operating and maintenance]
+comprehensive operating and maintenance
+
+[p30 | prose | manual, in English, to customers. The]
+manual, in English, to customers. The
+
+[p30 | prose | manual, in English, to customers. The]
+manual must include the following:
+
+[p30 | prose | > full operating instructions]
+> full operating instructions
+
+[p30 | prose | > lubrication schedule]
+> lubrication schedule
+
+[p30 | prose | > routine checks]
+> routine checks
+
+[p30 | prose | > restrictions on the use of the machine]
+> restrictions on the use of the machine
+
+[p30 | prose | > restrictions on the use of the machine]
+> advice on any matter that could affect
+
+[p30 | prose | the safe use of the machine.]
+the safe use of the machine.
+
+[p31 | prose | the safe use of the machine.]
+Note that if the MEWP was designed and manufactured to an international standard it should have a manual available in English, certified or produced by the manufacturer. d. Essential operating and maintenance instructions must be permanently displayed or stored in a obvious place on the MEWP. Owners must keep continuous working records and maintenance records for the MEWP in line with Section 6.6 of AS 2550.10 Cranes, Hoists and Winches - Safe Use - Mobile Elevating Work Platforms. This information should also be in the MEWP’s logbook, refer to section 5 of this guideline.
+
+[p32 | prose | IN THIS SECTION:]
+IN THIS SECTION:
+
+[p32 | prose | IN THIS SECTION:]
+5.1 Logbook and registers 5.2 Maintenance 5.3 Inspection 5.4 Six-monthly inspection 5.5 Electrical insulation testing 5.6 PAT testing 5.7 Acoustic emission testing of fibreglass booms 5.8 Enhanced periodic inspections 5.9 Major inspections 5.10 Repairs
+
+[p33 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR
+
+[p33 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+People maintaining MEWPs and the competent person must have access to the current versions of the following standards, AS 2550.10 and AS/NZS 1418.10.
+
+[p33 | prose | 5.1 LOGBOOK AND REGISTERS]
+5.1 LOGBOOK AND REGISTERS
+
+[p33 | prose | 5.1 LOGBOOK AND REGISTERS]
+The MEWP logbook and register is a
+
+[p33 | prose | record of pre-operation inspections and]
+record of pre-operation inspections and
+
+[p33 | prose | record of pre-operation inspections and]
+routine inspections. It must also record any
+
+[p33 | prose | record of pre-operation inspections and]
+maintenance. The logbook and register
+
+[p33 | prose | record of pre-operation inspections and]
+must be kept with the MEWP and be readily
+
+[p33 | prose | available for inspection.]
+available for inspection.
+
+[p33 | prose | RECORDS]
+RECORDS
+
+[p33 | prose | RECORDS]
+The MEWP owner must keep all records in the
+
+[p33 | prose | RECORDS]
+way described in Section 6.6 of AS 2550.10.
+
+[p33 | prose | RECORDS]
+At a minimum, keep a summary of the
+
+[p33 | prose | RECORDS]
+following in the logbook:
+
+[p33 | prose | > daily pre-operation reports for at least the]
+> daily pre-operation reports for at least the
+
+[p33 | prose | last 14 days of operation, or since the last]
+last 14 days of operation, or since the last
+
+[p33 | prose | routine inspection]
+routine inspection
+
+[p33 | prose | > a summary statement of the last]
+> a summary statement of the last
+
+[p33 | prose | routine inspection]
+routine inspection
+
+[p33 | prose | > a summary statement of the last]
+> a summary statement of the last
+
+[p33 | prose | major inspection]
+major inspection
+
+[p33 | prose | > a summary statement of the last]
+> a summary statement of the last
+
+[p33 | prose | six-monthly inspection]
+six-monthly inspection
+
+[p33 | prose | six-monthly inspection]
+> action taken or repairs carried out to fix
+
+[p33 | prose | faults or damaged parts.]
+faults or damaged parts.
+
+[p33 | prose | faults or damaged parts.]
+The owner must have available documentation
+
+[p33 | prose | faults or damaged parts.]
+stating the MEWP has been inspected by a
+
+[p33 | prose | faults or damaged parts.]
+competent person (including their identity
+
+[p33 | prose | faults or damaged parts.]
+and qualifications) and is safe to use. The
+
+[p33 | prose | faults or damaged parts.]
+owner must record all checks, adjustments,
+
+[p33 | prose | replacement of parts, repairs and inspections]
+replacement of parts, repairs and inspections
+
+[p33 | prose | replacement of parts, repairs and inspections]
+done and all irregularities or damage affecting
+
+[p33 | prose | replacement of parts, repairs and inspections]
+the machine’s safe use.
+
+[p33 | prose | replacement of parts, repairs and inspections]
+Records must be kept to show that the
+
+[p33 | prose | replacement of parts, repairs and inspections]
+MEWP meets all maintenance requirements.
+
+[p33 | prose | replacement of parts, repairs and inspections]
+AS 2550.10 recommends that MEWPs without
+
+[p33 | prose | continuous working and maintenance records]
+continuous working and maintenance records
+
+[p33 | prose | continuous working and maintenance records]
+need a major inspection.
+
+[p33 | prose | continuous working and maintenance records]
+Any external service provider working on
+
+[p33 | prose | continuous working and maintenance records]
+MEWPs should also keep records of work they
+
+[p33 | prose | continuous working and maintenance records]
+have undertaken.
+
+[p33 | prose | 5.2 MAINTENANCE]
+5.2 MAINTENANCE
+
+[p33 | prose | 5.2 MAINTENANCE]
+Use the MEWP manufacturer’s approved
+
+[p33 | prose | 5.2 MAINTENANCE]
+maintenance manual (or a certified translation)
+
+[p33 | prose | 5.2 MAINTENANCE]
+for all maintenance. A competent person must
+
+[p33 | prose | complete all elements of the manufacturer’s]
+complete all elements of the manufacturer’s
+
+[p33 | prose | complete all elements of the manufacturer’s]
+prescribed maintenance schedule.
+
+[p33 | prose | complete all elements of the manufacturer’s]
+If there is no manual, follow the inspection and
+
+[p33 | prose | complete all elements of the manufacturer’s]
+maintenance schedules outlined in AS 2550.10:
+
+[p33 | prose | Cranes, Hoists and Winches – Safe Use –]
+Cranes, Hoists and Winches – Safe Use –
+
+[p33 | prose | Mobile Elevating Work Platforms.]
+Mobile Elevating Work Platforms.
+
+[p33 | prose | Mobile Elevating Work Platforms.]
+Establish a preventive maintenance
+
+[p33 | prose | Mobile Elevating Work Platforms.]
+programme, based on the working
+
+[p33 | prose | Mobile Elevating Work Platforms.]
+environment, how often the MEWP is used and
+
+[p33 | prose | Mobile Elevating Work Platforms.]
+the severity of conditions in which it is used.
+
+[p33 | prose | Mobile Elevating Work Platforms.]
+When replacing parts use identical or
+
+[p33 | prose | equivalent parts for the specific type]
+equivalent parts for the specific type
+
+[p33 | prose | of MEWP.]
+of MEWP.
+
+[p33 | prose | of MEWP.]
+If a fault with a MEWP develops, repair
+
+[p33 | prose | it with advice from the manufacturer.]
+it with advice from the manufacturer.
+
+[p33 | prose | it with advice from the manufacturer.]
+Correct any safety related faults before
+
+[p33 | prose | it with advice from the manufacturer.]
+using the MEWP again.
+
+[p34 | prose | 5.3 INSPECTION]
+5.3 INSPECTION
+
+[p34 | prose | PRE-OPERATION INSPECTION]
+PRE-OPERATION INSPECTION
+
+[p34 | prose | PRE-OPERATION INSPECTION]
+The operator must give the MEWP a visual inspection and functional test before using it. This is called a pre-operation operator safety
+
+[p34 | prose | PRE-OPERATION INSPECTION]
+check. The checks should include the items listed in the operator’s manual, the logbook and in the table below.
+
+[p34 | prose | PRE-OPERATION INSPECTION]
+Figures 4 – 6 show the various safety features of specific types of MEWPs and components that should be checked before use.
+
+[p34 | table | PRE-OPERATION INSPECTION]
+| Check six-monthly certificate current | v |
+| --- | --- |
+| Platform and base controls | v |
+| Emergency controls and retrieval system |  |
+| Visual and audible alarms |  |
+| Personal protective equipment, including anchor points |  |
+| Air, hydraulic and fuel system leaks |  |
+| Cables and wiring harness for security and damage |  |
+| Loose and missing parts |  |
+| Brakes |  |
+| Tyres, wheels |  |
+| Placards, labels, warnings, control markings and operating manuals are on the MEWP |  |
+| OQutriggers, stabilisers |  |
+| Guardrail system including gates with self-closing action |  |
+| Control descent devices where fitted |  |
+| Slew brake system |  |
+| Safety switches and interlocks |  |
+| Structural defects or damage |  |
+| Drive and speed functions work correctly, including speed-limiting devices |  |
+
+[p34 | prose | PRE-OPERATION INSPECTION]
+Table 1: Table 6.4.2 of AS 2550.10: Cranes, Hoists and Winches – Safe Use – Mobile Elevating Work Platforms.
+
+[p35 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR
+
+[p35 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+Jib boom and basket may tilt and rotate for access to hard to reach places.
+
+[p35 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+Platform controls (with emergency stop) mounted securely at least 50mm below the top rail.
+
+[p35 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+Dead-man type controls that return to neutral (or off) position.
+
+[p35 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+Controls must be clearly labelled (in English) with what they do and in what direction.
+
+[p35 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+Platform with free draining, non slip floor and entry gate or drop bar.
+
+[p35 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+Boom(s) – straight or articulated (depending on make and model). Boom can be moved from basket or ground controls, to full height.
+
+[p35 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+Cylinders with counterbalance valves to hold the cylinder in place with controls deactivated.
+
+[p35 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+Power source (engine or electric) and hydraulic pump(s) to power drive and lift functions.
+
+[p35 | prose | Ground controls (with emergency stop) that override platform controls.]
+Ground controls (with emergency stop) that override platform controls.
+
+[p35 | prose | Ground controls (with emergency stop) that override platform controls.]
+Urethane filled or solid puncture proof tyres.
+
+[p35 | prose | Ground controls (with emergency stop) that override platform controls.]
+Axle may articulate when travelling over terrain following, locks with boom(s) lifted.
+
+[p35 | prose | Ground controls (with emergency stop) that override platform controls.]
+Urethane filled or solid puncture proof tyres.
+
+[p35 | prose | Ground controls (with emergency stop) that override platform controls.]
+Hydraulic or electric drive motors connected to reduction hubs with spring-applied hydraulically- released (failsafe) brakes.
+
+[p35 | prose | Ground controls (with emergency stop) that override platform controls.]
+Figure 4: Typical features of self-propelled boom lifts.
+
+[p36 | prose | Ground controls (with emergency stop) that override platform controls.]
+Figure 5: Typical features of scissor-lifts.
+
+[p37 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR
+
+[p37 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+Platform controls with emergency stop switch mounted securely with controls 50mm below top rail.
+
+[p37 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+Dead-man type controls that return to neutral (off) position. Controls are clearly labelled (in English) for function and direction.
+
+[p37 | prose | Self-closing and latching, inward opening or vertical closing gate.]
+Self-closing and latching, inward opening or vertical closing gate.
+
+[p37 | prose | Self-closing and latching, inward opening or vertical closing gate.]
+Cylinders with counterbalance valves to hold the cylinder in place with controls deactivated.
+
+[p37 | prose | Self-closing and latching, inward opening or vertical closing gate.]
+Platform with free draining non-slip floor, and entry gate or drop bar.
+
+[p37 | prose | Manual bleed valve for emergency lowering.]
+Manual bleed valve for emergency lowering.
+
+[p37 | prose | Power source (engine or electric) and hydraulic pump(s).]
+Power source (engine or electric) and hydraulic pump(s).
+
+[p37 | prose | Ground controls (with emergency stop) that override platform controls.]
+Ground controls (with emergency stop) that override platform controls.
+
+[p37 | prose | Ground controls (with emergency stop) that override platform controls.]
+Trailer hitch must be disconnected from tow vehicle before use.
+
+[p37 | prose | Ground controls (with emergency stop) that override platform controls.]
+Chassis mounted outriggers (stabiliser) legs, interlocked so the platform can’t be raised until outriggers are set.
+
+[p37 | prose | Ground controls (with emergency stop) that override platform controls.]
+Serial number plate showing compliance to standard, model and serial number, weight and rated capacity, maximum operating wind speed and any other restrictions on use.
+
+[p37 | prose | Ground controls (with emergency stop) that override platform controls.]
+Figure 6: Typical features of trailer mounted boom-lift.
+
+[p38 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS
+
+[p38 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+Figure 7: The operator checks the MEWP's controls before starting work.
+
+[p38 | prose | ROUTINE INSPECTION]
+ROUTINE INSPECTION
+
+[p38 | prose | ROUTINE INSPECTION]
+The owner, hirer and supplier must do routine
+
+[p38 | prose | inspections on all MEWPs at least every 3]
+inspections on all MEWPs at least every 3
+
+[p38 | prose | inspections on all MEWPs at least every 3]
+months (as described in Section 6.4.3 of
+
+[p38 | prose | AS 2550.10: Cranes, Hoists and Winches – Safe]
+AS 2550.10: Cranes, Hoists and Winches – Safe
+
+[p38 | prose | Use – Mobile Elevating Work Platforms). If the]
+Use – Mobile Elevating Work Platforms). If the
+
+[p38 | prose | Use – Mobile Elevating Work Platforms). If the]
+MEWP is for hire, then a routine inspection
+
+[p38 | prose | Use – Mobile Elevating Work Platforms). If the]
+between hires should be completed.
+
+[p38 | prose | Use – Mobile Elevating Work Platforms). If the]
+A competent person must complete all
+
+[p38 | prose | Use – Mobile Elevating Work Platforms). If the]
+routine inspection and maintenance, based
+
+[p38 | prose | on the severity of use of the MEWP, and as]
+on the severity of use of the MEWP, and as
+
+[p38 | prose | on the severity of use of the MEWP, and as]
+recommended by the manufacturer.
+
+[p38 | prose | on the severity of use of the MEWP, and as]
+The inspection procedure should include a
+
+[p38 | prose | on the severity of use of the MEWP, and as]
+check that the current logbook and operator’s
+
+[p38 | prose | on the severity of use of the MEWP, and as]
+manual must be up-to-date and kept with the
+
+[p38 | prose | MEWP in a weather proof container.]
+MEWP in a weather proof container.
+
+[p38 | prose | MEWP in a weather proof container.]
+For full inspection requirements refer to the
+
+[p38 | prose | manufacturer’s service manual.]
+manufacturer’s service manual.
+
+[p38 | prose | Examples of items an inspection should]
+Examples of items an inspection should
+
+[p38 | prose | Examples of items an inspection should]
+cover are:
+
+[p38 | prose | > all functions and their controls for]
+> all functions and their controls for
+
+[p38 | prose | speed, smoothness of operation and]
+speed, smoothness of operation and
+
+[p38 | prose | limits of motion]
+limits of motion
+
+[p38 | prose | limits of motion]
+> all emergency and safety devices, including
+
+[p38 | prose | limits of motion]
+interlocks and emergency lowering devices
+
+[p38 | prose | limits of motion]
+> base or ground controls, including
+
+[p38 | prose | limits of motion]
+the provisions for overriding of upper
+
+[p38 | prose | platform controls]
+platform controls
+
+[p38 | prose | platform controls]
+> adjustment, wear and damage on all chain
+
+[p38 | prose | and cable mechanisms]
+and cable mechanisms
+
+[p38 | prose | and cable mechanisms]
+> lubrication of all moving parts, inspection
+
+[p38 | prose | of filter elements and fluid levels]
+of filter elements and fluid levels
+
+[p38 | prose | > visual inspection of structural members]
+> visual inspection of structural members
+
+[p38 | prose | and welds]
+and welds
+
+[p38 | prose | > visual inspection (and measurements as]
+> visual inspection (and measurements as
+
+[p38 | prose | > visual inspection (and measurements as]
+sheaves, locking devices, all guardrails
+
+[p38 | prose | > visual inspection (and measurements as]
+and guarding, anchor points, all
+
+[p38 | prose | attachments and connections, electrical]
+attachments and connections, electrical
+
+[p38 | prose | contactors and all other equipment]
+contactors and all other equipment
+
+[p39 | prose | contactors and all other equipment]
+A written report must be provided after the inspection. Do not use the MEWP until any safety-related faults are fixed.
+
+[p39 | prose | 5.4 SIX-MONTHLY INSPECTION]
+5.4 SIX-MONTHLY INSPECTION
+
+[p39 | prose | OPERATIONAL TEST AND CHECK]
+OPERATIONAL TEST AND CHECK
+
+[p39 | prose | OPERATIONAL TEST AND CHECK]
+A competent person must thoroughly examine the MEWP after an accident, incident, or major repair or modification, or at least every 6 months. The competent person must have access to the manufacturer’s approved maintenance manual for the type of MEWP being certified. This inspection should include:
+
+[p39 | prose | OPERATIONAL TEST AND CHECK]
+Mobile Elevating Work Platforms
+
+[p39 | prose | CERTIFICATION]
+CERTIFICATION
+
+[p39 | prose | CERTIFICATION]
+A legible and durable certificate should be attached to the MEWP near the ground controls or the platform entrance. This certificate should include the CBIP Number of the competent person and/or the manufacturer’s identifier. This certificate should include at least the details shown below in Figure 10.
+
+[p40 | prose | COMPETENT PERSON FOR INSPECTION]
+COMPETENT PERSON FOR INSPECTION
+
+[p40 | prose | COMPETENT PERSON FOR INSPECTION]
+Only a competent person can complete a six-monthly, enhanced or major inspection of a MEWP. A means of demonstrating competency is a certificate of competence or proficiency from a certification board. In New Zealand this is the Certification Board for Inspection Personnel New Zealand (CBIP). Manufacturer’s employees who inspect, service and certify MEWPs do not need to be registered with CBIP but they should be able to demonstrate the same, or higher, levels of competency. If a manufacturer contracts out servicing, inspection and certification, the contractor should be certified by CBIP for inspection or be able to display the same or a higher level of competence.
+
+[p40 | prose | 5.5 ELECTRICAL INSULATION TESTING]
+5.5 ELECTRICAL INSULATION TESTING
+
+[p40 | prose | 5.5 ELECTRICAL INSULATION TESTING]
+Where a MEWP is electrically insulated, carry out electrical insulation tests at least every 6 months to validate the working voltage. The testing certificate should be clearly displayed. Complete these tests as specified in AS 2550.10 Cranes, Hoists and Winches – Safe Use – Mobile Elevating Work Platforms, AS/NZS 1418.10 Cranes, Hoists and Winches – Part 10: Mobile
+
+[p41 | prose | SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR]
+SECTION 5.0 // MAINTENANCE, INSPECTION AND REPAIR
+
+[p41 | prose | Elevating Work Platforms and their referenced]
+Elevating Work Platforms and their referenced
+
+[p41 | prose | Elevating Work Platforms and their referenced]
+standards. Section 7.1 of AS/NZS 1418.10 gives
+
+[p41 | prose | Elevating Work Platforms and their referenced]
+the testing standards used in New Zealand.
+
+[p41 | prose | Elevating Work Platforms and their referenced]
+Keep a record of all test results and make them
+
+[p41 | prose | available for inspection.]
+available for inspection.
+
+[p41 | prose | 5.6 PAT TESTING]
+5.6 PAT TESTING
+
+[p41 | prose | 5.6 PAT TESTING]
+Any MEWP with parts powered from 240v
+
+[p41 | prose | 5.6 PAT TESTING]
+AC motors, ground to platform AC power
+
+[p41 | prose | extension, and residual current device (RCD)]
+extension, and residual current device (RCD)
+
+[p41 | prose | extension, and residual current device (RCD)]
+devices) needs an inspection and a portable
+
+[p41 | prose | appliance test (PAT).]
+appliance test (PAT).
+
+[p41 | prose | appliance test (PAT).]
+The MEWP must be tested and tagged in line
+
+[p41 | prose | appliance test (PAT).]
+with AS/NZS 3760: In-Service Safety Inspection
+
+[p41 | prose | and Testing of Electrical Equipment.]
+and Testing of Electrical Equipment.
+
+[p41 | prose | AS/NZS 3012: Electrical Installations –]
+AS/NZS 3012: Electrical Installations –
+
+[p41 | prose | Construction and Demolition Sites outlines]
+Construction and Demolition Sites outlines
+
+[p41 | prose | Construction and Demolition Sites outlines]
+the testing and tagging needed for equipment
+
+[p41 | prose | Construction and Demolition Sites outlines]
+used on construction sites.
+
+[p41 | prose | Construction and Demolition Sites outlines]
+Both the above Standards require a competent
+
+[p41 | prose | Construction and Demolition Sites outlines]
+person or a suitably qualified and licensed
+
+[p41 | prose | electrical worker (such as an electrician) to]
+electrical worker (such as an electrician) to
+
+[p41 | prose | electrical worker (such as an electrician) to]
+carry out the testing and tagging. Clearly
+
+[p41 | prose | electrical worker (such as an electrician) to]
+display all tags.
+
+[p41 | prose | 5.7 ACOUSTIC EMISSION TESTING OF FIBREGLASS BOOMS]
+5.7 ACOUSTIC EMISSION TESTING OF FIBREGLASS BOOMS
+
+[p41 | prose | In addition to the six-monthly inspection, a]
+In addition to the six-monthly inspection, a
+
+[p41 | prose | In addition to the six-monthly inspection, a]
+competent person or organisation must do
+
+[p41 | prose | In addition to the six-monthly inspection, a]
+an acoustic emission test on all MEWPs fitted
+
+[p41 | prose | In addition to the six-monthly inspection, a]
+with a fibreglass or FRP (fibreglass reinforced
+
+[p41 | prose | In addition to the six-monthly inspection, a]
+plastic) boom. The test must be done at least
+
+[p41 | prose | every 24 months, or sooner if a competent]
+every 24 months, or sooner if a competent
+
+[p41 | prose | every 24 months, or sooner if a competent]
+person recommends it is required.
+
+[p41 | prose | every 24 months, or sooner if a competent]
+The test must meet the standards in AS
+
+[p41 | prose | 4748: Acoustic Emission Testing of Fiberglass]
+4748: Acoustic Emission Testing of Fiberglass
+
+[p41 | prose | 4748: Acoustic Emission Testing of Fiberglass]
+or a similar procedure. Testing may only be
+
+[p41 | prose | 4748: Acoustic Emission Testing of Fiberglass]
+carried out by a competent person or an
+
+[p41 | prose | 4748: Acoustic Emission Testing of Fiberglass]
+organization deemed competent to carry out
+
+[p41 | prose | acoustic emission testing.]
+acoustic emission testing.
+
+[p41 | prose | acoustic emission testing.]
+Display the certificate of compliance near the
+
+[p41 | prose | ground controls or the platform entrance. In]
+ground controls or the platform entrance. In
+
+[p41 | prose | ground controls or the platform entrance. In]
+addition, the owner of the machine must keep
+
+[p41 | prose | the test reports:]
+the test reports:
+
+[p41 | prose | the test reports:]
+> to allow inspection when the WorkSafe
+
+[p41 | prose | Health and Safety Inspector or user of]
+Health and Safety Inspector or user of
+
+[p41 | prose | Health and Safety Inspector or user of]
+the machine requests it
+
+[p41 | prose | > so that the history of the boom may]
+> so that the history of the boom may
+
+[p41 | prose | > so that the history of the boom may]
+be reviewed to find out how much it
+
+[p41 | prose | > so that the history of the boom may]
+has deteriorated.
+
+[p41 | prose | > so that the history of the boom may]
+Re-test the boom if the machine has an
+
+[p41 | prose | > so that the history of the boom may]
+accident or is misused, making the boom
+
+[p41 | prose | > so that the history of the boom may]
+potentially unsafe, even if the certificate is
+
+[p41 | prose | current.]
+current.
+
+[p41 | prose | current.]
+If the FRP boom fails the acoustic emission
+
+[p41 | prose | current.]
+test, do not use the machine until the boom
+
+[p41 | prose | current.]
+is replaced or repaired and it passes the test.
+
+[p41 | prose | 5.8 ENHANCED PERIODIC INSPECTIONS]
+5.8 ENHANCED PERIODIC INSPECTIONS
+
+[p41 | prose | 5.8 ENHANCED PERIODIC INSPECTIONS]
+Every 5 years the MEWP must have all critical
+
+[p41 | prose | 5.8 ENHANCED PERIODIC INSPECTIONS]
+parts inspected and tested, where appropriate,
+
+[p41 | prose | 5.8 ENHANCED PERIODIC INSPECTIONS]
+to meet AS 2550.10: Cranes, Hoists and
+
+[p41 | prose | Winches – Safe Use – Mobile Elevating Work]
+Winches – Safe Use – Mobile Elevating Work
+
+[p41 | prose | Winches – Safe Use – Mobile Elevating Work]
+Platforms. These enhanced periodic inspections
+
+[p41 | prose | Winches – Safe Use – Mobile Elevating Work]
+must be done in line with the manufacturer’s
+
+[p41 | prose | inspection programme. Where possible the]
+inspection programme. Where possible the
+
+[p41 | prose | inspection programme. Where possible the]
+manufacturer must authorise all enhanced
+
+[p41 | prose | periodic inspections.]
+periodic inspections.
+
+[p41 | prose | periodic inspections.]
+If a MEWP has been in service for 10 years, it
+
+[p41 | prose | periodic inspections.]
+must have had all inspections, including a major
+
+[p41 | prose | periodic inspections.]
+inspection, to stay in service.
+
+[p41 | prose | periodic inspections.]
+This regime can be changed with instructions
+
+[p41 | prose | periodic inspections.]
+from the manufacturer that meet the criteria in
+
+[p41 | appendix | Appendix C of AS 2550.10.]
+Appendix C of AS 2550.10.
+
+[p41 | prose | 5.9 MAJOR INSPECTIONS]
+5.9 MAJOR INSPECTIONS
+
+[p41 | prose | Major inspections and the related maintenance]
+Major inspections and the related maintenance
+
+[p41 | prose | Major inspections and the related maintenance]
+are described in Section 6.4.5 of AS 2550.10.
+
+[p41 | prose | Major inspections and the related maintenance]
+The following MEWPs need a major inspection,
+
+[p41 | prose | Major inspections and the related maintenance]
+unless they have already had an enhanced
+
+[p41 | prose | Major inspections and the related maintenance]
+periodic inspection (as described in Section
+
+[p42 | prose | Major inspections and the related maintenance]
+> a MEWP that has been in use for 10 years and hasn’t had an enhanced periodic inspection > a MEWP that is being re-commissioned or imported, whatever age, that does not have continuous working and maintenance records, as required by Section 6.6 of AS 2550.10 > a MEWP that has been in use for 5 years since its 10 year major inspection. Seek guidance from the manufacturer before starting a major inspection and keep evidence of this request with the MEWP’s records. This should include advice on any safety or engineering upgrades and safety bulletins.
+
+[p42 | prose | Major inspections and the related maintenance]
+AS 2550.10 states a major inspection involves examination of critical components as identified by the manufacturer or a competent person. Where necessary, strip down the MEWP and remove paint, grease and corrosion from critical components to allow a complete and thorough inspection.
+
+[p42 | prose | Major inspections and the related maintenance]
+A component is critical if its failure would risk the health and safety of people using or near the MEWP. A competent person should identify the critical components using the definition in AS2550.10 .
+
+[p42 | prose | Major inspections and the related maintenance]
+Where necessary means if needed to make sure the critical component can be thoroughly inspected.
+
+[p42 | prose | Major inspections and the related maintenance]
+A complete and thorough inspection means looking at each part, and doing other non destructive tests as needed.
+
+[p42 | prose | Major inspections and the related maintenance]
+Strip down almost certainly requires complete disassembly.
+
+[p42 | prose | Major inspections and the related maintenance]
+5.10 REPAIRS
+
+[p42 | prose | Major inspections and the related maintenance]
+Carry out all repairs in a way that ensures the MEWP meets the current specifications for the particular model and meets the criteria in AS 2550.10: Cranes, Hoists and Winches – Safe Use – General Requirements.
+
+[p42 | prose | Major inspections and the related maintenance]
+Seek the manufacturer’s advice for all critical repairs, including welding, on the correct repair procedure. Keep proof of this request with the MEWP’s records. Do all repairs in accordance with the manufacturer’s instructions and the MEWP’s operational manual. Modern structural materials have specialised repair procedures. Some parts cannot be repaired and must be replaced instead.
+
+[p42 | prose | Major inspections and the related maintenance]
+Qualified welders must do all welding repairs on a MEWP and a qualified and competent person must inspect the welds. Where the manufacturer’s advice is not available, a competent person should sign off the repair work. Manufacturer’s spare parts should be used. The manufacturer must approve the use of any non manufacturer structural components unless the manufacturer no longer exists, in which case a competent person must approve the component. Keep the verification reports on record.
+
+[p43 | prose | 06/]
+06/
+
+[p43 | prose | 06/]
+MEWP OPERATOR TRAINING REQUIREMENTS 6.1 General training 6.2 Getting to know your MEWP 6.3 Refresher training and assessment 6.4 Working at height
+
+[p44 | prose | 06/]
+An employer or principal, who tells someone to use a MEWP, must make sure that the operator is adequately trained by a competent person and can demonstrate their competency before using any equipment.
+
+[p44 | prose | 06/]
+The operator must get training on the type of MEWP they will be using. The operator must be supervised during the training period until the person is considered competent to operate the MEWP.
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+6.1 GENERAL TRAINING
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+The MEWP operator training should cover at least:
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> legal requirements
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> getting to know the operator’s manual
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> hazard management – identifying, assessing and controlling hazards
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> equipment and safety features
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> prestart (pre-operational) inspection
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> control facilities and positions
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> limits of the machine – rated capacity, wind rating – and machine weight
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> moving and positioning a MEWP
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> transporting – including loading and unloading (where required)
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> working near overhead power lines
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> using a harness
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> refuelling tools and battery charging
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> reporting problems and incidents
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> emergency retrieval systems
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> emergency rescue plan.
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+For the purposes of operating a MEWP, a competent person is a person who has achieved and demonstrated competency in the safe use of a particular type of MEWP.
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+One means of demonstrating competency is through completing nationally recognized MEWPs NZQA unit standards or an equivalent or higher qualification. Any course must cover
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+the requirements of AS2550.10: Cranes, Hoists and Winches – Safe Use – Mobile Elevating Work Platforms and course providers should be able to offer evidence of this. Competency should also be assessed through supervision during the use of the equipment.
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+The current recommended NZQA unit standards for MEWPs are:
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> Unit Standard 23966v1: Describe Types of Elevating Work Platforms (EWPs) and Legislative Requirements For Their Use (Note: People need to do this unit standard before unit standards 23960 through 23964)
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> Unit Standard 23960v1: Assess the Worksite, Prepare and Operate a Scissor Lift Elevating Work Platform (EWP)
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> Unit Standard 23961v1: Assess the Worksite, Prepare and Operate a Truck Mounted Elevating Work Platform (EWP)
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> Unit Standard 23962v1: Assess the Worksite, Prepare and Operate a Self-Propelled Boom Lift Elevating Work Platform (EWP)
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> Unit Standard 23963v1: Assess the Worksite, Prepare and Operate a Trailer Mounted Elevating Work Platform (EWP)
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> Unit Standard 23964v1: Assess the Worksite, Prepare and Operate a Vertical Lift Elevating Work Platform (EWP)
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+> Unit Standard 17259: Operate an Elevated Work Platform Vehicle for Arboriculture.
+
+[p44 | prose | 6.1 GENERAL TRAINING]
+A MEWP operator must also be able to demonstrate that they have the knowledge and skills needed to do effective hazard and risk assessment in their operating location.
+
+[p45 | table | 6.1 GENERAL TRAINING]
+| ME TYPE | 23960 | 23961 | 23962 | 23963 | 23964 | 23966 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Scissor Lift (SL) |  |  |  |  |  |  |
+| Truck Mounted (TM) |  |  |  |  |  |  |
+| Self-Propelled Boom Lift (BM) |  |  |  |  |  |  |
+| Trailer Mounted (TL) |  |  |  |  |  |  |
+| Vertical Lift (VL) |  |  |  |  |  |  |
+
+[p45 | prose | 6.1 GENERAL TRAINING]
+Table 2: Unit standard requirements by MEWP type.
+
+[p45 | prose | 6.1 GENERAL TRAINING]
+Only a competent person can deliver any on- the-job training, operators must be supervised until they are judged to be competent.
+
+[p45 | prose | 6.2 GETTING TO KNOW YOUR MEWP]
+6.2 GETTING TO KNOW YOUR MEWP
+
+[p45 | prose | 6.2 GETTING TO KNOW YOUR MEWP]
+Employers or principals are also responsible for making sure operators are familiar with each type and model of the MEWP that they will use.
+
+[p45 | prose | 6.2 GETTING TO KNOW YOUR MEWP]
+They need to check that the operator:
+
+[p45 | prose | 6.2 GETTING TO KNOW YOUR MEWP]
+> has made sure the correct manuals are kept on the MEWP
+
+[p45 | prose | 6.2 GETTING TO KNOW YOUR MEWP]
+> understands the manuals and refers to them as needed
+
+[p45 | prose | 6.2 GETTING TO KNOW YOUR MEWP]
+> knows the purpose of all controls and what they do
+
+[p45 | prose | 6.2 GETTING TO KNOW YOUR MEWP]
+> knows what safety devices are installed and the operating differences of that particular model of the MEWP
+
+[p45 | prose | 6.2 GETTING TO KNOW YOUR MEWP]
+> knows how to use the MEWP‘s emergency retrieval systems.
+
+[p45 | prose | 6.3 REFRESHER TRAINING AND ASSESSMENT]
+6.3 REFRESHER TRAINING AND ASSESSMENT
+
+[p45 | prose | 6.3 REFRESHER TRAINING AND ASSESSMENT]
+Operators need regular refresher training that covers the requirements in Sections 6.1 and 6.2 of these guidelines. The length between training sessions should not exceed three years.
+
+[p45 | prose | 6.4 WORKING AT HEIGHT]
+6.4 WORKING AT HEIGHT
+
+[p45 | prose | 6.4 WORKING AT HEIGHT]
+A recommended means of achieving competence for harness use is the NZQA Unit Standard 23229 – Use a Safety Harness for Personal Fall Prevention When Working at Height. An operator may also be able to demonstrate equivalent knowledge and skills or have an equivalent or a higher international qualification.
+
+[p45 | prose | 6.4 WORKING AT HEIGHT]
+Where any person is working at height, a recommended means of achieving competence is the NZQA Unit Standard 17600 – Explain Safe Work Practices for Working at Height, or equivalent or a higher international qualification.
+
+[p45 | prose | 6.4 WORKING AT HEIGHT]
+A combination of the following NZQA unit standards could also demonstrate competency:
+
+[p45 | prose | 6.4 WORKING AT HEIGHT]
+> NZQA Unit Standard 17600 - Explain Safe Work Practices for Working at Heights
+
+[p45 | prose | 6.4 WORKING AT HEIGHT]
+> NZQA Unit Standards 25045 - Employ Height Safety Equipment in the Workplace.
+
+[p46 | prose | 07/]
+07/
+
+[p46 | prose | APPENDICES]
+APPENDICES
+
+[p46 | prose | APPENDICES]
+IN THIS SECTION:
+
+[p47 | prose | SECTION 7.0 // APPENDICES]
+SECTION 7.0 // APPENDICES
+
+[p47 | prose | SECTION 7.0 // APPENDICES]
+The Health and Safety in Employment Act (1992) (HSE Act) is the overarching legislation governing health and safety at work.
+
+[p47 | prose | 7.1 LEGAL FRAMEWORK]
+7.1 LEGAL FRAMEWORK
+
+[p47 | prose | The HSE Act is supported by Regulations]
+The HSE Act is supported by Regulations
+
+[p47 | prose | The HSE Act is supported by Regulations]
+including the Health and Safety in
+
+[p47 | prose | Employment Regulations (1995). Everyone]
+Employment Regulations (1995). Everyone
+
+[p47 | prose | Employment Regulations (1995). Everyone]
+must obey the HSE Act and its Regulations.
+
+[p47 | prose | Employment Regulations (1995). Everyone]
+Most people in workplaces have duties under
+
+[p47 | prose | Employment Regulations (1995). Everyone]
+the HSE Act. A full copy of the Act and its
+
+[p47 | prose | Employment Regulations (1995). Everyone]
+Regulations can be downloaded (free) at
+
+[p47 | prose | www.legislation.govt.nz.]
+www.legislation.govt.nz.
+
+[p47 | prose | www.legislation.govt.nz.]
+See WorkSafe NZ publications for more
+
+[p47 | prose | information about your health and safety]
+information about your health and safety
+
+[p47 | prose | responsibilities:]
+responsibilities:
+
+[p47 | prose | > Keeping Safe at Work – A Guide for]
+> Keeping Safe at Work – A Guide for
+
+[p47 | prose | Employees – Employee Rights under the]
+Employees – Employee Rights under the
+
+[p47 | prose | Health and Safety in Employment Act 1992.]
+Health and Safety in Employment Act 1992.
+
+[p47 | prose | www.business.govt.nz/worksafe/]
+www.business.govt.nz/worksafe/
+
+[p47 | prose | information-guidance/all-guidance-]
+information-guidance/all-guidance-
+
+[p47 | prose | information-guidance/all-guidance-]
+items/keeping-safe-at-work-a-guide-for-
+
+[p47 | prose | information-guidance/all-guidance-]
+employees/working-together.pdf
+
+[p47 | prose | > Managing Health and Safety: A Guide for]
+> Managing Health and Safety: A Guide for
+
+[p47 | prose | Employers. www.business.govt.nz/worksafe/]
+Employers. www.business.govt.nz/worksafe/
+
+[p47 | prose | information-guidance/all-guidance-items/]
+information-guidance/all-guidance-items/
+
+[p47 | prose | information-guidance/all-guidance-items/]
+managing-health-and-safety-a-guide-for-
+
+[p47 | prose | employers.]
+employers.
+
+[p47 | prose | 7.2 DUTY HOLDER RESPONSIBILITIES]
+7.2 DUTY HOLDER RESPONSIBILITIES
+
+[p47 | prose | 7.2 DUTY HOLDER RESPONSIBILITIES]
+The HSE Act creates a number of duties for
+
+[p47 | prose | 7.2 DUTY HOLDER RESPONSIBILITIES]
+most people connected with workplaces. This
+
+[p47 | prose | 7.2 DUTY HOLDER RESPONSIBILITIES]
+section outlines duty holders’ responsibilities.
+
+[p47 | prose | 7.2 DUTY HOLDER RESPONSIBILITIES]
+There are a number of Regulations, codes of
+
+[p47 | prose | practice and industry best practice guidance]
+practice and industry best practice guidance
+
+[p47 | prose | practice and industry best practice guidance]
+documents that support the HSE Act.
+
+[p47 | prose | practice and industry best practice guidance]
+The HSE Act and its Regulations are the law.
+
+[p47 | prose | Codes of practice, guidelines and other]
+Codes of practice, guidelines and other
+
+[p47 | prose | Codes of practice, guidelines and other]
+guidance material endorsed by WorkSafe NZ
+
+[p47 | prose | Codes of practice, guidelines and other]
+is considered current best practice for health
+
+[p47 | prose | and safety.]
+and safety.
+
+[p47 | prose | EMPLOYER RESPONSIBILITIES]
+EMPLOYER RESPONSIBILITIES
+
+[p47 | prose | EMPLOYER RESPONSIBILITIES]
+Employers have a responsibility to make the
+
+[p47 | prose | EMPLOYER RESPONSIBILITIES]
+workplace safe for employees, and make sure
+
+[p47 | prose | EMPLOYER RESPONSIBILITIES]
+that work done by employees does not harm
+
+[p47 | prose | others (such as other workers or visitors to]
+others (such as other workers or visitors to
+
+[p47 | prose | others (such as other workers or visitors to]
+the workplace). To achieve this employers
+
+[p47 | prose | others (such as other workers or visitors to]
+are expected to:
+
+[p47 | prose | others (such as other workers or visitors to]
+> systematically identify hazards
+
+[p47 | prose | others (such as other workers or visitors to]
+> systematically manage those hazards
+
+[p47 | prose | others (such as other workers or visitors to]
+by eliminating them, isolating them or
+
+[p47 | prose | others (such as other workers or visitors to]
+minimizing them, in that order
+
+[p47 | prose | others (such as other workers or visitors to]
+> put effective control measures in place
+
+[p47 | prose | others (such as other workers or visitors to]
+where hazards are to be isolated or
+
+[p47 | prose | others (such as other workers or visitors to]
+minimised
+
+[p47 | prose | others (such as other workers or visitors to]
+> provide suitable protective clothing and
+
+[p47 | prose | others (such as other workers or visitors to]
+equipment to staff and ensure they use it
+
+[p47 | prose | others (such as other workers or visitors to]
+> give staff safety information
+
+[p47 | prose | others (such as other workers or visitors to]
+> train or supervise staff so work is done safely
+
+[p47 | prose | others (such as other workers or visitors to]
+> monitor the environment and employees’
+
+[p47 | prose | others (such as other workers or visitors to]
+health to ensure their work is not harming
+
+[p47 | prose | them]
+them
+
+[p47 | prose | them]
+> provide opportunities for employees to
+
+[p47 | prose | them]
+participate in all of the above
+
+[p47 | prose | them]
+> record and investigate workplace accidents
+
+[p47 | prose | them]
+> report any serious harm suffered by
+
+[p47 | prose | employees to WorkSafe NZ.]
+employees to WorkSafe NZ.
+
+[p47 | prose | EMPLOYEE RESPONSIBILITIES]
+EMPLOYEE RESPONSIBILITIES
+
+[p47 | prose | EMPLOYEE RESPONSIBILITIES]
+An employee is defined by the HSE Act as
+
+[p47 | prose | EMPLOYEE RESPONSIBILITIES]
+any person of any age who is employed by
+
+[p47 | prose | EMPLOYEE RESPONSIBILITIES]
+an employer to do any work (other than
+
+[p47 | prose | EMPLOYEE RESPONSIBILITIES]
+residential work) for hire or reward under an
+
+[p47 | prose | employment agreement, that is, anyone who]
+employment agreement, that is, anyone who
+
+[p47 | prose | employment agreement, that is, anyone who]
+is getting paid to do a job as an employee.
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+Employees must take all practicable steps to
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+keep themselves safe in the workplace and
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+ensure they do not harm others. This includes
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+both what they do and what they don’t do
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+(such as not using safety gear). Employees
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+have a responsibility to identify and report
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+hazards, follow the safe work procedures that
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+are put in place by their employer and wear any
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+required personal protective equipment and
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+clothing, and report any accidents or incidents.
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+Employers should make it clear to employees
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+that they have to use safety equipment and
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+to wear protective clothing when needed. An
+
+[p48 | prose | BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS]
+employee’s responsibility will often increase
+
+[p48 | prose | with knowledge and seniority, but overall]
+with knowledge and seniority, but overall
+
+[p48 | prose | with knowledge and seniority, but overall]
+responsibility for a safe workplace remains
+
+[p48 | prose | with the employer.]
+with the employer.
+
+[p48 | prose | with the employer.]
+Practicable steps the employee can take
+
+[p48 | prose | with the employer.]
+include reporting any hazards or incidents to
+
+[p48 | prose | with the employer.]
+the employer, so the employer can investigate
+
+[p48 | prose | with the employer.]
+and put safeguards in place.
+
+[p48 | prose | PRINCIPALS AND CONTRACTORS]
+PRINCIPALS AND CONTRACTORS
+
+[p48 | prose | PRINCIPALS AND CONTRACTORS]
+A principal to a contract is responsible for
+
+[p48 | prose | the health and safety of contractors and]
+the health and safety of contractors and
+
+[p48 | prose | the health and safety of contractors and]
+subcontractors who are individuals, and
+
+[p48 | prose | employees of contractors and subcontractors.]
+employees of contractors and subcontractors.
+
+[p48 | prose | employees of contractors and subcontractors.]
+In some cases a principal might have multiple
+
+[p48 | prose | employees of contractors and subcontractors.]
+duties, such as also being an employer, and a
+
+[p48 | prose | employees of contractors and subcontractors.]
+person who controls a place of work.
+
+[p48 | prose | employees of contractors and subcontractors.]
+Putting work out to contract doesn’t remove
+
+[p48 | prose | any of the principal’s health and safety]
+any of the principal’s health and safety
+
+[p48 | prose | any of the principal’s health and safety]
+obligations. Legal responsibilities cannot be
+
+[p48 | prose | any of the principal’s health and safety]
+transferred to another party.
+
+[p48 | prose | any of the principal’s health and safety]
+Section 18 of the HSE Act requires all principals
+
+[p48 | prose | any of the principal’s health and safety]
+to a contract to take ‘all practicable steps’
+
+[p48 | prose | any of the principal’s health and safety]
+to ensure contractors, subcontractors who
+
+[p48 | prose | any of the principal’s health and safety]
+are individuals, and employees of contractors
+
+[p48 | prose | any of the principal’s health and safety]
+and subcontractors are not harmed while
+
+[p48 | prose | any of the principal’s health and safety]
+working on the contracted tasks. All practicable
+
+[p48 | prose | any of the principal’s health and safety]
+steps include having a hazard management
+
+[p48 | prose | any of the principal’s health and safety]
+process and plan in place and managing
+
+[p48 | prose | any of the principal’s health and safety]
+hazards effectively.
+
+[p48 | prose | any of the principal’s health and safety]
+To help keep contractors safe, the
+
+[p48 | prose | principal must:]
+principal must:
+
+[p48 | prose | > scope the work for health and safety issues]
+> scope the work for health and safety issues
+
+[p48 | prose | > scope the work for health and safety issues]
+and identify the significant hazards
+
+[p48 | prose | > scope the work for health and safety issues]
+> assess the capability of potential contractors
+
+[p48 | prose | > select contractors on the basis of their]
+> select contractors on the basis of their
+
+[p48 | prose | health and safety planning, performance]
+health and safety planning, performance
+
+[p48 | prose | and commitment]
+and commitment
+
+[p48 | prose | and commitment]
+> award the contract and outline agreed health and safety standards, systems
+
+[p48 | prose | and processes]
+and processes
+
+[p48 | prose | and processes]
+> monitor the contractor to make sure they are meeting the agreed health
+
+[p48 | prose | and safety standards]
+and safety standards
+
+[p48 | prose | and safety standards]
+> review whether there was a successful outcome at the end of the contract.
+
+[p48 | prose | and safety standards]
+For more details see A Principal’s Guide to
+
+[p48 | prose | Contracting to Meet the Health and Safety]
+Contracting to Meet the Health and Safety
+
+[p48 | prose | Health and Safety in Contracting Situations.]
+Health and Safety in Contracting Situations.
+
+[p48 | prose | SELF-EMPLOYED]
+SELF-EMPLOYED
+
+[p48 | prose | SELF-EMPLOYED]
+Someone is self-employed if they are working
+
+[p48 | prose | SELF-EMPLOYED]
+(other than as an employee) doing one or more
+
+[p48 | prose | SELF-EMPLOYED]
+of the following – providing services for gain or
+
+[p48 | prose | SELF-EMPLOYED]
+reward under contract for services, or selling
+
+[p48 | prose | SELF-EMPLOYED]
+goods. They may be carrying on a business as
+
+[p48 | prose | a sole trader or in a partnership.]
+a sole trader or in a partnership.
+
+[p48 | prose | a sole trader or in a partnership.]
+A self-employed person is responsible for
+
+[p48 | prose | his/her own health and safety and must]
+his/her own health and safety and must
+
+[p48 | prose | his/her own health and safety and must]
+ensure that their actions or inaction do not
+
+[p48 | prose | his/her own health and safety and must]
+harm other people. A self-employed person
+
+[p48 | prose | his/her own health and safety and must]
+is responsible for doing relevant training and
+
+[p48 | prose | his/her own health and safety and must]
+knowing how to do their work safely.
+
+[p48 | prose | PERSON WHO CONTROLS A PLACE OF WORK]
+PERSON WHO CONTROLS A PLACE OF WORK
+
+[p48 | prose | PERSON WHO CONTROLS A PLACE OF WORK]
+A person who controls a place of work is:
+
+[p48 | prose | a. the owner, lessee, sub-lessee, occupier or]
+a. the owner, lessee, sub-lessee, occupier or
+
+[p48 | prose | person in possession of the place or any]
+person in possession of the place or any
+
+[p48 | prose | part of it or]
+part of it or
+
+[p48 | prose | part of it or]
+b. the owner, lessee, sub-lessee or bailee
+
+[p48 | prose | part of it or]
+(person entrusted to look after goods) of
+
+[p48 | prose | any plant in the place.]
+any plant in the place.
+
+[p48 | prose | any plant in the place.]
+This may include the person who leases the
+
+[p48 | prose | MEWP, a scaffold supplier or an installer who]
+MEWP, a scaffold supplier or an installer who
+
+[p48 | prose | MEWP, a scaffold supplier or an installer who]
+also owns the equipment.
+
+[p49 | prose | SECTION 7.0 // APPENDICES]
+SECTION 7.0 // APPENDICES
+
+[p49 | prose | EMPLOYEE PARTICIPATION]
+EMPLOYEE PARTICIPATION
+
+[p49 | prose | EMPLOYEE PARTICIPATION]
+The HSE Act requires employers to involve
+
+[p49 | prose | EMPLOYEE PARTICIPATION]
+employees in health and safety. There are a
+
+[p49 | prose | EMPLOYEE PARTICIPATION]
+number of ways to involve staff, such as:
+
+[p49 | prose | EMPLOYEE PARTICIPATION]
+> discussing health and safety responsibilities
+
+[p49 | prose | EMPLOYEE PARTICIPATION]
+> having employees involved in safety
+
+[p49 | prose | assessments]
+assessments
+
+[p49 | prose | assessments]
+> holding toolbox meetings
+
+[p49 | prose | assessments]
+> electing health and safety representatives.
+
+[p49 | prose | assessments]
+Employers must give employees a chance to
+
+[p49 | prose | assessments]
+take part effectively in processes for health
+
+[p49 | prose | and safety improvement in the workplace. In]
+and safety improvement in the workplace. In
+
+[p49 | prose | any workplace with more than 30 employees]
+any workplace with more than 30 employees
+
+[p49 | prose | (or where an employee or union representative]
+(or where an employee or union representative
+
+[p49 | prose | (or where an employee or union representative]
+asks), the employer must develop, set up and
+
+[p49 | prose | (or where an employee or union representative]
+maintain a system for employees to take part
+
+[p49 | prose | in health and safety.]
+in health and safety.
+
+[p49 | prose | in health and safety.]
+If people cannot agree on a system for how
+
+[p49 | prose | in health and safety.]
+employees can take part in health and safety,
+
+[p49 | prose | in health and safety.]
+the HSE Act sets out default requirements.
+
+[p49 | prose | in health and safety.]
+Elected employee health and safety
+
+[p49 | prose | in health and safety.]
+representatives can take paid leave to go on
+
+[p49 | prose | in health and safety.]
+approved training courses.
+
+[p49 | prose | in health and safety.]
+If a trained employee health and safety
+
+[p49 | prose | in health and safety.]
+representative finds a hazard in the workplace,
+
+[p49 | prose | in health and safety.]
+they should bring it to the employer's
+
+[p49 | prose | in health and safety.]
+attention. If the employer does not resolve the
+
+[p49 | prose | in health and safety.]
+issue, the representative can issue a hazard
+
+[p49 | prose | notice.]
+notice.
+
+[p49 | prose | notice.]
+Employers and employees must deal with each
+
+[p49 | prose | notice.]
+other in good faith when seeking agreement
+
+[p49 | prose | notice.]
+on setting up and maintaining a system for
+
+[p49 | prose | employee participation in health and safety.]
+employee participation in health and safety.
+
+[p49 | prose | 7.3 OBLIGATIONS FOR EMPLOYERS, OWNERS, SUPPLIERS AND PRINCIPALS USING MEWPS]
+7.3 OBLIGATIONS FOR EMPLOYERS, OWNERS, SUPPLIERS AND PRINCIPALS USING MEWPS
+
+[p49 | prose | The MEWP inspection and certification system]
+The MEWP inspection and certification system
+
+[p49 | prose | The MEWP inspection and certification system]
+is there to help duty holders meet their
+
+[p49 | prose | obligations under the HSE Act.]
+obligations under the HSE Act.
+
+[p49 | prose | obligations under the HSE Act.]
+Where employees or contractors use MEWPs,
+
+[p49 | prose | obligations under the HSE Act.]
+their employers or principals must take all
+
+[p49 | prose | obligations under the HSE Act.]
+practicable steps to make sure that the MEWPs
+
+[p49 | prose | obligations under the HSE Act.]
+are designed, built and maintained so they are
+
+[p49 | prose | obligations under the HSE Act.]
+safe to use (Section 6 and 18, HSE Act).
+
+[p49 | prose | obligations under the HSE Act.]
+Anyone who sells, hires out or otherwise
+
+[p49 | prose | obligations under the HSE Act.]
+supplies MEWPs must also take all practicable
+
+[p49 | prose | obligations under the HSE Act.]
+steps to make sure the MEWP are designed,
+
+[p49 | prose | obligations under the HSE Act.]
+built and maintained so they are safe to use
+
+[p49 | prose | (Section 18A, HSE Act).]
+(Section 18A, HSE Act).
+
+[p49 | prose | (Section 18A, HSE Act).]
+Having a current inspection certificate does not
+
+[p49 | prose | (Section 18A, HSE Act).]
+fulfil the obligations of employers, principals,
+
+[p49 | prose | (Section 18A, HSE Act).]
+and suppliers as the MEWP must be safe to
+
+[p49 | prose | (Section 18A, HSE Act).]
+use. These guidelines give advice on how duty
+
+[p49 | prose | (Section 18A, HSE Act).]
+holders can fulfil their duties.
+
+[p49 | prose | 7.4 INSPECTION AND CERTIFICATION REQUIREMENTS]
+7.4 INSPECTION AND CERTIFICATION REQUIREMENTS
+
+[p49 | prose | 7.4 INSPECTION AND CERTIFICATION REQUIREMENTS]
+Duty holders should meet the requirements
+
+[p49 | prose | of the HSE Act in terms of maintenance if]
+of the HSE Act in terms of maintenance if
+
+[p49 | prose | of the HSE Act in terms of maintenance if]
+the MEWP has had the major inspections,
+
+[p49 | prose | six-monthly inspections and pre-operational]
+six-monthly inspections and pre-operational
+
+[p49 | prose | daily checks in line with these guidelines and]
+daily checks in line with these guidelines and
+
+[p49 | prose | daily checks in line with these guidelines and]
+they have fixed any faults found.
+
+[p49 | prose | daily checks in line with these guidelines and]
+The obligation to ensure safety stays with the
+
+[p49 | prose | daily checks in line with these guidelines and]
+duty holder. If the MEWP has a certificate, but
+
+[p49 | prose | daily checks in line with these guidelines and]
+the certificate was not issued in line with these
+
+[p49 | prose | daily checks in line with these guidelines and]
+guidelines, then the duty holder may not be
+
+[p49 | prose | daily checks in line with these guidelines and]
+meeting the requirements of the HSE Act.
+
+[p49 | prose | daily checks in line with these guidelines and]
+Duty holders may choose not to use these
+
+[p49 | prose | daily checks in line with these guidelines and]
+guidelines when having their MEWP inspected.
+
+[p49 | prose | daily checks in line with these guidelines and]
+However, they must take steps which are equal
+
+[p49 | prose | to or better than these guidelines in order to]
+to or better than these guidelines in order to
+
+[p49 | prose | to or better than these guidelines in order to]
+ensure that the MEWPs are safe to use.
+
+[p49 | prose | to or better than these guidelines in order to]
+Duty holders must recognise that simply
+
+[p49 | prose | to or better than these guidelines in order to]
+getting an inspection certificate is not enough
+
+[p49 | prose | to or better than these guidelines in order to]
+to comply with these guidelines. The major
+
+[p49 | prose | to or better than these guidelines in order to]
+inspections have to be done to the standard
+
+[p49 | prose | to or better than these guidelines in order to]
+outlined in this guideline and the associated
+
+[p49 | prose | to or better than these guidelines in order to]
+standards listed in the publications section 7.10.
+
+[p49 | prose | to or better than these guidelines in order to]
+Duty holders must be satisfied that a
+
+[p49 | prose | to or better than these guidelines in order to]
+competent person carried out the inspection.
+
+[p49 | prose | to or better than these guidelines in order to]
+If the MEWP is not inspected and maintained
+
+[p49 | prose | in line with these best practice guidelines, your]
+in line with these best practice guidelines, your
+
+[p49 | prose | in line with these best practice guidelines, your]
+insurance company may refuse to cover any
+
+[p49 | prose | insurance claims for property damage, public]
+insurance claims for property damage, public
+
+[p49 | prose | liability and breaches of the HSE Act.]
+liability and breaches of the HSE Act.
+
+[p50 | prose | 7.5 NOTIFICATION OF HAZARDOUS WORKS AND SERIOUS HARM]
+7.5 NOTIFICATION OF HAZARDOUS WORKS AND SERIOUS HARM
+
+[p50 | prose | NOTIFICATION OF PARTICULAR HAZARDOUS WORK]
+NOTIFICATION OF PARTICULAR HAZARDOUS WORK
+
+[p50 | prose | NOTIFICATION OF PARTICULAR HAZARDOUS WORK]
+Employers and the person in control of the workplace must give WorkSafe NZ at least 24 hours’ notice before doing any hazardous work (as defined below).
+
+[p50 | prose | NOTIFICATION OF PARTICULAR HAZARDOUS WORK]
+These notices help WorkSafe NZ plan workplace visits to promote safety for everyone in or near a workplace.
+
+[p50 | prose | NOTIFICATION OF PARTICULAR HAZARDOUS WORK]
+Notify WorkSafe NZ by either:
+
+[p50 | prose | NOTIFICATION OF PARTICULAR HAZARDOUS WORK]
+> filing a Notification of Particular Hazardous Work online http://www.business.govt.nz/ worksafe/notifications-forms/accident- serious-harm, or
+
+[p50 | prose | NOTIFICATION OF PARTICULAR HAZARDOUS WORK]
+> downloading the notification form and posting or faxing it to the WorkSafe NZ office nearest to the worksite.
+
+[p50 | prose | WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ]
+WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ
+
+[p50 | prose | WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ]
+This is defined by the Regulations as:
+
+[p50 | prose | WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ]
+a. Any restricted work, as defined in section 2 of the Health and Safety in Employment (Asbestos) Regulations 1998
+
+[p50 | prose | WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ]
+b. Any commercial logging or tree-felling
+
+[p50 | prose | WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ]
+c. Any construction work where:
+
+[p50 | prose | WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ]
+> workers could fall 5 metres or more (excluding work on a two-storey house, a power or telephone line, or carried out from a ladder only, or minor or routine maintenance or repair work)
+
+[p50 | prose | WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ]
+> scaffolding from which someone could fall 5 metres or more while being put up or dismantled
+
+[p50 | prose | WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ]
+> people have to work in an excavation that is more than 1.5 metres deep and which is deeper than it is wide at the top.
+
+[p50 | prose | WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ]
+> workers need to work underground in any kind of tunnel or drive, no matter what sort of timbering or support there is
+
+[p50 | prose | WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ]
+> an excavation’s excavated face is steeper than one horizontal to two vertical, and any face that is taller than 5 metres
+
+[p50 | prose | WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ]
+> explosives are used or being stored for use
+
+[p50 | prose | WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ]
+> workers need to breathe air that is or has been compressed or breathes a respiratory medium other than air
+
+[p50 | prose | WORK THAT NEEDS TO BE NOTIFIED TO WORKSAFE NZ]
+> An appliance (other than a mobile crane, excavator or forklift) has to lift weights of more than half a tonne (500kg) or lift weights higher than 5 metres.
+
+[p51 | prose | 7.6 HAZARDS FACED WHEN USING A MEWP]
+7.6 HAZARDS FACED WHEN USING A MEWP
+
+[p51 | prose | 7.6 HAZARDS FACED WHEN USING A MEWP]
+These hazards need to be assessed in terms of the environment, the type of MEWP and work activity being undertaken.
+
+[p51 | prose | 7.6 HAZARDS FACED WHEN USING A MEWP]
+This list does not cover all hazards of working with MEWPs. It is based on ISO 16368 – Mobile Elevating Platforms – Design, Calculations, Safety Requirements and Test Methods – Annex H.
+
+[p51 | table | 7.6 HAZARDS FACED WHEN USING A MEWP]
+| Mechanical hazards | Crushing Entanglement Impact Friction or abrasion Cutting or severing Ejection of parts Loss of stability Slip, trip, fall hazards Failure of energy supply |
+| --- | --- |
+| Electrical hazards | Electrical contact Electrostatic Thermal radiation External influences on electrical equipment (e.g. power surge or lightning strike) |
+| Environmental hazards | Noise Weather Heat or cold Fumes Wind |
+| Ergonomic hazards | Constrained postures Poor lighting Mental overload |
+| Operational hazards | Overloading caused by sail effect of objects on windy days Hazardous environment Manual force Poor visibility Starting/moving self-propelled machinery Movement from pedestrian-controlled machinery Uncontrolled movement Rolling over Poor access Loading/overloading Lifting materials or people Falls from working at height Falling objects |
+
+[p52 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP
+
+[p52 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+The information in this section will help you pick the best MEWP for each job, site, operator competence/training requirements and hazard assessment.
+
+[p52 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+The person responsible for using MEWPs safely in the workplace should do the assessment before any MEWP is chosen.
+
+[p52 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+SITE AND/OR LOCATION DETAILS
+
+[p52 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+Company:
+
+[p52 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+Site name and location:
+
+[p52 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+Assessment conducted by (name):
+
+[p52 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+Date:
+
+[p52 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+Position/title:
+
+[p52 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+Phone:
+
+[p52 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+How will the MEWP be used (site conditions)
+
+[p52 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+This section asks you to consider where you are using the MEWP and what type of work you are doing, such as surface conditions, indoor or outdoor use, suspended surfaces etc.
+
+[p52 | table | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+| HAZARD OR CONSIDERATION | TICK | CONSIDER THE FOLLOWING |
+| --- | --- | --- |
+| MEWP size (height, reach etc) |  | > How high does the MEWP need to reach? > Can people get in and out at height safely, if they need to? |
+| Rated capacity |  | Can the MEWP support the required number of personnel (including an operator), tools equipment, and materials. |
+| Load dimensions |  | Can the entire load fit inside the platform? If not, are there approved load carrying attachments, such as pipe racks? |
+| Indoor use (fully enclosed flat surface) |  | Usually an electric slab terrain MEWP is most suitable. If the MEWP has an engine, are fumes exhausted? |
+| Outdoor use |  | Is the MEWP rated for outdoor use? How much wind will it face (min wind rating is 12.5 m/s)? Determine maximum slope the MEWP will face |
+| Hard, level surface eg concrete, asphalt (minimal slope) |  | Is a slab or rough terrain MEWP suitable? |
+| Soft surface, rough terrain or sloping surface |  | What rough terrain gradeability/slope needed? |
+
+[p53 | table | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+| Suspended surfaces | Ask the supplier for the MEWP’s static wheel load. Ask the responsible engineer what the maximum floor loadings are. |
+| --- | --- |
+| Hot work | Is the MEWP platform suitable for hot work, such as welding? (Do not carry gas cylinders in fully enclosed baskets). |
+| Use harness systems | Harness systems must be used on a boom- type MEWP. All harness systems must be: > Manufactured and tested in accordance with AS/NZS 1891.1 2007: Industrial Fall Arrest Systems & Devices: Harnesses and Ancillary Equipment > tested to the standard > maintained to the standard in AS/NZS 1891.4 2009: Industrial Fall Arrest Systems & Devices: Selection, Use and Maintenance. |
+
+[p53 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+This section details the competence levels needed to use different types of MEWPs and the training options available.
+
+[p53 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+MEWP TYPES & SPECIFIC PROCEDURES
+
+[p53 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+TICK
+
+[p53 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+COMMENTS
+
+[p53 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+All MEWPs – Operators must be trained and competent to use the particular MEWP on site.
+
+[p53 | prose | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+Emergency procedures – Suitable qualified staff (who can retrieve the platform using the controls at ground level) or the emergency retrieval system must be available in an emergency (eg loss of normal power, operator injured).
+
+[p53 | table | 7.7 EXAMPLE CHECKLIST TO PICK THE RIGHT MEWP]
+| Name of supplier |  |  |
+| --- | --- | --- |
+| The MEWP type (tick one) |  |  |
+| Vertical lift | Scissor lift | Boom lift |
+| Make: | Model: |  |
+| Plant number: | Serial number: |  |
+| Date of manufacture | Commissioned date: |  |
+| Date of last service: |  |  |
+
+[p54 | prose | 7.8 EXAMPLE MEWPS HAZARD ASSESSMENT CHECKLIST]
+7.8 EXAMPLE MEWPS HAZARD ASSESSMENT CHECKLIST
+
+[p54 | prose | 7.8 EXAMPLE MEWPS HAZARD ASSESSMENT CHECKLIST]
+Information in this section will help identify and control the hazards of working with MEWPs, including site conditions, operator competence/training. The person or people responsible for the safe use of MEWPs in their workplace should do the assessment before a MEWP is chosen.
+
+[p54 | prose | 7.8 EXAMPLE MEWPS HAZARD ASSESSMENT CHECKLIST]
+This section asks you to consider where you are using the MEWP and what type of work you are doing, such as surface conditions, indoor or outdoor use, suspended surfaces etc.
+
+[p54 | table | 7.8 EXAMPLE MEWPS HAZARD ASSESSMENT CHECKLIST]
+| HAZARD OR CONSIDERATION | TICK | CONTROL MEASURES IN PLACE | TICK |
+| --- | --- | --- | --- |
+| The MEWP size (height, reach etc) |  |  |  |
+| Rated capacity |  |  |  |
+| Load dimensions |  |  |  |
+| Indoor use (fully enclosed flat surface) |  |  |  |
+| Outdoor use (wind rating 12.5m/s minimum/determine slope) |  |  |  |
+| Hard, level surface eg concrete, asphalt (minimal slope) |  |  |  |
+| Soft surface, rough terrain or sloping surface |  |  |  |
+| Suspended surfaces |  |  |  |
+| Hot work |  |  |  |
+| Harness systems |  |  |  |
+| Training/competence |  |  |  |
+
+[p54 | prose | 7.8 EXAMPLE MEWPS HAZARD ASSESSMENT CHECKLIST]
+This section details the competence levels needed to use different types of MEWPs and the training options available.
+
+[p54 | table | 7.8 EXAMPLE MEWPS HAZARD ASSESSMENT CHECKLIST]
+| OPERATOR TRAINING | TICK | WHAT’S IN PLACE |
+| --- | --- | --- |
+| Operators trained and competent to operate the particular MEWP used on site. |  | Evidence of competence (eg NZQA or other training)? |
+| Emergency procedures - suitable qualified staff and/or emergency retrieval system |  |  |
+
+[p55 | table | 7.8 EXAMPLE MEWPS HAZARD ASSESSMENT CHECKLIST]
+| Information in this section helps operators assess the typical hazards of using MEWPs and gives examples of suitable control measures. |  |  |
+| --- | --- | --- |
+| HAZARDS | TICK | POSSIBLE CONTROL MEASURES |
+| Machine controls and operation |  | > Operators should always make sure they know the 'ramp time’ of each control function. Ramp time is a built-in feature that creates a few seconds’ delay before the relevant function stops. The MEWP slows down to a stop rather than jerking to a halt, to keep the platform stable and stop the operator losing their balance. The control features let operators control the speed of the boom to suit the task, ground conditions and when working near structures, such as proportional controls, high/low drive speed and function speed select switches, engine high/low rev switches. See the manufacturer’s operating manual, supplied with the boom, for how these controls work. |
+| Nearby hazards eg structures, drop- offs, other plant, traffic (mobile and pedestrian) |  | Set up traffic management plans. Set up exclusion zones. Ensure that there is enough stopping distance between the MEWP and fixed structures. |
+| Electrical hazards eg overhead powerlines, electric shock |  | Do not use a MEWP where an electrical hazard exists. Keep at least 4m away from live power lines. Always use a residual current device (RCD) protected power supply when charging batteries or using work tools in the platform. |
+| Surface conditions eg sloping surfaces or soft, uneven ground |  | Inspect the entire worksite and identify soft, uneven ground and other surface hazards. Do not use on a slope greater than the manufacturer’s rated gradeability (see the operators manual). Do not lift the platform on ground that is steeper than the maximum rated slope of the MEWP. Do not drive or use on soft ground when the platform is up. |
+| Excavations, embankments and underground hazards eg backfilled ground, underground cavities |  | Check with the responsible person (eg engineer, site manager) where any backfilled ground or underground cavities are. Inspect the entire workplace before using the MEWP. Do not drive or use a MEWP near an unsupported excavation, embankment or other unsupported underground hazard. |
+
+[p56 | table | 7.8 EXAMPLE MEWPS HAZARD ASSESSMENT CHECKLIST]
+| Suspended surfaces eg concrete slabs, bridge decks, wharfs, jetties | Get the static wheel loads from the MEWP supplier and maximum floor loading from engineer. Make sure the suspended surface can take the weight of the MEWP, before you start work. |
+| --- | --- |
+| Wind | Never use an indoor / no wind MEWP outdoors. Never use a MEWP in winds stronger than the manufacturer's recommendations. |
+| Confined spaces or lack of ventilation | Use an electric MEWP or make sure there’s good ventilation if using an engine-powered machine. |
+| Explosive/hazardous atmospheres | Do not use a MEWP in a hazardous environment unless it is rated to handle it. Do not carry explosive or flammable materials in the platform. |
+| Electromagnetic interference eg working near mobile phone transmitters | If working near sources of electromagnetic interference only use MEWPs that have been tested/approved for electromagnetic compatibility - check the operators manual or contact the supplier/manufacturer. |
+| Hot work | Carry a fire extinguisher on the platform when doing ‘hot work’. |
+| Working at heights | Always stay inside the MEWP platform and never sit, stand or climb on the handrails or use ladders for extra height or reach. Always use a harness (attached to a certified anchor point) when using a boom-type MEWP. Only get on or off the platform at height if it is safe to do so (after a hazard assessment). Make sure ground staff are trained to use the emergency retrieval system. Have a well-rehearsed emergency procedure in case the emergency retrieval system can't be used. |
+
+[p57 | table | 7.8 EXAMPLE MEWPS HAZARD ASSESSMENT CHECKLIST]
+| Crushing hazards | Have a traffic management plan and set up exclusion zones. Keep all staff away when raising, lowering or slewing the MEWP. Make sure there is enough overhead clearance when using the MEWP. Consider how high any boom lifts go when driving over drop offs, kerbs, gutters etc? Operators must never put themselves under, through or between boom sections or scissor arms. |
+| --- | --- |
+|  | operators’ manual). Do not carry more than the manufacturer's rated capacity (SWL) or apply more than the maximum side force on the platform. Do not attach signs or banners to the platform. Do not carry material with a large surface area (eg roof sheets, plasterboard) in windy conditions. Do not attach ('tie off) a MEWP to a fixed structure or other plant. |
+| Other hazards: |  |
+
+[p58 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST
+
+[p58 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+Use the following checklist if you need a separate record of the Logbook Pre-operation inspection (safety checks) done by the operator (or other site workers) before using a MEWP.
+
+[p58 | table | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+| Company: |  |  |
+| --- | --- | --- |
+| Site name and location: |  |  |
+| Inspection conducted by (name): |  | Date: |
+| Position/title: |  | Phone: |
+| Plant supplier details: |  |  |
+| MEWP type (tick one) |  |  |
+| Vertical lift Scissor lift |  | Boom lift |
+| Make: | Model: |  |
+| Plant number: | Serial number: |  |
+| Date of manufacture: |  | Commissioned date: |
+| BEFORE CHECKING AND USING THE MACHINE | TICK | COMMEN |
+| Disconnect 240v power (battery charger/ extension cords etc). |  |  |
+| Read the manufacturer’s operating instructions (or equivalent) before using the machine. |  |  |
+| Check chain and cable mechanisms for slackness and damage. |  |  |
+| Check chassis, scissor, boom sections, outrigger/ stabiliser legs for cracks, damage, security (incl. keeper plates, keeper pins, bolts, nyloc nuts etc). Check level bubble(s) not damaged (as fitted). |  |  |
+| Check tyres for correct inflation, steering linkages, tyres, wheels, wheel nuts, castors for damage and security. Note: Most self-propelled MEWs have solid or foam-filled tyres. |  |  |
+| Check hydraulic hoses and fuel system for leaks and damage (look for puddles on ground). |  |  |
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+7. Check all fluid levels (engine oil to main/aux engines, radiator, fuel and hydraulic tank etc).
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+8. Check cables, wiring, visible limit switches, battery charger (as fitted) for damage. Conduct earth leakage circuit breaker (ELCB) ‘Push Button’ Test (as fitted). Test tag in date.
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+10. Check the condition of personal protection equipment (PPE) (eg, harnesses, lanyards, personal energy absorbers). Ensure attachment points are secure, and there are no cracks or damage.
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+11. Platform and handrails – ensure
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+b. handrails are 100% secure
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+c. self closing action of doors is working
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+d. there is no grease or debris on floor
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+13. Do any other pre-start checks given by the manufacturer.
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+14. Visually check all fibreglass components for cracks especially where bonded to boom.
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+OPERATIONAL CHECKS – MACHINE STARTED
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+> Emergency stops and dead-mans as fitted at both upper and lower controls (machine should stop when dead-man button or foot control is released).
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+> Controls at ground (raise/lower/slew etc).
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+> Controls at platform (forward/reverse/raise/ lower/slew etc).
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+TICK
+
+[p59 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+COMMENTS
+
+[p60 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+> Safety features and lockouts including outriggers, drive/elevation cut out, high/ low speed change over, pothole protection system, etc.
+
+[p60 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+> Brakes, check no excessive run on (incl. slew brake as fitted). Beware! Some machines have a time delay before brakes apply.
+
+[p60 | prose | 7.9 EXAMPLE MEWP PRESTART INSPECTION CHECKLIST]
+16. Check platform emergency descent and/ or operator retrieval system (as fitted) work. Ensure valves/control returned to ‘normal operating’ position (as per manufacturer’s manual).
+
+[p60 | prose | 17. Check flashing lights and alarms work.]
+17. Check flashing lights and alarms work.
+
+[p60 | prose | 17. Check flashing lights and alarms work.]
+18. Do any other operational checks recommended by the manufacturer.
+
+[p60 | prose | 17. Check flashing lights and alarms work.]
+1. Tag the equipment with a ‘DO NOT USE’ tag to warn others that the equipment is faulty.
+
+[p60 | prose | 17. Check flashing lights and alarms work.]
+2. Advise your supervisor of the faults with the equipment.
+
+[p60 | prose | 17. Check flashing lights and alarms work.]
+3. Advise the owner of the equipment that it is faulty and needs attention.
+
+[p60 | prose | 17. Check flashing lights and alarms work.]
+4. Record details of fault in the logbook provided with the MEWP.
+
+[p61 | prose | 7.10 PUBLICATIONS AND REFERENCE MATERIAL]
+7.10 PUBLICATIONS AND REFERENCE MATERIAL
+
+[p61 | table | 7.10 PUBLICATIONS AND REFERENCE MATERIAL]
+| LEGIS| ION |
+| --- |
+| Electricity Act 1992 |
+| The Health and Safety in Employment Act 1992 |
+| Electricity (Safety) Regulations 2010 |
+| The Health and Safety in Employment Regulations 1995 |
+
+[p61 | table | 7.10 PUBLICATIONS AND REFERENCE MATERIAL]
+| STANDARD NUMBER | STANDARD NUMBER |
+| --- | --- |
+| Cranes, Hoists and Winches - Safe Use - Mobile Elevating Work Platforms | AS2550.10 |
+| Cranes, Hoists and Winches - Safe Use - General Requirements | AS 25501 |
+| Non-domestic Passenger and Goods Lifts | NZS 4332 |
+| Safety of Machinery - Design of Controls. Interlocks and Guarding - Emergency Stop - Principles for Design | AS 4024604 |
+| Cranes, Hoists and Winches - Part 10: Mobile Elevating Work Platforms | AS/NZS 141810 |
+| Electrical Installations - Construction and Demolition Sites | AS/NZS 3012 |
+| In-Service Safety Inspection and Testing of Electrical Equipment | AS/NZS 3760 |
+| Acoustic Emission Testing of Fiberglass Insulated Booms on Elevating Work Platforms | AS 4748 |
+
+[p61 | table | 7.10 PUBLICATIONS AND REFERENCE MATERIAL]
+| Approved Code of Practice for Cranes - Includes the Design, Manufacture, Supply, Safe Operation, Maintenance and Inspection of Cranes (Cranes ACOP) |
+| --- |
+| Approved Code of Practice for Safety and Health in Arboriculture |
+| Forklifts - Approved Code of Practice for Training Operators and Instructors of Powered Industrial Lift |
+| Approved Code of Practice for the Management of Noise in the Workplace |
+
+[p61 | prose | 7.10 PUBLICATIONS AND REFERENCE MATERIAL]
+BEST PRACTICE GUIDELINES
+
+[p61 | table | 7.10 PUBLICATIONS AND REFERENCE MATERIAL]
+| Best Practice Guidelines for the Safe Use of Elevating Work Platforms in the | Horticultural Industry |
+| --- | --- |
+| Best Practice Guidelines for Scaffolding in New Zealand |  |
+| Best Practice Guidelines for Working at Height in New Zealand |  |
+| Best Practice Guidelines for Working on Roofs in New Zealand |  |
+
+[p62 | prose | 7.10 PUBLICATIONS AND REFERENCE MATERIAL]
+BEST PRACTICE GUIDELINES // MOBILE ELEVATING WORK PLATFORMS
+
+[p62 | table | 7.10 PUBLICATIONS AND REFERENCE MATERIAL]
+| GUIDES |
+| --- |
+| Keeping Safe at Work – A Guide for Employees – Employee Rights under the Health and Safety in Employment Act 1992 www.business.govt.nz/worksafe/information-guidance/all-guidance-items/keeping-safe-at-work-a-guide-for-employees/working-together |
+| Managing Health and Safety: A Guide for Employers – Department of Labour – New Zealand www.business.govt.nz/worksafe/information-guidance/all-guidance-items/managing-health-and-safety-a-guide-for-employers |
+| A Principal’s Guide to Contracting to meet the Health and Safety in Employment Act 1992 plus its summary, Health and Safety in Contracting Situations. |
+| OVERSEAS STANDARDS |
+| BS EN 280 Mobile Elevating Work Platforms. Design Calculations. Stability Criteria. Construction. Safety. Examinations and Tests |
+| ANSI/SIA A92.2 Vehicle-Mounted Elevating and Rotating Aerial Devices |
+| ISO 16368 Mobile Elevating Work Platforms – Design, Calculations, Safety Requirements and Test Methods. |
+
+[p63 | prose | DISCLAIMER]
+DISCLAIMER
+
+[p63 | prose | DISCLAIMER]
+WorkSafe New Zealand has made every effort to ensure the information contained in this publication is reliable, but makes no guarantee of its completeness. WorkSafe may change the contents of this guide at any time without notice.
+
+[p63 | prose | DISCLAIMER]
+This document is a guideline only. It should not be used as a substitute for legislation or legal advice. WorkSafe is not responsible for the results of any action taken on the basis of information in this document, or for any errors or omissions.
