@@ -1,0 +1,1200 @@
+[p1 | prose | Best practice guidelines for working on roofs]
+Best practice guidelines for working on roofs
+
+[p1 | prose | Best practice guidelines for working on roofs]
+JUNE 2012
+
+[p2 | prose | Best practice guidelines for working on roofs]
+MBIE develops and delivers policy, services, advice and regulation to support economic growth and the prosperity and wellbeing of New Zealanders. MBIE combines the former Ministries of Economic Development, Science + Innovation, and the Departments of Labour, and Building and Housing.
+
+[p2 | prose | More information]
+More information
+
+[p2 | table | More information]
+| www.mbie.govt.nz | Information, examples and answers to your questions about the topics covered here can be found on our website www.mbie.govt.nz or by calling us free on 0800 20 90 20. |
+| --- | --- |
+| 0800 20 90 20 |  |
+
+[p2 | prose | Disclaimer]
+Disclaimer
+
+[p2 | prose | Disclaimer]
+This document is a guide only. It should not be used as a substitute for legislation or legal advice. The Ministry of Business, Innovation and Employment is not responsible for the results of any actions taken on the basis of information in this document, or for any errors or omissions.
+
+[p2 | prose | Disclaimer]
+June 2012 ©Crown Copyright 2012 The material contained in this report is subject to Crown copyright protection unless otherwise indicated. The Crown copyright protected material may be reproduced free of charge in any format or media without requiring specific permission. This is subject to the material being reproduced accurately and not being used in a derogatory manner or in a misleading context. Where the material is being published or issued to others, the source and copyright status should be acknowledged. The permission to reproduce Crown copyright protected material does not extend to any material in this report that is identified as being the copyright of a third party. Authorisation to reproduce such material should be obtained from the copyright holders.
+
+[p3 | prose | Acknowledgement]
+Acknowledgement
+
+[p3 | prose | Acknowledgement]
+This Best Practice Guidelines for Working on Roofs is published by the Ministry of Business, Innovation and Employment and has been prepared in association with the Roofing Association of New Zealand (RANZ). The purpose of these guidelines is to provide practical guidance to employers, contractors, employees, and all others engaged in work associated with working on roofs. It offers examples on how duty holders can meet their obligations under the Health and Safety in Employment Act 1992 and its associated regulations. Accordingly, compliance with these best practice guidelines is recommended.
+
+[p6 | prose | Acknowledgement]
+Preventing falls from roofs is a priority for the Ministry of Business, Innovation and Employment. The Ministry expects principals, employers, and contractors with staff working on roofs to actively manage any potential for falls.
+
+[p6 | prose | Acknowledgement]
+Investigations by the Ministry of Business, Innovation and Employment into falls while working at height show:
+
+[p6 | prose | Acknowledgement]
+more than 50 percent of falls are from less than three metres • most of these falls are from ladders and roofs •
+
+[p6 | prose | Acknowledgement]
+the cost of these falls is estimated to be $24 million a year — to say nothing of the human cost as a result of these falls.
+
+[p6 | prose | Acknowledgement]
+More injuries happen on residential building sites than any other workplace in the construction sector, and of falls experienced by roofers:
+
+[p6 | prose | Acknowledgement]
+•
+
+[p6 | prose | Acknowledgement]
+20 percent were over three metres in height. 40 percent were from permanent structures such as roofs.
+
+[p6 | prose | Acknowledgement]
+In December 2011 the Ministry of Business, Innovation and Employment initiated a targeted programme to address the issue through the Preventing Falls from Height Project. These guidelines support this project and give all who are involved with working on roofs a clear direction on how to manage the work in a way that will bring down the death and injury toll.
+
+[p6 | prose | Acknowledgement]
+2. Scope and application
+
+[p6 | prose | Acknowledgement]
+The Best Practice Guidelines for Working on Roofs provides practical guidance to employers, contractors, employees, designers, principals, persons who control a place of work, and architects who are engaged in work associated with roofing.
+
+[p6 | prose | Acknowledgement]
+These guidelines also outline how people working on roofs, and those associated with the work, can meet their obligations under the Health and Safety in Employment Act 1992 (HSE Act) and the HSE Regulations 1995. These guidelines and adherence to them may be relevant as evidence in a court.
+
+[p6 | prose | Acknowledgement]
+These guidelines apply to a wide range of work situations where workers are placed in a position from which falls are possible. These situations include repairs and maintenance work on roofs. The guidelines outline what the Ministry of Business, Innovation and Employment and the roofing industry currently consider best practice for working safely on roofs.
+
+[p6 | prose | Acknowledgement]
+Workers who need to access roofs and to whom these guidelines will apply include:
+
+[p6 | prose | Acknowledgement]
+• • • • • • • • •
+
+[p7 | prose | Acknowledgement]
+The Best Practice Guidelines for Working on Roofs is not industry-specific and gives general advice for working on roofs. If those working on roofs are from a specific industry (for example, electrical industry), the safety guidance from that industry should also be consulted.
+
+[p7 | prose | Acknowledgement]
+These guidelines are not intended to provide all information relating to safe working on roofs. Detailed information on safety equipment used for working at height is covered in the Best Practice Guidelines for Working at Height in New Zealand and other Ministry of Business, Innovation and Employment guidance on working at height.
+
+[p7 | prose | Acknowledgement]
+Further information about working at height which supplements these guidelines is available on the ‘Preventing Falls from Height’ page on the Ministry of Business, Innovation and Employment’s Labour Information website www.dol.govt.nz/prevent- falls/.
+
+[p7 | prose | 2.1 Interpretation]
+2.1 Interpretation
+
+[p7 | prose | 2.1 Interpretation]
+‘Should’ and ‘may’ indicate that the recommendation be adopted where practicable to comply with the requirement to ‘take all practicable steps’ as required by the HSE Act and Regulations.
+
+[p7 | prose | 2.1 Interpretation]
+‘Shall’ or ‘must’ is used in places where there are legal obligations required by the HSE Act, Regulations, or where a practice is considered the minimum threshold for safety standards.
+
+[p7 | prose | 2.2 Legislative framework]
+2.2 Legislative framework
+
+[p7 | prose | 2.2 Legislative framework]
+The HSE Act is the over-arching legislation for health and safety in the workplace and compliance with the Act is mandatory.
+
+[p7 | prose | 2.2 Legislative framework]
+It sets out the requirements of duty holders for health and safety. People with a duty must take all practicable steps to ensure the safety of workers when they are exposed to the potential of a fall, or where the hazard of working at height exists.
+
+[p7 | prose | 2.2 Legislative framework]
+The Act is underpinned by a number of regulations. A full copy of the Act and the associated regulations can be downloaded without charge at www.legislation.govt.nz. Compliance with the Act’s associated Regulations is also mandatory.
+
+[p7 | prose | 2.2 Legislative framework]
+Regulation 21 of the HSE Regulations 1995 is the source of the often-quoted ‘three metre rule’. It is mistakenly believed that no controls are needed where a person faces a fall of less than three metres. That belief is wrong and ignores the overarching duties in the Act.
+
+[p7 | prose | 2.2 Legislative framework]
+The Act requires that if there is a potential for a person at work to fall from any height, reasonable and practicable steps must be taken to prevent harm from resulting.
+
+[p7 | prose | 2.2 Legislative framework]
+Short duration work at height shall be treated the same way as any other activity at height. Appropriate fall prevention controls shall be put in place, regardless of the time duration of the task.
+
+[p7 | prose | 2.2 Legislative framework]
+Short duration work means work that lasts minutes rather than hours. It may not be reasonably practicable to provide full edge protection for short duration work but it still needs to be considered during the assessment of hazards, and appropriate controls must be put in place.
+
+[p7 | prose | 2.2 Legislative framework]
+Doing nothing is not an option.
+
+[p8 | prose | 3. Managing hazards]
+3. Managing hazards
+
+[p8 | prose | 3.1 Identify hazards through planning]
+3.1 Identify hazards through planning
+
+[p8 | prose | 3.1 Identify hazards through planning]
+Planning a safe approach to a job can help identify the hazards associated with any work on a roof.
+
+[p8 | prose | 3.1 Identify hazards through planning]
+Planning safe work takes into account the hazard management process:
+
+[p8 | prose | 3.1 Identify hazards through planning]
+identify the hazards
+
+[p8 | prose | 3.1 Identify hazards through planning]
+assess the hazards - decide if the identified hazards are significant. How badly harmed would someone be if they fell and how likely is a fall? If serious harm could result, then it’s a significant hazard
+
+[p8 | prose | 3.1 Identify hazards through planning]
+control the hazards – either by eliminating, isolating or minimising the hazard
+
+[p8 | prose | 3.1 Identify hazards through planning]
+document this information in a work plan
+
+[p8 | prose | 3.1 Identify hazards through planning]
+• monitor the work plan.
+
+[p8 | prose | 3.1 Identify hazards through planning]
+All workers should understand the contents of the work plan, and be competent to safely complete the work.
+
+[p8 | prose | 3.2 Assess and control the hazards]
+3.2 Assess and control the hazards
+
+[p8 | prose | 3.2 Assess and control the hazards]
+A hazard assessment shall be carried out for all work on roofs. It is essential that the hazards are identified before the work starts and that the necessary equipment, appropriate precautions, and systems of work are provided and implemented.
+
+[p8 | prose | 3.2 Assess and control the hazards]
+Hazard identification should be repeated periodically or when there is a change in conditions; for example, the weather or numbers of staff onsite.
+
+[p8 | prose | 3.2 Assess and control the hazards]
+Where workers could fall from a roof, there is a very simple hierarchy of controls that shall be considered by duty holders:
+
+[p8 | prose | 3.2 Assess and control the hazards]
+can the job can be done without exposing persons to the hazard (eliminate)? This can often be done at the design, construction planning, and tendering stages.
+
+[p8 | prose | 3.2 Assess and control the hazards]
+if the potential of a fall cannot be eliminated when working on a roof, some form of edge protection should be used to isolate workers from a fall. This includes working on single-storey buildings and structures. An example is using the existing scaffolding as edge protection. If this is not practicable, then elevating work platforms or temporary work platforms should be used.
+
+[p8 | prose | 3.2 Assess and control the hazards]
+if neither elimination nor isolation are practicable, then steps should be taken to minimise the likelihood of any harm resulting. This means considering the use of total restraint systems, work positioning systems, safety mesh, safety nets, and fall arrest systems.
+
+[p8 | prose | 3.2 Assess and control the hazards]
+Ladders should only be used as a means of access, and for short duration maintenance work such as touching up paint.
+
+[p8 | prose | 3.2 Assess and control the hazards]
+People using ladders should be trained and instructed in the selection and safe use of ladders. Ladders should be regularly inspected and well
+
+[p8 | prose | 3.2 Assess and control the hazards]
+of contact while working from a ladder.
+
+[p9 | prose | 3.2 Assess and control the hazards]
+Your work plan should include information about:
+
+[p9 | prose | 3.2 Assess and control the hazards]
+• • • • • • •
+
+[p9 | prose | 3.2 Assess and control the hazards]
+safe access to the roof area assessment of the roofing materials identify hazards associated with working at height from or through the roof brittle roofing assessment other working at height hazards (for example, weather, electricity) establishing equipment and hazard controls for working at height safe working practice training and supervision.
+
+[p9 | prose | 3.2 Assess and control the hazards]
+The work plan should clearly set out:
+
+[p9 | prose | 3.2 Assess and control the hazards]
+•
+
+[p9 | prose | 3.2 Assess and control the hazards]
+who is responsible for implementing the control measures and supervising the work what specific steps are required to carry out the work safely how these steps are to be done.
+
+[p9 | prose | 3.2 Assess and control the hazards]
+The person responsible for the work plan should be a competent person, who should also act as site supervisor. Enough time should be allowed to complete the staging of operations given the number of staff available, the availability of equipment, and an allowance for unsuitable weather.
+
+[p9 | prose | 3.2 Assess and control the hazards]
+Written safety information and the work plan shall be kept for the duration of the job. It is the responsibility of the lead contractor or principal to inform all workers on site that they must adhere to the requirements of the work plan and safety information and the before any person seeks or gains access to the roof.
+
+[p9 | prose | 3.2 Assess and control the hazards]
+The lead contractor or principal must provide a prominent notice stating the safety requirements and any limitations for the site.
+
+[p9 | prose | 3.2 Assess and control the hazards]
+Discussion about the plan, hazards, and control measures can be undertaken at ‘toolbox talks’ or meetings with staff and contractors. These meetings can also be used to train workers on the hazards associated with working on roofs including falling from an edge or through brittle roofing material.
+
+[p9 | prose | 3.3 Safe access to roof areas]
+3.3 Safe access to roof areas
+
+[p9 | prose | 3.3 Safe access to roof areas]
+Where there is no permanent access to roof areas, provide temporary access that is properly constructed.
+
+[p9 | prose | 3.3 Safe access to roof areas]
+Scaffolding, constructed work platforms or mobile elevating work platforms (MEWPs) are the preferred means of temporary access.
+
+[p9 | prose | 3.3 Safe access to roof areas]
+Where this is not practicable, portable industrial-grade ladders with a load rating of at least 120 kg secured against movement, pitched at about 75 degrees (4:1) and extending at least one metre above the stepping-off point are a suitable means of temporary access.
+
+[p9 | prose | 3.3 Safe access to roof areas]
+For major roofing work, provide a scaffold stairway access tower. Never allow workers to use barrow hoists to gain access to the roof.
+
+[p9 | prose | 3.4 Assessment of the roofing material]
+3.4 Assessment of the roofing material
+
+[p9 | prose | 3.4 Assessment of the roofing material]
+Roofing material deteriorates with age and does not perform as it did when it was installed. Before commencing work on an existing roof, inspect it thoroughly to determine its strength. This should, when possible, include inspection from inside the building as well as externally.
+
+[p10 | prose | 3.4 Assessment of the roofing material]
+Check the fixing and strength of safety mesh, paying particular attention to any signs of heavy corrosion.
+
+[p10 | prose | 3.4 Assessment of the roofing material]
+If there is sarking or an underlay, this will inhibit the close inspection of the sheeting.
+
+[p10 | prose | 3.4 Assessment of the roofing material]
+Excessive sagging or deflection (out of alignment) of the trusses/rafters may indicate deterioration of the structure. Strengthen any suspect areas of roof support with temporary props.
+
+[p10 | prose | 3.4 Assessment of the roofing material]
+If there has been a fire, the structure must be certified as safe to work on by a structural engineer.
+
+[p10 | prose | 3.4 Assessment of the roofing material]
+Skylights and penetrations left for the installation of air-conditioning can be a danger to roof workers. Fibreglass or plastic sheeting skylights should be checked and added to the interior plan of the roof so that hazard controls can be put in place to prevent the potential of a fall.
+
+[p10 | prose | 3.4 Assessment of the roofing material]
+Even skylights with safety mesh can create a hazard as the worker can still break through and while not fall to the ground, could still receive cuts from jagged edges.
+
+[p10 | prose | 3.4 Assessment of the roofing material]
+Brittle roofing consists of any flat, trough, or corrugated material such as asbestos cement, plastic, or glass, whether reinforced or otherwise, or any other roofing material that, due to its properties, age, or weathering, will not safely support a person at all points on its surface.
+
+[p10 | prose | 3.4 Assessment of the roofing material]
+No access to brittle roofing is permitted until adequate hazard controls have been implemented. New roofing may also be composed of brittle roofing material (for example, translucent skylights). An internal inspection should be carried out by a competent person to identify the position of skylights and other areas where a worker could fall through the roof.
+
+[p10 | prose | 3.4 Assessment of the roofing material]
+Where a roof has been assessed as brittle, signage should be put in place warning of the potential of falling through the roof and the requirement to use crawling boards.
+
+[p10 | prose | 3.5 Assessing the roof internally]
+3.5 Assessing the roof internally
+
+[p10 | prose | 3.5 Assessing the roof internally]
+A mobile elevating work platform from inside the building can provide a close inspection of the condition of the timber or steel structure noting any deterioration that has occurred. If the building has a ceiling, then safe access must be provided into the roof cavity.
+
+[p10 | prose | 3.5 Assessing the roof internally]
+Where it is not possible to gain access from below the roof due to the presence of existing machinery, plant or the roof structure, ceiling or bracing elements, a safe work system for working from on top of the roof should be established, and this system should be documented.
+
+[p10 | prose | 3.5 Assessing the roof internally]
+Figure 2: Example of signage to alert workers to fragile roofing material.
+
+[p10 | prose | 3.5 Assessing the roof internally]
+Whether the work is undertaken from above or below the roof will be determined by the hazards associated with working at height. This includes the manner in which the hazards are controlled including the risk of falling through the roof.
+
+[p10 | prose | 3.5 Assessing the roof internally]
+The preferred method of controlling height hazards while removing roofing material may be to use elevating work platforms or other temporary work platforms to gain access from below the roof.
+
+[p11 | prose | 3.6 Competencies to assess brittle roofing]
+3.6 Competencies to assess brittle roofing
+
+[p11 | prose | 3.6 Competencies to assess brittle roofing]
+It takes a high level of skill to assess the condition of a roof for stability and brittleness. Roof assessment should only be undertaken by a competent person.
+
+[p11 | prose | 3.6 Competencies to assess brittle roofing]
+A competent person should be able to:
+
+[p11 | prose | 3.6 Competencies to assess brittle roofing]
+carry out their assigned duties at the level of responsibility allocated to them
+
+[p11 | prose | 3.6 Competencies to assess brittle roofing]
+understand any potential hazards related to the work (or equipment) under consideration
+
+[p11 | prose | 3.6 Competencies to assess brittle roofing]
+detect any technical defects or omissions in that work (or equipment) and recognise any implications for health and safety caused by those defects or omissions
+
+[p11 | prose | 3.6 Competencies to assess brittle roofing]
+specify a remedial action to mitigate those implications.
+
+[p11 | prose | 3.6 Competencies to assess brittle roofing]
+In this context, for assessing brittleness, a competent person is one who can demonstrate that they have:
+
+[p11 | prose | 3.6 Competencies to assess brittle roofing]
+thorough knowledge of roofing and of the mechanical and physical properties and behaviour of the particular roofing material and methods of installation
+
+[p11 | prose | 3.6 Competencies to assess brittle roofing]
+extensive knowledge and experience of installing the product the roof is made of, its usage limitations, behaviour, and mode of failure in service
+
+[p11 | prose | 3.6 Competencies to assess brittle roofing]
+an understanding of the effects on the product the roof is made of ‘under test’ when purlin centres are increased and decreased, and the ways the roofing material could fail when the resulting structure becomes more or less rigid.
+
+[p11 | prose | 3.7 Types of brittle roof cladding]
+3.7 Types of brittle roof cladding
+
+[p11 | prose | 3.7 Types of brittle roof cladding]
+Brittle roofing material can be made from:
+
+[p11 | prose | 3.7 Types of brittle roof cladding]
+asbestos
+
+[p11 | prose | 3.7 Types of brittle roof cladding]
+glass
+
+[p11 | prose | 3.7 Types of brittle roof cladding]
+• metal
+
+[p11 | prose | 3.7 Types of brittle roof cladding]
+fibreglass
+
+[p11 | prose | 3.7 Types of brittle roof cladding]
+PVC/perspex
+
+[p11 | prose | 3.7 Types of brittle roof cladding]
+concrete and clay tiles
+
+[p11 | prose | 3.7 Types of brittle roof cladding]
+composite (for example, bitumen- impregnated cellulose fibre)
+
+[p11 | prose | 3.7.1 Asbestos]
+3.7.1 Asbestos
+
+[p11 | prose | 3.7.1 Asbestos]
+The majority of brittle roofs are made from asbestos- Figure 3: An example of roof cement which is composed of a mixture of asbestos ladders on an asbestos roof. fiber, portland cement, and water. It is made into plain sheets, corrugated sheets, tiles, and piping. Asbestos removal and disposal is subject to the Health and Safety in Employment (Asbestos) Regulations 1998. Asbestos sheeting should be removed intact. The breaking and cutting of asbestos sheets shall be avoided as this will release asbestos fibres that are harmful when inhaled.
+
+[p11 | prose | 3.7.1 Asbestos]
+The most common type of asbestos used in asbestos-cement sheeting is chrysotile (white asbestos) and the permissible concentration of respirable (ie: that is small enough to be inhaled) asbestos fibre per ml is < 0.01. crocidolite (blue) and amosite (brown) asbestos can also be found in roofing material.
+
+[p11 | prose | 3.7.1 Asbestos]
+Asbestos fibres are normally encapsulated within the sheeting. Cutting or breaking the sheeting shall not be undertaken without the required personal protective equipment (PPE) and environmental protection. Personal protective equipment includes properly fitted and maintained respiratory protection devices, hearing protection for noisy work, and gloves. Wear protective clothing that is made of material that resists penetration by
+
+[p12 | prose | 3.7.1 Asbestos]
+Asbestos-cement sheeting is liable to shatter without warning under a person’s weight.
+
+[p12 | prose | 3.7.1 Asbestos]
+The removal of asbestos-cement sheeting from a roof should only be undertaken by competent persons who have the knowledge, experience, and resources necessary to allow them to work safely at height while handling this material.
+
+[p12 | prose | 3.7.1 Asbestos]
+When removing friable asbestos, obtain a Certificate of Competence from the Ministry of Business, Innovation and Employment.
+
+[p12 | prose | 3.7.1 Asbestos]
+The employer or principal must assess the hazards that are involved and establish a safe system of work for anyone working in the area.
+
+[p12 | prose | 3.7.1 Asbestos]
+Consideration must be given to the Health and Safety in Employment (Asbestos) Regulations 1998, the type of equipment necessary, the training and experience of the employees involved, and the instruction and supervision required.
+
+[p12 | prose | 3.7.1 Asbestos]
+Employers, principals, and others involved with work involving asbestos shall understand the legal requirements and necessary control measures to protect their employees and others in the vicinity against exposure to asbestos fibres.
+
+[p12 | prose | 3.7.1 Asbestos]
+The following specific precautions should be taken when removing asbestos-cement roof or wall cladding from buildings or other structures:
+
+[p12 | prose | 3.7.1 Asbestos]
+• • •
+
+[p12 | prose | 3.7.1 Asbestos]
+• •
+
+[p12 | prose | 3.7.1 Asbestos]
+•
+
+[p12 | prose | 3.7.1 Asbestos]
+use roof ladders, crawl boards, and edge protection never use power tools for cutting asbestos asbestos-cement sheeting must never be pressure washed asbestos-cement sheets should be removed in one piece and lowered to the ground stack the roofing material on a plastic sheet in a secure area contain the work area to ensure there is no spread of contamination remove the roofing material from the site as soon as possible using covered bins or on a covered truck and dispose of material at a site approved by the appropriate disposal authority all asbestos-containing waste should be kept wet, wrapped in heavy duty polythene plastic bags, sealed, and labelled with its contents asbestos-cement sheets must not be reused or offered for sale and any asbestos-cement residues remaining in the roof space or around the removal area shall be cleaned up, using a vacuum cleaner fitted with a High Efficiency Particulate Air (HEPA) filter.
+
+[p12 | prose | 3.7.1 Asbestos]
+For detailed guidance refer to the New Zealand Demolition & Asbestos Association (NZDAA) Best Practice Guidelines for the Management and Removal of Asbestos. http://www.osh.govt.nz/publications/booklets/asbestos-management- removal/guidelines.asp
+
+[p12 | prose | 3.7.1 Asbestos]
+When asbestos is broken up or cut making it friable, the work is considered hazardous and is notifiable work which means the Ministry of Business, Innovation and Employment shall be notified at least 24 hours prior to commencement of work. Find out more: http://www.osh.govt.nz/services/notification/hazardous-work.shtml
+
+[p12 | prose | 3.7.2 Glass]
+3.7.2 Glass
+
+[p12 | prose | 3.7.2 Glass]
+It was common for the saw-tooth roof to use glass as the vertical lighting panel. It is now illegal to use glass in an overhead situation unless it is safety glass.
+
+[p13 | prose | 3.7.2 Glass]
+The recommended width of walkways is 1200 mm used in conjunction with individual fall arrest systems that must be fastened to the structure. Sarked roofs with timber that is in good condition may not need walkways.
+
+[p13 | prose | 3.7.3 Metal]
+3.7.3 Metal
+
+[p13 | prose | 3.7.3 Metal]
+Metal roofs are designed to take the weight of a worker and a bag of tools up to a capacity of 110 kg.
+
+[p13 | prose | 3.7.3 Metal]
+Particular attention should be paid to metal roofing material that has been subject to abnormal corrosion conditions (for example, a smelter, plating shop, fertiliser works) or in a marine environment. In these circumstances the contaminated or corroded roof area must be accessed through walkways and total restraint or fall arrest systems. Depending on the nature of the contamination or corrosion, personal protective equipment such as respiratory protection may be required.
+
+[p13 | prose | 3.7.3 Metal]
+A visual inspection is required to confirm the seriousness of any rusting.
+
+[p13 | prose | 3.7.3 Metal]
+Deterioration of aluminium cladding does not show as visibly as steel and therefore flashings should be removed to ascertain the condition of aluminium cladding.
+
+[p13 | prose | 3.7.3 Metal]
+‘Walking the purlins’ is permitted on trapezoidal metal roof cladding with a flat-pan-width of 100 mm as this type of roof is unlikely to fail under a point load.
+
+[p13 | prose | 3.7.4 Fibreglass]
+3.7.4 Fibreglass
+
+[p13 | prose | 3.7.4 Fibreglass]
+Fibreglass, also known as Glass Reinforced Plastic (GRP) or Glass Fibre Reinforced Plastic (GFRP), is a material manufactured from a combination of various elements. Primarily, it is made of a fibre-reinforced plastic resin that is intercut with fine fibres of glass for added strength and durability. As fibreglass ages it becomes brittle and is prone to breaking when walked upon.
+
+[p13 | prose | 3.7.5 PVC/perspex]
+3.7.5 PVC/perspex
+
+[p13 | prose | 3.7.5 PVC/perspex]
+PVC and/or perspex sheeting becomes brittle over time and loses its flexibility. Seam separation and stress or fracture cracks can appear. Some PVC used in cold climates has been known to stress-shatter leaving hundreds of little star-like fractures in each sheet. This material should never be walked on without fall prevention controls in place.
+
+[p13 | prose | 3.7.6 Concrete and clay tiles]
+3.7.6 Concrete and clay tiles
+
+[p13 | prose | 3.7.6 Concrete and clay tiles]
+When being removed, concrete and clay tiles are a significant hazard as they could fall into the building. No one should work below any area where tiles are being removed due to the risk of being hit by falling debris.
+
+[p13 | prose | 3.7.6 Concrete and clay tiles]
+Replacing the battens on a concrete or clay tile roof can constitute a major height hazard and fall prevention measures should be used. Tile battens spaced at less than 500 mm apart can act as a fall prevention measure.
+
+[p13 | prose | 3.7.7 Composite]
+3.7.7 Composite
+
+[p13 | prose | 3.7.7 Composite]
+Composite roof and wall cladding materials made from bituminous paper and similar materials are also types of brittle roofing.
+
+[p13 | prose | 3.7.7 Composite]
+3.8 Other working at height hazards
+
+[p13 | prose | 3.7.7 Composite]
+Apart from the potential of a fall from or through a roof, there are a number of other hazards associated with working at height that must also be identified and controlled. These hazards include:
+
+[p14 | prose | 3.9 Falling materials]
+3.9 Falling materials
+
+[p14 | prose | 3.9 Falling materials]
+Isolate the area below roof work wherever there is any danger of people being struck by falling material, debris, tools, and/or material from adjacent cranes or structures. Toe boards should be fixed to temporary edge protection as a way of containing all materials, including debris and loose tools. Work areas must be declared a ‘No Go’ area for all persons except those directly involved in the roof work. Signage should be prominent at the entry points to the site. The immediate working site must be isolated and no other persons must enter the area when work is being carried out above.
+
+[p14 | prose | 3.10 Electrical hazards]
+3.10 Electrical hazards
+
+[p14 | prose | 3.10 Electrical hazards]
+The position of any power or telephone wiring should be noted on the plans. All electrical outlets including the position of wiring to lights should be noted on the hazard management plan. The New Zealand Electrical Code of Practice for Electrical Safe Distances NZECP 34:2001 (NZECP 34) requires anyone working at height to keep clear of overhead electric lines. As the owner of the power lines, the power lines company shall be contacted prior to work commencing to verify minimum approach distances (MADs) between any part of the worker or equipment and any overhead electric power line. Minimum approach distances are:
+
+[p14 | prose | 3.10 Electrical hazards]
+Unless specific permission has been granted by the power line owner the above distances shall not be reduced. Regardless of whether permission of the power line owner has been obtained to work closer than the above distances, there shall be a plan in place to work safely. In all cases the plan should take the means of access, the skill level of the employees, and the nature of the work into account. If the work could breach the MADs then it must not proceed with the line live. A safety observer should be appointed if there is the potential for the person to forget where they are positioned relative to the live conductor. Factors to be considered include but are not restricted to:
+
+[p14 | prose | 3.11 Weather conditions]
+3.11 Weather conditions
+
+[p14 | prose | 3.11 Weather conditions]
+Check the suitability of weather conditions. Hazards resulting from adverse weather conditions should be anticipated and suitable precautions taken. Considerations relating to weather conditions include:
+
+[p15 | prose | wind speed UV radiation and sun glare]
+wind speed UV radiation and sun glare
+
+[p16 | prose | 3.12 An example of a roofing hazard assessment]
+3.12 An example of a roofing hazard assessment
+
+[p16 | table | 3.12 An example of a roofing hazard assessment]
+| What is the type of roof and structure, roof pitch, and roof framing? | roof material, | Roof pitch |  |
+| --- | --- | --- | --- |
+|  | Roof | material |  |
+|  | Roof | framing |  |
+|  | Integrity substructure | of |  |
+|  | Brittle material | roof |  |
+|  | Skylights penetrations | and |  |
+| Findings of inspections carried out inside and outside roof, (inside the roof cavity too). | Inside | roof |  |
+| Outside | roof |  |  |
+| What potential hazards are present (for example, from the roof’s edge, through skylights, weak points in roof, open penetrations, brittle roofing material, integrity of roof and substructure)? |  |  |  |
+| What other hazards are present (for example, electricity, weather, asbestos, falling materials)? |  |  |  |
+| How will the workers gain safe access to and from the example, MEWP, scaffolding, secure and stable ladder, | roof (for roof ladder)? | By whom? | By when? |
+| What are the procedures for safely working on the | roof? | By whom? | By when? |
+| Continue on reverse... |  |  |  |
+
+[p17 | prose | 3.13 Roof work checklist example]
+3.13 Roof work checklist example
+
+[p17 | table | 3.13 Roof work checklist example]
+| s ] |  |  |
+| --- | --- | --- |
+| Factor | Best practice | Options if best practice is not practicable |
+| access | constructed temporary access. | - pitched at about 75 degrees (4:1) Extending 900 mm above the stepping-off point |
+| Roof inspection = Potential for falling = Corrosion | Inspect to determine its strength, including the fixing and strength of safety mesh. | Strengthen any suspect areas of roof support with temporary props or similar. |
+| Falls from roof edges | Install compliant edge protection. | Static line systems, including travel restraint systems and fall-arrest systems. Use barriers to restrict access — min one metre and at least 2.0 m from the hazard. |
+| Protect workers falling from incomplete roofs | Use safety mesh before the roof is laid. | Use barriers or total restraint to separate roof workers from areas not yet meshed. |
+| Falls through skylights and penetrations | Use safety mesh before the roof is laid. | Securely cover skylights and penetrations or isolate with temporary edge protection. Use barriers to restrict access — min one metre and at least 2.0 m from hazard. |
+| Protect from the dangers of falling material | Isolate areas below roof work where people may be struck by falling material, debris, or tools. | Isolate areas under roof edges unless toe boards are fixed to temporary edge protection to contain all material, debris, and loose tools. |
+| Weather related hazards | Consider - Condition of the roof surface Moisture conditions Wind speed UV exposure Roofing material being installed | Roof workers to wear non-slip and flexible grip protective footwear. Commercial roofing —steel toe capped soft shoes UV radiation and sun glare — wear sun block, hats, and sunglasses. |
+
+[p18 | prose | 3.13 Roof work checklist example]
+4. Eliminating falls through design
+
+[p18 | prose | 3.13 Roof work checklist example]
+Design the roof with the purlins and battens spaced to prevent workers falling through the gaps between them. Purlins can be placed 450 mm apart, rather than the standard 900 mm. However, this could still result in an injury being sustained by the impact of a person falling onto the rafters and being wedged between them, or through striking a limb or other part of their body against the rafters.
+
+[p18 | prose | 3.13 Roof work checklist example]
+Use sarking that is strong enough to support the weight of a person when falling on to it from the roof (that is, the same level). The sarking is not to be considered a work platform, and workers should be discouraged from walking on it. Where it is intended to be used as fall prevention sarking, it should be compatible with the roof and meet the manufacturer’s installation and design specifications.
+
+[p18 | prose | 3.13 Roof work checklist example]
+Plant requiring maintenance could be installed at lower levels of a building reducing the need to access the roof area.
+
+[p19 | prose | 5. Selecting the right equipment for working on roofs]
+5. Selecting the right equipment for working on roofs
+
+[p19 | prose | 5. Selecting the right equipment for working on roofs]
+Part of the hazard assessment process is selecting a control or a combination of controls to prevent falls from roofs. Outlined below are a number of options linked to the hierarchy of controls for managing hazards. Each control will have benefits and deficits depending on the nature of the work. Sometimes a number of controls will need to be used to ensure the hazards are adequately managed.
+
+[p19 | prose | 5. Selecting the right equipment for working on roofs]
+The first priority is always to eliminate the potential of a fall. Ways to do this include designing out the hazard, or working on the ground, or working from a solid construction.
+
+[p19 | prose | 5. Selecting the right equipment for working on roofs]
+Minimisation controls should only be implemented as the primary means of controlling the hazard when neither elimination controls nor isolation controls are possible.
+
+[p19 | prose | 5.1 Group controls versus personal controls]
+5.1 Group controls versus personal controls
+
+[p19 | prose | 5.1 Group controls versus personal controls]
+As well as the hierarchy of controls, consider how controls can protect multiple people from falling. These are called group controls. The best work methods are those that don’t require any active judgement by the workers to keep themselves safe, such as edge protection, scaffolding, and elevating work platforms.
+
+[p19 | prose | 5.1 Group controls versus personal controls]
+Personal controls only look after individuals and rely on active judgement by the user for them to work safely (for example, fall restraint harness and fall arrest). Training, inspection, and equipment maintenance are critical for these personal control measures to be effective.
+
+[p19 | prose | 5.1 Group controls versus personal controls]
+1. A total restraint system prevents the wearer from being exposed to a height hazard. Because a harness is classified as personal protective equipment it is treated as minimisation. In the order of desirability in fall prevention, it features higher than other minimisation methods.
+
+[p19 | prose | 5.1 Group controls versus personal controls]
+Figure 5: Selection of work equipment linked to the hierarchy of controls. Group controls should be used over personal control measures.
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+The decision trees in Figure 7 cover the most common roofing situations that could be encountered including sarked and unsarked roofs. The decision trees offer a variety of fall prevention methods depending on the how the roof is made. The decision trees are only a prompt, and detailed guidance is outlined throughout these guidelines.
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+Ideally parapets over 900 mm high or temporary edge protection (or scaffold) to the perimeter of the roof should be used as these type of controls require the least use of total restraint and/or fall arrest systems.
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+The most desirable working area can be created when combining fully sarked roof areas with the use of safety mesh manufactured and installed to AS/NZS 4389: Safety mesh.
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+It should be noted that if traditional netting is used instead of safety mesh that meets AS/NZS 4389: Safety mesh, then a total restraint system or fall arrest system shall be used until the roof coverings are in place.
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+On profiled sheeted roofs, industry standard safety nets are the preferred method of additional fall protection. In the case of insulated composite panel roofing where safety mesh may be aesthetically and/or hygienically unacceptable, the manufacturers recommend that safety nets should be provided as a collective means of fall arrest.
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+Figure 6: Safety nets set up under a roofing construction to catch falling workers, debris, or tools.
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+Safety mesh shall comply and be installed in line with the standard AS/NZS 4389: Safety mesh.
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+Safety nets shall comply and be installed to the requirements of the standard BS EN 1263-1: Safety nets. Safety requirements, test methods.
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+Total restraint should be used in preference to a fall arrest system as it prevents access to areas where a worker could fall. The rating of anchor points and the selection of equipment varies according to the type of total restraint and/or fall arrest system. For further information refer to the Industrial Rope Access in New Zealand Best Practice Guidelines. Workers using fall arrest and work positioning systems require:
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+training in the use of equipment and rescue techniques (see section 8 for specific guidance)
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+a full body harness (preferably with front attachment point for recovery/rescue and work positioning)
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+an appropriate length lanyard incorporating a shock or energy absorber to minimise any potential fall distances
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+the choice of a short lanyard (or retractable lanyard)
+
+[p20 | prose | 5.1 Group controls versus personal controls]
+an approved rope grab and drop line.
+
+[p21 | prose | 5.1 Group controls versus personal controls]
+YES NO YES NO
+
+[p22 | prose | 5.1 Group controls versus personal controls]
+This section gives information on controls used to prevent falls from or through a roof.
+
+[p22 | prose | 7.1 Edge protection]
+7.1 Edge protection
+
+[p22 | prose | 7.1 Edge protection]
+Where there is a risk of a fall from or through the structure of a roof and there are no other means to prevent a fall, temporary edge protection and/or scaffolding should be installed.
+
+[p22 | prose | 7.1 Edge protection]
+There are a number of proprietary edge protection systems available that are suitable for a wide range of roofing situations. Edge protection should comply with AS/NZS 4994.1 and 4994.2: Temporary edge protection.
+
+[p22 | prose | 7.1 Edge protection]
+Perimeter or edge protection should be installed on all the exposed edges of a roof which include the perimeters of buildings, the perimeters of skylights or other fragile roof materials, and any openings in the floor or roof.
+
+[p22 | prose | 7.1 Edge protection]
+Roof edge protection is considered a passive fall prevention barrier, because once erected or installed, it requires no further on-going adjustment, alteration, or operation by any person to ensure the integrity of the system to perform its function. It is also a means of group control as it provides protection for anyone working on the roof.
+
+[p22 | prose | 7.1 Edge protection]
+Where guardrails are used to provide a barrier to openings in the roof, they must have a top rail, mid-rail, and a toe board, or a top rail and an infill panel that serves the function of a midrail and toe board. The top rail should be at least 900 mm in height above the working surface.
+
+[p22 | prose | 7.1 Edge protection]
+When there is more than one contractor on the site the principal and/or lead contractor shall ensure there are adequate controls in place to prevent workers falling from or through a roof.
+
+[p22 | prose | 7.1 Edge protection]
+Working on or removing roofing material has the potential to expose workers to risks of falling from or through the roof. When replacing roof and wall cladding, temporary edge protection or scaffolding should be installed.
+
+[p22 | prose | 7.1 Edge protection]
+Where a scaffold has been provided for the construction of the walls or guttering, the roof workers may use it to complete their roof work. Scaffolding should be erected in brackets can be effective roof edge protection. accordance with the recommendations in the Best Practice Guidelines for Scaffolding in New Zealand.
+
+[p22 | prose | 7.2 Scaffolding and guard railing for roof edge protection]
+7.2 Scaffolding and guard railing for roof edge protection
+
+[p22 | prose | 7.2 Scaffolding and guard railing for roof edge protection]
+Roof edge protection using standard scaffolding is outlined in the Best Practice Guidelines for Scaffolding in New Zealand.
+
+[p22 | prose | 7.2 Scaffolding and guard railing for roof edge protection]
+The width of the soffit and the position of the scaffold in relation to the building determines the method used to utilise the outside and inside standards of a scaffold to support the guardrails. A dogleg brace (transverse brace) can be used to stabilise the extended standard. Alternatively, where the roofline, if continued, intersects the inside or outside standard, it is recommended that a guardrail be placed within 200 mm of the intersection point.
+
+[p23 | prose | 7.2 Scaffolding and guard railing for roof edge protection]
+Workers should be able to gain roof access without climbing over guardrails. Access points must not undermine the integrity of the edge protection. Gates or other devices that guard openings shall be self-closing and ladders shall be placed as close as practicable to the entrance, and fully secured.
+
+[p23 | prose | 7.2 Scaffolding and guard railing for roof edge protection]
+Figure 9: The use of scaffolding for edge protection.
+
+[p23 | prose | 7.3 Edge protection for roof pitch of less than 25 degrees]
+7.3 Edge protection for roof pitch of less than 25 degrees
+
+[p23 | prose | 7.3 Edge protection for roof pitch of less than 25 degrees]
+A scaffold platform may be positioned to provide roof edge protection. The picture shows the location of the scaffold platform when scaffolding is used to provide guardrailing for roof work when the roof pitch is 25 degrees or less.
+
+[p23 | prose | 7.3 Edge protection for roof pitch of less than 25 degrees]
+To minimise the risk of serious injury from falling onto a scaffold platform from the edge of the roof, locate the platform as near to the gutter line as possible and no more than one metre below the lower edge of the roof surface.
+
+[p23 | prose | 7.3 Edge protection for roof pitch of less than 25 degrees]
+Guardrails should be spaced at approximately (500 mm centres-up from the deck) with the top guardrail a minimum of 900 mm above where the line of the roof pitch intersects the outside standard.
+
+[p23 | prose | 7.3 Edge protection for roof pitch of less than 25 degrees]
+Ensure the scaffold is secured to the building to prevent overturning should someone fall from the roof and strike the guardrails. This can be achieved by using scaffold ties to connect to the structure, using raker bays or raking tubes, or by widening the base of the scaffold.
+
+[p24 | prose | 7.4 Edge protection for roof pitch greater than 25 degrees]
+7.4 Edge protection for roof pitch greater than 25 degrees
+
+[p24 | prose | 7.4 Edge protection for roof pitch greater than 25 degrees]
+When a roof slope exceeds 25 degrees, the potential for sliding down the roof becomes greater. If a scaffold platform is used to provide guardrailing in this situation it is recommended that the working platform be placed within 200 mm of the roof edge. This can be achieved by using a hop-up-bracket from the outside standard at the roof edge line. The guardrailing should be fitted as previously shown. A gap of no more than 100 mm should be left between the deck and the finished gutter, but it must not exceed 200 mm from the gutter line to the leading edge of the plank (see Figure 11).
+
+[p25 | prose | 7.5 Roof edge protection for gable ends]
+7.5 Roof edge protection for gable ends
+
+[p25 | prose | 7.5 Roof edge protection for gable ends]
+Edge protection should be provided as close as practicable to the gable ends with the scaffold no more than 300 mm from the structure. The mid-rail should be approximately 500 mm above the line of the gable (slope of the roof) and the top guardrail 900 mm above the line of the gable.
+
+[p25 | prose | 7.6 Total restraint, work positioning, and fall arrest systems]
+7.6 Total restraint, work positioning, and fall arrest systems
+
+[p25 | prose | 7.6 Total restraint, work positioning, and fall arrest systems]
+Using a total restraint system (fall restraint), and work positioning are recommended over the use of fall arrest systems. The total restraint system protects a worker from approaching an unprotected edge, thereby preventing a fall from occurring. Work positioning systems enable a person to work supported in a harness under tension in a way that a fall is prevented. Generally the arrangement allows for the worker to maintain a stable position and to work hands-free while completing a task. A fall arrest system is designed to support and hold a person in the event of a fall. It is not a work positioning system as they are not designed to support a person while working. Any static line system must be securely anchored and set up so that inertia reel lines or other types of lanyards cannot be severed on sharp edges. Anchors should have a rated load of 15 kN. All fall restraint and fall arrest anchors should be tagged and re-certified annually to remain compliant with AS/NZS 1891.4: Industrial fall-arrest systems – Part 4: Selection, use and maintenance. In the event of a worker falling, ensure the ‘pendulum effect’ will not cause the worker to come into contact with solid objects or the ground.
+
+[p26 | prose | Work positioning systems]
+Work positioning systems
+
+[p26 | prose | Work positioning systems]
+Work positioning systems enable a person to work supported in a harness under tension in a way that a fall is prevented. Generally the arrangement allows for the worker to maintain a stable position and to work hands-free while completing a task. The harness arrangement should not allow a fall of more than 600 mm. This is generally achieved through the use of short lanyards of 300 mm.
+
+[p26 | prose | Work positioning systems]
+Further information can be found in the Industrial Rope Access in New Zealand Best Practice Guideline.
+
+[p26 | prose | 7.7 Safety mesh]
+7.7 Safety mesh
+
+[p26 | prose | 7.7 Safety mesh]
+Only safety mesh that has been installed in accordance with AS/NZS 4389: Safety mesh can be relied on to support the weight of a worker. Particular care is required to ensure that the mesh is securely connected to the structure and the overlap between adjacent sections of mesh is sufficient to generate the necessary strength to resist the force of a person falling onto it. Wire netting is not a barrier and is not safe to walk on.
+
+[p26 | prose | 7.7 Safety mesh]
+Safety mesh should be placed over the area immediately after roof material is removed. This will enable the replacement sheets to be fixed without the necessity of using fall arrest systems. Safety mesh also minimises the time that the building below is open to the weather.
+
+[p26 | prose | 7.8 Safety nets]
+7.8 Safety nets
+
+[p26 | prose | 7.8 Safety nets]
+Safety nets are used on construction sites and similar works mainly to arrest a person’s fall, although they can also be used to catch or contain debris. Safety nets are manufactured from synthetic materials. They are lightweight and rot-resistant, but they can be easily damaged by improper use, wear and tear, heat or flame, handling, or storage. They can also be adversely affected by weathering, UV degradation and environmental factors resulting in some strength loss. It is therefore essential that safety nets are subject to regular examinations by a competent person and are periodically tested in accordance with the manufacturer’s instructions. The manufacturer’s instructions shall also be followed for installation, use and storage.
+
+[p26 | prose | 7.9 Barriers to restrict access (also known as bump rails)]
+7.9 Barriers to restrict access (also known as bump rails)
+
+[p26 | prose | 7.9 Barriers to restrict access (also known as bump rails)]
+When barriers are used to restrict access to edges or areas where falls could occur, they should be placed at least two metres in from any unprotected edge or opening. They should be highly visible and capable of remaining in place during adverse weather conditions. The height should be between 900 mm and 1100 mm and should act as a boundary around a work area to prevent access to a height hazard such as a skylight.
+
+[p27 | prose | 7.10 Crawl boards and roof ladders]
+7.10 Crawl boards and roof ladders
+
+[p27 | prose | 7.10 Crawl boards and roof ladders]
+Fixed crawl boards and roof ladders may be used to provide permanent access to a work positioning system, or on pitched or brittle roofs to gain access to service plants. Crawl boards shall have a minimum width of 450 mm and should have handrails.
+
+[p27 | prose | 7.10 Crawl boards and roof ladders]
+Any brittle roofing should have walkways installed. These can consist of crawl boards, cat ladders, roof ladders, or plywood sheets that are a minimum of 450 mm wide and 18–21 mm deep.
+
+[p27 | prose | 7.10 Crawl boards and roof ladders]
+The recommended width is 1200 mm and should be used in conjunction with individual total restraint or fall arrest systems. Ensure that permanent access complies with the Building Act 2004.
+
+[p27 | prose | 7.10 Crawl boards and roof ladders]
+On brittle roofs, guardrails should be permanently installed on crawl boards and fixed roof ladders. Crawl boards should have a non-slip surface or cleats, depending on their pitch.
+
+[p27 | prose | 7.10 Crawl boards and roof ladders]
+A gutter may be used as a walkway provided it is 450 mm wide and is sarked. Therefore, synthetic membrane gutters are suitable. However, when access is possible closer than two metres from the roof edge, edge protection should be provided or a total restraint or fall arrest system used.
+
+[p27 | prose | 7.10 Crawl boards and roof ladders]
+Temporary roof ladders and crawl boards should be of the same standard as for permanent installations. Roof ladders should be used on roof pitches over 25 degrees.
+
+[p27 | prose | 7.10 Crawl boards and roof ladders]
+7.11 Walking safely on a roof
+
+[p27 | prose | 7.10 Crawl boards and roof ladders]
+When walking on a roof, the worker should walk in the pan of the roof cladding. When this is not possible the worker’s weight should be spread evenly over two ribs, and the worker should keep as close as possible to the purlins.
+
+[p27 | prose | 7.10 Crawl boards and roof ladders]
+Metal roof cladding is tested to a static load of 1.1 kN, which equals 110 kg, and is meant to represent a worker carrying tools. Site supervisors should ensure workers walking on metal cladding do not exceed the recommended 110 kg. To ensure the roof purlins are not overstressed, two people should not stand within the same purlin spacing, or closer than two metres.
+
+[p27 | prose | 7.10 Crawl boards and roof ladders]
+Never stand on translucent or clear sheeting because it is not designed to bear the weight of a worker. Cover skylights and penetrations securely or fix temporary edge protection around them.
+
+[p27 | prose | 7.10 Crawl boards and roof ladders]
+The steepest pitch that will provide a secure footing on a textured surface roof is 35 degrees and on a smooth surface roof 25 degrees. These pitch factors only apply to clean and dry roofs. If the slope of the roof exceeds 25 degrees, a roof ladder should be used in addition to perimeter guardrails (or a fall arrest system) to reduce the likelihood of a worker slipping.
+
+[p27 | prose | 7.12 Roofing materials]
+7.12 Roofing materials
+
+[p27 | prose | 7.12 Roofing materials]
+At the end of the workday, or if the work is interrupted for any reason, all loose sheeting and incomplete sections must be adequately secured against possible movement by wind.
+
+[p27 | prose | 7.12 Roofing materials]
+Loose packs or loose sheets that have not been securely fastened should not be walked on.
+
+[p28 | prose | 8. Training and supervision]
+8. Training and supervision
+
+[p28 | prose | 8. Training and supervision]
+Anyone working on a roof shall be given training by a competent person on how to work safely at height. Workers will require additional training for working on brittle roofing or the removal of brittle roofing and wall cladding. A competent person shall have the relevant skills, knowledge, and experience to undertake a brittle roof assessment.
+
+[p28 | prose | 8. Training and supervision]
+Anyone using a harness system, (for example, total restraint system, work positioning system or fall arrest system) should be closely supervised by a competent person or be a competent person themselves.
+
+[p28 | prose | 8. Training and supervision]
+A recommended means of achieving competence in using a harness system is NZQA Unit Standard 23229: Use a safety harness for personal fall prevention when working at height, or an equivalent or higher qualification.
+
+[p28 | prose | 8. Training and supervision]
+Figure 16: Anyone working on a roof shall be given training by a competent person on how to work safely at height.
+
+[p28 | prose | 8. Training and supervision]
+and disestablish proprietary fall arrest systems when working at height, or an equivalent or higher level of qualification. NZQA Unit Standard 23229 is a prerequisite for achieving NZQA Unit Standard 15757.
+
+[p28 | prose | 8. Training and supervision]
+At least two workers should be present when using fall arrest systems and they should be trained in the safe use of the equipment. A rescue plan should always be in place and workers trained in the rescue procedures identified in the plan.
+
+[p28 | prose | 9. Personal protective equipment]
+9. Personal protective equipment
+
+[p28 | prose | 9. Personal protective equipment]
+The use of personal protective equipment should be identified as part of the hazard assessment process. Depending on the associated hazards, some of the personal protective equipment and clothing that may be required for working on a roof could include:
+
+[p28 | prose | 9. Personal protective equipment]
+non-slip footwear
+
+[p28 | prose | 9. Personal protective equipment]
+hard hat
+
+[p28 | prose | 9. Personal protective equipment]
+gloves
+
+[p28 | prose | 9. Personal protective equipment]
+eye protection
+
+[p28 | prose | 9. Personal protective equipment]
+hearing protection
+
+[p28 | prose | 9. Personal protective equipment]
+respiratory protection
+
+[p28 | prose | 9. Personal protective equipment]
+wet weather gear
+
+[p28 | prose | 9. Personal protective equipment]
+disposable overalls
+
+[p28 | prose | 9. Personal protective equipment]
+A surface’s ability to provide secure footing will vary depending on the type of surface cladding, environmental conditions, and the type and condition of the roofer’s footwear.
+
+[p28 | prose | 9. Personal protective equipment]
+Workers on roofs should wear footwear that is in good condition, soft soled and capable of providing secure footing.
+
+[p29 | prose | 9. Personal protective equipment]
+Gloves should be used when handling roofing material that has sharp edges. Eye protection should be worn for any activity that could cause damage to a worker’s eyes.
+
+[p29 | prose | 9. Personal protective equipment]
+Hearing protection should be worn when working in noisy areas or undertaking noisy activities. Refer to the Approved Code of Practice for the Management of Noise in the Workplace (2002). http://www.osh.govt.nz/order/catalogue/15.shtml
+
+[p29 | prose | 9. Personal protective equipment]
+For further information on the selection and use of respiratory equipment, refer to A Guide to Respiratory Protection. http://www.osh.govt.nz/order/catalogue/534.shtml
+
+[p29 | prose | 9. Personal protective equipment]
+10. Weather and environment
+
+[p29 | prose | 9. Personal protective equipment]
+If a safety hazard exists when roof cladding is wet due to rain or dew, or if it is very windy, the work should be postponed.
+
+[p29 | prose | 9. Personal protective equipment]
+Special care should be exercised when handling long-length sheeting, particularly in wet or windy conditions as falls and slips can occur, especially if the sheeting is caught by the wind.
+
+[p29 | prose | 9. Personal protective equipment]
+Where the gutters also have to be replaced, temporary provision should be made to remove rainwater from the area.
+
+[p29 | prose | 9. Personal protective equipment]
+On sunny or humid days workers on roofs should keep themselves well hydrated and have access to clean drinking water. Workers should wear sunhats, keep their skin covered, and/or use sunblock to protect their skin from sunburn and potential skin melanoma from exposure to the sun.
+
+[p29 | prose | 9. Personal protective equipment]
+Up-to-date weather forecasts should be factored into the hazard assessment and be taken into account prior to working at height on a roof.
+
+[p30 | prose | 11. Definitions]
+11. Definitions
+
+[p30 | table | 11. Definitions]
+| Access | A means of entry or approach to getting on the roof. |
+| --- | --- |
+| Act All practicable steps | In this guide, the Act refers to the Health and Safety in Employment Act 1992. Also termed the HSE Act. |
+| This phrase applies to the general duties that must be carried out by employers, employees, self-employed people, people who control places of work and principals. |  |
+| reasonable. Any judgement of whether a safeguard was “reasonably practicable” is to be made taking into account common practice and knowledge throughout the industry. Duty holders must do what is 'reasonable' which means what a reasonable and prudent person would do in the same situation. It is an objective standard determined by the standards and practices of the industry and society generally. |  |
+| Guidance on the practicable steps that should be taken for known hazards can be found in regulations, codes of practice, guidelines, standards, industry publications, manufacturers' information, safety data sheets and user manuals. |  |
+
+[p31 | table | 11. Definitions]
+| Anchor point (Anchorage point) | A device temporarily or permanently fixed into the building or structure for the purpose of attaching a scaffold tie and/or a working line or safety line system. The anchor points must meet the requirements of AS/NZS 1891.4 and be capable of a minimum breaking point of 15 kN. |
+| --- | --- |
+| Asbestos | A material that contains, is composed of, or is contaminated by amosite, chrysotile, crocidolite, fibrous actinolite, fibrous anthophyllite, or fibrous tremolite. |
+| Barrow hoist | Is a rope and wheel platform device used to manually, electrically, or mechanically lift lightweight materials up onto the scaffold or roof. |
+| Batten | A narrow timber or steel member attached to a roof or wall structure, used to attach metal cladding, metal tiles, shakes, or shingles to the structure. |
+| Barrier to restrict access | A physical or visual barrier is a rope, tape, or another visual prompt suspended at height to act as a boundary around a work area to prevent access to a hazard. It should be at least two metres away from a fall hazard and not used for roofs with a pitch over 10 degrees. |
+| Brittle/fragile roof | Consists of any flat, trough, or corrugated material such as asbestos cement, plastic, or glass, whether reinforced or otherwise, or any other roofing material that, due to its properties, age, or weathering, will not safely support a person at all points on its surface. |
+| Competent person | A person who has, through a combination of training, education, and experience, acquired knowledge and skills enabling that person to correctly perform a specified task. |
+| Composite panel roofing | A factory-insulated panel with metal cladding on both sides used to cover a roof or a wall. |
+| Corrosion | Rust or oxidation which may be caused by age, or the reaction of a material with its environment or contact with incompatible materials. |
+| Drop line | A rope or line that meets the requirements of AS/NZS 1891.4 that is designed for connecting a full body harness to an anchor point. |
+| Eave | The protruding edge of a roof slope at the lower edge or gable end, also known as a soffit. |
+| Edge protection | A barrier or system to prevent persons and/or objects or materials from falling to a lower level from working or access surfaces. Edge protection may involve a proprietary system, materials to form a guardrail and/or barrier isolation, erected scaffolding supporting a temporary edge protection system, or a combination of solutions. |
+| Egress | The safe means of exiting (getting off) the roof. |
+| Employee | A person employed by any other person to do any work for hire or reward; in relation to any employer, it means an employee of the employer. |
+
+[p32 | table | 11. Definitions]
+| Employer | A person or organisation that employs any other person to do any work for hire or reward; in relation to any employee, it means an employer of the employee. |
+| --- | --- |
+| Employment agreement (Employment Relations Act 2000) | A contract for service; includes a contract for services between an employer and a homeworker; an employee’s terms and conditions of employment in a collective agreement, or a collective agreement together with any additional terms and conditions of employment; or an individual employment agreement. Every employee must have a written employment agreement. It can either be a collective agreement (involving a union) or an individual agreement. For further information on employment agreements, visit: www.dol.govt.nz/er/starting/relationships/agreements/index.asp |
+| Fall-arrest harness (safety harness) | An assembly of interconnected shoulder and leg straps, with or without a body belt, and used where there is likelihood of free or restrained fall. |
+| Fall arrest system | An assembly of interconnected components comprising a harness connected to an anchorage point or anchorage system either directly or by means of a lanyard or pole strap, and whose purpose is to arrest a fall in accordance with the principles and requirements of AS/NZS 1891. |
+| Fall hazard area | Any areas that have been identified during the hazard identification process and secured to avoid harm. This normally refers to anywhere within 2 metres of the exposed or unprotected edge of the roof. |
+| Fall protection barrier | A physical barrier other than a work platform that will safely support a person without the risk of falling through. |
+| Fascia board | A vertical board fixed to the bottom of the rafters to carry a spouting, gutter, and barge flashing. |
+| Free fall, free fall-arrest | A fall or the arrest of a fall where the fall distance before the fall- arrest system begins to take any loading is in excess of 600 mm either vertically or on a slope on which it is not possible to walk without the assistance of a handrail or hand line. |
+| Friable asbestos | Asbestos that under ordinary conditions can easily be crumbled and must only be handled by someone who has or is supervised by someone who holds a certificate of competence as an asbestos worker. |
+| Gable | The triangular end wall surface of a building above the plate line where the rafters meet the apex at the ridge. |
+| Guardrail | A rail or barrier secured to standards or upright members, at a height above the work platform of 900mm (minimum) to 1100mm (maximum) and erected along the exposed sides and ends of working platforms to prevent persons from falling. It includes a lower rail that is fixed to standards midway between the guardrail and the platform. See the SARNZ Best Practice Guidelines for Scaffolding in New Zealand. |
+| Gutter | A channel formed to collect and carry water away from a roof. |
+
+[p33 | table | 11. Definitions]
+| Hazard | As defined in the HSE Act Section 2 (a) an activity, arrangement, circumstance, event, occurrence, phenomenon, process, situation, or substance (whether arising or caused within or outside a place of work) that is an actual or potential cause or source of harm; and (b) includes— (i) a situation where a person’s behaviour may be an actual or potential cause or source of harm to the person or another person; and (ii) without limitation, a situation described in subparagraph resulting from physical or mental fatigue, drugs, alcohol, traumatic shock, or another temporary condition that |
+| --- | --- |
+| Hazard identification | affects a person’s behaviour. A process to be undertaken prior to any work starting to clearly identify all potential hazards that may put workers at risk, and a to isolate or minimise those |
+|  | implementing system eliminate, hazards. a |
+| Kilonewton (kN) | A kilonewton is the general unit for the measurement of force and strength requirements for equipment and anchorages. A Newton is the amount of force required to accelerate a body with a mass of one kilogram at a rate of one meter per second squared. A kilonewton is a thousand of these units. As an approximation, 100 kg hanging at rest of a line will exert a force of 1 kN on the anchor. |
+| Lanyard | A line used, to connect a harness to an anchorage point or static line, usually as part of a lanyard assembly which includes a personal energy absorber. |
+| Live load (Dynamic Load) | Live loads are subject to wind and other weather conditions. Live loads include loads that can change direction or are applied with motion; for example, persons loading roofing materials onto a roof. |
+| Major roof work | The installation of a new or replacement roofing system, substantial or total maintenance or painting/recoating of a roof, and the replacement and/or installation of a gutter or fascia system. The same parameters apply to all wall cladding work. |
+| Man cage | A work platform attached to a crane or forklift. |
+| Matrix | The steps or process required to achieve a task. |
+| Methodology | The methodology (means) of describing a job in detail, including step-by-step instructions in sequential order, identifying hazards and controls, and sometimes training needs. |
+| MEWP | A mobile elevating work platform (for example, cherry picker, scissor lift, hoists, and travel towers). |
+| Mono pitch | A roof having one constant slope with no ridge. |
+
+[p34 | table | 11. Definitions]
+| Parapet | The part of a perimeter wall immediately adjacent to the roof and which extends above it. A parapet higher than 1 metre is termed a parapet wall. |
+| --- | --- |
+| Pendulum effect | The pendulum effect is a potential hazard resulting from lateral movement or swing during a slip or fall where the ropes are extended sideways from the normal fall line. This can result in operators striking objects or having catastrophic consequences for the integrity of the system along sharp edges. |
+| Penetration | Any projection through a roof, floor, or wall (for example, vent pipe, air conditioning unit, window, or doorway). |
+| Perimeter | The outside edge of the roof. |
+| Pitch | The slope of the roof. |
+| Purlin | A horizontal secondary structural member supporting roof cladding. |
+| Rafter | A sloped structural member that extends from the ridge to the eave designed to support secondary members and the roof cladding. |
+| Restrained fall, fall-arrest | A fall or the arrest of a fall where the person suffering the fall is partially restrained by a restraining device such as a pole strap, or is sliding down a slope on which it is normally possible to walk without the assistance of a handrail or hand line. |
+| Roof cavity | The area between the ceiling and roof. |
+| Safety mesh Safety nets | Safety mesh designed to prevent workers falling through a roof that must meet AS/NZS 4389 Safety mesh or equivalent. Horizontal safety netting is a horizontal system of nets and their |
+|  | supports, as cited and modified in BS EN 1263-1:2002 Industry safety nets: Safety requirements, test methods. |
+| Sarking | Plywood or timber that completely covers the roof structure prior to installation of roofing materials. |
+| Scaffolding | Any advanced scaffolding, basic scaffolding, or suspended scaffolding or any framework or structure, of a temporary nature, used or intended to be used for: (a) the support or protection of persons carrying out construction work or work connected with construction work, for the purpose of carrying out that work (b) the support of materials used in connection with any such work, and includes: (M any scaffolding constructed as such and not dismantled, whether or not it is being used as scaffolding (i many coupling, device, fastening, fitting, or plank used in connection with the construction, erection or use of scaffolding. |
+| Secure footing | That the combination of the type of shoes worn and the slope and surface friction of the surface being walked on will prevent the possibility of a person slipping or needing a handrail to assist balance. |
+
+[p35 | table | 11. Definitions]
+| Skylight | A unit of fibreglass, plastic sheeting, glass, or acrylic dome providing natural light through a roof. |
+| --- | --- |
+| Soffit | The underside of an architectural structure such as an arch or overhanging eaves. |
+| Spouting | An external gutter. |
+| Static load | A load that doesn’t move. |
+| Suspension trauma and orthostatic intolerance | The conditions that can arise from a person using a fall arrest system who has fallen and is suspended in their harness. |
+| Toe board | A scaffold plank, kick board, or purpose-designed component fixed at the edge of the working platform to prevent loose objects or materials falling from the platform. |
+| Total restraint | (also known as fall restraint) A control on a person’s movement by means of a combination of full body harness, a line and a line anchorage which will physically prevent the person from reaching a position at which there is a risk of a free or limited free fall. |
+| Translucent | See-through or clear sheeting material that enables transmission of light into a building. |
+| Travel restraint line | Is a drop line connecting a fall arrest harness to either a static line or an anchor point. This is used only for work positioning and not for fall arrest. |
+| Truss | A framework constructed so that all the forces on its parts are either tensions or compressions used to support the roof. |
+| Visual barrier | A physical or visual barrier which may comprise rope suspended at height to act as a boundary around a work area to prevent access to a hazard. It may also be tape, or other visual measures that must be at least two metres away from a fall hazard and the roof slope must be less than 25 degrees. |
+| Working platform | A platform that is intended to support persons, materials and equipment. |
+| Work positioning system | Work positioning systems enable a person to work supported in a harness under tension in a way that a fall is prevented. Generally the arrangement allows for the worker to maintain a stable position and to work hands-free while completing a task. The harness arrangement should not allow a fall of more than 600 mm |
+
+[p36 | prose | 11. Definitions]
+The Health and Safety in Employment Act 1992 (HSE Act) applies to all people at work and other persons in, or in the vicinity of, a place of work. Responsibilities for duty holders are outlined in this section.
+
+[p36 | prose | 11. Definitions]
+The HSE Act outlines a number of duties for persons connected with places of work. There are a number of regulations, codes of practice and industry best practice guidance documents that support the HSE Act.
+
+[p36 | prose | 11. Definitions]
+The HSE Act and its regulations are the law. Codes of practice, guidelines and other guidance material endorsed by the Ministry of Business, Innovation and Employment are considered best practice.
+
+[p36 | prose | 12.1 Principal]
+12.1 Principal
+
+[p36 | prose | 12.1 Principal]
+A principal is a person or a company that engages any other person or company, other than as an employee, to do any work for gain or reward.
+
+[p36 | prose | 12.1 Principal]
+A principal to a contract is responsible for the health and safety of employees of contractors and subcontractors. This responsibility extends to any contractor or subcontractor who is a self-employed individual. A principal might also have employees who will be owed separate duties because of this employer/employee relationship.
+
+[p36 | prose | 12.1 Principal]
+Putting work out to contract doesn’t remove any of the principal’s health and safety obligations. Legal responsibilities cannot be transferred to another party.
+
+[p36 | prose | 12.1 Principal]
+The legal responsibilities of a principal are set out in Section 18 of the HSE Act.
+
+[p36 | prose | 12.1 Principal]
+The following steps should be followed by a principal to ensure good health and safety outcomes when work is contracted out:
+
+[p36 | prose | 12.1 Principal]
+scope the work to identify the key health and safety issues before the work is put out to tender or the contract is formalised pre-qualify the contractor to ensure that they are competent to safely complete the required work negotiate health and safety requirements when the contractor is selected set out health and safety expectations in the contract documents
+
+[p36 | prose | 12.1 Principal]
+• • monitor the contract to ensure that health and safety expectations are met complete a review after the contract for any learning that can be applied to • future contracted work.
+
+[p36 | prose | 12.1 Principal]
+For further details refer to A Principal’s Guide to Contracting to meet the Health and Safety in Employment Act 1992, plus its summary, Health and Safety in Contracting Situations.
+
+[p36 | prose | 12.2 Employer]
+12.2 Employer
+
+[p36 | prose | 12.2 Employer]
+Employers are responsible for the health and safety of employees and of any other people who may be affected by the actions or inactions of employees.
+
+[p36 | prose | 12.2 Employer]
+An employer is required to take all practicable steps to ensure that work undertaken is safe.
+
+[p36 | prose | 12.2 Employer]
+Employers shall have an effective method for identifying hazards to employees at work and must take all practicable steps to ensure that those hazards are controlled.
+
+[p36 | prose | 12.2 Employer]
+Employers shall also take all practicable steps to ensure that employees are adequately trained and/or supervised to be able to work safely.
+
+[p36 | prose | 12.2 Employer]
+The HSE Act requires employers to keep a register of work-related accidents including every accident that harmed or may have harmed someone. Employers are also required
+
+[p37 | prose | 12.2 Employer]
+to investigate all accidents to determine whether they were caused by a significant hazard. Employers are required to notify the nearest Ministry of Business, Innovation and Employment office of serious harm injuries as soon as possible and follow up in writing within seven days.
+
+[p37 | prose | 12.2 Employer]
+If a person suffers serious harm, the scene of the accident must not be disturbed unless to:
+
+[p37 | prose | 12.2 Employer]
+• maintain public access for essential services (for example, electricity or gas) • prevent serious damage or loss of property.
+
+[p37 | prose | 12.2 Employer]
+save life or prevent suffering
+
+[p37 | prose | 12.2 Employer]
+Employers must ensure employees are either sufficiently experienced to do their work safely or are supervised by an experienced person.
+
+[p37 | prose | 12.2 Employer]
+Employees must be adequately trained in the safe use of the equipment in their place of work, including the use of protective clothing and equipment, and emergency preparedness.
+
+[p37 | prose | 12.3 Employee]
+12.3 Employee
+
+[p37 | prose | 12.3 Employee]
+An employee is defined by the HSE Act as any person of any age who is employed by an employer to do any work for hire or any reward under a contract of service (that is, an employment agreement).
+
+[p37 | prose | 12.3 Employee]
+An employee is responsible for their own health and safety and must also ensure that their actions or inactions do not harm other people. In effect, employees have a responsibility to follow the safe work procedures that have been put in place by their employer.
+
+[p37 | prose | 12.3 Employee]
+Employees should bring to the attention of their supervisor any illness, ailment, or other condition which may prevent or limit their ability to work at height. This is important for their safety and the safety of other persons. It will also assist supervisors with planning and work allocation.
+
+[p37 | prose | 12.3 Employee]
+12.4 Self-employed
+
+[p37 | prose | 12.3 Employee]
+Someone is self-employed who is working other than as an employee in one or more of the following types of work: providing goods or services for hire or reward under contract for services, or carrying on a business as a sole trader, or a partnership.
+
+[p37 | prose | 12.3 Employee]
+A self-employed person is responsible for his/her own health and safety and must ensure that their actions or inactions do not harm other people. A self-employed person is responsible for undertaking relevant training and having the capability to safely complete their work..
+
+[p37 | prose | 12.3 Employee]
+12.5 Person who controls a place of work
+
+[p37 | prose | 12.3 Employee]
+In relation to a place of work, a person who controls a place of work means a person who is—
+
+[p37 | prose | 12.3 Employee]
+the owner, lessee, sublessee, occupier, or person in possession, of the place or any part of it; or the owner, lessee, sublessee, or bailee, of any plant in the place.
+
+[p37 | prose | 12.3 Employee]
+For the purposes of working at height, this may include the lessor of mechanical plant or a scaffold supplier/installer.
+
+[p37 | prose | 12.3 Employee]
+Persons who control the place of work are also responsible for the health and safety of visitors and contractors.
+
+[p38 | prose | 12.3 Employee]
+Inspections of roofs are sometimes made by persons other than workers, such as owners, architects, and engineers who are not conversant with safety requirements for working at height. The person who controls the place of work (principal) shall make sure anyone accessing a roof has sufficient knowledge of the hazards associated with working at height and has the skills and knowledge and experience to work safely.
+
+[p38 | prose | 12.6 Employee participation]
+12.6 Employee participation
+
+[p38 | prose | 12.6 Employee participation]
+Involving employees in hazard management is a requirement of the HSE Act. It is also an excellent process for implementing hazard controls. This can be done by delegating health and safety responsibilities to staff, analysing job safety, holding toolbox meetings, and electing health and safety representatives.
+
+[p38 | prose | 12.6 Employee participation]
+Employers must provide reasonable opportunities for employees to participate effectively in on-going processes for the improvement of health and safety in the place of work. Where there are more than 30 employees, or where an employee or union representing employees requests it, the employer must develop, implement, and maintain a system of employee participation in health and safety.
+
+[p38 | prose | 12.6 Employee participation]
+Where agreement cannot be reached on the system of employee participation, there are default provisions set out in the HSE Act.
+
+[p38 | prose | 12.6 Employee participation]
+Where employee health and safety representatives are elected, they are entitled to paid leave to attend approved training courses.
+
+[p38 | prose | 12.6 Employee participation]
+A trained employee health and safety representative may issue a hazard notice to an employer where they believe there is a hazard in the place of work, they have brought it to the employer's attention, and the issue has not been resolved.
+
+[p38 | prose | 12.6 Employee participation]
+Employers and employees must deal with each other in good faith while seeking agreement on, developing, and maintaining a system of employee participation.
+
+[p38 | prose | 12.6 Employee participation]
+It is recommended that employers hold regular ‘toolbox’ meetings for staff and/or contractors about health and safety. These can also act as training sessions.
+
+[p39 | prose | Legislation — Acts]
+Legislation — Acts
+
+[p39 | prose | Legislation — Acts]
+• • • • •
+
+[p39 | prose | Legislation—Regulations]
+Legislation—Regulations
+
+[p39 | prose | Health and]
+Health and
+
+[p39 | prose | Standards (available from Standards New Zealand: www.standards.co.nz)]
+Standards (available from Standards New Zealand: www.standards.co.nz)
+
+[p39 | prose | Standards (available from Standards New Zealand: www.standards.co.nz)]
+•
+
+[p39 | prose | Standards (available from Standards New Zealand: www.standards.co.nz)]
+•
+
+[p39 | prose | Standards (available from Standards New Zealand: www.standards.co.nz)]
+• • • • • • • • • • • • • • •
+
+[p39 | prose | Standards (available from Standards New Zealand: www.standards.co.nz)]
+AS 1418.2: Cranes (including hoists and winches) – Serial hoists and winches AS 2550.10: Cranes hoists and winches – Safe use – Mobile elevating work platforms AS/NZS 1337: Eye protection AS/NZS 1657: Fixed platforms, walkways, stairways and ladders – Design, construction and installation AS/NZS 1891.4: Industrial fall-arrest systems and devices – Part 4: Selection, use and maintenance AS/NZS 1891.1–3: Industrial fall arrest systems and devices AS/NZS 4488.1–2: Industrial rope access systems AS/NZS 1801: 1997: Occupational protective helmets AS/NZS 2210.1: Occupational safety footwear AS 1892.1: Portable ladders, metal AS 1892.2, NZS 3609: Portable ladders, timber AS/NZS 4389: Safety mesh AS 1576.2: Scaffold couplers and accessories AS/NZS 1576.1: Scaffolding: General requirements AS 1577: Scaffold planks AS/NZS 1576.3: Scaffolding: Prefabricated and tube and coupler scaffolding AS 1576.4: Scaffolding – suspended scaffolding AS/NZS 1576.5: Scaffolding – Prefabricated splitheads and trestles AS/NZS 1576.6: Scaffolding – Metal tube-and-coupler scaffolding NZS 3620: Specification for scaffold planks AS/NZS 4994.1: Temporary roof edge protection for housing and residential buildings. AS/NZS 4994.2:2009: Temporary edge protection – Roof edge protection – Installation and dismantling NZS 3604: Timber-framed buildings
+
+[p39 | prose | British Standards]
+British Standards
+
+[p39 | prose | British Standards]
+• •
+
+[p39 | prose | British Standards]
+British Standard BS 8411 Code of Practice for Safety Nets on Construction Sites and other works BS EN 1263-1:2002 Industry safety nets: Safety requirements, test methods BS EN 1263-2:2002 Safety requirements for the positioning limits BS 3913:1982 Industrial safety nets
+
+[p40 | prose | Best Practice Guidelines (available from www.dol.govt.nz)]
+Best Practice Guidelines (available from www.dol.govt.nz)
+
+[p40 | prose | Best Practice Guidelines (available from www.dol.govt.nz)]
+• • •
+
+[p40 | prose | Best Practice Guidelines (available from www.dol.govt.nz)]
+Principal’s Guide to Contracting to Meet the Health and Safety in Employment Act 1992 www.osh.govt.nz/order/catalogue/contracting-guide.shtml Best Practice Guidelines for Demolition in New Zealand www.dol.govt.nz/consultation/demolition-guidelines/index.asp Keeping Safe at Work – A Guide for Employees – Employee Rights under the Health and Safety in Employment Act 1992 www.osh.govt.nz/publications/factsheets/keepingsafe.html Managing Health and Safety: A Guide for Employers – Ministry of Business, Innovation and Employment – New Zealand www.osh.govt.nz/publications/booklets/managing-health-safety-guide/01.asp First Aid for Workplaces: A Good Practice Guide www.osh.govt.nz/publications/booklets/first-aid-2009/first-aid-2009_02.asp Industrial Rope Access in New Zealand Best Practice Guidelines Best Practice Guidelines for the Management and Removal of Asbestos Best Practice Guidelines for Scaffolding in New Zealand Best Practice Guidelines for Working at Height in New Zealand
+
+[p40 | prose | Guides •]
+Guides •
+
+[p40 | prose | A Guide to Respiratory Protection www.osh.govt.nz/order/catalogue/534.shtml]
+A Guide to Respiratory Protection www.osh.govt.nz/order/catalogue/534.shtml
+
+[p40 | prose | Codes •]
+Codes •
+
+[p40 | prose | Building Code Handbook www.dbh.govt.nz/building-code-compliance-documents]
+Building Code Handbook www.dbh.govt.nz/building-code-compliance-documents
+
+[p41 | prose | Figure 1]
+Figure 1
+
+[p41 | prose | Figure 2]
+Figure 2
+
+[p41 | prose | Figure 3]
+Figure 3
+
+[p41 | prose | Figure 4]
+Figure 4
+
+[p41 | prose | Figure 5]
+Figure 5
+
+[p41 | prose | Figure 6]
+Figure 6
+
+[p41 | prose | Figure 7]
+Figure 7
+
+[p41 | prose | Figure 8]
+Figure 8
+
+[p41 | prose | Figure 9]
+Figure 9
+
+[p41 | prose | Figure 10]
+Figure 10
+
+[p41 | prose | Figure 11]
+Figure 11
+
+[p41 | prose | Figure 12]
+Figure 12
+
+[p41 | prose | Figure 13]
+Figure 13
+
+[p41 | prose | Figure 14]
+Figure 14
+
+[p41 | prose | Figure 15]
+Figure 15
+
+[p41 | prose | Figure 16]
+Figure 16
+
+[p41 | prose | Figure 16]
+A worker maintains three points of contact while working from a ladder.
+
+[p41 | prose | Figure 16]
+Example of signage to alert workers to fragile roofing material.
+
+[p41 | prose | An example of roof ladders on an asbestos roof.]
+An example of roof ladders on an asbestos roof.
+
+[p41 | prose | An example of roof ladders on an asbestos roof.]
+Example of signage to alert workers to restricted access.
+
+[p41 | prose | An example of roof ladders on an asbestos roof.]
+Selection of work equipment linked to the hierarchy of controls. Group controls should be used over personal control measures.
+
+[p41 | prose | An example of roof ladders on an asbestos roof.]
+Safety nets set up under a roofing construction to catch falling workers, debris, or tools.
+
+[p41 | prose | An example of roof ladders on an asbestos roof.]
+Decision tree for preventing falls from roofs.
+
+[p41 | prose | An example of roof ladders on an asbestos roof.]
+Scaffolding and brackets can be effective roof edge protection.
+
+[p41 | prose | An example of roof ladders on an asbestos roof.]
+The use of scaffolding for edge protection.
+
+[p41 | prose | An example of roof ladders on an asbestos roof.]
+Location of scaffold platform for edge protection when roof pitch 25 degrees or less.
+
+[p41 | prose | Edge protection at gable ends.]
+Edge protection at gable ends.
+
+[p41 | prose | Edge protection at gable ends.]
+Example of poorly placed anchor point and rope that is too long.
+
+[p41 | prose | Edge protection at gable ends.]
+Minor roof repairs can be undertaken using a work positioning system.
+
+[p41 | prose | Edge protection at gable ends.]
+An example of safety mesh installed prior to roof construction.
+
+[p41 | prose | Edge protection at gable ends.]
+Anyone working on a roof shall be given training by a competent person on how to work safely at height.

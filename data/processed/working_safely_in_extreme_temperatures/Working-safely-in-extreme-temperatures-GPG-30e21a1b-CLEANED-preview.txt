@@ -1,0 +1,3080 @@
+[p1 | prose | Working safely in extreme temperatures]
+Working safely in extreme temperatures
+
+[p1 | prose | Working safely in extreme temperatures]
+December 2019 New Zealand Government WORKSAFE Mahi Haumaru Aotearoa
+
+[p2 | prose | Working safely in extreme temperatures]
+This guide provides practical advice
+
+[p2 | prose | Working safely in extreme temperatures]
+on how to identify, control, and monitor
+
+[p2 | prose | Working safely in extreme temperatures]
+the health and safety risks associated
+
+[p2 | prose | Working safely in extreme temperatures]
+with working in extremely hot or cold
+
+[p2 | prose | environments.]
+environments.
+
+[p3 | prose | environments.]
+Working safely in extreme temperatures
+
+[p3 | prose | KEY POINTS]
+KEY POINTS
+
+[p3 | prose | Exposure to extreme temperatures at work can]
+Exposure to extreme temperatures at work can
+
+[p3 | prose | Exposure to extreme temperatures at work can]
+cause serious harm to workers.
+
+[p3 | prose | Exposure to extreme temperatures at work can]
+PCBUs (persons conducting a business or
+
+[p3 | prose | Exposure to extreme temperatures at work can]
+undertaking) must take all reasonably practicable
+
+[p3 | prose | Exposure to extreme temperatures at work can]
+actions to prevent workers from suffering extreme
+
+[p3 | prose | Exposure to extreme temperatures at work can]
+temperature-related illness or injury while at work.
+
+[p3 | prose | The Health and Safety at Work Act 2015 (HSWA)]
+The Health and Safety at Work Act 2015 (HSWA)
+
+[p3 | prose | The Health and Safety at Work Act 2015 (HSWA)]
+does not state minimum or maximum safe
+
+[p3 | prose | temperatures for work.]
+temperatures for work.
+
+[p3 | prose | temperatures for work.]
+It is up to the PCBU, in consultation with workers,
+
+[p3 | prose | temperatures for work.]
+to determine a safe working temperature range
+
+[p3 | prose | appropriate to their work environment.]
+appropriate to their work environment.
+
+[p8 | prose | appropriate to their work environment.]
+This guide provides practical advice on how to identify, control, and monitor the health and safety risks associated with working in extremely hot or cold environments.
+
+[p8 | prose | appropriate to their work environment.]
+Extremely hot or cold environments are places where temperatures are so high or low that they can cause heat-related or cold-related illness or injury to a person. Air temperature as well as other factors (for example humidity, radiant heat, and high wind) can contribute to creating an extreme temperature environment. Heat-related and cold-related illnesses and injuries can be fatal.
+
+[p8 | prose | appropriate to their work environment.]
+Extreme temperatures may be an ongoing risk (such as in a cool store) or a seasonal risk (such as outdoor work in summer or winter).
+
+[p8 | prose | appropriate to their work environment.]
+The Health and Safety at Work Act 2015 (HSWA) requires that all risks, including risks associated with working in extreme temperatures, must be managed so far as is reasonably practicable. For more information see Appendix B: What does the law say?
+
+[p8 | prose | Who should read this guide?]
+Who should read this guide?
+
+[p8 | prose | Who should read this guide?]
+This guide is for any PCBU (a person conducting a business or undertaking) who manages a workplace, or whose workers carry out work activities in environments that can be extremely hot or extremely cold.
+
+[p8 | prose | Who should read this guide?]
+It may also be useful for health and safety professionals who are providing extreme temperature risk assessments or monitoring for PCBUs.
+
+[p8 | prose | Who should read this guide?]
+Examples of work environments and activities that may have extremely hot or cold conditions:
+
+[p8 | prose | EXTREMELY HOT WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+EXTREMELY HOT WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+– Underground mines
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+– Cool stores
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+– Fruit picking in summer
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+– Chilled/frozen food manufacturing
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+– Working in hot houses – Foundries/smelters
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+– Forestry (especially in winter) – Commercial diving
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+– Working in confined spaces (such as roof cavities in summer)
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+– Ski fields (and indoor ski slopes)
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+– Certain research facilities
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+– Working with or near hot plant
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+– Bakeries/kitchens/laundries
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+– Any outdoor work in alpine regions especially during winter
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+– Any outdoor work during summer in hot regions
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+TABLE 1:
+
+[p8 | prose | EXTREMELY COLD WORK ENVIRONMENTS AND ACTIVITIES CAN INCLUDE]
+Examples of work environments and activities that may have extremely hot or cold conditions
+
+[p9 | prose | HSWA does not state minimum or maximum safe temperatures for work]
+HSWA does not state minimum or maximum safe temperatures for work
+
+[p9 | prose | HSWA does not state minimum or maximum safe temperatures for work]
+It is not possible to give a safe maximum or minimum temperature for work based on air temperature alone. How people are affected by air temperature while working depends on factors such as:
+
+[p9 | prose | HSWA does not state minimum or maximum safe temperatures for work]
+– humidity/water exposure
+
+[p9 | prose | HSWA does not state minimum or maximum safe temperatures for work]
+– exposure to the sun or other radiant heat sources
+
+[p9 | prose | HSWA does not state minimum or maximum safe temperatures for work]
+– amount of air movement
+
+[p9 | prose | HSWA does not state minimum or maximum safe temperatures for work]
+– work rate – how physically demanding the work is
+
+[p9 | prose | HSWA does not state minimum or maximum safe temperatures for work]
+– what clothing or personal protective equipment (PPE) is worn
+
+[p9 | prose | HSWA does not state minimum or maximum safe temperatures for work]
+– personal health factors/tolerances.
+
+[p9 | prose | HSWA does not state minimum or maximum safe temperatures for work]
+Example: A specified air temperature may be safe when humidity is low, the work is light, and workers are lightly dressed. But if humidity levels are high, the work is physically demanding, and workers are wearing heavy PPE, that same specified air temperature may be a risk to worker health and safety.
+
+[p9 | prose | Safe working temperatures will vary from one workplace to the next]
+Safe working temperatures will vary from one workplace to the next
+
+[p9 | prose | Safe working temperatures will vary from one workplace to the next]
+It is up to you, the PCBU, to do a workplace risk assessment (including consulting with your workers). You need to consider all the above factors before determining a safe working temperature range to suit your place of work and your workers.
+
+[p9 | prose | Thermal discomfort vs working in temperature extremes]
+Thermal discomfort vs working in temperature extremes
+
+[p9 | prose | Thermal discomfort vs working in temperature extremes]
+A person feeling thermal discomfort feels uncomfortably hot or cold, but conditions are not extreme or persistent enough for the person to be at risk of illness or injury as a direct result.
+
+[p9 | prose | Thermal discomfort vs working in temperature extremes]
+WorkSafe has guidelines for managing everyday worker thermal comfort. See WorkSafe’s quick guide: Managing thermal comfort at work
+
+[p9 | prose | Engage with your workers about the risks of working in extreme temperatures]
+Engage with your workers about the risks of working in extreme temperatures
+
+[p9 | prose | Engage with your workers about the risks of working in extreme temperatures]
+You must engage and consult with your workers on work health and safety matters, so far as is reasonably practicable. This includes when identifying, controlling and monitoring risks related to working in extreme temperatures. For more information see Appendix C: Worker engagement and participation.
+
+[p9 | prose | Engage with your workers about the risks of working in extreme temperatures]
+Some industries where working in temperature extremes is a specific risk (such as mining) have requirements in their regulations and guidance about monitoring workplace temperatures. This guide does not override those regulations and guidance.
+
+[p9 | prose | 1.1 The human perception and response to hot and cold]
+1.1 The human perception and response to hot and cold
+
+[p9 | prose | 1.1 The human perception and response to hot and cold]
+Six main factors combine to influence how the thermal environment will affect a person. These factors (environmental and personal) may be independent of each other, but together contribute to a worker’s overall feeling of being hot, cold, or just right.
+
+[p9 | prose | Environmental factors]
+Environmental factors
+
+[p9 | prose | AIR TEMPERATURE]
+AIR TEMPERATURE
+
+[p9 | prose | AIR TEMPERATURE]
+Air temperature is how hot or cold the air around us is. Although this is the easiest of all the influences to measure, it is not the only consideration. If air temperature is the only measurement taken, it is hard to predict how the temperature will affect an individual.
+
+[p10 | prose | HUMIDITY]
+HUMIDITY
+
+[p10 | prose | HUMIDITY]
+Humidity is the moisture content of the air. Humidity is especially important in hot or high activity situations. If the air has a high moisture content (over 80%), sweat will not evaporate as quickly, slowing a worker’s ability to stay cool and making them feel hotter. Relative humidity of between 40% and 70% is ideal as it usually does not have a major impact on thermal comfort.
+
+[p10 | prose | RADIANT HEAT/REFLECTED HEAT]
+RADIANT HEAT/REFLECTED HEAT
+
+[p10 | prose | RADIANT HEAT/REFLECTED HEAT]
+Radiant heat is emitted from anything that is hot, such as sunlight, furnaces, dryers and ovens. In time radiant heat will heat the air, but it will heat people and nearby solid surfaces more quickly. Heat can also be reflected on to people off reflective or light coloured surfaces.
+
+[p10 | prose | AIR SPEED]
+AIR SPEED
+
+[p10 | prose | AIR SPEED]
+Air speed is the amount of air movement. Draughty or windy conditions can help cool people in hot environments, but chill them in cold environments.
+
+[p10 | prose | Personal factors]
+Personal factors
+
+[p10 | prose | CLOTHING]
+CLOTHING
+
+[p10 | prose | CLOTHING]
+Clothing insulates people from the environment. It can help keep people warm in cold environments, but make it harder to stay cool in hot environments.
+
+[p10 | prose | PHYSICAL ACTIVITY]
+PHYSICAL ACTIVITY
+
+[p10 | prose | PHYSICAL ACTIVITY]
+As physical activity increases, so does the body’s heat production. In a cool situation, physical activity can help to warm a person. In a hot situation, physical activity can make a person feel even hotter.
+
+[p10 | prose | Other factors]
+Other factors
+
+[p10 | prose | Other factors]
+Other factors that may put a person at risk from high and low temperatures include:
+
+[p10 | prose | Other factors]
+– sex – males generally have a higher metabolic rate (produce body heat more readily) than women
+
+[p10 | prose | Other factors]
+– age – children and elderly people in particular
+
+[p10 | prose | Other factors]
+– underlying health conditions
+
+[p10 | prose | Other factors]
+– body build and weight
+
+[p10 | prose | Other factors]
+– use of certain prescribed medicines
+
+[p10 | prose | Other factors]
+– use of substances such as alcohol or illegal drugs
+
+[p10 | prose | Other factors]
+– acclimatisation
+
+[p10 | prose | Other factors]
+– temporary health issues (for example diarrhoea, hangover, fever).
+
+[p10 | prose | How these influences interact to affect temperature perception]
+How these influences interact to affect temperature perception
+
+[p10 | prose | How these influences interact to affect temperature perception]
+Some of the above influences may cancel each other out, while others can combine to put people at even greater risk of heat-related or cold-related illness or injury. For example:
+
+[p10 | prose | How these influences interact to affect temperature perception]
+– High temperatures and high humidity will make people feel even hotter and put the body under extra strain.
+
+[p10 | prose | How these influences interact to affect temperature perception]
+– High physical activity and high radiant heat will make people feel even hotter and put the body under extra strain.
+
+[p10 | prose | How these influences interact to affect temperature perception]
+– A person doing a strenuous activity while wearing heavy clothing and exposed to radiant heat could be at risk of overheating – even on a cool day.
+
+[p10 | prose | How these influences interact to affect temperature perception]
+– A person doing light work and wearing light clothing in mild weather could still be vulnerable to cold-related illness or injury if there are strong winds.
+
+[p11 | prose | Core body temperature regulation]
+Core body temperature regulation
+
+[p11 | prose | Core body temperature regulation]
+The human body needs to maintain a core temperature of about 37°C to function normally. The body has its own mechanisms for maintaining a normal core temperature when challenged by hot or cold conditions.
+
+[p11 | prose | PHYSICAL RESPONSE IN HOT CONDITIONS]
+PHYSICAL RESPONSE IN HOT CONDITIONS
+
+[p11 | prose | PHYSICAL RESPONSE IN HOT CONDITIONS]
+Evaporation of sweat from the skin’s surface has a cooling effect.
+
+[p11 | prose | PHYSICAL RESPONSE IN HOT CONDITIONS]
+Increased blood flow to the skin
+
+[p11 | prose | PHYSICAL RESPONSE IN HOT CONDITIONS]
+Blood cools more quickly near the surface of the skin.
+
+[p11 | prose | PHYSICAL RESPONSE IN COLD CONDITIONS]
+PHYSICAL RESPONSE IN COLD CONDITIONS
+
+[p11 | prose | PHYSICAL RESPONSE IN COLD CONDITIONS]
+Reduced blood flow to the skin
+
+[p11 | prose | PHYSICAL RESPONSE IN COLD CONDITIONS]
+Blood flow is redirected to the body’s core (chest and abdomen) This reduces heat loss and prioritises keeping vital organs warm.
+
+[p11 | prose | PHYSICAL RESPONSE IN COLD CONDITIONS]
+Shivering
+
+[p11 | prose | PHYSICAL RESPONSE IN COLD CONDITIONS]
+Involuntary muscle activity (shivering) creates metabolic heat in the body.
+
+[p11 | prose | PHYSICAL RESPONSE IN COLD CONDITIONS]
+Physical responses to hot and cold conditions
+
+[p11 | prose | PHYSICAL RESPONSE IN COLD CONDITIONS]
+When hot or cold conditions are extreme, or the body’s natural ways of warming up or cooling down are restricted, the body may struggle to maintain a stable core temperature. The body may begin to suffer from heat-related or cold- related illnesses or injury. These illnesses and injuries can be fatal.
+
+[p11 | prose | PHYSICAL RESPONSE IN COLD CONDITIONS]
+FIGURE 1:
+
+[p11 | prose | PHYSICAL RESPONSE IN COLD CONDITIONS]
+temperature regulation
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+High air temperatures, high humidity, a high work rate, exposure to radiant heat, and wearing heavy clothing or PPE can all add to the risk of heat-related illnesses and injury occurring.
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+Meet Jack
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+Jack wears heavy protective clothing while working. He works outdoors and the work is physically demanding. The weather is particularly hot and humid at the moment.
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+– Working hard in the heat is causing Jack to sweat. However his ability to cool down by sweating is being restricted because:
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+the heavy protective clothing he is wearing isn’t allowing sweat to evaporate, and
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+the humidity is also limiting the rate of sweat evaporation.
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+– His body is struggling to stay cool, so he is sweating excessively. This causes:
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+- a heat rash
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+leg muscle cramps
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+- dehydration.
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+– His heart rate is increasing under the extra strain and he is getting a headache.
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+– As Jack’s body is creating more heat than it is losing:
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+- his core body temperature is rising
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+- he may develop heat exhaustion or heat stroke.
+
+[p13 | prose | Identifying and controlling extreme heat risks will reduce the chances of heat-related illness or injury happening at your work.]
+Jack needs to take immediate action to cool down and rehydrate.
+
+[p13 | prose | Types of heat-related illness and injury]
+Types of heat-related illness and injury
+
+[p13 | prose | Types of heat-related illness and injury]
+Heat-related illnesses and injuries can have physical and psychological effects. Not everyone will display all signs. Some people may not be aware they are suffering from a heat-related illness or injury until symptoms are quite severe and they are already at risk of heat exhaustion and heat stroke.
+
+[p14 | prose | Types of heat-related illness and injury]
+Early signs of heat-related illnesses and injury include:
+
+[p14 | prose | Types of heat-related illness and injury]
+– headache
+
+[p14 | prose | Types of heat-related illness and injury]
+– dehydration
+
+[p14 | prose | Types of heat-related illness and injury]
+– heat rashes
+
+[p14 | prose | Types of heat-related illness and injury]
+– heavy sweating
+
+[p14 | prose | Types of heat-related illness and injury]
+– muscle cramps.
+
+[p14 | prose | Types of heat-related illness and injury]
+If the early signs are not identified and treated, this can lead to heat exhaustion and heat stroke.
+
+[p14 | prose | SIGNS OF HEAT EXHAUSTION]
+SIGNS OF HEAT EXHAUSTION
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+SIGNS OF HEAT STROKE
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Heavy sweating
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– High body temperature (above 39.4°C)
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Paleness
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Confusion
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Muscle cramps
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Disorientation
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Tiredness
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Red hot dry skin (no sweating)
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Weakness
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Throbbing headache
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Dizziness
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Nausea
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Vomiting
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Rapid strong pulse
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Headache
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Unconsciousness
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Fast and weak pulse
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+– Shallow breathing
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+TABLE 3:
+
+[p14 | prose | SIGNS OF HEAT STROKE]
+Signs of heat exhaustion and heat stroke
+
+[p14 | prose | Heat stroke can kill]
+Heat stroke can kill
+
+[p14 | prose | Heat stroke can kill]
+Heat stroke can result in cell death, organ failure, brain damage or death. It can happen suddenly, without any symptoms of other heat-related illness or injury beforehand.
+
+[p14 | prose | Heat stroke can kill]
+If a person is experiencing the symptoms of heat stroke call an ambulance. In the meantime take steps to cool the person down.
+
+[p14 | prose | Heat stroke can kill]
+See Section 7 First aid for hot and cold-related illness and injuries for a summary of symptoms and first aid treatments for heat-related illnesses.
+
+[p14 | prose | 2.1 Assess the risk of heat-related illness and injury]
+2.1 Assess the risk of heat-related illness and injury
+
+[p14 | prose | Carry out an extreme heat risk assessment]
+Carry out an extreme heat risk assessment
+
+[p14 | prose | Carry out an extreme heat risk assessment]
+You will need to carry out an extreme heat risk assessment wherever there is a work environment with high temperatures, humidity, or other extreme thermal conditions. This will help you to decide the best steps to take if an extreme heat risk is identified.
+
+[p14 | prose | What do I need to consider when doing a risk assessment?]
+What do I need to consider when doing a risk assessment?
+
+[p14 | prose | What do I need to consider when doing a risk assessment?]
+When carrying out a risk assessment for extreme heat you need to consider:
+
+[p14 | prose | What do I need to consider when doing a risk assessment?]
+– The work environment – this includes:
+
+[p14 | prose | What do I need to consider when doing a risk assessment?]
+- air temperature
+
+[p14 | prose | What do I need to consider when doing a risk assessment?]
+- humidity
+
+[p14 | prose | What do I need to consider when doing a risk assessment?]
+radiant heat sources
+
+[p14 | prose | What do I need to consider when doing a risk assessment?]
+- air movement
+
+[p14 | prose | What do I need to consider when doing a risk assessment?]
+- physical landscape
+
+[p14 | prose | What do I need to consider when doing a risk assessment?]
+– work rate – the harder someone works the greater the amount of body heat generated
+
+[p15 | prose | What do I need to consider when doing a risk assessment?]
+– worker clothing and personal protective equipment (PPE) – heavy clothing and PPE may limit the efficiency of sweating and other means of temperature regulation
+
+[p15 | prose | What do I need to consider when doing a risk assessment?]
+– workers’ age, build and medical factors – these may affect an individual’s tolerance to heat and may vary across workers.
+
+[p15 | prose | Listen to your workers]
+Listen to your workers
+
+[p15 | prose | Listen to your workers]
+Talk to your workers to see whether they are feeling any thermal discomfort while working, or experiencing symptoms of heat-related illness or injury. Ask what they think the causes may be.
+
+[p15 | prose | Listen to your workers]
+You could ask workers to rate how they feel using the scale below (or a similar scale).
+
+[p15 | table | Listen to your workers]
+| -4 | = | = | =il | 0 | i |  |  | 4 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Very cold | Cold | Cool | Slightly cool | Comfortable | Slightly warm | Warm | Hot | Very hot |
+
+[p15 | prose | Listen to your workers]
+Even if workers do not report discomfort, you still need to continue with a risk assessment to rule out potential risks.
+
+[p15 | prose | Things to think about when assessing if there is a heat risk at your work]
+Things to think about when assessing if there is a heat risk at your work
+
+[p15 | prose | Things to think about when assessing if there is a heat risk at your work]
+Look at the following thermal factors. Consider how they may be adding to or taking away from the effect of the high air temperature.
+
+[p15 | prose | Things to think about when assessing if there is a heat risk at your work]
+The following list of questions are suggestions of what to consider but is not exhaustive. You should also consult with your workers when doing a risk assessment. Your workers may have other observations or suggestions on what heat-related risks are present.
+
+[p15 | prose | Things to think about when assessing if there is a heat risk at your work]
+If there are factors that apply to your work, or your workers identify potential risks, you will need to treat heat-related illness or injury as a potential risk for your workers.
+
+[p15 | prose | AIR TEMPERATURE]
+AIR TEMPERATURE
+
+[p15 | prose | AIR TEMPERATURE]
+Use air temperature as a starting point.
+
+[p15 | prose | AIR TEMPERATURE]
+– What are the hottest or coolest parts of the day?
+
+[p15 | prose | AIR TEMPERATURE]
+– What are the maximum or minimum temperatures?
+
+[p15 | prose | AIR TEMPERATURE]
+– What is the average temperature?
+
+[p15 | prose | HUMIDITY]
+HUMIDITY
+
+[p15 | prose | HUMIDITY]
+– Does any part of the work process create steam or moisture (for example in a kitchen or laundry)?
+
+[p15 | prose | HUMIDITY]
+– Do workers sweat a lot? In a dry environment workers will hardly notice sweat because it evaporates easily. If workers are sweating a lot, the humidity may be high.
+
+[p15 | prose | HUMIDITY]
+– What are the humidity levels in your work environment?
+
+[p15 | prose | RADIANT HEAT/REFLECTED HEAT]
+RADIANT HEAT/REFLECTED HEAT
+
+[p15 | prose | RADIANT HEAT/REFLECTED HEAT]
+– Is there a lot of direct sunlight in areas?
+
+[p15 | prose | RADIANT HEAT/REFLECTED HEAT]
+– Does heat radiate through poorly insulated building materials?
+
+[p15 | prose | RADIANT HEAT/REFLECTED HEAT]
+– Do your workers work close to a source of heat such as a furnace or oven?
+
+[p15 | prose | RADIANT HEAT/REFLECTED HEAT]
+– Are workers exposed to reflected heat (such as solar energy from reflective or bright surfaces)?
+
+[p16 | prose | AIR SPEED]
+AIR SPEED
+
+[p16 | prose | AIR SPEED]
+– Is there strong air movement in work areas?
+
+[p16 | prose | AIR SPEED]
+– Does air speed change from day to day?
+
+[p16 | prose | AIR SPEED]
+– Is the work environment stuffy (lack air flow)?
+
+[p16 | prose | PHYSICAL LANDSCAPE]
+PHYSICAL LANDSCAPE
+
+[p16 | prose | PHYSICAL LANDSCAPE]
+– For outdoor work, consider how the terrain (such as valleys, hills, or mountains) affects the air temperature.
+
+[p16 | prose | PHYSICAL LANDSCAPE]
+– Does the terrain create microclimates of extreme temperatures that would not be indicated in regional weather forecasts?
+
+[p16 | prose | WORK RATE/PHYSICAL ACTIVITY]
+WORK RATE/PHYSICAL ACTIVITY
+
+[p16 | prose | WORK RATE/PHYSICAL ACTIVITY]
+– Do work tasks require medium to high levels of physical activity?
+
+[p16 | prose | WORK RATE/PHYSICAL ACTIVITY]
+– Are workers mostly active or mostly sitting down?
+
+[p16 | prose | CLOTHING/PPE]
+CLOTHING/PPE
+
+[p16 | prose | CLOTHING/PPE]
+– Are workers appropriately clothed for the season and the temperature?
+
+[p16 | prose | CLOTHING/PPE]
+– Does anyone wear protective clothing or equipment that may prevent them from cooling down in hot conditions?
+
+[p16 | prose | WORKER HEALTH]
+WORKER HEALTH
+
+[p16 | prose | WORKER HEALTH]
+– Are your workers fit and healthy?
+
+[p16 | prose | WORKER HEALTH]
+– Do any of your workers suffer from health conditions that may make them less tolerant of high temperatures or humidity? (see Appendix D)
+
+[p16 | prose | WORKER HEALTH]
+– Are any of your workers on medication that may affect their body’s response to heat? (see Appendix D)
+
+[p16 | prose | WORKER HEALTH]
+– Are your workers acclimatised to the heat when starting the job?
+
+[p16 | prose | WORKER HEALTH]
+– Are your workers still acclimatised after returning from leave? (see Section 2.5 Acclimatisation to hot environments)
+
+[p16 | prose | OTHER CONSIDERATIONS]
+OTHER CONSIDERATIONS
+
+[p16 | prose | OTHER CONSIDERATIONS]
+– How long are workers potentially being exposed to high temperatures?
+
+[p16 | prose | OTHER CONSIDERATIONS]
+– Are some tasks more complex or take longer than others, resulting in longer exposure times?
+
+[p16 | prose | OTHER CONSIDERATIONS]
+– Do you have workers who work alone? This may increase the chance of heat-related illness symptoms going unnoticed until quite advanced.
+
+[p16 | prose | If heat-related illness or injury may be a risk for your workers]
+If heat-related illness or injury may be a risk for your workers
+
+[p16 | prose | If heat-related illness or injury may be a risk for your workers]
+If your workplace assessment shows there may be a risk to your workers of suffering heat-related illnesses or injury while working, you should get an assessment by a workplace health and safety professional.
+
+[p16 | prose | If heat-related illness or injury may be a risk for your workers]
+You can find a list of workplace health and safety professionals at:
+
+[p16 | prose | If heat-related illness or injury may be a risk for your workers]
+– The Health and Safety Association of New Zealand
+
+[p16 | prose | If heat-related illness or injury may be a risk for your workers]
+– New Zealand Occupational Hygiene Society
+
+[p16 | prose | If heat-related illness or injury may be a risk for your workers]
+– Human Factors and Ergonomics Society of New Zealand
+
+[p16 | prose | If heat-related illness or injury may be a risk for your workers]
+A workplace health and safety professional with experience in assessment and management of heat risks can assist with a detailed workplace risk assessment.
+
+[p16 | prose | If heat-related illness or injury may be a risk for your workers]
+Assessment may involve:
+
+[p16 | prose | If heat-related illness or injury may be a risk for your workers]
+– measuring or assessing the heat conditions, such as radiant heat and humidity
+
+[p16 | prose | If heat-related illness or injury may be a risk for your workers]
+– estimating metabolic rate
+
+[p17 | prose | If heat-related illness or injury may be a risk for your workers]
+– physiological monitoring such as:
+
+[p17 | prose | If heat-related illness or injury may be a risk for your workers]
+- measuring internal core body temperature
+
+[p17 | prose | If heat-related illness or injury may be a risk for your workers]
+- measuring heart rate
+
+[p17 | prose | If heat-related illness or injury may be a risk for your workers]
+- estimating clothing insulation values.
+
+[p17 | prose | If heat-related illness or injury may be a risk for your workers]
+They can provide advice on developing a heat management plan. This may include a recommended safe working temperature range for your work situation.
+
+[p17 | prose | If heat-related illness or injury may be a risk for your workers]
+See Section 4.1 Exposure monitoring for extreme temperatures for further information on how exposure monitoring can help you understand and control the risk of heat-related illness or injury at work.
+
+[p17 | prose | If heat-related illness or injury may be a risk for your workers]
+If heat-related illness or injury is unlikely to be a risk for your workers
+
+[p17 | prose | If heat-related illness or injury may be a risk for your workers]
+You may still like to consider how the thermal environment at your work may affect your workers’ well-being.
+
+[p17 | prose | If heat-related illness or injury may be a risk for your workers]
+WorkSafe has guidelines for managing everyday work temperatures and worker thermal comfort. See WorkSafe’s quick guide: Managing thermal comfort at work
+
+[p17 | prose | 2.2 Control the risk of heat-related illness and injury]
+2.2 Control the risk of heat-related illness and injury
+
+[p17 | prose | 2.2 Control the risk of heat-related illness and injury]
+Hierarchy of controls for managing heat
+
+[p17 | prose | 2.2 Control the risk of heat-related illness and injury]
+If a risk assessment shows heat-related illness or injury is a risk for your workers, the risk should be eliminated. If elimination is not reasonably practicable, the risk must be minimised.
+
+[p17 | prose | 2.2 Control the risk of heat-related illness and injury]
+You can minimise the risk by applying control measures to the work and the working environment, using substitution, isolation, or engineering control measures.
+
+[p17 | prose | 2.2 Control the risk of heat-related illness and injury]
+If it is not reasonably practicable to minimise the risk using those control measures, then administrative control measures, and lastly, personal protective equipment (PPE) can be used to reduce any remaining risk.
+
+[p17 | prose | 2.2 Control the risk of heat-related illness and injury]
+For more detailed information on controlling health and safety risks at work generally, see WorkSafe’s quick guide Identifying, assessing and managing work risks
+
+[p18 | prose | Choose control measures that suit your situation]
+Choose control measures that suit your situation
+
+[p18 | prose | Choose control measures that suit your situation]
+You need to consider what control measures will be reasonably practicable for your situation. For example:
+
+[p18 | prose | Indoor or outdoor work]
+Indoor or outdoor work
+
+[p18 | prose | Indoor or outdoor work]
+Some control measures will only be possible or effective in indoor environments. Other control measures will be more appropriate in outdoor environments.
+
+[p18 | prose | Constant or occasional extreme temperatures]
+Constant or occasional extreme temperatures
+
+[p18 | prose | Constant or occasional extreme temperatures]
+Some control measures will be better suited to work environments where extreme heat is always a risk. Some will be better suited to work environments where extreme heat only occurs occasionally.
+
+[p18 | prose | Consult with your workers when considering control measures]
+Consult with your workers when considering control measures
+
+[p18 | prose | Consult with your workers when considering control measures]
+Your workers will be able to provide insights on which control measures might be more effective than others for your work and environment.
+
+[p18 | prose | Elimination of heat risks]
+Elimination of heat risks
+
+[p18 | prose | Elimination of heat risks]
+Ideally you would remove the heat source entirely or reduce the heat source to safe levels.
+
+[p18 | prose | Elimination of heat risks]
+This could be achieved by:
+
+[p18 | prose | Elimination of heat risks]
+– finding another way to carry out the work that does not require heat
+
+[p18 | prose | Elimination of heat risks]
+– doing work when heat will not be an issue, such as
+
+[p18 | prose | Elimination of heat risks]
+- scheduling tasks for when hot processes are shut down
+
+[p18 | prose | Elimination of heat risks]
+- plan jobs for a time of year when heat is no longer a problem
+
+[p18 | prose | Elimination of heat risks]
+– altering or removing any of the six main thermal influences (as outlined in Section 1.1 The human perception and response to hot and cold) so that extreme heat is no longer a problem.
+
+[p18 | prose | Minimisation of heat risks]
+Minimisation of heat risks
+
+[p18 | prose | Minimisation of heat risks]
+If the source of heat cannot be eliminated you must minimise the risk of heat- reated illness or injury occurring. Control measures can include substitution, isolation, engineering control measures, administrative control measures and lastly, using personal protective equipment (PPE).
+
+[p18 | prose | SUBSTITUTION]
+SUBSTITUTION
+
+[p18 | prose | SUBSTITUTION]
+– Replace heat-producing plant with plant that does not produce or require heat.
+
+[p18 | prose | SUBSTITUTION]
+– Replace heat-producing plant with plant that produces less heat.
+
+[p18 | prose | ISOLATION]
+ISOLATION
+
+[p18 | prose | ISOLATION]
+If the source of heat cannot be eliminated, the next step is to consider if the heat source can be isolated from workers.
+
+[p18 | prose | ISOLATION]
+This could be achieved by:
+
+[p18 | prose | ISOLATION]
+– enclosing any heat-producing plant, using insulation or installing heat screens around heat-producing plant
+
+[p18 | prose | ISOLATION]
+– separating workers from heat-producing plant by:
+
+[p18 | prose | ISOLATION]
+- putting plant in separate, ventilated rooms
+
+[p18 | prose | ISOLATION]
+- positioning workstations away from radiant heat sources (including direct sunlight).
+
+[p19 | prose | ISOLATION]
+– shielding workers from sources of heat (particularly radiant heat)
+
+[p19 | prose | ISOLATION]
+– mechanising work processes so workers do not have to be near heat producing processes (except for set up and maintenance which can be done when the plant has been shut down).
+
+[p19 | prose | ENGINEERING CONTROL MEASURES]
+ENGINEERING CONTROL MEASURES
+
+[p19 | table | ENGINEERING CONTROL MEASURES]
+| CONTROL MEASURE | EXAMPLES |
+| --- | --- |
+| Cool the air temperature | Install air conditioning - you should deal with any high radiant heat sources first, or air conditioning may not be as effective. Keep heat out of the building: - Install thermal insulation in buildings - especially in metal clad buildings and warehouses - this will reduce heat radiating through walls and roofs - Use blinds, curtains and reflective coatings on windows to reduce direct sunlight. |
+| Promote air movement | Provide personal fans for workers - this is good for dealing with localised high temperatures. Install large diameter ceiling fans: - they can provide air movement that is effective over a wide area - any humidity and radiant heat will need to be managed first for fans to be effective. Install large exhaust fans, mounted in roofs and walls, these may be useful for removing heated air and drawing in cooler air from outside (assuming the air outside is cooler). Where possible, make sure windows can be opened to let fresh air in (as long as it does not interfere with building air conditioning systems). |
+| Lower the humidity | Lower humidity using dehumidifiers. Provide good ventilation and air extraction, especially near work that produces moisture. |
+| Reduce worker exposure to the sun | Where possible, provide shade from the sun while working outdoors. |
+| Use mechanical aids to reduce effort | Introduce mechanical aids (for example lifting aids, fruit picking/harvesting machines) that reduce the physical demands on workers in hot environments. |
+
+[p19 | prose | ENGINEERING CONTROL MEASURES]
+TABLE 4: Engineering control measures for managing heat
+
+[p19 | prose | ADMINISTRATIVE CONTROL MEASURES]
+ADMINISTRATIVE CONTROL MEASURES
+
+[p19 | table | ADMINISTRATIVE CONTROL MEASURES]
+| CONTROL MEASURE | EXAMPLES |
+| --- | --- |
+| Reduce and monitor exposure to heat | ' Issue permits to work that specify how long workers should work in situations where there is a risk. ' Allow workers to enter a worksite only when the temperature is below a set level or at cooler times of the day. 1 Rotate tasks that involve extreme heat, or are physically demanding, amongst workers. 1 Provide protection from solar heat and UV radiation, including: - sunhats - long-sleeved clothing - sunscreen (in very hot weather, sunscreen can sweat off easily and will need to be reapplied regularly.) For more information, see WorkSafe’s quick guide: Protecting workers from solar UV radiation |
+| Give workers time to cool off | - Schedule additional breaks, away from the source of heat, for workers to cool down. - a health and safety professional will be able to advise on an optimal work-rest schedule based on the environmental conditions, work rate and individual needs - work-rest schedules should be discussed with affected workers and tailored to the worker and the environmental situation. - Make sure workers are hydrated. A health and safety professional can provide advice on appropriate hydration schedules for each worker including: - amount - frequency - type of hydration - water and/or electrolytes etc. See Section 2.4 Dehydration for more information. - Provide rest areas out of the sun for people working outdoors. |
+
+[p20 | table | ADMINISTRATIVE CONTROL MEASURES]
+| CONTROL MEASURE | EXAMPLES |
+| --- | --- |
+| Schedule tasks with the weather in mind | Schedule high activity tasks for cooler parts of the day, such as early morning (start early, finish early). For outdoor work, where reasonably practicable, avoid working when the sun is high. If possible, plan high activity tasks for cooler times of the year. |
+| Monitor workers and the working environment | Workers should be regularly monitored for signs and symptoms of heat-related illness or injury. The working environment should be monitored to make sure thermal conditions do not exceed set levels for worker safety (as determined in a heat management plan). Have a buddy system. Workers should work in pairs to keep an eye on each other for signs of heat-related illness or injury. For more information see Section 4 Exposure and health monitoring for extreme temperatures. |
+| Educate workers and supervisors | Make sure workers know what options are available to help them protect themselves from the effects of extreme heat. Make sure workers know they can stop work if they think thermal conditions have become unsafe. Train workers, managers, supervisors or forepersons in the signs and symptoms of heat-related ilinesses and injuries. Make sure first aiders know how to respond to heat-related illnesses and injuries. |
+
+[p20 | prose | ADMINISTRATIVE CONTROL MEASURES]
+TABLE 5: Administrative controls measures for managing heat
+
+[p20 | prose | 2.3 Personal protective equipment (PPE) for work in extremely hot environments]
+2.3 Personal protective equipment (PPE) for work in extremely hot environments
+
+[p20 | prose | PPE can be worn to reduce any remaining risk of heat-related illness and injury]
+PPE can be worn to reduce any remaining risk of heat-related illness and injury
+
+[p20 | prose | PPE can be worn to reduce any remaining risk of heat-related illness and injury]
+PPE should only be used after all other reasonably practicable control measures have been put in place to eliminate or minimise risk.
+
+[p20 | prose | PPE can be worn to reduce any remaining risk of heat-related illness and injury]
+Specific PPE is available to help keep workers cool in hot environments. They can work in two ways by:
+
+[p20 | prose | PPE can be worn to reduce any remaining risk of heat-related illness and injury]
+– shielding workers from the hot environment, such as a very high radiant heat source
+
+[p20 | prose | PPE can be worn to reduce any remaining risk of heat-related illness and injury]
+– providing direct cooling to a worker’s body, usually using air, water flow, or ice/cooled gel.
+
+[p20 | prose | General requirements for providing PPE]
+General requirements for providing PPE
+
+[p20 | prose | General requirements for providing PPE]
+PPE for protecting against the effects of extreme heat can be provided by:
+
+[p20 | prose | General requirements for providing PPE]
+– you (the PCBU)
+
+[p20 | prose | General requirements for providing PPE]
+– another PCBU (costs could be shared)
+
+[p20 | prose | General requirements for providing PPE]
+– the worker (if they genuinely and voluntarily choose to provide their own PPE).
+
+[p20 | prose | General requirements for providing PPE]
+The Health and Safety at Work (General Risk and Workplace Management) Regulations 2016 require PCBUs to make sure PPE is:
+
+[p20 | prose | General requirements for providing PPE]
+– suitable for the nature of the work and any risks associated with that work
+
+[p20 | prose | General requirements for providing PPE]
+– a suitable size, fit, and reasonably comfortable to wear
+
+[p20 | prose | General requirements for providing PPE]
+– suitably maintained, repaired and replaced
+
+[p20 | prose | General requirements for providing PPE]
+– compatible with any other PPE.
+
+[p20 | prose | General requirements for providing PPE]
+These requirements apply to PPE supplied by you or your worker.
+
+[p20 | prose | General requirements for providing PPE]
+You must also provide workers with information and training about how to properly wear or use PPE, and how to store and maintain it.
+
+[p21 | prose | General requirements for providing PPE]
+You cannot pass on the cost (in full or in part) of providing PPE to workers.
+
+[p21 | prose | General requirements for providing PPE]
+For more general advice on providing PPE see WorkSafe’s guidance: Personal Protective Equipment (PPE)
+
+[p21 | prose | Examples of PPE available to help keep workers cool in hot environments]
+Examples of PPE available to help keep workers cool in hot environments
+
+[p21 | prose | CLOTHING THAT SHIELDS AGAINST EXTREME HEAT]
+CLOTHING THAT SHIELDS AGAINST EXTREME HEAT
+
+[p21 | prose | CLOTHING THAT SHIELDS AGAINST EXTREME HEAT]
+This includes flame-resistant clothing (such as Nomex©) and heat-reflective clothing. This clothing can be useful in work areas with extreme radiant heat that cannot be controlled through elimination, substitution, isolation, engineering, or administrative control measures.
+
+[p21 | prose | CLOTHING THAT SHIELDS AGAINST EXTREME HEAT]
+Most heat-reflective clothing is not breathable. This means the ability for sweat to evaporate is limited, leaving workers at risk of overheating. It may be necessary to wear clothing underneath that provides personal cooling to reduce this risk (see below).
+
+[p21 | prose | CLOTHING THAT PROVIDES PERSONAL COOLING]
+CLOTHING THAT PROVIDES PERSONAL COOLING
+
+[p21 | prose | CLOTHING THAT PROVIDES PERSONAL COOLING]
+Clothing with built-in cooling systems includes:
+
+[p21 | prose | CLOTHING THAT PROVIDES PERSONAL COOLING]
+– Water-activated evaporative cooling vests, caps and scarves: These are first filled with or submersed in water, then wrung out and worn over the top of workers’ clothing or on the head. The water interacts with polymer crystals. As the water evaporates it helps reduce body temperature. They are lightweight, do not require electricity, and can be washed and re-used. In addition to vests, cooling caps can be worn under helmets, and ties and scarves can be applied at pulse points. However, as these clothing options rely on evaporation, they are not as effective in high humidity environments.
+
+[p21 | prose | CLOTHING THAT PROVIDES PERSONAL COOLING]
+– Ice-chilled cooling vests and straps: These use ice/gel packs that are pre- chilled in a freezer then placed in pockets inside the cooling vest or strap. Because they are very cold to the touch, they are worn over workers’ clothes.
+
+[p21 | prose | CLOTHING THAT PROVIDES PERSONAL COOLING]
+– Phase change cooling vests: These use cooling packs that draw heat into them. They usually last between 1.5–4 hours. After that time they can have the opposite effect and make the wearer hotter.
+
+[p21 | prose | CLOTHING THAT PROVIDES PERSONAL COOLING]
+– Thermoelectric cooling vests: These cool down the inner surface of the vest. They are powered by a portable battery.
+
+[p21 | prose | CLOTHING THAT PROVIDES PERSONAL COOLING]
+– Cool flow cooling vests: These use a water flow system that pumps chilled water through a vest using hoses. However, workers must remain tethered to the cooling reservoir.
+
+[p21 | prose | CLOTHING THAT PROVIDES PERSONAL COOLING]
+When considering these types of clothing, you should think about:
+
+[p21 | prose | CLOTHING THAT PROVIDES PERSONAL COOLING]
+– How accessible is the area workers will be working in?
+
+[p21 | prose | CLOTHING THAT PROVIDES PERSONAL COOLING]
+– How long do the cooling properties of the clothing need to last?
+
+[p21 | prose | CLOTHING THAT PROVIDES PERSONAL COOLING]
+– How many workers are going to need this clothing?
+
+[p21 | prose | CLOTHING THAT PROVIDES PERSONAL COOLING]
+– What back-up facilities will the various types of cooling equipment need (for example, air supplies, electricity, or freezing facilities)?
+
+[p21 | prose | CLOTHING THAT PROVIDES PERSONAL COOLING]
+– Will wearing the PPE create any other risks such as limiting mobility?
+
+[p21 | prose | PPE can contribute to heat-related illness and injury]
+PPE can contribute to heat-related illness and injury
+
+[p21 | prose | PPE can contribute to heat-related illness and injury]
+Although PPE can help protect workers from multiple risks while working, it can also contribute to the risk of workers suffering a heat-related illness or injury. Heavy or layered PPE can restrict sweating – one of the body’s natural temperature control functions. As air flows over the skin, sweat evaporates and draws away body heat with it, creating a cooling effect.
+
+[p22 | prose | PPE can contribute to heat-related illness and injury]
+When selecting PPE/clothing for workers:
+
+[p22 | prose | PPE can contribute to heat-related illness and injury]
+– make sure wherever possible that PPE is light and breathable
+
+[p22 | prose | PPE can contribute to heat-related illness and injury]
+– select uniforms that are made from natural, breathable fibres
+
+[p22 | prose | PPE can contribute to heat-related illness and injury]
+– give workers a range of options with uniforms or other required clothing so they can add and remove layers as needed to remain comfortable
+
+[p22 | prose | PPE can contribute to heat-related illness and injury]
+– select light colours (light colours reflect heat away)
+
+[p22 | prose | PPE can contribute to heat-related illness and injury]
+– offer clothes for outdoor workers that provide suitable protection from UV radiation (long-sleeves are best)
+
+[p22 | prose | PPE can contribute to heat-related illness and injury]
+– make sure the PPE does not interfere with the functioning of any other required PPE.
+
+[p22 | prose | PPE can contribute to heat-related illness and injury]
+To maximise heat exchange, clothes should be able to transmit moisture. Moisture can be transmitted through breathable fabrics or through clothing openings (as the neck, ankle, and arms).
+
+[p22 | prose | Sweating and frequent hydration is usually the best option]
+Sweating and frequent hydration is usually the best option
+
+[p22 | prose | Sweating and frequent hydration is usually the best option]
+A critical method of body temperature control is for a person to sweat freely, and frequently replace lost fluids. When a person puts on clothing that protects or shields them from a hot environment, sweat may no longer be able to evaporate. This shuts off the body’s internal heat reduction system.
+
+[p22 | prose | Sweating and frequent hydration is usually the best option]
+Workers should only wear PPE that is absolutely necessary after all other reasonably practicable control measures have been used to keep them safe from extreme heat. Excessive PPE requirements can create a new risk for workers in the form of heat-related illness.
+
+[p22 | prose | 2.4 Dehydration]
+2.4 Dehydration
+
+[p22 | prose | 2.4 Dehydration]
+Working in a hot environment causes sweating which helps keep people cool, but also means losing vital water and salts that must be replaced. You should provide access to cool drinking water and encourage workers to drink it frequently in small amounts before, during and after working. Avoid tea, coffee or carbonated drinks.
+
+[p22 | prose | 2.4 Dehydration]
+Workers should make sure they are well hydrated before beginning work in hot environments. Thirst is not a good indicator that it is time to start drinking. By the time a person feels thirsty they are most likely already starting to suffer from the effects of dehydration.
+
+[p22 | prose | 2.4 Dehydration]
+During heavy work in a hot environment workers should generally drink at least 2–4 glasses of cool water every hour. Engage with your workers to come up with strategies and ideas for making sure they get enough hydration.
+
+[p22 | prose | 2.4 Dehydration]
+In some cases a defined rehydration programme may be needed. A health and safety professional can provide advice on appropriate hydration schedules for each worker including:
+
+[p22 | prose | 2.4 Dehydration]
+– amount
+
+[p22 | prose | 2.4 Dehydration]
+– frequency
+
+[p22 | prose | 2.4 Dehydration]
+– type of hydration – for example water or electrolyte solution.
+
+[p22 | prose | 2.4 Dehydration]
+Workers should avoid ice-cold water as this can cause stomach cramps.
+
+[p23 | prose | 2.5 Acclimatisation to hot environments]
+2.5 Acclimatisation to hot environments
+
+[p23 | prose | 2.5 Acclimatisation to hot environments]
+Acclimatisation is when a worker’s body gradually adapts to working in a hotter than normal environment
+
+[p23 | prose | 2.5 Acclimatisation to hot environments]
+Your workers may acclimatise to working in higher temperatures if they are working in a hot environment long-term. Depending on their level of fitness, sex and ethnicity, this usually takes between 7–15 days.
+
+[p23 | prose | 2.5 Acclimatisation to hot environments]
+During the process of acclimatisation the body goes through the following changes:
+
+[p23 | prose | 2.5 Acclimatisation to hot environments]
+– a gradual increase in sweating, increasing heat loss
+
+[p23 | prose | 2.5 Acclimatisation to hot environments]
+– sweat becomes less salty as the body learns to conserve salts (losing salts through sweat is what leads to muscle cramps)
+
+[p23 | prose | 2.5 Acclimatisation to hot environments]
+– weight loss (helps with heat loss as a layer of insulating body fat is lost)
+
+[p23 | prose | 2.5 Acclimatisation to hot environments]
+– increased water consumption (to replace water lost though increased sweating). After a person becomes acclimatised, they feel thirst whenever their body needs more fluid.
+
+[p23 | prose | 2.5 Acclimatisation to hot environments]
+People only remain acclimatised as long as they are regularly exposed to hot conditions. If workers change to a cooler work task, or are away from work for an extended time, they will probably lose their acclimatisation.
+
+[p23 | prose | 2.5 Acclimatisation to hot environments]
+When returning to work in extreme heat, workers may be less tolerant of the heat than before. You need to manage their return to work with this in mind. A suitably qualified health and safety professional will be able to provide you with advice on safe practices for returning a worker to work in extreme heat.
+
+[p25 | prose | Identifying and controlling extreme cold risks will reduce the chances of cold-related illness or injury happening at your work.]
+Identifying and controlling extreme cold risks will reduce the chances of cold-related illness or injury happening at your work.
+
+[p25 | prose | Identifying and controlling extreme cold risks will reduce the chances of cold-related illness or injury happening at your work.]
+Cold-related illnesses and injuries can happen when workers are exposed to:
+
+[p25 | prose | Identifying and controlling extreme cold risks will reduce the chances of cold-related illness or injury happening at your work.]
+– low air temperature
+
+[p25 | prose | Identifying and controlling extreme cold risks will reduce the chances of cold-related illness or injury happening at your work.]
+– high or cold wind/air flow
+
+[p25 | prose | Identifying and controlling extreme cold risks will reduce the chances of cold-related illness or injury happening at your work.]
+– dampness/water (water conducts heat away from the body 25 times faster than dry air).
+
+[p25 | prose | Identifying and controlling extreme cold risks will reduce the chances of cold-related illness or injury happening at your work.]
+Exposure to these conditions can cause skin temperature to drop and in time the body’s core temperature to drop below the healthy average of 37°C.
+
+[p25 | prose | Identifying and controlling extreme cold risks will reduce the chances of cold-related illness or injury happening at your work.]
+Cold-related illnesses and injury are risks especially when working outdoors in cold weather or working in artificially cold environments, such as refrigerated areas. In wet environments illness and injury can happen even at moderate temperatures.
+
+[p25 | prose | Identifying and controlling extreme cold risks will reduce the chances of cold-related illness or injury happening at your work.]
+Unlike heat-related illness and injury, the early symptoms of cold-related illness or injury normally cause quite obvious discomfort, causing workers in most situations to take action before injury or illness occurs.
+
+[p25 | prose | Identifying and controlling extreme cold risks will reduce the chances of cold-related illness or injury happening at your work.]
+PCBUs whose workplace temperatures often drop to uncomfortable levels need to consider cold-related illness or injury as a risk to workers and should create a cold management plan.
+
+[p25 | prose | Types of cold-related illnesses and injury]
+Types of cold-related illnesses and injury
+
+[p25 | prose | Types of cold-related illnesses and injury]
+Cold-related illnesses and injury fall into three main types:
+
+[p25 | prose | Types of cold-related illnesses and injury]
+– non-freezing injuries
+
+[p25 | prose | Types of cold-related illnesses and injury]
+- chilblains
+
+[p25 | prose | Types of cold-related illnesses and injury]
+trench foot/immersion foot
+
+[p25 | prose | Types of cold-related illnesses and injury]
+– freezing injuries
+
+[p25 | prose | Types of cold-related illnesses and injury]
+frostnip
+
+[p25 | prose | Types of cold-related illnesses and injury]
+frostbite
+
+[p25 | prose | Types of cold-related illnesses and injury]
+– hypothermia/immersion hypothermia.
+
+[p25 | prose | Types of cold-related illnesses and injury]
+Non-freezing injuries
+
+[p25 | prose | CHILBLAINS]
+CHILBLAINS
+
+[p25 | prose | CHILBLAINS]
+Chilblains are caused by extended exposure to cold, but not freezing, temperatures. They normally occur on the extremities such as ears, fingers and toes. The affected skin swells, goes red and usually has tingling and pain.
+
+[p26 | prose | TRENCH FOOT/IMMERSION FOOT]
+TRENCH FOOT/IMMERSION FOOT
+
+[p26 | prose | TRENCH FOOT/IMMERSION FOOT]
+Trench foot and immersion foot result from feet being left cold and wet for extended periods of time. Symptoms include tingling, itching and burning feelings in the feet and toes, swelling of the lower legs and blisters. The best way to avoid trench foot/immersion foot is to keep feet warm and dry, change socks often, and make sure socks and shoes are not too tight, to promote good circulation.
+
+[p26 | prose | Freezing injuries]
+Freezing injuries
+
+[p26 | prose | FROSTNIP]
+FROSTNIP
+
+[p26 | prose | FROSTNIP]
+Frostnip affects the top layers of skin when exposed to extreme cold. It usually affects the extremities such as ears, noses, fingers and toes. The top layers of skin turn white and may feel hard but deeper tissue is still soft and healthy. Wearing gloves and hats can help protect against frostnip.
+
+[p26 | prose | FROSTBITE]
+FROSTBITE
+
+[p26 | prose | FROSTBITE]
+Frostbite occurs when body tissue freezes due to exposure to extreme cold or by contact with extremely cold objects (such as metal objects in sub-zero conditions). Blood vessels can be severely and permanently damaged by frostbite. In extreme cases tissue death occurs, which can lead to gangrene and amputation.
+
+[p26 | prose | FROSTBITE]
+Frostbite most often affects the extremities such as the face and ears, fingers and toes.
+
+[p26 | prose | FROSTBITE]
+Signs of frostbite include:
+
+[p26 | prose | FROSTBITE]
+– cold, tingling, stinging or aching in the affected area
+
+[p26 | prose | FROSTBITE]
+– numbness
+
+[p26 | prose | FROSTBITE]
+– aching
+
+[p26 | prose | FROSTBITE]
+– skin turns red, then purple, then very pale or white
+
+[p26 | prose | FROSTBITE]
+– skin is very cold to the touch
+
+[p26 | prose | FROSTBITE]
+– in severe cases the skin will become hard or blister.
+
+[p26 | prose | FROSTBITE]
+Skin that has had cold damage in the past will be much more at risk of frostbite in the future.
+
+[p26 | prose | Hypothermia]
+Hypothermia
+
+[p26 | prose | Hypothermia]
+Hypothermia is the most serious cold-related illness. Hypothermia occurs when the body can no longer maintain a core temperature of about 37°C.
+
+[p26 | prose | Hypothermia]
+When the body is unable to warm itself, and drops below 36°C, hypothermia occurs. If left untreated it can lead to permanent organ damage and death.
+
+[p26 | prose | Hypothermia]
+If a person is experiencing any symptoms of hypothermia, they should be removed from the cold environment. Seek immediate medical help. Hypothermia can be fatal if left untreated.
+
+[p26 | prose | SIGNS AND SYMPTOMS OF MILD HYPOTHERMIA]
+SIGNS AND SYMPTOMS OF MILD HYPOTHERMIA
+
+[p26 | prose | SIGNS AND SYMPTOMS OF MILD HYPOTHERMIA]
+(core temp 36–35°C)
+
+[p26 | prose | SIGNS AND SYMPTOMS OF MODERATE HYPOTHERMIA (core temp 35–32°C)]
+SIGNS AND SYMPTOMS OF MODERATE HYPOTHERMIA (core temp 35–32°C)
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Shivering
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Pale, cold skin
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Violent shivering – Slurred speech
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Shivering stops – Slurred speech, mumbling
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Fatigue
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Dizziness or confusion
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Sleepiness
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Pain in the extremities (hands and feet)
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Lack of co-ordination/ loss of fine motor skills
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Slow, shallow breathing – Weakened pulse
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Lessening finger dexterity
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Numbness in the hands or fingers
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Increased confusion/ difficulty thinking clearly
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Extremely cold skin
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Unconsciousness – Death
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+– Mild confusion
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+TABLE 6:
+
+[p26 | prose | SIGNS AND SYMPTOMS OF SEVERE HYPOTHERMIA (core temp 32–24°C)]
+Signs of hypothermia
+
+[p27 | prose | Immersion hypothermia]
+Immersion hypothermia
+
+[p27 | prose | Immersion hypothermia]
+Occupations that require immersion in water, such as commercial diving, carry a greater risk of workers developing cold-related illnesses such as immersion hypothermia. Water draws heat away from the body 25 times faster than air. Even in water temperatures as high as 20°C, hypothermia is still a risk.
+
+[p27 | prose | Immersion hypothermia]
+To reduce the risk of developing immersion hypothermia, workers/divers should wear wetsuits thick enough to provide protection in cooler waters and deeper dives.
+
+[p27 | prose | Immersion hypothermia]
+Accessories such as hoods, gloves and booties also provide good thermal protection when diving in cooler waters.
+
+[p27 | prose | Immersion hypothermia]
+If using a drysuit, thermal undergarments should be worn.
+
+[p27 | prose | Immersion hypothermia]
+Once out of the water, workers should change into warm, dry clothing as soon as possible, especially if there is significant wind-chill present. Damp wetsuits contribute to heat loss even further through evaporation.
+
+[p27 | prose | Immersion hypothermia]
+See Section 8 First aid for heat-related and cold-related illnesses and injuries for a summary of symptoms and first aid treatments for cold-related illnesses and injury.
+
+[p27 | prose | 3.1 Assess the risk of cold-related illness and injury]
+3.1 Assess the risk of cold-related illness and injury
+
+[p27 | prose | 3.1 Assess the risk of cold-related illness and injury]
+Carry out a cold risk assessment
+
+[p27 | prose | 3.1 Assess the risk of cold-related illness and injury]
+You will need to carry out a cold risk assessment wherever there is a work environment that has uncomfortably low temperatures, cold air flow or water exposure. This will help decide the best steps to take if a cold risk is identified.
+
+[p27 | prose | What do I need to consider when doing a risk assessment?]
+What do I need to consider when doing a risk assessment?
+
+[p27 | prose | What do I need to consider when doing a risk assessment?]
+When carrying out a risk assessment for cold-related illness or injury you need to consider:
+
+[p27 | prose | What do I need to consider when doing a risk assessment?]
+– The work environment, including:
+
+[p27 | prose | What do I need to consider when doing a risk assessment?]
+- air temperature
+
+[p27 | prose | What do I need to consider when doing a risk assessment?]
+- exposure to dampness/water
+
+[p27 | prose | What do I need to consider when doing a risk assessment?]
+- air movement/wind-chill
+
+[p27 | prose | What do I need to consider when doing a risk assessment?]
+the effects of the physical landscape.
+
+[p27 | prose | What do I need to consider when doing a risk assessment?]
+– The worker’s individual circumstances:
+
+[p27 | prose | What do I need to consider when doing a risk assessment?]
+the work rate or level of physical activity required
+
+[p27 | prose | What do I need to consider when doing a risk assessment?]
+- clothing and PPE requirements
+
+[p27 | prose | What do I need to consider when doing a risk assessment?]
+- overall health and medical conditions that may affect an individual’s tolerance to cold.
+
+[p27 | prose | Work rate]
+Work rate
+
+[p27 | prose | Work rate]
+High activity during moderately cool temperatures can increase metabolic heat and help maintain thermal comfort. But at extremely cold temperatures (freezing) high work activity causing sweating can create wet clothes. This will accelerate skin cooling and increase the risk of cold injury or illness occurring.
+
+[p27 | prose | Work rate]
+In extremely cold situations workers need to be able to self-pace so they do not get too hot.
+
+[p28 | prose | Listen to your workers]
+Listen to your workers
+
+[p28 | prose | Listen to your workers]
+Talk to your workers to see whether they are feeling any thermal discomfort while working, or experiencing symptoms of cold-related illness or injury. Ask what they think the causes may be.
+
+[p28 | prose | Listen to your workers]
+You could ask workers to rate how they feel using the scale below (or a similar scale).
+
+[p28 | table | Listen to your workers]
+| -4 | =5 | = | l | 0 | 1 |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Very cold | Cold | Cool | Slightly cool | Comfortable | Slightly warm | Warm | Hot | Very hot |
+
+[p28 | prose | Listen to your workers]
+Even if workers do not report discomfort, you still need to continue with a risk assessment to rule out potential risks.
+
+[p28 | prose | Things to think about when assessing if there is a cold risk at your work]
+Things to think about when assessing if there is a cold risk at your work
+
+[p28 | prose | Things to think about when assessing if there is a cold risk at your work]
+Look at the following thermal factors. Consider how they may be adding to or taking away from the effect of the high air temperature.
+
+[p28 | prose | Things to think about when assessing if there is a cold risk at your work]
+The following list of questions are suggestions of what to consider but is not exhaustive. You should also consult with your workers when doing a risk assessment. Your workers may have other observations or suggestions on what cold-related risks are present.
+
+[p28 | prose | Things to think about when assessing if there is a cold risk at your work]
+If there are factors that apply to your work, or your workers identify potential risks, you will need to treat cold-related illness or injury as a potential risk for your workers.
+
+[p28 | prose | AIR TEMPERATURE]
+AIR TEMPERATURE
+
+[p28 | prose | AIR TEMPERATURE]
+Use air temperature as a starting point.
+
+[p28 | prose | AIR TEMPERATURE]
+– What are the coolest parts of the day?
+
+[p28 | prose | AIR TEMPERATURE]
+– What are the coolest locations in the workplace or work area?
+
+[p28 | prose | AIR TEMPERATURE]
+– What are the minimum and maximum temperatures?
+
+[p28 | prose | AIR TEMPERATURE]
+– What is the average temperature?
+
+[p28 | prose | EXPOSURE TO WATER]
+EXPOSURE TO WATER
+
+[p28 | prose | EXPOSURE TO WATER]
+– Are workers working in wet conditions?
+
+[p28 | prose | EXPOSURE TO WATER]
+– How wet do workers get while working?
+
+[p28 | prose | EXPOSURE TO WATER]
+– How often are workers exposed to wet conditions – occasionally, often, or all the time?
+
+[p28 | prose | AIR MOVEMENT/WIND-CHILL]
+AIR MOVEMENT/WIND-CHILL
+
+[p28 | prose | AIR MOVEMENT/WIND-CHILL]
+– Is there strong air movement in the place of work?
+
+[p28 | prose | AIR MOVEMENT/WIND-CHILL]
+– Is the work environment exposed to strong, cold draughts or wind?
+
+[p28 | prose | PHYSICAL LANDSCAPE]
+PHYSICAL LANDSCAPE
+
+[p28 | prose | PHYSICAL LANDSCAPE]
+For outdoor work, consider how the terrain (such as valleys, hills, or mountains) affects the air temperature.
+
+[p28 | prose | PHYSICAL LANDSCAPE]
+– Does the terrain create microclimates of extreme temperatures that would not be indicated in regional weather forecasts?
+
+[p28 | prose | PHYSICAL LANDSCAPE]
+– Are workers working in a valley with limited sun in winter?
+
+[p28 | prose | WORK RATE/PHYSICAL ACTIVITY]
+WORK RATE/PHYSICAL ACTIVITY
+
+[p28 | prose | WORK RATE/PHYSICAL ACTIVITY]
+– Are workers mostly active or mostly sitting down?
+
+[p29 | prose | CLOTHING/PPE]
+CLOTHING/PPE
+
+[p29 | prose | CLOTHING/PPE]
+– Are workers appropriately clothed for the season and the temperature?
+
+[p29 | prose | CLOTHING/PPE]
+– Are workers able to safely wear waterproof and windproof clothing to remain comfortable while performing tasks?
+
+[p29 | prose | CLOTHING/PPE]
+– How breathable/dryable is workers clothing?
+
+[p29 | prose | CLOTHING/PPE]
+– Are uniforms made from materials appropriate for the work environment and temperature?
+
+[p29 | prose | WORKER HEALTH]
+WORKER HEALTH
+
+[p29 | prose | WORKER HEALTH]
+– Are workers fit and healthy?
+
+[p29 | prose | WORKER HEALTH]
+– Do any workers suffer from health conditions that may make them less tolerant of low temperatures? (see Appendix D)
+
+[p29 | prose | WORKER HEALTH]
+– Are any of your workers on medication that may affect their body’s response to cold? (see Appendix D)
+
+[p29 | prose | OTHER CONSIDERATIONS]
+OTHER CONSIDERATIONS
+
+[p29 | prose | OTHER CONSIDERATIONS]
+– How long are workers potentially being exposed to low temperatures?
+
+[p29 | prose | OTHER CONSIDERATIONS]
+– Are some tasks more complex or take longer than others, resulting in longer exposure times?
+
+[p29 | prose | OTHER CONSIDERATIONS]
+– Do you have workers who work alone? This may increase the chance of cold-related illness symptoms going unnoticed until quite advanced.
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+If cold-related illness or injury may be a risk for your workers
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+If your workplace assessment shows there may be a risk to your workers of suffering cold-related illnesses or injury while working, you should get an assessment by a workplace health and safety professional.
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+You can find a list of workplace health and safety professionals at:
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+– The Health and Safety Association of New Zealand
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+– New Zealand Occupational Hygiene Society
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+– Human Factors and Ergonomics Society of New Zealand
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+A workplace health and safety professional with experience in assessment and management of cold risks can assist with a detailed workplace risk assessment
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+Assessment may involve:
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+– measuring or assessing the cold influences on the worker such as wind-chill
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+– estimating metabolic rate
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+– physiological monitoring such as:
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+- measuring internal core body temperature
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+- measuring heart rate
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+– estimating clothing insulation values.
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+They can provide advice on developing a cold management plan. This may include a recommended safe working temperature range for your work situation.
+
+[p29 | prose | If cold-related illness or injury may be a risk for your workers]
+See Section 4.1 Exposure monitoring for extreme temperatures for further information on how exposure monitoring can help you understand and control the risk of cold-related illness or injury at work.
+
+[p29 | prose | If cold-related illness or injury is unlikely to be a risk for your workers]
+If cold-related illness or injury is unlikely to be a risk for your workers
+
+[p29 | prose | If cold-related illness or injury is unlikely to be a risk for your workers]
+You may still like to consider how the thermal environment at your work may affect your workers’ well-being.
+
+[p30 | prose | If cold-related illness or injury is unlikely to be a risk for your workers]
+WorkSafe has guidelines for managing everyday work temperatures and worker thermal comfort. See WorkSafe’s quick guide: Managing thermal comfort at work
+
+[p30 | prose | 3.2 Control the risk of cold-related illness and injury]
+3.2 Control the risk of cold-related illness and injury
+
+[p30 | prose | Hierarchy of controls for managing cold risks]
+Hierarchy of controls for managing cold risks
+
+[p30 | prose | Hierarchy of controls for managing cold risks]
+If a risk assessment shows cold-related illness or injury is a risk for your workers, the risk should be eliminated. If elimination is not reasonably practicable, the risk must be minimised.
+
+[p30 | prose | Hierarchy of controls for managing cold risks]
+Minimising the risk is done by applying control measures to the work and working environment using substitution, isolation, or engineering control measures.
+
+[p30 | prose | Hierarchy of controls for managing cold risks]
+If it is not reasonably practicable to minimise using those control measures, then administrative control measures, and lastly, personal protective equipment (PPE) can be used to reduce any remaining risk.
+
+[p30 | prose | Hierarchy of controls for managing cold risks]
+FIGURE 3:
+
+[p30 | prose | Hierarchy of controls for managing cold risks]
+For more detailed information on controlling health and safety risks at work generally, see WorkSafe’s quick guide: Identifying, assessing and managing work risks
+
+[p30 | prose | Choose control measures that suit your situation]
+Choose control measures that suit your situation
+
+[p30 | prose | Choose control measures that suit your situation]
+You need to consider what control measures will be reasonably practicable for your situation. For example:
+
+[p30 | prose | Indoor or outdoor work]
+Indoor or outdoor work
+
+[p30 | prose | Indoor or outdoor work]
+Some control measures will only be possible or effective in indoor environments. Other control measures will be more appropriate in outdoor environments.
+
+[p30 | prose | Constant or occasional extreme temperatures]
+Constant or occasional extreme temperatures
+
+[p30 | prose | Constant or occasional extreme temperatures]
+Some control measures will be better suited to work environments where extreme cold is always a risk. Some will be better suited to work environments where extreme cold only occurs occasionally.
+
+[p30 | prose | Consult with your workers when considering control measures]
+Consult with your workers when considering control measures
+
+[p30 | prose | Consult with your workers when considering control measures]
+Your workers will be able to provide insights on which control measures might be more effective than others for your work and environment.
+
+[p31 | prose | Elimination of cold risks]
+Elimination of cold risks
+
+[p31 | prose | Elimination of cold risks]
+Ideally you should remove the cold source entirely or reduce the source of cold to safe levels.
+
+[p31 | prose | This could be achieved by:]
+This could be achieved by:
+
+[p31 | prose | This could be achieved by:]
+– Finding another way to carry out the work without having the source of cold that is causing risk in the work environment
+
+[p31 | prose | This could be achieved by:]
+– Scheduling work to be carried out during a period of time when cold will not be an issue, such as:
+
+[p31 | prose | This could be achieved by:]
+- when cold processes are shut down
+
+[p31 | prose | This could be achieved by:]
+- a time of year when cold is not a problem.
+
+[p31 | prose | This could be achieved by:]
+– Altering the work environment so that workers do not have to operate near cold sources.
+
+[p31 | prose | Minimisation of cold risks]
+Minimisation of cold risks
+
+[p31 | prose | Minimisation of cold risks]
+If the source of cold cannot be eliminated you must minimise the risk of cold illness or injury occurring. Control measures can include substitution, isolation, engineering control measures, administrative control measures and lastly, using personal protective equipment (PPE).
+
+[p31 | prose | SUBSTITUTION]
+SUBSTITUTION
+
+[p31 | prose | SUBSTITUTION]
+Replace existing plant with plant that is designed with built-in protection against potential cold injury. Existing plant could be substituted with:
+
+[p31 | prose | SUBSTITUTION]
+– plant that has metal handles or other exposed parts covered with thermal insulation material (especially in conditions below 0°C)
+
+[p31 | prose | SUBSTITUTION]
+– plant and tools that can be operated safely without workers having to remove gloves.
+
+[p31 | prose | ISOLATION]
+ISOLATION
+
+[p31 | prose | ISOLATION]
+If the source of cold cannot be eliminated, the next step is to consider if the source of cold can be isolated from workers.
+
+[p31 | prose | ISOLATION]
+This could be achieved by:
+
+[p31 | prose | ISOLATION]
+– enclosing cold processes so that workers are protected.
+
+[p31 | prose | ISOLATION]
+– moving workers activities to areas not affected by extreme cold/wind/moisture
+
+[p31 | prose | ISOLATION]
+– mechanising cold processes so that workers do not need to go near them except for setup and maintenance.
+
+[p31 | prose | ENGINEERING CONTROL MEASURES]
+ENGINEERING CONTROL MEASURES
+
+[p31 | table | ENGINEERING CONTROL MEASURES]
+| CONTROL MEASURE | EXAMPLES |
+| --- | --- |
+| Warm the air temperature | Install heating - radiant heating is effective for large work spaces and hot air jets can be useful for local heating, especially if bare hands are needed. Keep cold out of the building - install thermal insulation in buildings, especially in metal clad buildings and warehouses. |
+| Reduce exposure to the wind | Provide wind shields/barriers and refuges - these can be used indoors in cool stores to provide refuges from circulating cold air. Have settings in cool rooms and chillers to reduce air velocity while workers are inside (to keep air speed below 1 meter per second). |
+| Choose tools that are better suited to work in cold environments | Select tools with thermal insulation material on the handles (especially in conditions below 0°C). Machines and tools should be designed so they can be used without operators having to remove gloves. i Avoid using metal tools if possible. |
+
+[p32 | table | ENGINEERING CONTROL MEASURES]
+| CONTROL MEASURE | EXAMPLES |
+| --- | --- |
+| Use mechanical aids to reduce manual handling | Use mechanical aids (lifting aids etc) to reduce the need for manual handling. This will reduce sweating/perspiration, which can cool workers further. |
+| Design work environments to promote moderate activity and limit staying in one place for too long | Design work environments where workers are able to move about, and not required to stand or sit for long periods in cold conditions. Provide insulated floor coverings in areas where workers are required to stand. |
+
+[p32 | prose | ENGINEERING CONTROL MEASURES]
+TABLE 7: Engineering controls – cold
+
+[p32 | prose | ADMINISTRATIVE CONTROL MEASURES]
+ADMINISTRATIVE CONTROL MEASURES
+
+[p32 | table | ADMINISTRATIVE CONTROL MEASURES]
+| CONTROL MEASURE | EXAMPLES |
+| --- | --- |
+| Reduce and monitor exposure to cold | Schedule additional breaks for workers to warm up. - A health and safety professional will be able to advise an optimal work-rest schedule based on the environmental conditions, work rate and individual needs. - Work-rest schedules should be discussed with affected workers and tailored to the worker and the environmental situation. Set time limits on how long workers can work in situations where there is a cold risk. Allow workers to enter a worksite only when the temperature is above a set level or at warmer times of the day. Rotate workers more frequently on tasks where they are exposed to extreme cold. |
+| Give workers time to warm up | Schedule more frequent breaks to allow warming up time. Provide warm drinks. Provide heated rest areas. Provide rest areas out of the cold, away from cold sources. |
+| Schedule tasks with the weather in mind | Schedule tasks for warmer parts of the day. Plan outdoor tasks for warmer times of the year (if possible). |
+| Monitor workers and the working environment | Regularly monitor workers for signs and symptoms of cold-related illness or injury. Monitor the working environment to make sure thermal conditions do not drop below set levels for worker safety (as determined in a cold management plan). Have a buddy system. Have workers work in pairs to keep an eye on each other for signs of cold illness and injury. For more information see Section 4 Exposure and health monitoring for extreme temperatures. |
+| Educate workers and supervisors | ell workers what options are available to them to help protect themselves from the effects of extreme cold. Make sure workers are aware they can stop work if they believe thermal conditions have become unsafe. Encourage workers to drink plenty of fluids but avoid caffeine, alcohol and energy drinks. Encourage healthy lifestyles. A balanced diet, exercise and enough rest all help reduce vulnerability to cold. Train workers, managers, supervisors or forepersons on the signs and symptoms of cold- related illnesses and injuries. Train first aiders on how to respond to cold-related illnesses and injuries. |
+
+[p32 | prose | ADMINISTRATIVE CONTROL MEASURES]
+TABLE 8: Administrative controls – cold
+
+[p33 | prose | 3.3 Personal protective equipment (PPE) for work in extremely cold environments]
+3.3 Personal protective equipment (PPE) for work in extremely cold environments
+
+[p33 | prose | PPE can be used to reduce any remaining risk of cold-related illness and injury]
+PPE can be used to reduce any remaining risk of cold-related illness and injury
+
+[p33 | prose | PPE can be used to reduce any remaining risk of cold-related illness and injury]
+PPE is typically considered the last option when providing protection from harm while working. However when protecting workers from extreme cold, especially in outdoor environments, clothing/PPE has a very important role.
+
+[p33 | prose | PPE can be used to reduce any remaining risk of cold-related illness and injury]
+Clothing provides workers with protection from the cold by:
+
+[p33 | prose | PPE can be used to reduce any remaining risk of cold-related illness and injury]
+– providing insulation by trapping warm air between clothing layers.
+
+[p33 | prose | PPE can be used to reduce any remaining risk of cold-related illness and injury]
+– protecting the body from wind-chill
+
+[p33 | prose | PPE can be used to reduce any remaining risk of cold-related illness and injury]
+– keeping workers dry.
+
+[p33 | prose | General requirements for providing PPE]
+General requirements for providing PPE
+
+[p33 | prose | General requirements for providing PPE]
+PPE for protecting against the effects of extreme cold can be provided by:
+
+[p33 | prose | General requirements for providing PPE]
+– the person conducting a business or undertaking (PCBU)
+
+[p33 | prose | General requirements for providing PPE]
+– another PCBU (costs could be shared)
+
+[p33 | prose | General requirements for providing PPE]
+– the worker (if they genuinely and voluntarily choose to provide their own PPE).
+
+[p33 | prose | General requirements for providing PPE]
+The Health and Safety at Work (General Risk and Workplace Management) Regulations 2016 require PCBUs to make sure PPE is:
+
+[p33 | prose | General requirements for providing PPE]
+– suitable for the nature of the work and any risks associated with that work
+
+[p33 | prose | General requirements for providing PPE]
+– a suitable size, fit, and reasonably comfortable to wear
+
+[p33 | prose | General requirements for providing PPE]
+– suitably maintained, repaired and replaced
+
+[p33 | prose | General requirements for providing PPE]
+– compatible with any other PPE.
+
+[p33 | prose | General requirements for providing PPE]
+These requirements apply to PPE supplied by you or your workers.
+
+[p33 | prose | General requirements for providing PPE]
+PCBUs must also provide workers with information and training about how to properly wear or use PPE, and how to store and maintain it.
+
+[p33 | prose | General requirements for providing PPE]
+PCBUs cannot pass on the cost (in full or part) of providing PPE to workers.
+
+[p33 | prose | General requirements for providing PPE]
+For more general advice on providing PPE see WorkSafe’s guidance: Personal Protective Equipment (PPE)
+
+[p33 | prose | What to think about when choosing PPE for work in extremely cold environments]
+What to think about when choosing PPE for work in extremely cold environments
+
+[p33 | prose | What to think about when choosing PPE for work in extremely cold environments]
+When considering what PPE is needed to protect against cold illness or injury you need to think about:
+
+[p33 | prose | TEMPERATURE]
+TEMPERATURE
+
+[p33 | prose | TEMPERATURE]
+– What is the average temperature where work will be taking place?
+
+[p33 | prose | TEMPERATURE]
+– Are you protecting workers against moderately cold or sub-zero temperatures?
+
+[p33 | prose | TEMPERATURE]
+– Will workers be moving between work in cold and warm environments?
+
+[p33 | prose | WEATHER CONDITIONS]
+WEATHER CONDITIONS
+
+[p33 | prose | WEATHER CONDITIONS]
+– Will workers be exposed to strong or cold winds?
+
+[p33 | prose | WEATHER CONDITIONS]
+– Will workers to be exposed to rainy or wet conditions?
+
+[p33 | prose | WEATHER CONDITIONS]
+– Will these conditions likely occur some of the time or a lot of the time?
+
+[p34 | prose | WORK TASKS]
+WORK TASKS
+
+[p34 | prose | WORK TASKS]
+– Do work tasks require manual dexterity or a lot of physical manoeuvrability?
+
+[p34 | prose | WORK TASKS]
+– Are workers likely to build up a sweat, despite the cold conditions?
+
+[p34 | prose | WORK TASKS]
+– Will the PPE add any risks, for example limiting mobility?
+
+[p34 | prose | COMPATIBILITY WITH OTHER PPE]
+COMPATIBILITY WITH OTHER PPE
+
+[p34 | prose | COMPATIBILITY WITH OTHER PPE]
+– Could the PPE interfere with the functioning of any other required PPE?
+
+[p34 | prose | COMPATIBILITY WITH OTHER PPE]
+If suitable protective clothing is not available to prevent cold illness or injury from happening, work should be suspended until suitable clothing is available or weather conditions improve.
+
+[p34 | prose | COMPATIBILITY WITH OTHER PPE]
+Workers should have a spare set of dry clothing that can be changed into if clothing gets wet.
+
+[p34 | prose | Layering is best for keeping warm and comfortable]
+Layering is best for keeping warm and comfortable
+
+[p34 | prose | Layering is best for keeping warm and comfortable]
+Clothing should be worn in multiple layers rather than a single thick garment. This traps warm air, which insulates against the cold. Having several layers also gives workers the option to open or remove a layer before they get too warm and start sweating, or to add a layer when they take a break. Sweating in extremely cold environments can increase the risks of cold-related illness or injury because the resulting damp clothing can cool, and even freeze.
+
+[p34 | prose | Layering is best for keeping warm and comfortable]
+For working in windy conditions (where workers cannot be shielded) a windproof outer layer should be provided.
+
+[p34 | prose | Layering is best for keeping warm and comfortable]
+For working in wet conditions, waterproof clothing should be provided. Workers can cool much more quickly when damp and cold are combined.
+
+[p34 | prose | Choose the right fabric]
+Choose the right fabric
+
+[p34 | prose | Choose the right fabric]
+Different fabrics suit different needs for:
+
+[p34 | prose | Choose the right fabric]
+– outer/weather-proof layers, choose waterproof and windproof but breathable fabrics (such as Gor-Tex© or Nylon)
+
+[p34 | prose | Choose the right fabric]
+– a middle insulating layer that will absorb moisture from body and provide insulation, choose wool fabrics
+
+[p34 | prose | Choose the right fabric]
+– an inner layer that draws moisture away from the body, choose synthetics such as polypropylene.
+
+[p34 | prose | Choose the right fabric]
+Cotton is not recommended as it holds moisture easily and loses its insulation properties when wet.
+
+[p34 | prose | Getting the correct fit is important]
+Getting the correct fit is important
+
+[p34 | prose | Getting the correct fit is important]
+Avoid tight clothing as this restricts blood flow. Good blood flow, especially to the extremities, is essential for helping prevent cold injuries such as frost nip and frostbite.
+
+[p34 | prose | Getting the correct fit is important]
+Looser fitting clothing allows warm air to be trapped between layers but tight clothing does not allow for this. Loose clothing also provides better ventilation to help avoid sweating.
+
+[p34 | prose | Getting the correct fit is important]
+However, clothing should not be so baggy that it creates a risk of being caught in machinery.
+
+[p35 | prose | Caring for thermally protective clothing]
+Caring for thermally protective clothing
+
+[p35 | prose | Caring for thermally protective clothing]
+Thermally protective clothing should be cleaned and stored appropriately:
+
+[p35 | prose | Caring for thermally protective clothing]
+– Clothing should be kept clean to prevent air spaces (which increase insulation) from becoming clogged with dirt.
+
+[p35 | prose | Caring for thermally protective clothing]
+– Moisture should be kept off clothes by removing snow or shaking off water before entering heated shelters.
+
+[p35 | prose | Caring for thermally protective clothing]
+– Facilities should be available for drying clothing items that become damp or wet from water or sweat.
+
+[p35 | prose | Protect the head, face and eyes]
+Protect the head, face and eyes
+
+[p35 | prose | Protect the head, face and eyes]
+Up to 40% of body heat can be lost through the head.
+
+[p35 | prose | Protect the head, face and eyes]
+Head/face/eye protection should be worn in cold environments. Options include:
+
+[p35 | prose | Protect the head, face and eyes]
+– woollen caps and beanies
+
+[p35 | prose | Protect the head, face and eyes]
+– balaclavas
+
+[p35 | prose | Protect the head, face and eyes]
+– face and neck warmers
+
+[p35 | prose | Protect the head, face and eyes]
+– thermal liners (for wearing under hard hats)
+
+[p35 | prose | Protect the head, face and eyes]
+– protective glasses
+
+[p35 | prose | Protect the head, face and eyes]
+– ear muffs
+
+[p35 | prose | Protect the head, face and eyes]
+– lip balm and moisturising lotions to prevent lesions.
+
+[p35 | prose | Protect the head, face and eyes]
+Head coverings should provide protection for ears.
+
+[p35 | prose | Protect the head, face and eyes]
+In extremely cold conditions where face protection is worn, eye protection should be separated from the nose and mouth to stop condensation building up on the glasses.
+
+[p35 | prose | Keep hands and fingers warm]
+Keep hands and fingers warm
+
+[p35 | prose | Keep hands and fingers warm]
+If fine manual dexterity is not required, gloves should be worn for:
+
+[p35 | prose | Keep hands and fingers warm]
+– sedentary work under 10°C
+
+[p35 | prose | Keep hands and fingers warm]
+– light work under 4°C
+
+[p35 | prose | Keep hands and fingers warm]
+– moderate work less than -7°C.
+
+[p35 | prose | Keep hands and fingers warm]
+Gloves must be the correct size to avoid creating safety risks.
+
+[p35 | prose | Keep hands and fingers warm]
+Where the temperature is below -17°C, mittens should be worn where possible. Mittens with all fingers enclosed together and only the thumb is separate provide better thermal insulation than gloves.
+
+[p35 | prose | Keep hands and fingers warm]
+If fine work needs to be performed with bare hands for greater than 10–20 minutes at temperatures below 16°C, you should keep workers’ hands warm by providing warm air blowers, and provide insulated handles on tools.
+
+[p35 | prose | Keep feet warm and dry]
+Keep feet warm and dry
+
+[p35 | prose | Keep feet warm and dry]
+Make sure footwear is kept dry, and replace footwear when it becomes wet. Wet feet lose heat 25 times faster than dry feet.
+
+[p35 | prose | Keep feet warm and dry]
+Felt-lined, rubber-bottomed, leather-topped boots with removable thermal insoles are recommended for work in cold environments.
+
+[p35 | prose | Keep feet warm and dry]
+Thick socks are good for providing insulation, but make sure the thickness of socks does not make footwear too tight. Tight socks or footwear can restrict blood flow which will increase the chances of developing trenchfoot or frost bite.
+
+[p35 | prose | Keep feet warm and dry]
+If work involves standing in water or slush (for example, firefighting, farming), waterproof boots should be worn.
+
+[p36 | prose | 3.4 Acclimatisation to cold environments]
+3.4 Acclimatisation to cold environments
+
+[p36 | prose | 3.4 Acclimatisation to cold environments]
+Acclimatisation is when a worker’s body gradually adapts to working in an extreme environment.
+
+[p36 | prose | 3.4 Acclimatisation to cold environments]
+The human body does not acclimatise well to cold environments. However, frequently exposed body parts such as the hands can develop some tolerance to cold. The body can get used to maintaining blood flow to fingers in conditions that would otherwise normally result in a reduction in blood flow.
+
+[p36 | prose | 3.4 Acclimatisation to cold environments]
+You should not rely on acclimatisation as a control measure.
+
+[p36 | prose | 3.4 Acclimatisation to cold environments]
+New workers should be provided with insulated personal protective clothing to wear before work starts (and after all other control measures are in in place).
+
+[p38 | prose | Exposure and health monitoring can help tell you if your control measures are working or if further controls are needed]
+Exposure and health monitoring can help tell you if your control measures are working or if further controls are needed
+
+[p38 | prose | 4.1 Exposure monitoring for extreme temperatures]
+4.1 Exposure monitoring for extreme temperatures
+
+[p38 | prose | 4.1 Exposure monitoring for extreme temperatures]
+What is exposure monitoring?
+
+[p38 | prose | 4.1 Exposure monitoring for extreme temperatures]
+Exposure monitoring is the measurement and evaluation of exposure to a health hazard experienced by a person at work. This can include exposure to extremely high or low temperatures at work. It can help to determine what control measures are needed, or if existing control measures are working.
+
+[p38 | prose | 4.1 Exposure monitoring for extreme temperatures]
+The working environment should be monitored to make sure thermal conditions do not change to levels that threaten worker safety (as determined in a heat or cold management plan).
+
+[p38 | prose | 4.1 Exposure monitoring for extreme temperatures]
+It includes measuring and monitoring the thermal conditions in the work environment. For example:
+
+[p38 | prose | 4.1 Exposure monitoring for extreme temperatures]
+– air temperature
+
+[p38 | prose | 4.1 Exposure monitoring for extreme temperatures]
+– humidity/water exposure
+
+[p38 | prose | 4.1 Exposure monitoring for extreme temperatures]
+– radiant heat sources
+
+[p38 | prose | 4.1 Exposure monitoring for extreme temperatures]
+– air speed
+
+[p38 | prose | 4.1 Exposure monitoring for extreme temperatures]
+– length of exposure.
+
+[p38 | prose | 4.1 Exposure monitoring for extreme temperatures]
+Monitoring should also take into consideration workers’ level of physical activity and what clothes and/or PPE they may be required to wear.
+
+[p38 | prose | 4.1 Exposure monitoring for extreme temperatures]
+Monitoring does not control risk and does not replace the need for control measures to eliminate or minimise worker exposure to high or low temperatures. It can help confirm if control measures are required or if existing control measures are working.
+
+[p38 | prose | Who can carry out the exposure monitoring?]
+Who can carry out the exposure monitoring?
+
+[p38 | prose | Who can carry out the exposure monitoring?]
+Monitoring should be carried out by a competent person such as an occupational hygienist who has the right knowledge, skills and experience in appropriate techniques and procedures, including interpreting results.
+
+[p38 | prose | Who can carry out the exposure monitoring?]
+You can find a list of workplace health and safety professionals on the HASANZ website register: www.hasanz.org.nz or contact the New Zealand Occupational Hygiene Society: www.nzohs.org.nz
+
+[p39 | prose | Who can carry out the exposure monitoring?]
+How often should exposure monitoring be carried out?
+
+[p39 | prose | Who can carry out the exposure monitoring?]
+For work environments where extreme temperatures are a constant risk, monitoring will need to be carried out at regular intervals and when there are significant changes in the work environment which may affect temperature.
+
+[p39 | prose | Who can carry out the exposure monitoring?]
+For work environments where extreme temperatures are only a risk some of the time, a plan should be put in place to trigger when monitoring should be done.
+
+[p39 | prose | Who can carry out the exposure monitoring?]
+This may mean getting monitoring done at different times of the year across the seasons. A health and safety professional can provide you with a customised monitoring schedule to suit your work environment.
+
+[p39 | prose | Who can carry out the exposure monitoring?]
+For more information on workplace exposure monitoring see:
+
+[p39 | prose | Who can carry out the exposure monitoring?]
+– WorkSafe’s fact sheet: Exposure Monitoring under the Health and Safety at Work (General Risk and Workplace Management) Regulations 2016
+
+[p39 | prose | Who can carry out the exposure monitoring?]
+If monitoring shows there are still unacceptable thermal conditions in the work environment, or workers are still at risk of heat-related or cold-related illnesses, further control measures should be put in place, or work should stop until the environment is safe again.
+
+[p39 | prose | 4.2 Health monitoring and health assessments for extreme temperatures]
+4.2 Health monitoring and health assessments for extreme temperatures
+
+[p39 | prose | 4.2 Health monitoring and health assessments for extreme temperatures]
+Tolerance to extreme heat or extreme cold can vary a lot between individual workers. You need to assess each worker’s suitability for working in extreme hot or cold environments before work starts.
+
+[p39 | prose | 4.2 Health monitoring and health assessments for extreme temperatures]
+You also need to monitor each worker’s health while working in an extreme environment to make sure they are not being adversely affected. This is called health monitoring.
+
+[p39 | prose | 4.2 Health monitoring and health assessments for extreme temperatures]
+Health monitoring looks for changes to your workers’ health that may be occurring because of what they’re being exposed to at work.
+
+[p39 | prose | 4.2 Health monitoring and health assessments for extreme temperatures]
+Information from health monitoring can help confirm that control measures are working effectively to minimise your workers’ exposure to extreme heat or cold (and any other exposure risk you decide needs monitoring).
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT HEAT TOLERANCE]
+PERSONAL FACTORS THAT MAY AFFECT HEAT TOLERANCE
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Age – younger people (under 25) and older people (over 55) are more vulnerable
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Sex – males generally produce slightly more metabolic heat than females
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Underlying health conditions (high blood pressure, heart disease etc)
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Body build and weight (excess body fat can act as additional insulation)
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Use of certain prescribed medicines
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Age – older people in particular are more vulnerable
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Sex – males and females respond differently to cold conditions
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+- male core body temperatures cool more rapidly than females
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+- females’ extremities (hands and feet) cool faster than males’ – making females a higher risk for cold injury
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Underlying cardiovascular conditions (high blood pressure, heart disease, angina etc)
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Use of substances such as alcohol or illegal drugs
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– History of respiratory disease, asthma etc
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Pregnancy
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Fatigue
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Acclimatisation
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Hydration/dehydration
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Use of certain prescribed medicines that interfere with body temperature regulation
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Temporary health issues such as dehydration caused by diarrhoea, hangover or fever
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Use of substances such as alcohol or illegal drugs – Raynaud’s phenomenon (constriction of blood supply to the extremities)
+
+[p39 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+– Previous cold injury
+
+[p40 | prose | PERSONAL FACTORS THAT MAY AFFECT COLD TOLERANCE]
+See Appendix D for a more detailed list of medical conditions and substances that can increase a person’s sensitivity to extreme temperatures.
+
+[p40 | prose | Identify who is at risk]
+Identify who is at risk
+
+[p40 | prose | Identify who is at risk]
+Workers should be screened to make sure they are healthy enough to be working in extremely hot or cold environments. Checks should be done at the following stages:
+
+[p40 | prose | PRE-EMPLOYMENT]
+PRE-EMPLOYMENT
+
+[p40 | prose | PRE-EMPLOYMENT]
+Before employing a person, or hiring a contractor, to work in a hot or cold environment, you should fully explain what the job includes, and the risks associated with it and confirm with them that they are fit and healthy enough for the job.
+
+[p40 | prose | PRE-TASK]
+PRE-TASK
+
+[p40 | prose | PRE-TASK]
+Shortly before the work begins do a pre-task health check to check that a worker is fit to perform work in extreme heat or cold. This is particularly important for identifying any temporary conditions that may have not been present during pre-employment discussions.
+
+[p40 | prose | DURING AND AFTER TASK]
+DURING AND AFTER TASK
+
+[p40 | prose | DURING AND AFTER TASK]
+Monitor worker health during and after work in extreme conditions. Look for any signs of heat-related or cold-related illness or injury.
+
+[p40 | prose | DURING AND AFTER TASK]
+Stages of identifying at-risk workers
+
+[p40 | prose | DURING AND AFTER TASK]
+If you identify a worker as being more at risk of heat-related or cold-related illness or injury because of existing illness or medication, you will need to consider any additional control measures that need to be put in place for that worker. Alternatively consider whether they can be assigned to a task that does not expose them to extreme heat or cold.
+
+[p40 | prose | DURING AND AFTER TASK]
+Note: Monitoring does not replace the need for control measures to reduce exposure to high or low temperatures. It should help confirm if additional control measures are required or if existing control measures are working.
+
+[p40 | prose | Pre-employment health checks]
+Pre-employment health checks
+
+[p40 | prose | Pre-employment health checks]
+Before employing a person, or hiring a contractor, to work in a hot or cold environment, you should fully explain what the job includes, and the risks associated with it and confirm with them that they are fit and healthy enough for the job.
+
+[p40 | prose | Pre-employment health checks]
+Things to consider include:
+
+[p40 | prose | Pre-employment health checks]
+– What is the worker’s capability?
+
+[p40 | prose | Pre-employment health checks]
+- What training, qualifications and competency does the worker currently have?
+
+[p40 | prose | Pre-employment health checks]
+- What training, qualifications and competencies would you need to provide?
+
+[p40 | prose | Pre-employment health checks]
+– Is the worker physically fit?
+
+[p40 | prose | Pre-employment health checks]
+– What is their current level of acclimatisation (where relevant)?
+
+[p40 | prose | Pre-employment health checks]
+– What specific PPE will you need to provide to the worker?
+
+[p40 | prose | Pre-employment health checks]
+Keeping in mind your obligations under other legislation including privacy and discrimination laws, make sure the worker is aware that the following personal
+
+[p41 | prose | Pre-employment health checks]
+conditions may increase the risks associated with working in extremely hot or cold environments:
+
+[p41 | prose | Pre-employment health checks]
+– using certain medications such as diuretics, antidepressants or anticholinergics
+
+[p41 | prose | Pre-employment health checks]
+– taking drugs or alcohol
+
+[p41 | prose | Pre-employment health checks]
+– health conditions such as diabetes, obesity, skin disorders, febrile illness or heart disease
+
+[p41 | prose | Pre-employment health checks]
+– previous exposure to heat-related or cold-related illness or injury
+
+[p41 | prose | Pre-employment health checks]
+– pregnancy
+
+[p41 | prose | Pre-employment health checks]
+– a history of dehydration or electrolyte depletion, for example being on a fluid-restricted diet.
+
+[p41 | prose | Pre-employment health checks]
+See Appendix D Medical conditions and substances that can increase sensitivity to extreme temperatures for a more detailed list.
+
+[p41 | prose | Pre-employment health checks]
+After discussing the above list, you could ask if there’s anything that would prevent the prospective worker from carrying out the full duties of the job.
+
+[p41 | prose | Pre-task health checks]
+Pre-task health checks
+
+[p41 | prose | Pre-task health checks]
+Shortly before a task begins, you should check that a worker is fit to perform the particular task. This is particularly important for picking up any temporary conditions that may have not been present during pre-employment discussions.
+
+[p41 | prose | Pre-task health checks]
+Two sample health questionnaires are included in Appendices E and F. They may help to screen workers before starting work in extremely hot or cold environments. These questionnaires should be carried out by an occupational health professional or medical practitioner. Based on the findings, they may choose to conduct a more thorough clinical examination.
+
+[p41 | prose | TEMPORARY UNFITNESS]
+TEMPORARY UNFITNESS
+
+[p41 | prose | TEMPORARY UNFITNESS]
+Conditions such as a current infection with or without fever, dehydration, or loss of sleep may mean a previously fit worker is at risk from heat-related or cold-related illness or injury. Claims of feeling unwell should be taken seriously and investigated.
+
+[p41 | prose | TEMPORARY UNFITNESS]
+Workers should also receive training to self-monitor for signs and symptoms of heat-related and cold-related illness or injury while working. For more information see Section 7 Worker training and education.
+
+[p41 | prose | Health monitoring during work and after work]
+Health monitoring during work and after work
+
+[p41 | prose | Health monitoring during work and after work]
+In extremely hot or cold work environments you may need to monitor workers while they are working. This is particularly important for heat stroke which can occur quite suddenly.
+
+[p41 | prose | Health monitoring during work and after work]
+The following should be measured at regular intervals. If elevated, workers should not return to work until these measurements have returned to normal. Baseline measurements can be taken from pre-task health check recordings:
+
+[p41 | prose | Health monitoring during work and after work]
+– heart rate
+
+[p41 | prose | Health monitoring during work and after work]
+– blood pressure
+
+[p41 | prose | Health monitoring during work and after work]
+– core body temperature.
+
+[p41 | prose | Health monitoring during work and after work]
+Depending on the worker’s initial health assessment and the degree of extreme heat or cold the worker may be exposed to, the professional you hire to do the health assessments and health monitoring may advise that other tests are required (such as urinalysis for checking kidney function).
+
+[p41 | prose | Who can carry out health checks and health monitoring?]
+Who can carry out health checks and health monitoring?
+
+[p41 | prose | Who can carry out health checks and health monitoring?]
+For worker health checks and health monitoring (particularly when invasive testing is required), you will need an occupational nurse or occupational physician.
+
+[p42 | prose | Who can carry out health checks and health monitoring?]
+Things to consider before engaging them include:
+
+[p42 | prose | Who can carry out health checks and health monitoring?]
+– Do they have the right knowledge and qualifications?
+
+[p42 | prose | Who can carry out health checks and health monitoring?]
+– Are they experienced in carrying out extreme temperature health checks and monitoring?
+
+[p42 | prose | Who can carry out health checks and health monitoring?]
+– Can they interpret results, and readily explain to you what the results mean?
+
+[p42 | prose | Who can carry out health checks and health monitoring?]
+– Is the proposed monitoring provider acceptable to workers?
+
+[p42 | prose | Who can carry out health checks and health monitoring?]
+For occupational health practitioners you could look here:
+
+[p42 | prose | Occupational nurses]
+Occupational nurses
+
+[p42 | prose | Occupational nurses]
+New Zealand Occupational Health Nurses’ Association
+
+[p42 | prose | Occupational physicians:]
+Occupational physicians:
+
+[p42 | prose | Occupational physicians:]
+Australian and New Zealand Society of Occupational Medicine Inc
+
+[p42 | prose | Occupational physicians:]
+Australasia Faculty of Occupational and Environment Medicine (AFOEM)
+
+[p42 | prose | Occupational physicians:]
+You cannot charge or levy workers for anything done for health and safety reasons. This includes the cost of worker health assessments and monitoring.
+
+[p42 | prose | You must get written informed consent from workers to take part in health checks and monitoring]
+You must get written informed consent from workers to take part in health checks and monitoring
+
+[p42 | prose | You must get written informed consent from workers to take part in health checks and monitoring]
+As health checks and monitoring may involve medical tests, the rights and duties (including consent requirements) will apply: Code of Health and Disability Services Consumer’s Rights
+
+[p42 | prose | You must get written informed consent from workers to take part in health checks and monitoring]
+For more information about the Code of Health and Disability Services Consumer’s Rights see the website: Health and Disability Commissioner
+
+[p42 | prose | Tell your workers about why and how health monitoring will take place]
+Tell your workers about why and how health monitoring will take place
+
+[p42 | prose | Tell your workers about why and how health monitoring will take place]
+The table below describes what you must tell your workers before starting health monitoring.
+
+[p42 | table | Tell your workers about why and how health monitoring will take place]
+| INFORMATION YOU MUST PROVIDE | EXAMPLE |
+| --- | --- |
+| Why health monitoring is being carried out | To help you (the PCBU) reduce the risk of harm to workers from exposure to extremely hot or cold work conditions. To facilitate the treatment and protection of workers who have been exposed to extreme temperature conditions at work. |
+| What health monitoring will take place | The nature of the health monitoring and how it will be carried out. That a health monitoring report with be produced. |
+| What information will be provided to the person carrying out the health monitoring | The information that will be provided to the health and safety professional doing the monitoring. |
+| What information will be in the health monitoring report | The specific contents of the health monitoring report. |
+| When the PCBU must notify the regulator or other PCBUs with overlapping duties | The duty of the PCBU to notify the regulator (most of the time this will be WorkSafe) and other relevant PCBUs. |
+| How the health monitoring reports will be handled | How and when the health monitoring reports will be retained, stored and shared. |
+
+[p42 | prose | Tell your workers about why and how health monitoring will take place]
+TABLE 10: Information to give to workers before health monitoring
+
+[p43 | prose | If a worker doesn’t want to take part in health checks or monitoring]
+If a worker doesn’t want to take part in health checks or monitoring
+
+[p43 | prose | If a worker doesn’t want to take part in health checks or monitoring]
+Health monitoring cannot go ahead until the worker gives informed consent.
+
+[p43 | prose | If a worker doesn’t want to take part in health checks or monitoring]
+You should work together with any worker who has concerns about taking part in personal health monitoring to address their concerns. However if the worker still doesn’t want to take part, consider what alternative steps you could take to manage their health risks. For example, could the worker do different work that doesn’t require monitoring?
+
+[p43 | prose | If a worker doesn’t want to take part in health checks or monitoring]
+A worker refusing to participate in monitoring does not excuse you of the responsibility to manage the risk in other ways.
+
+[p43 | prose | If a worker doesn’t want to take part in health checks or monitoring]
+You could include health monitoring participation into employment agreements or contracts so workers will know about these requirements up-front before they take the job.
+
+[p43 | prose | You must keep personal information confidential]
+You must keep personal information confidential
+
+[p43 | prose | You must keep personal information confidential]
+If you are collecting, storing, using or disclosing personal information, you must comply with: Privacy Act 1993
+
+[p43 | prose | You must keep personal information confidential]
+You should tell your workers how you will keep their personal information confidential. All personal health information should be securely destroyed as soon as it is no longer needed.
+
+[p43 | prose | You must keep personal information confidential]
+For more information about the Privacy Act and your obligations, see The Office of the Privacy Commissioner website: www.privacy.org.nz
+
+[p43 | prose | You must keep personal information confidential]
+If monitoring results shows your workers are at risk, you must take immediate action
+
+[p43 | prose | You must keep personal information confidential]
+Decide what actions you will immediately take to eliminate or minimise the health risks to your workers.
+
+[p43 | prose | You must keep personal information confidential]
+– You should urgently review and revise your control measures with help from a suitably qualified and experienced health and safety professional.
+
+[p43 | prose | You must keep personal information confidential]
+– Depending on the monitoring results, you could be advised to send your workers to a suitably qualified and experienced occupational health practitioner (for example, occupational nurse, occupational physician) for a medical assessment.
+
+[p43 | prose | More information on exposure and health monitoring]
+More information on exposure and health monitoring
+
+[p43 | prose | More information on exposure and health monitoring]
+For more detailed guidance and information on health monitoring for workers see WorkSafe’s website: Health monitoring and exposure monitoring
+
+[p45 | prose | Considering and planning for extreme temperature risks early can reduce the need and costs of control measures later]
+Considering and planning for extreme temperature risks early can reduce the need and costs of control measures later
+
+[p45 | prose | 5.1 Workplace design]
+5.1 Workplace design
+
+[p45 | prose | 5.1 Workplace design]
+Consider the work environment/workplace layout
+
+[p45 | prose | 5.1 Workplace design]
+When setting up a new workplace, position heat-producing or cold-producing plant away from where workers will be working or taking breaks.
+
+[p45 | prose | 5.1 Workplace design]
+Construct new buildings with heat or cold control measures ‘built in’ (such as good ventilation, insulation, and shielding). Build in systems for measuring the thermal environment which can be used to assess if there is a risk.
+
+[p45 | prose | Equipment design]
+Equipment design
+
+[p45 | prose | Equipment design]
+Purchase plant that gives off the least amount of heat, or is suitably shielded, to reduce the amount of radiant heat workers are exposed to.
+
+[p45 | prose | Equipment design]
+Purchase plant that is designed to protect against cold injury. For example, machines designed so they can be used without operators having to remove gloves, or machines with metal handles covered by thermal insulation material.
+
+[p45 | prose | Equipment design]
+For more information on health and safety considerations when designing plant, structures or substances, see WorkSafe’s good practice guidelines: Health and safety by design – an introduction
+
+[p45 | prose | 5.2 Planning and scheduling]
+5.2 Planning and scheduling
+
+[p45 | prose | Workers]
+Workers
+
+[p45 | prose | Workers]
+When recruiting workers, clearly explain the nature of the work what may affect their heat or cold tolerance. Make sure workers are aware of any health monitoring requirements before accepting the job.
+
+[p45 | prose | Scheduling]
+Scheduling
+
+[p45 | prose | Scheduling]
+When doing long-term planning, consider the time of year when work is carried out and if possible schedule work with heat-related risks for winter months, and work with cold-related risks for summer months. Plan work with heat-related risks for cooler parts of the day (for example, start early, finish early).
+
+[p45 | prose | Scheduling]
+On tasks where workers will be exposed to extreme temperatures, plan worker numbers and availability so there are enough workers to rotate them frequently.
+
+[p47 | prose | Workers need to know how to keep themselves safe from extreme temperature-related illness and injury]
+Workers need to know how to keep themselves safe from extreme temperature-related illness and injury
+
+[p47 | prose | Workers need to know how to keep themselves safe from extreme temperature-related illness and injury]
+People who work in extremely hot or cold environments, or who supervise work in those environments, should be trained to recognise the causes and signs of heat-related or cold-related illnesses or injury, how to prevent illness and injury from occurring (safe work practices), and how to respond if illness or injury does happen.
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+6.1 Preventing heat-related and cold-related illness and injury
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+Workers need to understand how they can keep themselves safe from heat-related or cold-related illness or injury while working. This includes understanding the need to:
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+– report any existing or new medication that could affect their tolerance to extreme temperatures
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+– maintain reasonable physical fitness
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+– keep hydrated
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+– recognise fatigue and the increased risk it creates
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+– how to self-pace to avoid overheating.
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+Training should be provided to workers about:
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+– the correct use of PPE:
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+- when it is required
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+- how to wear or use it
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+- how to maintain and store it
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+– how to safely operate any personal cooling or warming equipment they have been provided
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+– being alert to environmental risk factors and who to report these to – when to stop work if conditions are unsafe.
+
+[p47 | prose | 6.1 Preventing heat-related and cold-related illness and injury]
+See Section 2.3 Personal protective equipment (PPE) for work in extremely hot environments and Section 3.3 Personal protective equipment (PPE) for work in extremely cold environments for more information
+
+[p48 | prose | 6.2 Responding to heat-related and cold-related illness and injury]
+6.2 Responding to heat-related and cold-related illness and injury
+
+[p48 | prose | 6.2 Responding to heat-related and cold-related illness and injury]
+Workers should receive training on how to detect the early signs of heat-related or cold-related illness or injury and what to do if they or others are experiencing symptoms. This should include:
+
+[p48 | prose | 6.2 Responding to heat-related and cold-related illness and injury]
+– understanding the physical warning signs of heat-related or cold-related illness or injury and any personal factors that may put them at greater risk
+
+[p48 | prose | 6.2 Responding to heat-related and cold-related illness and injury]
+– how to recognise symptoms in others and what to do about it
+
+[p48 | prose | 6.2 Responding to heat-related and cold-related illness and injury]
+– what the appropriate first aid response is for each type of heat-related or cold-related illness and injury
+
+[p48 | prose | 6.2 Responding to heat-related and cold-related illness and injury]
+– when to call for emergency assistance.
+
+[p48 | prose | 6.2 Responding to heat-related and cold-related illness and injury]
+See Section 8 First aid for heat-related and cold-related illnesses and injuries for tables that outline the symptoms and suggested treatment for heat-related and cold-related illnesses and injuries.
+
+[p50 | prose | 6.2 Responding to heat-related and cold-related illness and injury]
+Preventing heat-related and cold-related illness and injury is the priority – but being able to recognise and respond to heat-related and cold-related illness and injury is also important
+
+[p50 | prose | 6.2 Responding to heat-related and cold-related illness and injury]
+You have a duty to provide your workers with access to first aid equipment and facilities, and access to trained first aiders.
+
+[p50 | prose | 6.2 Responding to heat-related and cold-related illness and injury]
+Workplaces where heat-related or cold-related illness or injury is a risk need to have first aiders with specific training in dealing with heat-related or cold-related illnesses, injuries and emergencies.
+
+[p50 | prose | 6.2 Responding to heat-related and cold-related illness and injury]
+You should also make sure all workers are aware of the signs of heat-related and cold-related illnesses and injuries and how to treat them. See Section 7 Worker training and education for more details.
+
+[p50 | prose | 6.2 Responding to heat-related and cold-related illness and injury]
+Emergency procedures should include how to respond to heat-related and cold-related illness or injury emergencies.
+
+[p50 | prose | 6.2 Responding to heat-related and cold-related illness and injury]
+Note: The first aid information below is not a substitute for formal first aid training or seeking professional medical help.
+
+[p50 | prose | 7.1 First aid for heat-related illness and injury]
+7.1 First aid for heat-related illness and injury
+
+[p50 | prose | 7.1 First aid for heat-related illness and injury]
+The table below outlines the symptoms and recommended treatment for various heat-related illnesses.
+
+[p50 | table | 7.1 First aid for heat-related illness and injury]
+| CONDITION | SYMPTOMS | TREATMENT |
+| --- | --- | --- |
+| Heat rash | - Small, red, itchy bumps on skin | ' Move to a cooler, less humid environment Keep the affected area dry |
+| Heat cramps | - Muscular pains and spasms, usually in the abdomen, arms or legs | See a doctor or nurse if either of the below apply: - heart condition - low-sodium diet Drink water or electrolyte replacement solutions Rest in a cool environment and do not return to strenuous activity until a few hours after the cramps have ended See a doctor or nurse if cramps do not go away within one hour |
+
+[p51 | table | 7.1 First aid for heat-related illness and injury]
+| CONDITION | SYMPTOMS | TREATMENT |
+| --- | --- | --- |
+| Heat exhaustion | ' Heavy sweating Paleness Muscle cramps Tiredness Weakness Dizziness Vomiting Headache Fast and weak pulse, fast Shallow breathing | See a doctor or nurse if either of the below apply: - heart condition - high blood pressure Stop work immediately Replenish fluids Move to a cool place, out of the sun and away from any heat sources Take action to cool down (remove clothes, sponge with cold water, apply wet towels) Cool down by taking a cool shower or bath Seek medical attention if symptoms worsen or last longer than one hour |
+| Heat stroke | High body temperature (above 39.4°C) Confusion Disorientation Unconsciousness Red hot dry skin (no sweating) Throbbing headache Nausea Rapid strong pulse | Call 111 for immediate medical assistance. Move to a cool place with circulating air Remove or loosen any unnecessary clothing, including PPE Cool down, for example: - splash room temperature water on skin, or sponge skin - use a fan to direct a gentle airflow over the body - apply cold packs or wrapped ice to neck, groin and armpits Monitor body temperature and continue cooling efforts until body temperature drops below 38.5°C If fully conscious, drink cool, but not cold, fluid, such as water or an electrolyte solution Note: Shivering is an automatic muscular reaction which warms the body. It will make the body temperature rise even further. If shivering starts, stop cooling immediately and cover up until shivering stops. Once shivering has stopped recommence first aid treatment. |
+
+[p51 | prose | 7.1 First aid for heat-related illness and injury]
+TABLE 11: First aid for heat-related illness and injury
+
+[p51 | prose | 7.2 First aid for cold-related illness and injury]
+7.2 First aid for cold-related illness and injury
+
+[p51 | prose | 7.2 First aid for cold-related illness and injury]
+The table below outlines the symptoms and recommended treatment for various cold-related injuries and illnesses.
+
+[p51 | table | 7.2 First aid for cold-related illness and injury]
+| CONDITION | SYMPTOMS | TREATMENT |
+| --- | --- | --- |
+| Chilblains | Swelling, redness, itching, tingling and pain on fingers, toes, ears, cheeks or other extremities | Avoid scratching affected areas Slowly warm the skin Corticosteroid creams can help ease itching and swelling |
+| Trenchfoot/ immersion foot | Tingling, itching and burning feelings in the feet and toes Swelling of the lower legs Blisters | Check for signs of hypothermia Move to a warm area Carefully remove wet footwear and socks Slowly warm up using blankets Make sure clothing is dry Do not apply direct heat to the feet Do not rub feet Loosely cover feet with a sterile dressing Drink warm liquids (but not alcohol or caffeine) Avoid walking (this can cause further damage) See a doctor or nurse |
+| Frostnip | - Skin turns white on ear, nose, fingertips or toes - Skin and may feel hard | Move to a warm area and slowly rewarm the affected area |
+
+[p52 | table | 7.2 First aid for cold-related illness and injury]
+| CONDITION | SYMPTOMS | TREATMENT |
+| --- | --- | --- |
+| Frostbite | Cold, tingling, stinging or aching in the affected area (usually face and ears, fingers and toes) Numbness Aching Skin turns red, then purple, then very pale or white Skin is very cold to the touch In severe cases the skin will become hard or blister | Check for signs of hypothermia Move to a warm area Loosen or remove clothing that may be restricting circulation Make sure clothing is dry Slowly warm up using blankets Do not apply direct heat to the affected area Do not rub the affected area Loosely cover the affected area with a sterile dressing = Drink warm liquids (but not alcohol or caffeine) = See a doctor or nurse Note: Do not warm the affected area if there is a chance of it refreezing. If the area re-freezes tissue damage will be even more severe. |
+| Hypothermia /immersion hypothermia | Early signs: - Shivering - Pale, cold skin - Fatigue Pain in the extremities (hands and feet) Lessening finger dexterity Numbness in the hands or fingers - Mild confusion Later signs: = Violent shivering = Slurred speech - Dizziness or confusion Lack of co-ordination/loss of fine motor skills increased confusion/difficulty thinking clearly Advanced signs: - Shivering stops - Slurred speech, mumbling - Sleepiness Slow, shallow breathing Weakened pulse Extremely cold skin Unconsciousness Death | Call 1M for immediate medical assistance. - Move to a warm area Remove wet clothing Warm the centre of the body first (neck, chest, abdomen) Slowly warm up using blankets Body-to-body contact can help warm a person gradually Do not re-warm too quickly, do not use a hot bath If conscious, drink warm liquids (but not alcohol, caffeine or energy drinks) |
+
+[p54 | glossary | Appendix A: Glossary]
+Appendix A: Glossary
+
+[p54 | glossary | Appendix A: Glossary]
+| TERM | DEFINITION |
+| --- | --- |
+| Acclimatisation | The process, or result of, gradually adapting to a new climate or new conditions. |
+| Chilblains | Inflammation and irritation of the extremities due to exposure to cold (but not freezing) conditions. |
+| Cold illness or injury | Injury or iliness caused by exposure to extreme cold and or wind and water. Can occur over a short or extended period of time. |
+| Control measure | A way of eliminating or minimising risks to health and safety. |
+| Core body temperature | The temperature found in the brain, the heart and the abdominal organs. It changes very little from 37°C, and is vital for the normal functioning of these organs. |
+| Dehydration | When the body loses more fluid than is replaced. The body doesn’t have enough water and other fluids to carry out normal functions. |
+| Fatigue | A state of extreme tiredness. There is increased discomfort and decreased efficiency, with a loss of power or capacity to respond to stimulation. There is a decreased desire for physical or mental effort. |
+| Frost bite | Freezing of the skin and underlying tissues. Can result in permanent tissue damage. |
+| Frost nip | Freezing of superficial skin layers. Causes numbness and whiteness of the skin. |
+| Heat illness or injury | Injury or iliness caused by exposure to extreme heat and or humidity. Can occur over a short or extended period of time. |
+| Heat rash | Irritation of the skin from excessive sweating during hot and humid weather. |
+| Heat stroke | An extreme state of heat strain that occurs when the core body temperature reaches very high levels of 41°C or above. Can be fatal if not treated quickly. |
+| HSWA | Health and Safety at Work Act 2015. |
+| Humidity | The moisture content in the air. Measured as a percentage. Humidity of between 40% and 70% is considered ideal for human comfort. |
+| Hypothermia | An extreme state of cold stress. It is a condition of low core temperature and is clinically defined as a deep body temperature below 35°C. |
+| Immersion foot | See Trench foot. |
+| Immersion Hypothermia | Hypothermia caused by immersion in cold water. Immersion in cold water causes rapid loss of heat from the body. |
+| Metabolic heat | Heat created within the body. It is formed when food is converted, by chemical reaction, into mechanical energy (muscle contractions) and heat. |
+| Microclimate | Atmospheric or weather conditions in a particular area that may differ from the surrounding area. For example, the difference in weather conditions and temperature between the tops of hills and neighbouring valleys. |
+| PCBU | A person conducting a business or undertaking. The term PCBU describes all types of working arrangements that are commonly referred to as a business. A PCBU may be an individual person or an organisation. Most New Zealand businesses, whether large corporates, sole traders, or self- employed people, are PCBUs. |
+| Primary duty of care | A PCBU must ensure, so far as is reasonably practicable, the health and safety of workers, and other persons are not put at risk by its work. This is called the ‘primary duty of care’. |
+| Radiant heat | Heat that is emitted from anything that’s hot. |
+
+[p55 | glossary | Appendix A: Glossary]
+| TERM | DEFINITION |
+| --- | --- |
+| Reasonably practicable | Health and safety duties need to be carried out so far as is reasonably practicable. There are two parts to this. First consider what is possible in your circumstances to ensure health and safety. Then consider, of these possible actions, what is reasonable to do in your circumstances. Consider: - How likely is the risk? How severe is the illness or injury that might result? - What do you know, or should you reasonably know, about the risk and the ways of eliminating or minimising it? - What is the availability of the control measures? How suitable are they for the specific risk? What are the costs of the control measure? Are the costs grossly disproportionate to the risk? For more information see WorkSafe’s fact sheet: Reasonably practicable |
+| Thermal comfort | When a person feels neither too hot nor too cold. They feel comfortable. |
+| Thermal discomfort | When a person feels either too hot or too cold, but where no harm is suffered from the thermal environment. |
+| Trench foot | Injury of the skin, blood vessels, and nerves of the feet. Caused by prolonged exposure to cold and wet. |
+| Wind-chill | The cooling effect of the wind. It can speed up the cooling process in cold working conditions. |
+| Worker | An individual who carries out work in any capacity for a PCBU, including: - employees, contractors or sub-contractors - employees of contractors or sub-contractors - employees of labour hire companies apprentices or trainees people doing work experience or a work trial outworkers (including home workers) volunteer workers. |
+| Work rate | In the context of extreme temperature, work rate refers to how physically demanding the work is. A high work rate means workers are more likely to experience an increase in the metabolic heat produced in their body. |
+
+[p56 | appendix | Appendix B: What does the law say?]
+Appendix B: What does the law say?
+
+[p56 | appendix | Appendix B: What does the law say?]
+Everyone at work has duties under the Health and Safety at Work Act 2015 (HSWA). The main duties that apply to managing extreme temperatures at work are set out below:
+
+[p56 | appendix | Appendix B: What does the law say?]
+| WHO | DUTIES | PROVISIONS |
+| --- | --- | --- |
+| Person Conducting a Business or Undertaking (PCBU) | Primary duty of care Make sure, so far as is reasonably practicable, that the health and safety of workers and other people are not put at risk from the work of the business or undertaking. | HSWA s 36 |
+| Worker engagement and participation Must, so far as is reasonably practicable, engage with workers on health and safety matters that are likely to directly affect them. | HSWA s 58 |  |
+| Must have worker participation practices that give workers a reasonable opportunity to participate effectively in improving health and safety on an ongoing basis. See Appendix C: Worker engagement and participation for more information. | HSWA s 61 |  |
+| Workplace facilities Must make sure, so far as is reasonably practicable, that workers carrying out work in extremes of heat or cold are able to do so without risks to health and safety. | HSWA (General Risk and Workplace Management) Regulations 2016 reg 10(1)(f) |  |
+| Designers, manufacturers, importers, suppliers or installers of plant or structures | Must ensure that buildings, plant and equipment are, so far as is reasonably practicable, designed, manufactured, imported, supplied and installed without risks to the health and safety of persons. | HSWA s 39-43 |
+| Provide users with adequate information about the purpose of what is designed or manufactured, the results of any tests, and how to use it safely. |  |  |
+| Officers such as company directors | Must exercise due diligence to ensure the business or undertaking complies with HSWA and its Regulations. This includes taking reasonable steps to ensure the business or undertaking has and uses appropriate resources and processes to eliminate or minimise risks to health and safety. | HSWA s 44 |
+| Workers | Must take reasonable care for their own health and safety and not adversely affect the health and safety of other people. Workers must comply with reasonable instruction and cooperate with any reasonable policy or procedure relating to health and safety at the workplace that has been notified to them. | HSWA's 45 |
+| Other persons at the workplace | Must take reasonable care for their own health and safety and take reasonable care not to adversely affect other people’s health and safety. Other persons at the workplace must comply, so far as they are reasonably able, with reasonable instructions relating to health and safety. | HSWA s 46 |
+
+[p57 | prose | What does reasonably practicable mean?]
+What does reasonably practicable mean?
+
+[p57 | prose | What does reasonably practicable mean?]
+Health and safety duties need to be managed so far as is reasonably practicable. There are two parts to ‘reasonably practicable’. First consider what is possible in your circumstances to ensure health and safety. Then consider, of these possible actions, what is reasonable to do in your circumstances.
+
+[p57 | prose | What does reasonably practicable mean?]
+When deciding what is ‘reasonably practicable’, consider:
+
+[p57 | prose | What does reasonably practicable mean?]
+– How likely is the risk and how severe is the illness or injury that might result?
+
+[p57 | prose | What does reasonably practicable mean?]
+– What do you know, or what you ought reasonably to know, about the hazard or risk and the ways of eliminating or minimising the risk?
+
+[p57 | prose | What does reasonably practicable mean?]
+– What is the availability of the control measures, and how suitable are they for the specific risk?
+
+[p57 | prose | What does reasonably practicable mean?]
+– As a final step, what are the costs of the control measure and are the costs grossly disproportionate to the risk?
+
+[p57 | prose | What does reasonably practicable mean?]
+For more information, see WorkSafe’s fact sheet: Reasonably practicable
+
+[p58 | appendix | Appendix C: Worker engagement and participation]
+Appendix C: Worker engagement and participation
+
+[p58 | appendix | Appendix C: Worker engagement and participation]
+PCBUs have two duties under HSWA related to worker engagement and participation:
+
+[p58 | appendix | Appendix C: Worker engagement and participation]
+– to engage with workers on health and safety matters that affect or are likely to affect them, so far as is reasonably practicable, and
+
+[p58 | appendix | Appendix C: Worker engagement and participation]
+– to have practices that give workers reasonable opportunities to participate effectively in the ongoing improvement of work health and safety.
+
+[p58 | prose | Engage with your workers about the risks of working in extreme temperatures]
+Engage with your workers about the risks of working in extreme temperatures
+
+[p58 | prose | Engage with your workers about the risks of working in extreme temperatures]
+You must engage and consult with your workers on work health and safety matters, so far as is reasonably practicable. This includes when identifying, controlling and monitoring risks related to working in extreme temperatures, as outlined in this guide.
+
+[p58 | prose | Engage with your workers about the risks of working in extreme temperatures]
+You can engage with workers by:
+
+[p58 | prose | Engage with your workers about the risks of working in extreme temperatures]
+– sharing information about extreme temperature health and safety matters so that workers are well-informed, know what is going on and can contribute to decision-making
+
+[p58 | prose | Engage with your workers about the risks of working in extreme temperatures]
+– giving workers reasonable opportunities to have a say about extreme temperature health and safety matters
+
+[p58 | prose | Engage with your workers about the risks of working in extreme temperatures]
+– listening to and considering what workers have to say at each step of the risk management process for extreme temperatures
+
+[p58 | prose | Engage with your workers about the risks of working in extreme temperatures]
+– considering workers’ views when decisions are being made
+
+[p58 | prose | Engage with your workers about the risks of working in extreme temperatures]
+– updating workers about what decisions have been made.
+
+[p58 | prose | Engage with your workers about the risks of working in extreme temperatures]
+If workers are represented by a Health and Safety Representative (HSR), engagement must also involve that representative.
+
+[p58 | prose | Engage with your workers about the risks of working in extreme temperatures]
+Health and Safety Representatives and Health and Safety Committees
+
+[p58 | prose | Engage with your workers about the risks of working in extreme temperatures]
+Health and Safety Representatives (HSRs) and Health and Safety Committees (HSCs) are two well-established methods of participation and representation.
+
+[p58 | prose | For more information]
+For more information
+
+[p58 | prose | INTERPRETIVE GUIDELINES]
+INTERPRETIVE GUIDELINES
+
+[p58 | prose | INTERPRETIVE GUIDELINES]
+Worker Representation through Health and Safety Representatives and Health and Safety Committees
+
+[p58 | prose | GOOD PRACTICE GUIDELINES]
+GOOD PRACTICE GUIDELINES
+
+[p58 | prose | GOOD PRACTICE GUIDELINES]
+Worker Engagement, Participation and Representation
+
+[p58 | prose | WORKSAFE PAMPHLETS]
+WORKSAFE PAMPHLETS
+
+[p58 | prose | WORKSAFE PAMPHLETS]
+Worker Representation
+
+[p58 | prose | WORKSAFE PAMPHLETS]
+Health and Safety Committees
+
+[p58 | prose | WORKSAFE PAMPHLETS]
+Health and Safety Representatives
+
+[p59 | appendix | Appendix D: Medical conditions and substances that can increase sensitivity to extreme temperatures]
+Appendix D: Medical conditions and substances that can increase sensitivity to extreme temperatures
+
+[p59 | appendix | Appendix D: Medical conditions and substances that can increase sensitivity to extreme temperatures]
+These tables list medical conditions and substances that can make people more sensitive to extremely hot or cold environments. They may make people more susceptible to developing heat-related or cold-related illnesses and injuries.
+
+[p59 | appendix | Appendix D: Medical conditions and substances that can increase sensitivity to extreme temperatures]
+Medical conditions that can make people more sensitive to extreme temperatures
+
+[p59 | prose | MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT
+
+[p59 | prose | MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD
+
+[p59 | prose | MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+– Cardiac disease
+
+[p59 | prose | MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+– High blood pressure
+
+[p59 | prose | MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+– Respiratory disease
+
+[p59 | prose | MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+– Diabetes
+
+[p59 | prose | MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+– Skin diseases and rashes
+
+[p59 | prose | MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+– Cardiac disease
+
+[p59 | prose | MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+– High blood pressure
+
+[p59 | prose | MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+– Respiratory disease
+
+[p59 | prose | MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+– Diabetes
+
+[p59 | prose | MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+– Hypothyroidism
+
+[p59 | prose | MEDICAL CONDITIONS THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+– Raynaud’s disease
+
+[p59 | prose | Substances that can make people more sensitive to extreme temperatures]
+Substances that can make people more sensitive to extreme temperatures
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT]
+SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME HEAT
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Alcohol
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Alcohol
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Antidepressants (for example, tricyclics)
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Antidepressants
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Hypnotics (for example, barbiturates)
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Tranquilisers (for example, benzodiazepines)
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Psychotropics (for example, phenothiazines)
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Hypnotics
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Cannabis
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Psychotropics (for example, phenothiazines)
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Morphine
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Cannabis
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Amphetamines
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Morphine
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Methamphetamines
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Anaesthetics
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Anaesthetics
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Hypoglycaemics (for example, biguanides)
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Cocaine
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Antithyroids (for example, carbimazaole)
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Anticholinergics (for example, atropine)
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Sympathetic and ganglion-blocking agents (for example, reserpine)
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Organophosphates
+
+[p59 | prose | SUBSTANCES THAT CAN MAKE PEOPLE MORE SENSITIVE TO EXTREME COLD]
+– Insulin
+
+[p60 | appendix | Appendix E:]
+Appendix E:
+
+[p60 | prose | Heat exposure screening questionnaire]
+Heat exposure screening questionnaire
+
+[p60 | prose | Heat exposure screening questionnaire]
+To be completed with the assistance of a physician or occupational health nurse only.
+
+[p60 | prose | Heat exposure screening questionnaire]
+Note: Workers must give written informed consent before completing, or providing answers to this questionnaire.
+
+[p60 | prose | Heat exposure screening questionnaire]
+IN CONFIDENCE
+
+[p60 | prose | 1. Personal information]
+1. Personal information
+
+[p60 | prose | 2. Health questions]
+2. Health questions
+
+[p60 | prose | 2. Health questions]
+Have you ever been affected by hot conditions, making you think that you have a low tolerance to heat?
+
+[p60 | prose | 2. Health questions]
+If yes, please state what happened and describe the circumstances: (if any)
+
+[p60 | prose | 2. Health questions]
+Please indicate if you have been diagnosed with any of the following:
+
+[p60 | prose | 2. Health questions]
+Loss of consciousness, fits or fainting
+
+[p60 | prose | 2. Health questions]
+Diabetes
+
+[p60 | prose | 2. Health questions]
+Yes No
+
+[p60 | prose | 2. Health questions]
+Heart disease
+
+[p60 | prose | 2. Health questions]
+Yes
+
+[p60 | prose | 2. Health questions]
+Yes No
+
+[p60 | prose | 2. Health questions]
+High blood pressure
+
+[p60 | prose | 2. Health questions]
+Yes No
+
+[p60 | prose | 2. Health questions]
+Respiratory disease (eg asthma, emphysema)
+
+[p60 | prose | 2. Health questions]
+Yes No
+
+[p60 | prose | 2. Health questions]
+No
+
+[p60 | prose | 2. Health questions]
+Please specify:
+
+[p60 | prose | 2. Health questions]
+Skin disease (eg eczema, dermatitis)
+
+[p60 | prose | 2. Health questions]
+Yes No
+
+[p60 | prose | 2. Health questions]
+No
+
+[p60 | prose | 2. Health questions]
+Please specify:
+
+[p60 | prose | 2. Health questions]
+Any condition that reduces your ability to sweat (eg burn scars)
+
+[p60 | prose | 2. Health questions]
+Yes
+
+[p60 | prose | 2. Health questions]
+No
+
+[p60 | prose | 3. Recordings]
+3. Recordings
+
+[p60 | table | 3. Recordings]
+| Date: / / | Time: |
+| --- | --- |
+| Blood pressure: | Weight: |
+| Pulse: | Height: |
+| Temperature: |  |
+| Comments: |  |
+| Assessment completed by: |  |
+
+[p61 | prose | 3. Recordings]
+Appendix F:
+
+[p61 | prose | Cold exposure screening questionnaire]
+Cold exposure screening questionnaire
+
+[p61 | prose | Cold exposure screening questionnaire]
+To be completed with the assistance of a physician or occupational health nurse only.
+
+[p61 | prose | Cold exposure screening questionnaire]
+Note: Workers must give written informed consent before completing, or providing answers to this questionnaire.
+
+[p61 | prose | Cold exposure screening questionnaire]
+IN CONFIDENCE
+
+[p61 | prose | 1. Personal information]
+1. Personal information
+
+[p61 | prose | 2. Health questions]
+2. Health questions
+
+[p61 | prose | 2. Health questions]
+Have you ever been affected by cold conditions, making you think that you have a low tolerance to the cold?
+
+[p61 | prose | 2. Health questions]
+If yes, please state what happened and describe the circumstances: (if any)
+
+[p61 | prose | 2. Health questions]
+Yes No
+
+[p61 | prose | 2. Health questions]
+Yes
+
+[p61 | prose | 2. Health questions]
+How often to you do physical exercise each week?
+
+[p61 | prose | 2. Health questions]
+None
+
+[p61 | prose | 2. Health questions]
+3–5 times
+
+[p61 | prose | 2. Health questions]
+1–2 times
+
+[p61 | prose | 2. Health questions]
+How many standard alcoholic drinks do you consume a week?
+
+[p61 | prose | 2. Health questions]
+None
+
+[p61 | prose | 2. Health questions]
+5–10 units
+
+[p61 | prose | 2. Health questions]
+1–4 units
+
+[p61 | prose | 2. Health questions]
+11+ units
+
+[p61 | prose | 2. Health questions]
+Do you smoke?
+
+[p61 | prose | 2. Health questions]
+Yes No
+
+[p61 | prose | 2. Health questions]
+No
+
+[p61 | prose | 2. Health questions]
+Has this or anything similar ever happened before or since?
+
+[p61 | prose | 2. Health questions]
+Yes
+
+[p61 | prose | 2. Health questions]
+Yes No
+
+[p61 | prose | 2. Health questions]
+Yes No
+
+[p61 | prose | 2. Health questions]
+Yes No
+
+[p61 | prose | 2. Health questions]
+Diabetes
+
+[p61 | prose | 2. Health questions]
+Yes
+
+[p61 | prose | 2. Health questions]
+Yes No
+
+[p61 | prose | 2. Health questions]
+Poor circulation
+
+[p61 | prose | 2. Health questions]
+Yes No
+
+[p61 | prose | 2. Health questions]
+Raynaud’s disease
+
+[p61 | prose | 3. Recordings]
+3. Recordings
+
+[p61 | table | 3. Recordings]
+| Date: / / | Time: |
+| --- | --- |
+| Blood pressure: | Weight: |
+| Pulse: | Height: |
+| Temperature: |  |
+| Comments: |  |
+
+[p61 | prose | 3. Recordings]
+Assessment completed by:
+
+[p62 | appendix | Appendix G: More information]
+Appendix G: More information
+
+[p62 | appendix | Appendix G: More information]
+Special guide
+
+[p62 | appendix | Appendix G: More information]
+Introduction to the Health and Safety at Work Act
+
+[p62 | prose | Quick guides]
+Quick guides
+
+[p62 | prose | Quick guides]
+Health and safety at work
+
+[p62 | prose | Quick guides]
+Identifying, assessing and managing work risks
+
+[p62 | prose | Quick guides]
+Managing thermal comfort at work
+
+[p62 | prose | Fact sheets]
+Fact sheets
+
+[p62 | prose | Fact sheets]
+Reasonably practicable
+
+[p62 | prose | Fact sheets]
+Personal protective equipment – a guide for businesses
+
+[p62 | prose | Fact sheets]
+Good practice guidelines
+
+[p62 | prose | Fact sheets]
+Health and safety by design – an introduction
+
+[p62 | prose | Worksale website]
+Worksale website
+
+[p62 | prose | Worksale website]
+Protecting workers from solar UV radiation
+
+[p62 | prose | Worksale website]
+Health monitoring and exposure monitoring
+
+[p62 | prose | Worksale website]
+Worker engagement and participation
+
+[p62 | prose | Legislation]
+Legislation
+
+[p62 | prose | Legislation]
+Duty of care
+
+[p62 | prose | Legislation]
+Section 36 of the Health and Safety at Work Act 2015
+
+[p62 | prose | Legislation]
+Duty to engage with workers
+
+[p62 | prose | Legislation]
+Section 58 of the Health and Safety at Work Act 2015
+
+[p62 | prose | Legislation]
+Reasonably practicable
+
+[p62 | prose | Legislation]
+Section 22 of the Health and Safety at Work Act 2015
+
+[p62 | prose | Legislation]
+Workplace facilities
+
+[p62 | prose | Legislation]
+Regulation 10(1)(f) Health and Safety at Work (General Risk and Workplace
+
+[p62 | prose | Legislation]
+Management) Regulations 2016
+
+[p62 | prose | Other resources]
+Other resources
+
+[p62 | prose | Other resources]
+HAZANZ register of workplace health and safety professionals
+
+[p62 | prose | Other resources]
+New Zealand Occupational Hygiene Society
+
+[p62 | prose | Other resources]
+Human Factors and Ergonomics Society of New Zealand
+
+[p63 | prose | Disclaimer]
+Disclaimer

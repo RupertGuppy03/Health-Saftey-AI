@@ -1,0 +1,2873 @@
+[p1 | prose | Managing asbestos in your building or workplace]
+Managing asbestos in your building or workplace
+
+[p1 | prose | Managing asbestos in your building or workplace]
+FOR PCBUs April 2026
+
+[p2 | prose | Managing asbestos in your building or workplace]
+These guidelines provide advice for
+
+[p2 | prose | Managing asbestos in your building or workplace]
+PCBUs on how to manage asbestos
+
+[p2 | prose | material in buildings or workplaces]
+material in buildings or workplaces
+
+[p2 | prose | material in buildings or workplaces]
+they own or manage.
+
+[p3 | prose | material in buildings or workplaces]
+Managing asbestos in your building or workplace
+
+[p3 | prose | KEY POINTS]
+KEY POINTS
+
+[p3 | prose | KEY POINTS]
+Buildings built before 1 January 2000 are likely to contain
+
+[p3 | prose | KEY POINTS]
+asbestos material. For buildings built after 1 January 2000,
+
+[p3 | prose | KEY POINTS]
+the risk of asbestos material being present is lower.
+
+[p3 | prose | KEY POINTS]
+Unidentified or damaged asbestos material can create a
+
+[p3 | prose | health risk for workers and other people in the workplace.]
+health risk for workers and other people in the workplace.
+
+[p3 | prose | health risk for workers and other people in the workplace.]
+If there is asbestos material in a building or workplace,
+
+[p3 | prose | health risk for workers and other people in the workplace.]
+the risks must be managed.
+
+[p3 | prose | health risk for workers and other people in the workplace.]
+Persons conducting a business or undertaking (PCBUs)
+
+[p3 | prose | health risk for workers and other people in the workplace.]
+must identify asbestos material in their building or
+
+[p3 | prose | health risk for workers and other people in the workplace.]
+workplace and develop an asbestos management plan.
+
+[p3 | prose | health risk for workers and other people in the workplace.]
+If there is more than one PCBU involved in a workplace,
+
+[p3 | prose | health risk for workers and other people in the workplace.]
+all PCBUs must work together to manage asbestos risks.
+
+[p4 | prose | NOTE TO READERS]
+NOTE TO READERS
+
+[p4 | prose | Use of ‘must’ and ‘should’]
+Use of ‘must’ and ‘should’
+
+[p4 | prose | Use of ‘must’ and ‘should’]
+The words ‘must’ and ‘should’ indicate whether:
+
+[p4 | prose | Use of ‘must’ and ‘should’]
+– an action is required by law, or
+
+[p4 | prose | Use of ‘must’ and ‘should’]
+– is a recommended practice or approach.
+
+[p4 | table | Use of ‘must’ and ‘should’]
+| TERM | DEFINITION |
+| --- | --- |
+| Must | Legal requirement that you must comply with |
+| Should | Recommended practice or approach |
+
+[p4 | prose | Key terms]
+Key terms
+
+[p4 | prose | Key terms]
+A list of technical words, terms, and abbreviations used in these guidelines can be found in the glossary at the end of these guidelines. The glossary explains the meaning of each technical word, term, or abbreviation.
+
+[p4 | prose | Lists]
+Lists
+
+[p4 | prose | Lists]
+Lists of examples used in these guidelines are not complete lists. They may list some examples, but not all possible examples.
+
+[p4 | prose | Images]
+Images
+
+[p4 | prose | Images]
+Images used in these guidelines are a guide only. Images are not intended to provide technical specifications.
+
+[p4 | prose | Example scenarios]
+Example scenarios
+
+[p4 | prose | Example scenarios]
+Example scenarios used in these guidelines are for illustrative purposes only.
+
+[p11 | prose | Example scenarios]
+These guidelines provide advice for persons conducting a business or undertaking (PCBUs) on dealing with asbestos in the buildings and workplaces they own or manage.
+
+[p11 | prose | Example scenarios]
+It can help PCBUs meet their duties under:
+
+[p11 | prose | Example scenarios]
+– the Health and Safety at Work Act 2015 (HSWA), and
+
+[p11 | prose | Example scenarios]
+– the Health and Safety at Work (Asbestos) Regulations 2016 (the Asbestos Regulations)
+
+[p11 | prose | Example scenarios]
+– the Health and Safety at Work (General Risk and Workplace Management) Regulations 2016
+
+[p11 | prose | Example scenarios]
+– the Health and Safety at Work (Worker Engagement, Participation, and Representation) Regulations 2016.
+
+[p11 | prose | 1.2 Key words used in this document]
+1.2 Key words used in this document
+
+[p11 | prose | 1.2 Key words used in this document]
+In these guidelines:
+
+[p11 | prose | 1.2 Key words used in this document]
+– ‘You’ means the PCBU. A PCBU is an individual or a company, but it can also be other types of organisations. More information about PCBUs is available on the WorkSafe New Zealand website Who or what is a PCBU?
+
+[p11 | prose | 1.2 Key words used in this document]
+– ‘Contractor’ means an individual or business that provides goods or services. This includes any individual or business hired to identify, manage, or work on asbestos material in your building or workplace (for example, asbestos surveyors, asbestos removalists, asbestos assessors, and other tradespeople).
+
+[p11 | prose | 1.3 Who should read these guidelines?]
+1.3 Who should read these guidelines?
+
+[p11 | prose | 1.3 Who should read these guidelines?]
+These guidelines are for PCBUs that own or manage a building that has or could have asbestos in it, for example:
+
+[p11 | prose | 1.3 Who should read these guidelines?]
+– commercial property owners
+
+[p11 | prose | 1.3 Who should read these guidelines?]
+– property managers and their workers
+
+[p11 | prose | 1.3 Who should read these guidelines?]
+– commercial tenants
+
+[p11 | prose | 1.3 Who should read these guidelines?]
+– residential landlords
+
+[p11 | prose | 1.3 Who should read these guidelines?]
+– project managers and their workers
+
+[p11 | prose | 1.3 Who should read these guidelines?]
+– bodies corporate and their members.
+
+[p11 | prose | 1.3 Who should read these guidelines?]
+These guidelines may also be useful for health and safety professionals that provide health and safety advice to PCBUs.
+
+[p11 | prose | 1.3 Who should read these guidelines?]
+These guidelines have been written to accommodate the wide range of knowledge and experience of PCBUs that may refer to it. In some instances, PCBUs may need to refer to relevant experts for further guidance.
+
+[p11 | prose | 1.3 Who should read these guidelines?]
+These guidelines are not intended for people that are not a PCBU (for example, homeowner-occupiers and residential tenants).
+
+[p12 | prose | 1.4 What work is covered by these guidelines?]
+1.4 What work is covered by these guidelines?
+
+[p12 | prose | 1.4 What work is covered by these guidelines?]
+These guidelines cover any work that is carried out in a building that is on or at a workplace.
+
+[p12 | prose | 1.4 What work is covered by these guidelines?]
+A workplace is any place where a worker goes or is likely to be while at work, or where work is being carried out (or is typically carried out) for a business or undertaking.
+
+[p12 | prose | 1.4 What work is covered by these guidelines?]
+Some examples of buildings that are often owned or managed by PCBUs are shown in Figure 1.
+
+[p12 | prose | 1.4 What work is covered by these guidelines?]
+FIGURE 1: Examples of buildings that are often owned or managed by PCBUs
+
+[p13 | prose | 1.5 PCBU duties]
+1.5 PCBU duties
+
+[p13 | prose | 1.5 PCBU duties]
+Under HSWA, you have a duty to ensure the health and safety of your workers and other people, as far as is reasonably practicable.
+
+[p13 | prose | 1.5 PCBU duties]
+This duty covers:
+
+[p13 | prose | 1.5 PCBU duties]
+– any workers that are influenced by your business (for example, your workers, contractors, subcontractors, and apprentices)
+
+[p13 | prose | 1.5 PCBU duties]
+– other people that could be put at risk by your work (for example, tenants, visitors, customers, and passers-by).
+
+[p13 | prose | 1.5 PCBU duties]
+Under the Asbestos Regulations, you must:
+
+[p13 | prose | 1.5 PCBU duties]
+– make sure the risk of people being exposed to airborne asbestos at the workplace is eliminated, so far as is reasonably practicable, or
+
+[p13 | prose | 1.5 PCBU duties]
+– if it not reasonably practicable to eliminate the risk, then minimise the risk so far as is reasonably practicable.
+
+[p13 | prose | 1.5 PCBU duties]
+You must also make sure that the airborne contamination standard for asbestos is not exceeded at the workplace. The airborne contamination standard for asbestos is 0.1 fibres per millilitre of air over an eight-hour period. This means that for asbestos fibres in the air, the average concentration must not go above 0.1 fibres per millilitre of air.
+
+[p13 | prose | 1.5 PCBU duties]
+The airborne contamination standard for asbestos is a control limit for the workplace. It does not set an acceptable limit for personal exposure. If asbestos is detected at a concentration above the airborne contamination standard, you must take steps to eliminate the risk of exposure to asbestos fibres. If it is not reasonably practicable to eliminate the risk, you must take steps to minimise the risk of exposure to asbestos fibres.
+
+[p13 | prose | 1.6 Risk management]
+1.6 Risk management
+
+[p13 | prose | 1.6 Risk management]
+You must manage risks so that the health and safety of workers and other people is not put at risk by the work you do.
+
+[p13 | prose | 1.6 Risk management]
+Risk management is about:
+
+[p13 | prose | 1.6 Risk management]
+– identifying hazards and assessing risks
+
+[p13 | prose | 1.6 Risk management]
+– applying control measures to eliminate or minimise risks
+
+[p13 | prose | 1.6 Risk management]
+– regularly reviewing control measures.
+
+[p13 | prose | 1.6 Risk management]
+You can read more about the Health and Safety at Work (General Risk and Workplace Management) Regulations 2016 on the WorkSafe website General risk and workplace management
+
+[p13 | prose | 1.6 Risk management]
+You must engage with your workers and their representatives, so far as is reasonably practicable, at all steps of the risk management process.
+
+[p13 | prose | 1.6 Risk management]
+You can read more about worker engagement, participation, and representation on the WorkSafe website Good practice for worker engagement, participation and representation
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+1.7 Overlapping PCBU duties
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+When more than one PCBU has the same health and safety duty in an asbestos matter, all PCBUs involved must, so far as is reasonably practicable:
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+– consult each other
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+– cooperate with each other
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+– coordinate their activities.
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+If there is more than one PCBU involved with managing asbestos risks in a building or workplace, all PCBUs should:
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+– discuss what work activities are being, or going to be, carried out
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+– agree on the degree of influence and control each PCBU has
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+– agree on who will manage what and how it will be managed
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+– agree on the use of shared facilities, if applicable
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+– monitor and check how things are going on an ongoing basis.
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+Examples of where PCBU duties are likely to overlap include:
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+– when a body corporate employs a property manager
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+– when a residential landlord employs a property manager
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+– when a commercial business leases a unit from a property owner.
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+Each business’s responsibility to carry out their duties will most likely be different. This will depend on the ability of the business to influence and control the health and safety matter.
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+The extent of the duty to manage asbestos risks depends on the influence and control of each PCBU. The more influence and control a PCBU has over a building, workplace, work activities, or workers, the more responsibility it is likely to have.
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+You must manage any overlaps and risks that are appropriate for you to control. The nature of that control will reflect how much influence and control you have, and what is reasonably practicable in the circumstances. Any arrangements you make with other PCBUs to manage risks (for example, arrangements to monitor control measures) should be sensible and proportionate.
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+You cannot contract out of your duties, but you can make reasonable agreements with other PCBUs to meet your duties. Each PCBU is responsible for making sure their own duties are met.
+
+[p14 | prose | 1.7 Overlapping PCBU duties]
+You can read more about overlapping PCBU duties on the WorkSafe website Overlapping duties – quick guide
+
+[p15 | prose | Example scenario: Overlapping duties]
+Example scenario: Overlapping duties
+
+[p15 | prose | Example scenario: Overlapping duties]
+Hemi is a landlord of a residential property that was built in the late 1980s. He rents the property out to the Thompson family. The Thompsons contact Hemi to let him know that there is minor damage to the dividing wall between the living room and kitchen that needs to be repaired.
+
+[p15 | prose | Example scenario: Overlapping duties]
+Hemi checks the building report for the property for information about the damaged wall. He discovers that the wall is made from asbestos cement board.
+
+[p15 | prose | Example scenario: Overlapping duties]
+From maintenance work he has had done on his own home, Hemi knows that asbestos materials are generally safe if they are in good condition and are not disturbed or damaged. However, he is also aware that maintenance or refurbishment work could lead to the release of asbestos fibres, which could expose the Thompson family and tradespeople working in the house to harm.
+
+[p15 | prose | Example scenario: Overlapping duties]
+Hemi decides to contact an asbestos surveyor for advice. The asbestos surveyor assesses the damage and recommends a local contractor that is experienced in repairs on asbestos materials to carry out the work.
+
+[p15 | prose | Example scenario: Overlapping duties]
+As work on Hemi’s property is being planned, he prepares an asbestos management plan with the help of the contractor, Liv, before the work starts. He makes sure that the asbestos management plan contains details about the planned work and includes photographs of the damaged wall.
+
+[p15 | prose | Example scenario: Overlapping duties]
+Liv carries out a risk assessment on the damaged asbestos material. She finds that the work can be completed as a minor repair.
+
+[p15 | prose | Example scenario: Overlapping duties]
+Before the repair starts, Hemi, Liv, and the Thompson family have a meeting. Hemi tells the Thompsons about the presence of asbestos in the wall and explains that all necessary precautions will be taken during the repair. Liv explains the control measures that will be in place to minimise the release of asbestos fibres into the air.
+
+[p15 | prose | Example scenario: Overlapping duties]
+The Thompsons decide that they will stay with friends while the work is being done.
+
+[p15 | prose | Example scenario: Overlapping duties]
+Liv’s work plan for the repair includes using a shadow vacuum technique to capture any released asbestos fibres, wearing appropriate personal protective equipment (PPE, including respiratory protective equipment), and sealing off the area to prevent any potential spread of asbestos fibres to other parts of the house.
+
+[p15 | prose | Example scenario: Overlapping duties]
+Throughout the process, Hemi keeps in regular contact with Liv, making sure that health and safety procedures are followed closely and that the work is going to plan. Once the repair is complete, Hemi checks the quality of the work and takes some more photos to include in his asbestos management plan, which he updates.
+
+[p16 | prose | Example scenario: Overlapping duties]
+Example scenario: Overlapping duties
+
+[p16 | prose | Example scenario: Overlapping duties]
+David owns a busy retail plaza in the heart of the city. The plaza houses a variety of shops, including a popular café run by Chiara and her family. David has hired Selphie Properties, a property management company, to oversee the maintenance of the building. Ingrid, an experienced property manager from Selphie Properties, has been managing the retail plaza for the past three years.
+
+[p16 | prose | Example scenario: Overlapping duties]
+One day, Chiara calls Ingrid to report damage to a wall in the café caused by some rowdy customers. Chiara remembers that some work had been done in that area of the building several years ago, which required the café to close temporarily.
+
+[p16 | prose | Example scenario: Overlapping duties]
+Ingrid immediately contacts David, the building owner, to discuss the issue. Remembering the previous work in the building, David authorises Ingrid to hire an asbestos surveyor to inspect the damaged area. The asbestos survey confirmed that the damaged wall had been constructed to enclose asbestos material, and that the asbestos material behind the wall had been disturbed by the incident.
+
+[p16 | prose | Example scenario: Overlapping duties]
+Following the advice of the asbestos surveyor, Ingrid hires a licensed asbestos removalist to safely remove the asbestos material and repair the enclosing wall, and a licensed asbestos assessor to inspect the work. She takes care to check that removalists and assessors are from different businesses so can work independently.
+
+[p16 | prose | Example scenario: Overlapping duties]
+The licensed asbestos removalist that Ingrid hired prepares an asbestos removal control plan outlining the procedures for safely removing the asbestos and repairing the wall.
+
+[p16 | prose | Example scenario: Overlapping duties]
+Before work starts, Ingrid organises a meeting with David, Chiara, and the asbestos removalist to establish each business’s health and safety duties. They decide the following:
+
+[p16 | prose | Example scenario: Overlapping duties]
+– The asbestos removalist has the most influence and control over the workplace while the asbestos removal work is being carried out, so they will be responsible for managing risks to workers and the public created by the asbestos removal work.
+
+[p16 | prose | Example scenario: Overlapping duties]
+– David and Ingrid have little control over the work or work site but do have control over the area around the work site, including any risks from the other businesses working in the same area. They will be responsible for managing those risks (for example, by communicating with others about the asbestos removal work).
+
+[p16 | prose | Example scenario: Overlapping duties]
+– Chiara has little control over the work or work site but does have influence over her workers. She will be responsible for making sure her workers are informed about the asbestos removal work, and stay away from the café while the asbestos removal work is being carried out.
+
+[p16 | prose | Example scenario: Overlapping duties]
+Ingrid and David make sure the businesses in the retail plaza are told about the planned work and the steps that will be taken to manage the asbestos material. Chiara’s café is temporarily closed to keep staff and customers safe while the work is carried out.
+
+[p16 | prose | Example scenario: Overlapping duties]
+Ingrid coordinates the repair work, and David makes regular visits to the building to check the progress. After the asbestos material is removed and the wall repaired, the licensed asbestos assessor checks that the area is safe to re-enter and provides Ingrid with a clearance certificate. Ingrid and David work with Chiara to update the asbestos management plan before Chiara’s café reopens.
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+1.8 Managing asbestos risks across a property portfolio
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+Managing asbestos risks across a property portfolio can be challenging. Each property may:
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+– be in a different condition or state of repair
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+– have a different budget
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+– have different occupancy considerations
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+– be occupied by a different PCBU
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+– have different access requirements
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+– be used for different purposes
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+– be made of different construction materials.
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+If you own or manage a portfolio of properties, you will need to consider how you manage asbestos risks for each property. You may choose to develop an asbestos policy for your organisation, which sets out your organisational approach to managing asbestos across your portfolio. This is likely to include:
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+– how you will schedule and manage asbestos surveys for each property
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+– how you will monitor identified asbestos material for signs of deterioration
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+– how you will communicate and work with other PCBUs involved with the management of asbestos in your properties (for example, commercial tenants and asbestos contractors)
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+– how you will keep asbestos records for each property up to date
+
+[p17 | prose | 1.8 Managing asbestos risks across a property portfolio]
+– how you will make sure that your asbestos records are easily accessible when required.
+
+[p18 | prose | Example scenario: Managing asbestos risks across a property portfolio]
+Example scenario: Managing asbestos risks across a property portfolio
+
+[p18 | prose | Example scenario: Managing asbestos risks across a property portfolio]
+HeimerCo is a business that owns and manages a portfolio of 15 commercial properties spread across the city. Grace is the Asbestos Consultant that works for HeimerCo. She is responsible for managing asbestos-related concerns across HeimerCo’s property portfolio.
+
+[p18 | prose | Example scenario: Managing asbestos risks across a property portfolio]
+Grace needs to coordinate two significant asbestos-related tasks at two of HeimerCo’s buildings – an asbestos removal at the historical Bell Tower office complex, and an asbestos survey at the busy Starscape Shopping Centre.
+
+[p18 | prose | Bell Tower]
+Bell Tower
+
+[p18 | prose | Bell Tower]
+Bell Tower is a 1970s low-rise office building on the outskirts of the city. An area of damaged asbestos material identified in the last asbestos survey needs to be removed.
+
+[p18 | prose | Bell Tower]
+The quote for the work says that for the asbestos removal work to be done safely, some offices need to be temporarily relocated. Grace has been in regular contact with Matt, the property manager for the Bell Tower, and with the commercial tenants that could be affected by the asbestos removal work.
+
+[p18 | prose | Bell Tower]
+Grace and Matt hold a meeting with all the commercial tenants in the Bell Tower. Some of the tenants are annoyed that they need to move their offices. Grace explains that relocating their offices will help to keep their workers healthy and safe while the asbestos removal work is carried out. During the meeting, Grace, Matt, and the commercial tenants agree that:
+
+[p18 | prose | Bell Tower]
+– Grace will coordinate and plan the asbestos removal work with the asbestos removal contractor.
+
+[p18 | prose | Bell Tower]
+– Grace will be responsible for making sure that relevant documents (for example, the asbestos management plan) are updated once the asbestos removal work is complete.
+
+[p18 | prose | Bell Tower]
+– Matt will arrange and manage the temporary relocation of the offices, making sure the commercial tenants are moved safely.
+
+[p18 | prose | Bell Tower]
+– Matt will make sure the asbestos removalist has access to the building.
+
+[p18 | prose | Bell Tower]
+– The commercial tenants will be responsible for making sure they are ready to move out of Bell Tower before the asbestos removal work starts.
+
+[p18 | prose | Starscape Shopping Centre]
+Starscape Shopping Centre
+
+[p18 | prose | Starscape Shopping Centre]
+Starscape Shopping Centre is a small shopping mall in the city centre. It was built in the late 1980s. The property manager, Andy, has managed Starscape for HeimerCo for the past 20 years.
+
+[p18 | prose | Starscape Shopping Centre]
+Grace gets a notification from her property management database that Starscape is due for its routine asbestos survey. She contacts Andy to discuss the plan to have the asbestos survey carried out.
+
+[p18 | prose | Starscape Shopping Centre]
+Andy tells Grace that he has already made a start. He says that he knew the asbestos survey was due and has already arranged for an asbestos surveyor to survey the property. He tells Grace that Starscape have had/used the same asbestos surveyor for the past 10 years, and they know the building well.
+
+[p18 | prose | Starscape Shopping Centre]
+Grace and Andy agree that:
+
+[p18 | prose | Starscape Shopping Centre]
+– Andy will continue to coordinate with the asbestos surveyor and make sure they have access to all areas of the building.
+
+[p18 | prose | Starscape Shopping Centre]
+– Andy will contact the commercial tenants in Starscape Shopping Centre to let them know when the asbestos survey will be happening. He will also make sure the tenants are given clear instructions on what to do when an asbestos survey is happening.
+
+[p18 | prose | Starscape Shopping Centre]
+– Andy will send a copy of the asbestos survey report to Grace on the same day it is received.
+
+[p18 | prose | Starscape Shopping Centre]
+– Grace will make sure that the asbestos management plan is updated with the results from the asbestos survey report.
+
+[p19 | prose | 1.9 Asbestos identification and management process]
+1.9 Asbestos identification and management process
+
+[p19 | prose | 1.9 Asbestos identification and management process]
+Following an asbestos identification and management process can help you meet your duties under HSWA and the Regulations. An asbestos identification and management process provides a structure to help you to:
+
+[p19 | prose | 1.9 Asbestos identification and management process]
+In this guidance, ‘asbestos identification and management process’ refers to the process shown in Figure 2. The structure of this guidance follows the order of the asbestos identification and management process.
+
+[p21 | prose | 2.1 What is asbestos?]
+2.1 What is asbestos?
+
+[p21 | prose | 2.1 What is asbestos?]
+Asbestos is a heat-resistant, fire-resistant, and insulating mineral that was commonly used in building materials.
+
+[p21 | prose | 2.1 What is asbestos?]
+Asbestos is made up of tiny fibres. When asbestos is disturbed or breaks down, asbestos fibres can be released into the air.
+
+[p21 | prose | 2.1 What is asbestos?]
+All forms of asbestos are harmful to humans.
+
+[p21 | prose | 2.2 Why is asbestos still a problem in New Zealand?]
+2.2 Why is asbestos still a problem in New Zealand?
+
+[p21 | prose | 2.2 Why is asbestos still a problem in New Zealand?]
+Even though asbestos has been banned, it still causes problems today. This is because many buildings built before 1 January 2000 still have asbestos material in them.
+
+[p21 | prose | 2.2 Why is asbestos still a problem in New Zealand?]
+As these buildings get older, they need to be repaired, renovated, or in some cases, demolished. These activities can disturb asbestos, creating a health risk for workers and other people in the workplace.
+
+[p21 | prose | 2.2 Why is asbestos still a problem in New Zealand?]
+For buildings built after 1 January 2000, the risk of asbestos material being present is lower.
+
+[p21 | prose | 2.3 What problems can asbestos cause?]
+2.3 What problems can asbestos cause?
+
+[p21 | prose | 2.3 What problems can asbestos cause?]
+Asbestos is not dangerous if it is in good condition, and is left alone and managed correctly. If asbestos material is damaged or disturbed, it can release fibres into the air.
+
+[p21 | prose | 2.3 What problems can asbestos cause?]
+When asbestos fibres are released into the air, they can be breathed in easily. Breathing in asbestos fibres can cause them to get trapped in the lungs, leading to serious health issues.
+
+[p21 | prose | 2.3 What problems can asbestos cause?]
+Asbestos fibres in the lungs cause several diseases, including:
+
+[p21 | prose | 2.3 What problems can asbestos cause?]
+– cancers (for example, lung cancer and mesothelioma)
+
+[p21 | prose | 2.3 What problems can asbestos cause?]
+– serious long-term lung conditions (for example, asbestosis).
+
+[p21 | prose | 2.3 What problems can asbestos cause?]
+Diseases caused by asbestos often cannot be cured. They can cause severe symptoms and can be life-threatening.
+
+[p21 | prose | 2.3 What problems can asbestos cause?]
+You can read more about the health problems caused by asbestos on the WorkSafe website Asbestos in Aotearoa New Zealand
+
+[p21 | prose | 2.4 Categories of asbestos]
+2.4 Categories of asbestos
+
+[p21 | prose | 2.4 Categories of asbestos]
+Asbestos can be classified into two categories based on its condition:
+
+[p21 | prose | 2.4 Categories of asbestos]
+– Friable asbestos is flaky or powdery. It can be crumbled or reduced to a powder without much pressure. Friable asbestos can easily release fibres into the air if it is disturbed. Friable asbestos is often called Class A asbestos.
+
+[p21 | prose | 2.4 Categories of asbestos]
+– Non-friable asbestos usually has asbestos fibres bonded into another material such as cement or vinyl. Non-friable asbestos is less likely to release asbestos fibres into the air unless it is disturbed or has started to deteriorate. Non-friable asbestos is often called Class B asbestos.
+
+[p21 | prose | 2.4 Categories of asbestos]
+The risk of harm from asbestos depends on its condition and how easily fibres are released into the air. Asbestos fibres are more likely to be released into the air if asbestos materials are:
+
+[p21 | prose | 2.4 Categories of asbestos]
+– friable (flaky, powdery, or easy to crumble)
+
+[p21 | prose | 2.4 Categories of asbestos]
+– in poor condition (for example, if they are flaking, peeling, or crumbling)
+
+[p21 | prose | 2.4 Categories of asbestos]
+– disturbed in any way (for example, sanded, drilled, cut, or water blasted).
+
+[p21 | prose | 2.4 Categories of asbestos]
+Airborne asbestos fibres are often too small to be seen with the naked eye. Even if you cannot see any dust particles in the air, asbestos fibres may still be present.
+
+[p21 | prose | 2.4 Categories of asbestos]
+Non-friable (or bonded) asbestos materials generally do not release asbestos fibres if they are in good condition and are not disturbed.
+
+[p22 | prose | 2.5 Where you might find asbestos in your building or workplace]
+2.5 Where you might find asbestos in your building or workplace
+
+[p22 | prose | 2.5 Where you might find asbestos in your building or workplace]
+Many buildings in Aotearoa New Zealand have asbestos in them. If your building or workplace was built before 1 January 2000, it probably contains some asbestos materials.
+
+[p22 | prose | 2.5 Where you might find asbestos in your building or workplace]
+Asbestos can also be found in some products that were manufactured before 2000. It was used to make products like brake linings, filters, and fireproof textiles.
+
+[p22 | prose | 2.5 Where you might find asbestos in your building or workplace]
+For buildings and products that were built or manufactured after 1 January 2000, the risk of asbestos material being present is lower.
+
+[p22 | prose | 2.5 Where you might find asbestos in your building or workplace]
+Table 1, Figure 3, and Figure 4 show some of the places where asbestos can be found in commercial and residential buildings.
+
+[p22 | table | 2.5 Where you might find asbestos in your building or workplace]
+| Textured ceilings | Asbestos was often used in textured ceilings (for example, Glamatex or Whisper) for soundproofing and fire-resistance. |
+| --- | --- |
+| Fire doors | Asbestos was used in the centre of fire doors because it is fire resistant. |
+| Workplace plant | Asbestos was used to make specific parts of workplace plant like gaskets, friction brake products, ducting joints, rope, insulation, packing, and vacuum pumps. |
+| Wall and ceiling panels or sheeting | Asbestos cement (for example, Fibrolite) was commonly used in wet areas like kitchens, bathrooms, toilets, and laundry areas. |
+| Backing for wall tiles and splashbacks | Asbestos can sometimes be found in the backing material of wall tiles, bath panels, and splashbacks in kitchens and bathrooms. |
+| Carpet underlay | Some older carpet underlays may contain asbestos fibres. |
+| Patching compounds and textured paint | Asbestos was sometimes used in patching compounds and textured paints for durability and fire-resistance. |
+| Vinyl floor tiles | Asbestos can sometimes be found in vinyl floor tiles and in the adhesive used under the tiles. |
+| Linoleum and vinyl floor coverings (sheets) | Asbestos paper was used in the backing of vinyl and linoleum floor coverings. It can also be found in the adhesive used under vinyl and linoleum sheets. |
+| Poured flooring | Some types of older poured flooring can contain asbestos. |
+| Insulation | Asbestos was used for insulation in heaters, fireplaces, stoves, roof cavities, and around hot water pipes because of its heat-resistance. |
+| Roof sheeting and ridge capping | Asbestos cement was often used in roof sheeting and ridge capping for its durability and weather-resistance. |
+| Gutters, downpipes, gables, and eaves | Asbestos can sometimes be found in gutters, downpipes, gables, and eaves (including the lining under eaves). |
+| Electrical switchboards | Older electrical switchboards may contain asbestos as an insulating material. |
+| Water pipes and flues | Asbestos was used to make and insulate water pipes. It was also used to insulate flues because it is resistant to heat. |
+| Cladding | Asbestos can be found in some cladding materials for walls, including imitation brick cladding. |
+| Fencing, carports, garages, outhouses, and sheds | Asbestos cement was often used in the construction of fences, carports, garages, outhouses, and sheds because it is durable and weather-resistant. |
+| Soil | Asbestos material may have been crushed with demolition waste and thrown to the ground during construction, so asbestos fibres can sometimes be found in soil. |
+| Asbestos-contaminated dust | Asbestos fibres can be found in dust or debris that has settled within a building or workplace. |
+
+[p22 | prose | 2.5 Where you might find asbestos in your building or workplace]
+TABLE 1: Some of the areas where asbestos can be found in commercial buildings
+
+[p26 | prose | 3.1 Introduction]
+3.1 Introduction
+
+[p26 | prose | 3.1 Introduction]
+We recommend that you hire an asbestos contractor to help you carry out your asbestos identification and management process.
+
+[p26 | prose | 3.1 Introduction]
+Asbestos contractors are trained to identify, handle, and manage asbestos materials safely and effectively. The safest option is almost always to bring in a reputable contractor.
+
+[p26 | prose | 3.1 Introduction]
+You should only consider completing your asbestos identification and management process without the help of an asbestos contractor if you are certain that you can:
+
+[p26 | prose | 3.1 Introduction]
+– identify any asbestos material you find
+
+[p26 | prose | 3.1 Introduction]
+– manage any asbestos material you find
+
+[p26 | prose | 3.1 Introduction]
+– adhere to all relevant health and safety regulations.
+
+[p26 | prose | 3.2 Asbestos contractors]
+3.2 Asbestos contractors
+
+[p26 | prose | 3.2 Asbestos contractors]
+Asbestos contractors often work in specific areas of asbestos identification and management. Table 2 outlines some of the asbestos contractors you might come across if you need to identify and manage asbestos in your building or workplace.
+
+[p26 | table | 3.2 Asbestos contractors]
+| ASBESTOS CONTRACTOR | WHAT THEY DO |
+| --- | --- |
+| Asbestos surveyors | Asbestos surveyors are trained to identify asbestos. You should expect an asbestos surveyor to: ' gather information about your building or workplace (for example, when it was built) ' carry out a visual inspection of the building and any areas of suspected asbestos ' take samples of suspected asbestos materials ' provide you with a report of their findings. |
+| Asbestos removalists | Asbestos removalists are trained to safely remove and dispose of asbestos. You should expect an asbestos removalist to: - assess the work that needs to be done (for example, the type, amount, and location of asbestos materials) using the surveyor report make an asbestos removal control plan (ARCP) that explains the removal process and the safety measures that they will use contact residential and commercial neighbours to let them know that asbestos removal work will be taking place follow strict health and safety procedures and use specialised equipment to remove asbestos without releasing large amounts of harmful fibres into the air correctly dispose of asbestos waste. |
+| Asbestos assessors | Asbestos assessors are trained to make sure that asbestos removal work has been completed to the required standard. You should expect an asbestos assessor to: - be from a different business to the asbestos removalist (that is, they should be independent) - review the work plan made by the asbestos removalist to make sure it is safe and suitable before work starts inspect the area where asbestos material was removed from collect samples of the air to test for asbestos fibres confirm in writing that the area is safe to re-enter. |
+
+[p26 | prose | 3.2 Asbestos contractors]
+TABLE 2: Asbestos industry contractors that might be involved with managing asbestos in your building or workplace
+
+[p27 | prose | 3.3 Contractor independence]
+3.3 Contractor independence
+
+[p27 | prose | 3.3 Contractor independence]
+To be independent, an asbestos assessor should have no conflict of interest when they carry out their assessor work.
+
+[p27 | prose | 3.3 Contractor independence]
+This means that the assessor should not be from the same business as the removalist for that specific job. Being from the same business could create a conflict of interest, as the assessor could be influenced by their connection to the company doing the asbestos removal work. This could lead to biased reporting or inadequate inspections that put health or safety at risk.
+
+[p27 | prose | 3.3 Contractor independence]
+Making sure asbestos contractors work independently helps to make sure that your asbestos identification and management process is carried out to the highest standard. You should encourage open communication between any contractors you hire to help you manage asbestos material to avoid any conflicts of interest.
+
+[p27 | prose | 3.4 Other tradespeople]
+3.4 Other tradespeople
+
+[p27 | prose | 3.4 Other tradespeople]
+Carpenters, plumbers, electricians, painters, roofers, flooring installers, and other tradespeople that work on or in older buildings might encounter asbestos material as they work. They may need to work on or near asbestos material to do their work (for example, maintenance work). This type of work is known as asbestos-related work.
+
+[p27 | prose | 3.4 Other tradespeople]
+If tradespeople will be carrying out asbestos-related work, they must be trained to recognise and manage asbestos appropriately. This does not mean these tradespeople can remove large amounts of asbestos or carry out an asbestos survey, but they should be able to:
+
+[p27 | prose | 3.4 Other tradespeople]
+– recognise materials that may contain asbestos
+
+[p27 | prose | 3.4 Other tradespeople]
+– know when and how to stop work safely if they find or suspect asbestos material
+
+[p27 | prose | 3.4 Other tradespeople]
+– understand the procedures for informing their supervisor if they find or suspect asbestos material
+
+[p27 | prose | 3.4 Other tradespeople]
+– take precautions to eliminate or minimise the risk of asbestos fibres being released from their work.
+
+[p27 | prose | 3.4 Other tradespeople]
+In some cases, tradespeople have the necessary training to remove small quantities of certain types of asbestos materials (when there is less than 10m2 of non-friable asbestos material). This is known as unlicensed asbestos removal work.
+
+[p27 | prose | 3.4 Other tradespeople]
+You should expect tradespeople who work with or near asbestos material to:
+
+[p27 | prose | 3.4 Other tradespeople]
+– request information about the asbestos material in your building or workplace before they start work
+
+[p27 | prose | 3.4 Other tradespeople]
+– complete a risk assessment before starting work on asbestos material
+
+[p27 | prose | 3.4 Other tradespeople]
+– follow all required safety procedures
+
+[p27 | prose | 3.4 Other tradespeople]
+– wear the correct personal protective equipment and respiratory protective equipment
+
+[p27 | prose | 3.4 Other tradespeople]
+– only carry out work within their level of training or competency.
+
+[p27 | prose | 3.4 Other tradespeople]
+Tradespeople should never carry out work that exceeds their level of training or competency.
+
+[p28 | prose | 3.5 Choosing an asbestos contractor]
+3.5 Choosing an asbestos contractor
+
+[p28 | prose | 3.5 Choosing an asbestos contractor]
+Hiring a reputable asbestos contractor can help to make sure that work on asbestos in your building or workplace is done safely and to a high standard.
+
+[p28 | prose | 3.5 Choosing an asbestos contractor]
+A reputable asbestos contractor should act with integrity and do their work in a way that shows professionalism and care to their workers and other people.
+
+[p28 | prose | 3.5 Choosing an asbestos contractor]
+When you are choosing a contractor for work on asbestos on your building or workplace, think about the following:
+
+[p28 | prose | Experience and qualifications]
+Experience and qualifications
+
+[p28 | prose | Experience and qualifications]
+– You must make sure that your contractor is competent to do the work needed. A reputable asbestos contractor will be experienced in carrying out work on asbestos effectively and safely. They should be able to tell you in detail about the experience they have doing similar work.
+
+[p28 | prose | Experience and qualifications]
+– A reputable asbestos contractor should also be able to provide you with information about the qualifications of their workers.
+
+[p28 | prose | Licensing]
+Licensing
+
+[p28 | prose | Licensing]
+– You must make sure that your contractor has the appropriate licence to do the work needed. Asbestos assessors must be licensed by WorkSafe. Depending on the type of removal work that needs to be done, contractors that remove asbestos material may also need to be licensed.
+
+[p28 | prose | Licensing]
+– You can search the registers on the WorkSafe website to verify the licensing of assessors and removalists Licence holder register
+
+[p28 | prose | Insurance]
+Insurance
+
+[p28 | prose | Insurance]
+– A reputable asbestos contractor should be able to provide you with details about their public liability and indemnity insurance.
+
+[p28 | prose | Reviews and references]
+Reviews and references
+
+[p28 | prose | Reviews and references]
+– A reputable asbestos contractor should be able to provide you with reviews, testimonials, or references from other customers. These should help you to understand the quality of their work and how professional they are.
+
+[p28 | prose | Reviews and references]
+– You can also search for reviews online to see what other people have experienced when they have hired the contractor.
+
+[p28 | prose | Cost]
+Cost
+
+[p28 | prose | Cost]
+– Cost is an important factor, but it should not be the only thing you consider when choosing an asbestos contractor. A contractor that offers the lowest price may not necessarily provide the highest quality service.
+
+[p28 | prose | Cost]
+– Look for a contractor that offers a good balance of cost and quality. Getting multiple quotes can help you spot rates that are unusually high or low.
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+3.6 What you should receive from an asbestos contractor
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+An asbestos contractor should provide you with all the information you need to decide whether to go ahead with work.
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+The asbestos contractor should give you this information in writing as a formal quote or work plan.
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+A formal quote or work plan should include details about:
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+– what work will be done and a description of the methods that will be used
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+– any tests or inspections that need to be done
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+– how long the work will take
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+– how much the work will cost
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+– any warranties or guarantees that will cover the work and materials
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+– what health and safety measures will be used to protect any workers in your building or workplace
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+– evidence of certifications, qualifications, and licences
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+– confirmation that relevant health monitoring is provided to their workers
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+– what disruptions there will be to your building or workplace while the work is going on.
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+The quote you receive from your asbestos contractor may highlight work that needs to be done by other tradespeople.
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+This means you might need to hire other tradespeople for parts of the job.
+
+[p29 | prose | 3.6 What you should receive from an asbestos contractor]
+You should consider this when you are thinking about the cost of the work.
+
+[p31 | prose | 4.1 Introduction]
+4.1 Introduction
+
+[p31 | prose | 4.1 Introduction]
+Collecting information about your building or workplace is the first step in the asbestos identification and management process (Figure 5).
+
+[p31 | prose | 4.1 Introduction]
+Collect information about your building or workplace
+
+[p31 | prose | 4.1 Introduction]
+Identify asbestos material in your building or workplace
+
+[p31 | prose | 4.1 Introduction]
+Plan to manage asbestos material
+
+[p31 | prose | 4.1 Introduction]
+Manage asbestos material
+
+[p31 | prose | 4.1 Introduction]
+Monitor your control measures
+
+[p31 | prose | 4.1 Introduction]
+FIGURE 5:
+
+[p31 | prose | 4.1 Introduction]
+Asbestos identification and management process
+
+[p31 | prose | 4.1 Introduction]
+– collecting information
+
+[p31 | prose | 4.2 Where to find information about your building or workplace]
+4.2 Where to find information about your building or workplace
+
+[p31 | prose | 4.2 Where to find information about your building or workplace]
+You should aim to collect as much information as possible about your building or workplace.
+
+[p31 | prose | 4.2 Where to find information about your building or workplace]
+Examples of information sources that you could look for are shown in Table 3 below.
+
+[p31 | table | 4.2 Where to find information about your building or workplace]
+| SOURCE OF INFORMATION | WHAT IT CAN TELL YOU |
+| --- | --- |
+| Land information memorandum (LIM) report | A LIM report contains information that a local council holds about a property, including its build, date and any building consents and permits. |
+| Building report | A building report can provide information on areas of a property that could contain asbestos. |
+| Asbestos clearance certificates | Asbestos clearance certificates provide information about asbestos removal work that has previously been done on a property and what asbestos materials that were not able to be removed have been left in situ. |
+| Asbestos survey reports | Asbestos survey reports may provide information about areas of a property where asbestos material has been identified. |
+| Building maintenance records | Records of routine, preventative, or reactive maintenance work may contain information about identified asbestos materials or materials used. |
+| Previous owners and tenants | Previous owners or tenants may be able to give you information about the construction of a property and any refurbishments carried out. |
+| Inventories | Inventory records may provide information about items of plant or other products that may have been manufactured using asbestos. |
+| Manufacturers and designers | The manufacturer or designer of a product or an item of plant should be able to provide information about whether it contains asbestos. |
+| Long-term workers at the building or workplace | Workers that have worked at the building for a long time may be able to provide information about the history of a property, including: - the construction of the building, - renovations to the building - repairs on the building - plant that is in the building. |
+
+[p31 | prose | 4.2 Where to find information about your building or workplace]
+TABLE 3: Examples of information sources for details about asbestos in a property
+
+[p32 | prose | 4.2 Where to find information about your building or workplace]
+You may find that some reports do not contain information about asbestos in your building or workplace, but they can still help with:
+
+[p32 | prose | 4.2 Where to find information about your building or workplace]
+– deciding whether to hire a contractor to carry out an asbestos survey
+
+[p32 | prose | 4.2 Where to find information about your building or workplace]
+– providing information to contractors about your building or workplace
+
+[p32 | prose | 4.2 Where to find information about your building or workplace]
+– recording information during your asbestos identification and management process.
+
+[p32 | prose | 4.3 Useful information about your building or workplace]
+4.3 Useful information about your building or workplace
+
+[p32 | prose | 4.3 Useful information about your building or workplace]
+Examples of information that can be helpful to collect are shown in Table 4 below.
+
+[p32 | table | 4.3 Useful information about your building or workplace]
+| CATEGORY | INFORMATION |
+| --- | --- |
+| Building | Description of the use of the property (for example, industrial, retail, office). Age and construction details. Number of buildings and rooms. Unusual features, underground areas, ducts, or shafts. Surrounding grounds and associated buildings or structures. Date of any extensions, refurbishments, or demolitions. Legal considerations (for example, if the building is listed or was built in a conservation area). |
+| Site | Specific risks that you know about at the site. Arrangements for access (including any restrictions). |
+| Building contents | Installed plant or equipment. Location of heating and ventilation ducts, riser shafts, and lift shafts. Services that may need to be isolated (for example, power, gas, or chemicals). |
+| Users of the building | Whether the building is vacant or occupied. Areas that are commonly used by workers or other people. |
+
+[p32 | prose | 4.3 Useful information about your building or workplace]
+TABLE 4: Types of information that can be helpful in the asbestos identification and management process
+
+[p34 | prose | 5.1 Introduction]
+5.1 Introduction
+
+[p34 | prose | 5.1 Introduction]
+Identifying asbestos material in your building or workplace is the second step in the asbestos identification and management process (Figure 6).
+
+[p34 | prose | FIGURE 6:]
+FIGURE 6:
+
+[p34 | prose | FIGURE 6:]
+Asbestos identification and management process – identifying asbestos material
+
+[p34 | prose | FIGURE 6:]
+Identifying asbestos material in your building involves:
+
+[p34 | prose | FIGURE 6:]
+– inspecting the building using an appropriate asbestos survey
+
+[p34 | prose | FIGURE 6:]
+– recording the findings of your inspection
+
+[p34 | prose | FIGURE 6:]
+– showing where asbestos material is in your building
+
+[p34 | prose | FIGURE 6:]
+– arranging for a sample of the material to be analysed, where necessary.
+
+[p34 | prose | FIGURE 6:]
+Identifying asbestos in your building can help your workers and other people avoid areas that contain friable asbestos or asbestos material that is in poor condition. This helps minimise the risk that your workers and other people are exposed to asbestos fibres.
+
+[p34 | prose | FIGURE 6:]
+You must take reasonably practicable steps to identify all asbestos material in any building or workplace you own or manage. This includes:
+
+[p34 | prose | FIGURE 6:]
+– any asbestos material you already know about
+
+[p34 | prose | FIGURE 6:]
+– any asbestos material that you would reasonably be expected to know about as the building owner or manager.
+
+[p34 | prose | 5.2 Inspecting your building or workplace]
+5.2 Inspecting your building or workplace
+
+[p34 | prose | 5.2 Inspecting your building or workplace]
+The purpose of inspecting your building or workplace is to identify areas where there is asbestos or where there could be asbestos.
+
+[p34 | prose | 5.2 Inspecting your building or workplace]
+The person you choose to carry out an inspection of your building should be a competent person. Hiring an asbestos contractor to help you identify asbestos material in your building or workplace is likely to be the safest option.
+
+[p34 | prose | Competent person]
+Competent person
+
+[p34 | prose | Competent person]
+A competent person is someone who has the appropriate skills, training, knowledge, and experience to perform the task or role.
+
+[p34 | prose | Competent person]
+To carry out an inspection for asbestos material on your property, this should be a person that:
+
+[p34 | prose | Competent person]
+– can identify asbestos material
+
+[p34 | prose | Competent person]
+– is familiar with building and construction practices to help work out where asbestos is likely to be present
+
+[p34 | prose | Competent person]
+– can confirm whether asbestos material is friable or non-friable and evaluate its condition.
+
+[p35 | prose | Competent person]
+The person identifying asbestos should conduct a thorough visual inspection of areas of the building or workplace that are readily accessible, including all buildings, ceilings, cellars, and storage areas.
+
+[p35 | prose | Competent person]
+It can be helpful to take photos of any suspected asbestos, but only if this can be done without disturbing it.
+
+[p35 | prose | 5.3 Asbestos surveys]
+5.3 Asbestos surveys
+
+[p35 | prose | 5.3 Asbestos surveys]
+Asbestos surveys can be used to locate and identify asbestos material in your building or workplace. Asbestos surveys are usually carried out by asbestos surveyors.
+
+[p35 | prose | 5.3 Asbestos surveys]
+There are different types of asbestos survey (Table 5). Your building or workplace may require more than one type of asbestos survey. For example, a boiler house due for demolition will require a demolition survey, while offices at the same site may have a management survey.
+
+[p35 | table | 5.3 Asbestos surveys]
+| TYPE OF ASBESTOS SURVEY | PURPOSE |
+| --- | --- |
+| Asbestos management survey | An asbestos management survey is recommended during normal occupation and use of the building or workplace. |
+| An asbestos management survey can help you to: - find and record the location, amount, and type of asbestos material in your building or workplace inspect and record information about the condition of any asbestos material in your building or workplace, and how accessible it is confirm whether material suspected to be asbestos is asbestos. |  |
+| Refurbishment or demolition survey | A refurbishment or demolition survey may be needed when your building or workplace (or part of it) is going to be refurbished or demolished. |
+| Refurbishment or demolition surveys are intrusive. This means that parts of the building structure may need to be disturbed (for example, breaking through walls, lifting carpets, or removing tiles). A refurbishment or demolition survey can help you to locate all the asbestos material in your building or workplace before refurbishment or demolition work starts. |  |
+
+[p35 | prose | 5.3 Asbestos surveys]
+TABLE 5: Types of asbestos surveys
+
+[p35 | prose | 5.3 Asbestos surveys]
+If you choose to hire an asbestos contractor to carry out an asbestos survey on your building or workplace, you will need to decide what type of survey you need.
+
+[p35 | prose | 5.3 Asbestos surveys]
+Confirm the survey type with your asbestos contractor. There should be a clear statement and record of:
+
+[p35 | prose | 5.3 Asbestos surveys]
+– the type of survey that will be carried out
+
+[p35 | prose | 5.3 Asbestos surveys]
+– the reasons for selecting that type of survey
+
+[p35 | prose | 5.3 Asbestos surveys]
+– the areas of the building or workplace that will be surveyed.
+
+[p35 | prose | 5.3 Asbestos surveys]
+You can use the information in the asbestos survey report to record the location of any asbestos material in an asbestos register. This information will also be helpful when you prepare your asbestos management plan. For more information about asbestos management plans, see Section 6.0: Develop an asbestos management plan.
+
+[p36 | prose | 5.4 What is an asbestos register?]
+5.4 What is an asbestos register?
+
+[p36 | prose | 5.4 What is an asbestos register?]
+The aim of an inspection is to produce an asbestos register. The asbestos register is a document that lists all identified or assumed asbestos in a building or workplace.
+
+[p36 | prose | 5.4 What is an asbestos register?]
+An asbestos register should include:
+
+[p36 | prose | 5.4 What is an asbestos register?]
+– the date asbestos material was identified or assumed
+
+[p36 | prose | 5.4 What is an asbestos register?]
+– the location, type, and condition of the asbestos
+
+[p36 | prose | 5.4 What is an asbestos register?]
+– an estimate of the area or quantity of asbestos
+
+[p36 | prose | 5.4 What is an asbestos register?]
+– details of inaccessible areas
+
+[p36 | prose | 5.4 What is an asbestos register?]
+– any results from sample analysis
+
+[p36 | prose | 5.4 What is an asbestos register?]
+– details of any past asbestos removal work.
+
+[p36 | prose | 5.4 What is an asbestos register?]
+It can be useful to include photos or drawings in your asbestos register to show the location of any asbestos material.
+
+[p36 | prose | 5.4 What is an asbestos register?]
+You can find a template asbestos register in Appendix C of this guidance.
+
+[p36 | prose | 5.5 Existing asbestos registers]
+5.5 Existing asbestos registers
+
+[p36 | prose | 5.5 Existing asbestos registers]
+If you already have an asbestos register for your building or workplace, you should make sure you keep it up to date.
+
+[p36 | prose | 5.5 Existing asbestos registers]
+For example, if your building or workplace carries out vehicle repairs, you should update your asbestos register if a vehicle with asbestos brakes is brought in for maintenance.
+
+[p36 | prose | 5.5 Existing asbestos registers]
+You should also make your asbestos registers available to other PCBUs that are affected by your work.
+
+[p36 | prose | 5.6 If there is no asbestos register]
+5.6 If there is no asbestos register
+
+[p36 | prose | 5.6 If there is no asbestos register]
+If your building or workplace does not have an asbestos register, but asbestos material is suspected:
+
+[p36 | prose | 5.6 If there is no asbestos register]
+– you should create an asbestos register, then
+
+[p36 | prose | 5.6 If there is no asbestos register]
+– you must identify the asbestos material.
+
+[p36 | prose | 5.7 Assuming asbestos material is present]
+5.7 Assuming asbestos material is present
+
+[p36 | prose | 5.7 Assuming asbestos material is present]
+Always assume asbestos is present in your building or workplace until you are certain it is not.
+
+[p36 | prose | 5.7 Assuming asbestos material is present]
+If material in your building or workplace could be asbestos but you cannot identify it, you must assume that it is asbestos.
+
+[p36 | prose | 5.7 Assuming asbestos material is present]
+If you have assumed there is asbestos material in your building or workplace, you must:
+
+[p36 | prose | 5.7 Assuming asbestos material is present]
+– follow the requirements for managing asbestos until it is removed, or until testing shows that the material does not contain asbestos, and
+
+[p36 | prose | 5.7 Assuming asbestos material is present]
+– record information about your assumption in your asbestos management plan. For more information about asbestos management plans, see Section 6.0: Develop an asbestos management plan.
+
+[p37 | prose | 5.8 Assuming asbestos material is not present]
+5.8 Assuming asbestos material is not present
+
+[p37 | prose | 5.8 Assuming asbestos material is not present]
+To assume asbestos material is not present in your building or workplace, you must have reasonable grounds to believe this is the case.
+
+[p37 | prose | 5.8 Assuming asbestos material is not present]
+Examples of reasonable grounds to assume asbestos is not present might include:
+
+[p37 | prose | 5.8 Assuming asbestos material is not present]
+– a previous refurbishment survey confirms there is no asbestos in the area that is being investigated
+
+[p37 | prose | 5.8 Assuming asbestos material is not present]
+– a product being very unlikely to contain asbestos (for example, wood or stone)
+
+[p37 | prose | 5.8 Assuming asbestos material is not present]
+– a product being very unlikely to have had asbestos added (for example, glass or metal).
+
+[p37 | prose | Important]
+Important
+
+[p37 | prose | Important]
+It is not always easy to assume that asbestos materials are not present.
+
+[p37 | prose | Important]
+Even if building specifications state that asbestos materials were not used, workers may have used them for convenience (for example, as filler or packing and support material).
+
+[p37 | prose | 5.9 Areas that cannot be accessed]
+5.9 Areas that cannot be accessed
+
+[p37 | prose | 5.9 Areas that cannot be accessed]
+If your building or workplace has areas that cannot be accessed for inspection, you must assume these areas contain asbestos.
+
+[p37 | prose | 5.9 Areas that cannot be accessed]
+Examples of areas that cannot be accessed that might contain asbestos material include:
+
+[p37 | prose | 5.9 Areas that cannot be accessed]
+– enclosed building cavities
+
+[p37 | prose | 5.9 Areas that cannot be accessed]
+– the inner lining of plant (for example, boiler pressure vessels)
+
+[p37 | prose | 5.9 Areas that cannot be accessed]
+– the underside of vinyl tiles, carpet, and other floor coverings
+
+[p37 | prose | 5.9 Areas that cannot be accessed]
+– enclosed riser shafts
+
+[p37 | prose | 5.9 Areas that cannot be accessed]
+– air conditioning ducts
+
+[p37 | prose | 5.9 Areas that cannot be accessed]
+– locked or inaccessible rooms or areas.
+
+[p37 | prose | 5.10 What to do if you find or suspect asbestos material]
+5.10 What to do if you find or suspect asbestos material
+
+[p37 | prose | 5.10 What to do if you find or suspect asbestos material]
+If you find asbestos material in your building or workplace, or suspect something might be asbestos, follow the steps in Figure 7.
+
+[p37 | prose | 5.10 What to do if you find or suspect asbestos material]
+What to do if you find or suspect asbestos in your building
+
+[p38 | prose | 5.10 What to do if you find or suspect asbestos material]
+5.0 Identify asbestos material in your building or workplace
+
+[p38 | prose | 5.11 Showing where asbestos is in your building or workplace]
+5.11 Showing where asbestos is in your building or workplace
+
+[p38 | prose | 5.11 Showing where asbestos is in your building or workplace]
+If you find or assume there is asbestos material in your building or workplace, you must clearly indicate where it can be found. Providing people with information on the location and condition of asbestos material helps to prevent unnecessary exposure to asbestos fibres. You could indicate the presence and location of asbestos material by using: – labels (Figure 8) attached directly on or next to identified asbestos if it is safe to do so – written records, for example site plans or an asbestos register (Figure 9) – signs at the entrances of the building, workplace, or work area. Signs should be weatherproof and attached securely.
+
+[p39 | prose | Important]
+Important
+
+[p39 | prose | Important]
+You must indicate the presence of asbestos material in a way that complies with any relevant safe work instruments in place.
+
+[p39 | prose | Important]
+A safe work instrument is a form of legislation that supports or complements regulations. You can find out more about safe work instruments on the WorkSafe website About safe work instruments
+
+[p39 | prose | Important]
+You can read more about indicating the presence and location of asbestos on the WorkSafe website Policy clarification: Meeting the duty to indicate the presence and location of asbestos at work
+
+[p39 | prose | 5.12 Sample analysis]
+5.12 Sample analysis
+
+[p39 | prose | 5.12 Sample analysis]
+It is very difficult to tell the difference between materials that contain asbestos and materials that do not. The only way to confirm that something is asbestos is to test a sample of it.
+
+[p39 | prose | 5.12 Sample analysis]
+If the suspected asbestos material is stable, non-friable and will not be disturbed, it may be more practicable to assume it is asbestos, rather than test it.
+
+[p39 | prose | Important]
+Important
+
+[p39 | prose | Important]
+Asbestos sampling should only be done by a competent person.
+
+[p39 | prose | Important]
+Taking a sample of asbestos material for analysis can release asbestos fibres into the air, increasing the health risk. Sampling asbestos incorrectly could be more risky than leaving it alone.
+
+[p39 | prose | Important]
+If arrangements are made for a sample to be analysed, you must make sure that the analysis is done at an accredited laboratory.
+
+[p39 | prose | Important]
+You can find more information about accredited laboratories on the International Accreditation New Zealand (IANZ) website or the National Association of Testing Authorities (NATA) website:
+
+[p39 | prose | Important]
+– Search accredited organisations – IANZ
+
+[p39 | prose | Important]
+– Search accredited organisations – NATA
+
+[p41 | prose | 6.1 Introduction]
+6.1 Introduction
+
+[p41 | prose | 6.1 Introduction]
+When you have identified the presence, location, type, and condition of any asbestos material in your building or workplace, you can assess the risks.
+
+[p41 | prose | 6.1 Introduction]
+Assessing the risks of exposure from asbestos material in your building or workplace will help you develop your asbestos management plan to manage these risks.
+
+[p41 | prose | 6.1 Introduction]
+Developing an asbestos management plan for your building or workplace is the third step in the asbestos identification and management process (Figure 10).
+
+[p41 | prose | 6.1 Introduction]
+Collect information about your building or workplace
+
+[p41 | prose | 6.1 Introduction]
+Identify asbestos material in your building or workplace
+
+[p41 | prose | 6.1 Introduction]
+Plan to manage asbestos material
+
+[p41 | prose | 6.1 Introduction]
+Manage asbestos material
+
+[p41 | prose | 6.1 Introduction]
+Monitor your control measures
+
+[p41 | prose | 6.1 Introduction]
+FIGURE 10:
+
+[p41 | prose | 6.1 Introduction]
+Asbestos identification and management process – developing an asbestos management plan
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+6.2 Assess the risk of asbestos exposure
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+When you have identified the asbestos in your building or workplace, you will need to make a plan to assess the risks and manage them.
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+To assess the risk from asbestos material in your building or workplace, think about:
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+– who might be exposed to the asbestos material
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+– how often the asbestos material is likely to cause a risk (for example, whether the asbestos material is in an area that is used often or an area that is sealed off)
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+– what the possible consequences of asbestos exposure are
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+– how likely are the consequences of exposure to the asbestos material.
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+Involve your workers and their representatives in the risk assessment process. They will have operational day-to-day knowledge that will help you make sure that risks are fully assessed.
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+Keep in mind that it can be easy to underestimate how likely a risk is, or how severe its consequences might be if it happens.
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+In your assessment, think about:
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+– the condition of the asbestos material
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+– whether the asbestos material is likely to be damaged or disturbed
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+– whether the asbestos material is likely to deteriorate
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+– the quantity of airborne asbestos fibres that could be released
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+– whether the asbestos material is in an area where workers or other people could be exposed to it
+
+[p41 | prose | 6.2 Assess the risk of asbestos exposure]
+– potential routes for exposure (for example, through vents or ducts).
+
+[p42 | prose | Remember]
+Remember
+
+[p42 | prose | Remember]
+If asbestos material is in good condition and has not been disturbed, it may be unlikely to release fibres into the air. It may be safer to leave it alone and review its condition over time.
+
+[p42 | prose | Remember]
+There is a higher risk that asbestos fibres could be released into the air if:
+
+[p42 | prose | Remember]
+– the asbestos material is in poor condition
+
+[p42 | prose | Remember]
+– the asbestos material has been disturbed
+
+[p42 | prose | Remember]
+– if there is asbestos contaminated dust present (because this may be disturbed later).
+
+[p42 | prose | 6.3 What is an asbestos management plan?]
+6.3 What is an asbestos management plan?
+
+[p42 | prose | 6.3 What is an asbestos management plan?]
+An asbestos management plan is a document that sets out where any identified asbestos material is present and how it will be managed.
+
+[p42 | prose | 6.3 What is an asbestos management plan?]
+You must have an asbestos management plan in place for:
+
+[p42 | prose | 6.3 What is an asbestos management plan?]
+– any structure that has (or is likely to have) asbestos material
+
+[p42 | prose | 6.3 What is an asbestos management plan?]
+– any identified asbestos material in soil at your building or workplace
+
+[p42 | prose | 6.3 What is an asbestos management plan?]
+– any naturally occurring asbestos material at your building or workplace
+
+[p42 | prose | 6.3 What is an asbestos management plan?]
+– any asbestos material that is likely to be at your building or workplace from time to time.
+
+[p42 | prose | 6.3 What is an asbestos management plan?]
+Your asbestos management plan can help you to prioritise and manage asbestos risks if people at your building or workplace could be exposed to asbestos fibres.
+
+[p42 | prose | 6.4 What information is in an asbestos management plan?]
+6.4 What information is in an asbestos management plan?
+
+[p42 | prose | 6.4 What information is in an asbestos management plan?]
+Your asbestos management plan must be in writing, but it can be electronic or a paper hardcopy. It must include information about:
+
+[p42 | prose | 6.4 What information is in an asbestos management plan?]
+– the identification and location of asbestos material (for example, where any signs and labels are located)
+
+[p42 | prose | 6.4 What information is in an asbestos management plan?]
+– decisions about how asbestos risks are managed and the reasons for these decisions (for example, safe work procedures and control measures)
+
+[p42 | prose | 6.4 What information is in an asbestos management plan?]
+– procedures for recording incidents or emergencies involving asbestos
+
+[p42 | prose | 6.4 What information is in an asbestos management plan?]
+– information about the workers who may carry out work on or near asbestos, including information about training, roles and responsibilities, and health monitoring. You can find out more about health monitoring in Section 8.4: Health monitoring.
+
+[p42 | prose | 6.4 What information is in an asbestos management plan?]
+You may also include any other information that describes how you plan to manage asbestos material in your building or workplace. This might include:
+
+[p42 | prose | 6.4 What information is in an asbestos management plan?]
+– information about the processes and procedures in place to manage asbestos risks (for example, air monitoring procedures)
+
+[p42 | prose | 6.4 What information is in an asbestos management plan?]
+– information about your asbestos documents (for example, where important documents are kept and who is responsible for updating them)
+
+[p42 | prose | 6.4 What information is in an asbestos management plan?]
+– key dates (for example, scheduled document reviews, audits, or inspections)
+
+[p42 | prose | 6.4 What information is in an asbestos management plan?]
+– contact details for people involved with managing asbestos in your building or workplace.
+
+[p42 | prose | 6.4 What information is in an asbestos management plan?]
+You can access a template asbestos management plan on the WorkSafe website Asbestos management plans
+
+[p42 | prose | 6.4 What information is in an asbestos management plan?]
+You can also find a template asbestos management plan in Appendix D of this guidance.
+
+[p43 | prose | 6.5 Who is responsible for preparing the asbestos management plan?]
+6.5 Who is responsible for preparing the asbestos management plan?
+
+[p43 | prose | 6.5 Who is responsible for preparing the asbestos management plan?]
+You are responsible for making sure an asbestos management plan is prepared for your workplace.
+
+[p43 | prose | 6.5 Who is responsible for preparing the asbestos management plan?]
+Sometimes, duties will be shared between multiple PCBUs (for example, when several businesses operate in the same building, or when property ownership is shared).
+
+[p43 | prose | 6.5 Who is responsible for preparing the asbestos management plan?]
+Each PCBU must, so far as reasonably practicable, consult, cooperate, and coordinate with other PBCUs to determine what each is responsible for. This includes who will prepare the asbestos management plan.
+
+[p43 | prose | 6.5 Who is responsible for preparing the asbestos management plan?]
+You cannot contract out of your duty to prepare an asbestos management plan.
+
+[p43 | prose | Example scenario: PCBUs working together to create an asbestos management plan]
+Example scenario: PCBUs working together to create an asbestos management plan
+
+[p43 | prose | Example scenario: PCBUs working together to create an asbestos management plan]
+Nina is the new owner of a 1970s commercial building in the town centre. She has contracted an experienced independent property manager, Oscar, to manage the building. The property has a tenant, Wendy, who runs a busy hair salon from the building.
+
+[p43 | prose | Example scenario: PCBUs working together to create an asbestos management plan]
+Oscar asks Nina for all the paperwork that was handed over with the building. Oscar notices that the documentation does not include an asbestos management plan. Nina and Oscar ask Wendy if she has a copy of the asbestos management plan, but she has never heard of one before.
+
+[p43 | prose | Example scenario: PCBUs working together to create an asbestos management plan]
+Nina and Oscar recognise the need for an asbestos management plan given the age of the building and the likelihood of asbestos being present. Nina asks Oscar to hire an asbestos surveyor to inspect the building.
+
+[p43 | prose | Example scenario: PCBUs working together to create an asbestos management plan]
+In the meantime, Wendy is busy running her salon and managing her workers. She is initially hesitant about the asbestos survey and the potential disruption it could cause for her business. However, she stays in regular contact with Nina and Oscar. They work together to fit in the asbestos survey around her schedule so there is minimal disruption to the salon’s operations. Nina and Oscar agree to be at the building on the day of the asbestos survey to provide the asbestos surveyor access to all areas of the salon.
+
+[p43 | prose | Example scenario: PCBUs working together to create an asbestos management plan]
+The asbestos surveyor finds several areas where asbestos is present. Once the asbestos surveyor’s report is complete, Nina and Oscar work with the asbestos surveyor to prepare a comprehensive asbestos management plan for the building. They use the detailed asbestos survey report to create the asbestos management plan, noting down the location and condition of asbestos material, along with a plan to manage the asbestos material.
+
+[p43 | prose | Example scenario: PCBUs working together to create an asbestos management plan]
+Nina carries out a final review of the asbestos management plan, making sure that it includes all the relevant information from the survey report and the procedures to manage the asbestos materials safely.
+
+[p43 | prose | Example scenario: PCBUs working together to create an asbestos management plan]
+Once the asbestos management plan is finalised, Nina, Oscar, and Wendy meet with the asbestos surveyor to discuss the findings. They make sure to include Wendy’s contact information in the asbestos management plan and give her access to an electronic copy. Then they all review the asbestos management plan and discuss the steps they will take to manage the identified asbestos.
+
+[p43 | table | Example scenario: PCBUs working together to create an asbestos management plan]
+| Key characters in this example scenario |  |  |  |
+| --- | --- | --- | --- |
+| Q [ | Q [) | Q [) | Q [) |
+| Nina | Oscar | Wendy | Asbestos surveyor |
+| Commercial landlord PCBU | Property manager PCBU | Commercial tenant PCBU | PCBU |
+
+[p44 | prose | 6.6 Who can help you develop your asbestos management plan?]
+6.6 Who can help you develop your asbestos management plan?
+
+[p44 | prose | 6.6 Who can help you develop your asbestos management plan?]
+You may choose to hire a competent person to help you prepare your asbestos management plan. This could include:
+
+[p44 | prose | 6.6 Who can help you develop your asbestos management plan?]
+– a work health and safety professional
+
+[p44 | prose | 6.6 Who can help you develop your asbestos management plan?]
+– a qualified occupational hygienist
+
+[p44 | prose | 6.6 Who can help you develop your asbestos management plan?]
+– an asbestos contractor (for example, an asbestos surveyor).
+
+[p44 | prose | 6.6 Who can help you develop your asbestos management plan?]
+Even if you choose to hire someone to help you, you are still responsible for preparing your asbestos management plan.
+
+[p44 | prose | 6.7 Who needs access to your asbestos management plan?]
+6.7 Who needs access to your asbestos management plan?
+
+[p44 | prose | 6.7 Who needs access to your asbestos management plan?]
+You must make sure an up-to-date copy of your asbestos management plan is readily accessible to:
+
+[p44 | prose | 6.7 Who needs access to your asbestos management plan?]
+– workers and their representatives (such as Health and Safety Representatives)
+
+[p44 | prose | 6.7 Who needs access to your asbestos management plan?]
+– PCBUs working, or requiring work to be carried out, at the building workplace
+
+[p44 | prose | 6.7 Who needs access to your asbestos management plan?]
+– any health and safety inspector that asks to see it.
+
+[p44 | prose | 6.7 Who needs access to your asbestos management plan?]
+You should also keep a copy of your asbestos management plan at the workplace.
+
+[p44 | prose | 6.8 Recording asbestos material that is in your building or workplace for a short time]
+6.8 Recording asbestos material that is in your building or workplace for a short time
+
+[p44 | prose | 6.8 Recording asbestos material that is in your building or workplace for a short time]
+You do not need to include asbestos material that is only in your workplace for a short time in your asbestos management plan.
+
+[p44 | prose | 6.8 Recording asbestos material that is in your building or workplace for a short time]
+For example, if plant that contains asbestos is in your workplace briefly while it is being repaired, this would not need to be recorded in your asbestos management plan. But if you often repair plant that contains asbestos, this should be recorded in your asbestos management plan.
+
+[p44 | prose | 6.9 Reviewing your asbestos management plan]
+6.9 Reviewing your asbestos management plan
+
+[p44 | prose | 6.9 Reviewing your asbestos management plan]
+You must review your asbestos management plan every five years, or when:
+
+[p44 | prose | 6.9 Reviewing your asbestos management plan]
+– asbestos control measures are reviewed
+
+[p44 | prose | 6.9 Reviewing your asbestos management plan]
+– asbestos is removed, disturbed, sealed, or enclosed
+
+[p44 | prose | 6.9 Reviewing your asbestos management plan]
+– the asbestos management plan is no longer suitable to manage the risks (for example, if new asbestos is identified, or if there is a change to the layout of the building or workplace).
+
+[p44 | prose | 6.9 Reviewing your asbestos management plan]
+If you need to make changes to your control measures to manage risks, you must update your asbestos management plan.
+
+[p45 | prose | Example scenario: Making sure the asbestos management plan is up to date]
+Example scenario: Making sure the asbestos management plan is up to date
+
+[p45 | prose | Example scenario: Making sure the asbestos management plan is up to date]
+MaxiCo is a business that owns and manages a portfolio of properties spread out across the country. The portfolio includes several cinemas of different ages and sizes, from small single-screen cinemas to modern multi-screen complexes.
+
+[p45 | prose | Example scenario: Making sure the asbestos management plan is up to date]
+Quinn is the asbestos consultant for MaxiCo and is responsible for managing the asbestos management plans for each property in the portfolio.
+
+[p45 | prose | Example scenario: Making sure the asbestos management plan is up to date]
+Quinn uses a portfolio management system to help them manage the portfolio. The system holds important details about each of the properties, including details about its construction, building materials, renovations, and previous asbestos surveys and management. The system is also set up to send reminders when the asbestos management plan for a property is due to be reviewed.
+
+[p45 | prose | Example scenario: Making sure the asbestos management plan is up to date]
+Quinn receives a reminder that the asbestos management plan for The Silver Circle is due for review. The Silver Circle is a beautiful Art Deco building built in 1936, and like many buildings of its age, it has some areas that contain asbestos material. The Silver Circle is one of three cinemas owned by Final Cut Cinemas.
+
+[p45 | prose | Example scenario: Making sure the asbestos management plan is up to date]
+Quinn sets up a meeting with Peter, the owner of Final Cut Cinemas, to talk about the asbestos management plan for the property and to plan for an asbestos survey. They agree that the asbestos survey should be carried out when the cinema is closed, and that Peter will be at the Silver Circle to give the surveyor access to the building.
+
+[p45 | prose | Example scenario: Making sure the asbestos management plan is up to date]
+Quinn contacts an asbestos surveyor who has done asbestos survey work for MaxiCo in the past. Once the survey is completed, the asbestos surveyor sends their asbestos survey report to Peter and Quinn.
+
+[p45 | prose | Example scenario: Making sure the asbestos management plan is up to date]
+While reviewing the current survey findings for The Silver Circle, Quinn spots a note that says asbestos material was discovered in an overhead area near the projector room. They compare the recent survey with previous survey findings. Previous surveys state that there was a hatch in the ceiling, but it had been marked as ‘inaccessible’.
+
+[p45 | prose | Example scenario: Making sure the asbestos management plan is up to date]
+Quinn contacts Peter and discovers that the hatch was blocked by the old lamp projector setup. However, the old projector had been upgraded to a much smaller laser projector, and the hatch had become accessible.
+
+[p45 | prose | Example scenario: Making sure the asbestos management plan is up to date]
+Quinn and Peter work together to the update the asbestos register and asbestos management plan for The Silver Circle. They review the information in the survey report, discuss the risks, and decide that they will need to hire an asbestos contractor for advice on how the risk should be managed. They both agree to seal off the hatch in the meantime, and make sure the hatch is labelled to show that there is a risk of asbestos exposure.
+
+[p45 | table | Example scenario: Making sure the asbestos management plan is up to date]
+| Key characters in | this example | scenario |  |
+| --- | --- | --- | --- |
+| Inl | Q [a) | Q [a) | Q [) |
+| MaxiCo Property owner | Quinn Asbestos | Peter Final Cut Cinemas | Asbestos surveyor |
+| PCBU | consultant Worker of MaxiCo | PCBU | PCBU |
+
+[p46 | prose | 6.10 Who can request a review of your asbestos management plan?]
+6.10 Who can request a review of your asbestos management plan?
+
+[p46 | prose | 6.10 Who can request a review of your asbestos management plan?]
+A representative for workers at a workplace can request a review of your asbestos management plan if they reasonably believe that:
+
+[p46 | prose | 6.10 Who can request a review of your asbestos management plan?]
+– the health or safety of the work group they represent is at risk
+
+[p46 | prose | 6.10 Who can request a review of your asbestos management plan?]
+– the asbestos management plan has not been reviewed to address the health or safety risk.
+
+[p46 | prose | 6.10 Who can request a review of your asbestos management plan?]
+You must review the management plan if a representative requests that you do so.
+
+[p48 | prose | 6.10 Who can request a review of your asbestos management plan?]
+7.0 Manage asbestos material
+
+[p48 | prose | 7.1 Introduction]
+7.1 Introduction
+
+[p48 | prose | 7.1 Introduction]
+When you have assessed the risks from the asbestos material you have identified or assumed to be present, you will need to manage them. Managing the asbestos material in your building or workplace is the fourth step of the asbestos identification and management process (Figure 11).
+
+[p48 | prose | 7.2 Hierarchy of control measures]
+7.2 Hierarchy of control measures
+
+[p48 | prose | 7.2 Hierarchy of control measures]
+The ways of managing risks are ranked from the highest level of protection and reliability to the lowest. This ranking is known as the hierarchy of control measures (Figure 12).
+
+[p48 | prose | 7.2 Hierarchy of control measures]
+Using the hierarchy of control to manage risks will help you make sure you are using the most effective control measures first. Table 6 below provides examples of control measures that might be used to manage asbestos risks.
+
+[p49 | table | 7.2 Hierarchy of control measures]
+|  | ACTION | WHAT IS THIS? |
+| --- | --- | --- |
+|  | Elimination | Removing the source of harm, for example arranging for asbestos to be removed from the building or workplace. |
+|  | Substituting (wholly or partly) | Swapping the hazard with something that has a lower risk. |
+| MINIMISATION | Isolating or preventing contact | Separating people from the source of harm, for example enclosing asbestos material to minimise the risk of exposure. |
+| Using engineering control measures | Using physical control measures to reduce exposure to a hazard, for example using equipment to minimise the release of asbestos fibres. |  |
+| Using administrative control measures | Using safe methods of work, procedures, or processes, for example using signs and labels to identify areas where there is asbestos. |  |
+| Using personal protective equipment (PPE) | Using or wearing items to minimise risks to personal health and safety, for example providing your workers with respiratory protective equipment. |  |
+
+[p49 | prose | 7.2 Hierarchy of control measures]
+Example control measures for the management of asbestos material
+
+[p49 | prose | 7.3 Managing the risk of asbestos exposure]
+7.3 Managing the risk of asbestos exposure
+
+[p49 | prose | 7.3 Managing the risk of asbestos exposure]
+You must take reasonably practicable steps to eliminate the risk of asbestos exposure.
+
+[p49 | prose | 7.3 Managing the risk of asbestos exposure]
+If it is not reasonably practicable to eliminate the risk, you must minimise the risk so far as is reasonably practicable. This means using control measures to:
+
+[p49 | prose | 7.3 Managing the risk of asbestos exposure]
+– reduce the chance of people being exposed to asbestos
+
+[p49 | prose | 7.3 Managing the risk of asbestos exposure]
+– reduce how severe the harm is if people are exposed to asbestos.
+
+[p49 | prose | 7.3 Managing the risk of asbestos exposure]
+Control measures to minimise risk should be used in combination to reduce the risk of asbestos exposure.
+
+[p49 | prose | 7.3 Managing the risk of asbestos exposure]
+Ideally, the control measures you use should reduce the severity of it and the chance of it happening.
+
+[p49 | prose | 7.4 Prioritising risks]
+7.4 Prioritising risks
+
+[p49 | prose | 7.4 Prioritising risks]
+You will need to decide which asbestos risks to deal with first.
+
+[p49 | prose | 7.4 Prioritising risks]
+Your asbestos management plan can help you determine which risks could be most likely to result in exposure to asbestos.
+
+[p49 | prose | 7.4 Prioritising risks]
+Prioritise managing these risks first, then move on to managing risks that are less likely to result in exposure to asbestos.
+
+[p49 | prose | 7.5 Control measures for managing asbestos risks]
+7.5 Control measures for managing asbestos risks
+
+[p49 | prose | 7.5 Control measures for managing asbestos risks]
+You will need to weigh up the benefits of using a control measure against any risks that it could create. This is likely to include thinking about:
+
+[p49 | prose | 7.5 Control measures for managing asbestos risks]
+– whether the asbestos material is friable or non-friable
+
+[p49 | prose | 7.5 Control measures for managing asbestos risks]
+– the condition of the asbestos material
+
+[p49 | prose | 7.5 Control measures for managing asbestos risks]
+– the location and accessibility of the asbestos material
+
+[p49 | prose | 7.5 Control measures for managing asbestos risks]
+– what effect a control measure might have on the occupants of your building or workplace.
+
+[p50 | prose | 7.5 Control measures for managing asbestos risks]
+Examples of control measures that can be used to manage the risk of asbestos exposure are shown in Table 7.
+
+[p50 | table | 7.5 Control measures for managing asbestos risks]
+| TYPE OF CONTROL MEASURE | THINGS TO CONSIDER |
+| --- | --- |
+| Removing | Removing asbestos material eliminates the hazard, so that: |
+| Complete removal of asbestos material from the building | - the asbestos material no longer presents a risk to workers and other people in your building or workplace the asbestos material does not complicate recovery efforts in an emergency (for example, a fire, flood, or earthquake) = no ongoing management is required. Removing asbestos material can: - increase the immediate risk of asbestos exposure (especially to asbestos removal workers) - disrupt building or workplace use - be costly and time-consuming. |
+| Enclosing | Enclosing asbestos material can minimise the risk without as much disruption |
+| Placing a physical barrier between the asbestos material and the surrounding area | to the building or workplace. Enclosing asbestos material: = does not eliminate the hazard - requires ongoing maintenance - means there is an ongoing risk of entry into the enclosure - can make rescue and recovery efforts more difficult if there is an emergency. |
+| Encapsulating | Encapsulating asbestos material can be relatively quick and cost-effective |
+| Coating the asbestos material with a product that penetrates into the material and hardens | (depending on the size of the area). Encapsulating asbestos material: - does not eliminate the hazard - may make future removal more difficult and costly - may disrupt building or workplace use - can complicate rescue and recovery efforts in an emergency. |
+| Sealing | Sealing asbestos material can be relatively quick and cost effective (depending |
+| Applying a protective coating that creates a seal | on the size of the area). Sealing asbestos material: - does not eliminate the hazard - should only be used as an interim control measure - requires ongoing maintenance may make future removal more difficult and costly may disrupt building or workplace use can complicate rescue and recovery efforts in an emergency. |
+
+[p50 | prose | 7.5 Control measures for managing asbestos risks]
+TABLE 7: Control measures to manage asbestos material
+
+[p50 | prose | 7.6 Removing asbestos material]
+7.6 Removing asbestos material
+
+[p50 | prose | 7.6 Removing asbestos material]
+Removing asbestos is an example of a control measure that can eliminate the risk of asbestos exposure to those at your building or workplace when it is safely removed. Always consider removing asbestos, where it is reasonably practicable.
+
+[p50 | prose | 7.6 Removing asbestos material]
+If you have identified asbestos in your building or workplace and it needs to be removed, you will likely need to hire an asbestos removal contractor.
+
+[p50 | prose | 7.6 Removing asbestos material]
+Depending on the type of asbestos removal that you need, your contractor may need to be licensed (Figure 13).
+
+[p50 | prose | 7.6 Removing asbestos material]
+Licensed asbestos removal work is divided into Class A and Class B work. Licensed asbestos removalists must have an appropriate training certificate for the type of asbestos removal they carry out.
+
+[p51 | prose | 7.6 Removing asbestos material]
+s o t s e b s a f o s e p y T
+
+[p51 | prose | 7.6 Removing asbestos material]
+: 3 1 E R U G I F
+
+[p51 | prose | 7.6 Removing asbestos material]
+k r o w l a v o m e r
+
+[p52 | prose | 7.7 When is asbestos removal appropriate?]
+7.7 When is asbestos removal appropriate?
+
+[p52 | prose | 7.7 When is asbestos removal appropriate?]
+Asbestos removal may be appropriate when:
+
+[p52 | prose | 7.7 When is asbestos removal appropriate?]
+– the surface of the asbestos material is friable
+
+[p52 | prose | 7.7 When is asbestos removal appropriate?]
+– the asbestos material is badly damaged (for example, water damage or lichen growth)
+
+[p52 | prose | 7.7 When is asbestos removal appropriate?]
+– the asbestos material is in air conditioning ducts
+
+[p52 | prose | 7.7 When is asbestos removal appropriate?]
+– airborne asbestos levels are above the legal limit
+
+[p52 | prose | 7.7 When is asbestos removal appropriate?]
+– other control measures are not appropriate.
+
+[p52 | prose | 7.7 When is asbestos removal appropriate?]
+Asbestos removal may not be appropriate when:
+
+[p52 | prose | 7.7 When is asbestos removal appropriate?]
+– the asbestos material is located in a complex or dangerous area of the building or workplace
+
+[p52 | prose | 7.7 When is asbestos removal appropriate?]
+– the asbestos material is in an area that cannot be easily accessed
+
+[p52 | prose | 7.7 When is asbestos removal appropriate?]
+– removal would be extremely difficult and another control measure would manage the risk.
+
+[p52 | prose | 7.8 What to do when asbestos removal work is being carried out]
+7.8 What to do when asbestos removal work is being carried out
+
+[p52 | prose | 7.8 What to do when asbestos removal work is being carried out]
+If the asbestos removal work is licensed, your licensed asbestos removalist will prepare an asbestos removal control plan (ARCP) for you. You should share this plan with anyone that might be affected by the asbestos removal work.
+
+[p52 | prose | 7.8 What to do when asbestos removal work is being carried out]
+If the asbestos removal work is Class A, you must make sure that air monitoring is carried out by an independent licensed asbestos assessor.
+
+[p52 | prose | 7.8 What to do when asbestos removal work is being carried out]
+You should follow the directions of your asbestos removal contractor when asbestos removal work is being carried out. You must also make sure no-one has access to the removal area (other than people directly involved in the removal work), so far as is reasonably practicable.
+
+[p52 | prose | 7.9 Telling other people about asbestos removal work]
+7.9 Telling other people about asbestos removal work
+
+[p52 | prose | 7.9 Telling other people about asbestos removal work]
+Before asbestos removal work, you must make sure that the following people are told about the intended removal work and when it will start:
+
+[p52 | prose | 7.9 Telling other people about asbestos removal work]
+– your workers
+
+[p52 | prose | 7.9 Telling other people about asbestos removal work]
+– any other persons at your building or workplace.
+
+[p52 | prose | 7.9 Telling other people about asbestos removal work]
+You must also take all reasonable steps to make sure that you tell the following people about the intended removal work and when it will start:
+
+[p52 | prose | 7.9 Telling other people about asbestos removal work]
+– any PCBU at, or in the immediate vicinity of your building or workplace
+
+[p52 | prose | 7.9 Telling other people about asbestos removal work]
+– anyone that occupies premises in the immediate vicinity of your building or workplace.
+
+[p52 | prose | 7.9 Telling other people about asbestos removal work]
+If air monitoring has been done as part of the asbestos removal work, you must share the results with:
+
+[p52 | prose | 7.9 Telling other people about asbestos removal work]
+– your workers and their representatives
+
+[p52 | prose | 7.9 Telling other people about asbestos removal work]
+– any other PCBUs involved with your building or workplace
+
+[p52 | prose | 7.9 Telling other people about asbestos removal work]
+– so far as is reasonably practicable, other people living or working in the area who could be affected by asbestos contamination.
+
+[p53 | prose | Example scenario: Communicating with others affected by asbestos removal work]
+Example scenario: Communicating with others affected by asbestos removal work
+
+[p53 | prose | Example scenario: Communicating with others affected by asbestos removal work]
+Mr Tohu owns The Harrison Building – a landmark on the edge of town, at the end of Pātaka Avenue. It was built in the late 1970s and is home to four commercial businesses on the ground floor and six residences on the first floor. It is a popular tourist attraction because of its clocktower and unusual architecture. Mr Tohu contracted Jonathan, an experienced building manager, to manage the Harrison Building several years ago. To modernise some of the facilities at the back of the building, Jonathan is managing a refurbishment project. An asbestos refurbishment survey found friable asbestos materials in ceiling spaces that could be disturbed by refurbishment work. To minimise the risk of occupants of the Harrison Building and others nearby being exposed to asbestos, Jonathan arranges to have the asbestos material removed. After talking about the asbestos removal project with Mr Tohu and a licensed asbestos removalist, Jonathan starts to let the occupants of the Harrison Building know about the planned work. He sends out a detailed email to all the businesses on the ground floor and all the residents of the first floor. His email explains: - the reason for the upcoming asbestos removal work - the potential risks of the work - the expected timeline for the work - the health and safety measures that will be put in place - details for an evening meeting to give the businesses and their employees the opportunity to ask questions and raise any concerns. Jonathan then considers the area around the building that could be affected by the asbestos removal work. Next door to the Harrison Building is a busy café, with the rest of Pātaka Avenue made up of a row of four large residential houses. He drops off printed information into letterboxes of the business and houses on Pātaka Avenue. Jonathan also keeps the community informed about asbestos removal work by using the Harrison Building’s website and social media accounts.
+
+[p53 | prose | Key characters in this example scenario]
+Key characters in this example scenario
+
+[p53 | table | Key characters in this example scenario]
+| Mr TohuBuilding ownerPCBU | JonathanBuilding managerPCBU | Asbestos removalistPCBU | Commercial tenantsPCBUs | NeighboursPCBUs and non-PCBUs that may be affected by asbestos removal work |
+| --- | --- | --- | --- | --- |
+
+[p54 | prose | 7.10 Enclosing asbestos material]
+7.10 Enclosing asbestos material
+
+[p54 | prose | 7.10 Enclosing asbestos material]
+Enclosing involves placing a physical barrier between the asbestos material and the surrounding area to:
+
+[p54 | prose | 7.10 Enclosing asbestos material]
+– minimise the risk of exposure to asbestos fibres
+
+[p54 | prose | 7.10 Enclosing asbestos material]
+– minimise the risk of the asbestos material being damaged or disturbed.
+
+[p54 | prose | 7.10 Enclosing asbestos material]
+Enclosing asbestos material should be considered if removal is not reasonably practicable or cannot be done immediately.
+
+[p54 | prose | 7.10 Enclosing asbestos material]
+The enclosure needs to be inspected and maintained regularly to make sure it is still providing an effective barrier. If there is any sign of damage or disturbance to the enclosure or to the asbestos material inside, you should arrange for:
+
+[p54 | prose | 7.10 Enclosing asbestos material]
+– urgent repair
+
+[p54 | prose | 7.10 Enclosing asbestos material]
+– further enclosure, or
+
+[p54 | prose | 7.10 Enclosing asbestos material]
+– asbestos removal.
+
+[p54 | prose | 7.11 When is enclosing asbestos material appropriate?]
+7.11 When is enclosing asbestos material appropriate?
+
+[p54 | prose | 7.11 When is enclosing asbestos material appropriate?]
+Enclosing asbestos material may be appropriate when:
+
+[p54 | prose | 7.11 When is enclosing asbestos material appropriate?]
+– removing the asbestos material would be extremely difficult or dangerous
+
+[p54 | prose | 7.11 When is enclosing asbestos material appropriate?]
+– asbestos fibres can be fully contained within the enclosure
+
+[p54 | prose | 7.11 When is enclosing asbestos material appropriate?]
+– most of the surface of the asbestos material cannot be accessed
+
+[p54 | prose | 7.11 When is enclosing asbestos material appropriate?]
+– it is unlikely that the asbestos material and enclosure will be disturbed.
+
+[p54 | prose | 7.11 When is enclosing asbestos material appropriate?]
+Enclosing asbestos material may not be appropriate if:
+
+[p54 | prose | 7.11 When is enclosing asbestos material appropriate?]
+– there is a possibility that the enclosure could be damaged (for example, water damage)
+
+[p54 | prose | 7.11 When is enclosing asbestos material appropriate?]
+– the asbestos material cannot be fully enclosed.
+
+[p54 | prose | 7.12 Encapsulating asbestos material]
+7.12 Encapsulating asbestos material
+
+[p54 | prose | 7.12 Encapsulating asbestos material]
+Encapsulating asbestos material involves using a liquid product (an encapsulant) that penetrates the surface of the asbestos material. When the liquid dries, it binds the asbestos fibres together, minimising the risk of fibres being released into the air.
+
+[p54 | prose | 7.12 Encapsulating asbestos material]
+Encapsulating asbestos material should be considered if removal is not reasonably practicable or cannot be done immediately.
+
+[p54 | prose | 7.12 Encapsulating asbestos material]
+Asbestos material that has been encapsulated needs to be checked regularly for signs of deterioration or damage. If there is any sign of damage or disturbance to the asbestos material, you should arrange for:
+
+[p54 | prose | 7.12 Encapsulating asbestos material]
+– urgent repair (for example, reapplication of the encapsulant), or
+
+[p54 | prose | 7.12 Encapsulating asbestos material]
+– another control measure to be used (for example, asbestos removal).
+
+[p54 | prose | 7.13 When is encapsulating asbestos material appropriate?]
+7.13 When is encapsulating asbestos material appropriate?
+
+[p54 | prose | 7.13 When is encapsulating asbestos material appropriate?]
+Encapsulating asbestos material may be appropriate when:
+
+[p54 | prose | 7.13 When is encapsulating asbestos material appropriate?]
+– removing the asbestos material would be extremely difficult or dangerous
+
+[p54 | prose | 7.13 When is encapsulating asbestos material appropriate?]
+– the asbestos material is unlikely to be damaged
+
+[p54 | prose | 7.13 When is encapsulating asbestos material appropriate?]
+– the asbestos material can be easily inspected.
+
+[p55 | prose | 7.13 When is encapsulating asbestos material appropriate?]
+Encapsulating asbestos material may not be appropriate if:
+
+[p55 | prose | 7.13 When is encapsulating asbestos material appropriate?]
+– the asbestos material is deteriorating
+
+[p55 | prose | 7.13 When is encapsulating asbestos material appropriate?]
+– the asbestos material is water-damaged.
+
+[p55 | prose | 7.14 Sealing asbestos material]
+7.14 Sealing asbestos material
+
+[p55 | prose | 7.14 Sealing asbestos material]
+Sealing asbestos material involves applying a sealant to the surface of the asbestos material. When the sealant dries, it creates a protective layer that physically traps asbestos fibres. This reduces the risk that the fibres will be released into the air.
+
+[p55 | prose | 7.14 Sealing asbestos material]
+Sealing asbestos material should be considered if removal is not reasonably practicable or cannot be done immediately.
+
+[p55 | prose | 7.14 Sealing asbestos material]
+Asbestos material that has been sealed needs to be checked regularly for signs of deterioration or damage. If there is any sign of damage or disturbance to the asbestos material, you should arrange for:
+
+[p55 | prose | 7.14 Sealing asbestos material]
+– urgent repair (for example, reapplication of the sealant), or
+
+[p55 | prose | 7.14 Sealing asbestos material]
+– another control measure to be used (for example, asbestos removal).
+
+[p55 | prose | 7.15 When is sealing asbestos material appropriate?]
+7.15 When is sealing asbestos material appropriate?
+
+[p55 | prose | 7.15 When is sealing asbestos material appropriate?]
+Sealing asbestos material may be appropriate when:
+
+[p55 | prose | 7.15 When is sealing asbestos material appropriate?]
+– removing the asbestos material would be extremely difficult or dangerous
+
+[p55 | prose | 7.15 When is sealing asbestos material appropriate?]
+– the asbestos material is unlikely to be damaged
+
+[p55 | prose | 7.15 When is sealing asbestos material appropriate?]
+– the asbestos material can be easily inspected.
+
+[p55 | prose | 7.15 When is sealing asbestos material appropriate?]
+Sealing asbestos material may not be appropriate if:
+
+[p55 | prose | 7.15 When is sealing asbestos material appropriate?]
+– the asbestos material is deteriorating
+
+[p55 | prose | 7.15 When is sealing asbestos material appropriate?]
+– the asbestos material is water-damaged
+
+[p55 | prose | 7.15 When is sealing asbestos material appropriate?]
+– the area of damaged asbestos material is large.
+
+[p55 | prose | 7.16 When is it appropriate to leave asbestos material alone?]
+7.16 When is it appropriate to leave asbestos material alone?
+
+[p55 | prose | 7.16 When is it appropriate to leave asbestos material alone?]
+In some cases, leaving asbestos material alone may be the safest reasonably practicable action to take.
+
+[p55 | prose | 7.16 When is it appropriate to leave asbestos material alone?]
+It may be appropriate to leave asbestos material alone if:
+
+[p55 | prose | 7.16 When is it appropriate to leave asbestos material alone?]
+– the risk of exposure is very low
+
+[p55 | prose | 7.16 When is it appropriate to leave asbestos material alone?]
+– the asbestos material is in good condition, unlikely to be damaged, and is fully contained or cannot be accessed.
+
+[p55 | prose | 7.17 Demolition and refurbishment]
+7.17 Demolition and refurbishment
+
+[p55 | prose | 7.17 Demolition and refurbishment]
+If your building or workplace contains or might contain asbestos material and you are planning demolition or refurbishment work, before work starts you must engage a competent person to:
+
+[p55 | prose | 7.17 Demolition and refurbishment]
+– inspect the areas of your building or workplace (including inaccessible areas such as wall cavities)
+
+[p55 | prose | 7.17 Demolition and refurbishment]
+– identify any asbestos material likely to be disturbed by the planned work.
+
+[p56 | prose | 7.17 Demolition and refurbishment]
+You must assume that asbestos is present if it is not reasonably practicable to determine if there is asbestos or asbestos material installed in the building, structure, or plant.
+
+[p56 | prose | 7.17 Demolition and refurbishment]
+Before any demolition or refurbishment work starts, you must make sure that any asbestos material is removed so far as is reasonably practicable (unless the asbestos material can only be accessed by demolition). Minor or routine maintenance work does not trigger this requirement.
+
+[p56 | prose | Demolition, refurbishment, or maintenance?]
+Demolition, refurbishment, or maintenance?
+
+[p56 | prose | Demolition, refurbishment, or maintenance?]
+Demolition means work to demolish or dismantle a structure, or part of a structure that is loadbearing or otherwise related to the physical integrity of the structure.
+
+[p56 | prose | Demolition, refurbishment, or maintenance?]
+Refurbishment means carrying out work in a building or structure with an emphasis on changing or upgrading it.
+
+[p56 | prose | Demolition, refurbishment, or maintenance?]
+Maintenance means care or upkeep that is planned, routine, or urgent work that keeps the building or structure in a proper condition or working order. Maintenance is incidental work that can be done quickly and safely with minimal control measures needed to ensure health and safety.
+
+[p56 | prose | Demolition, refurbishment, or maintenance?]
+When you are thinking about whether a job is maintenance or refurbishment, ask yourself what the primary purpose of the work is. Refurbishment is about making a change or an upgrade, whereas maintenance is about maintaining what you already have.
+
+[p56 | prose | Demolition, refurbishment, or maintenance?]
+For example, minor work on a kitchen such as fixing a plumbing fixture would be maintenance. Removing cabinetry or flooring for replacement would be refurbishment.
+
+[p56 | prose | Demolition, refurbishment, or maintenance?]
+You can read more about demolition, refurbishment, and maintenance on the WorkSafe website Demolition and refurbishment
+
+[p57 | prose | Example scenario: Routine maintenance work changes to refurbishment work]
+Example scenario: Routine maintenance work changes to refurbishment work
+
+[p57 | prose | Example scenario: Routine maintenance work changes to refurbishment work]
+Auron Developments has been contracted to carry out a routine flooring maintenance job in Goldside Community Hall. The hall was built in the late 1950s and was well used by the community. It was renovated in the 1990s thanks to a dedicated committee of residents. Over the years the hall has served many purposes. It has served as a place where town meetings were held and where generations of children have taken part in community plays, recitals, and educational programs. The manager of Goldside Community Hall has arranged for several maintenance tasks to be completed while the hall is closed over the winter. Alex, a project manager for Auron Developments, is responsible for overseeing the maintenance project. Following company procedures, an asbestos management survey has been completed as part of the planning for maintenance work on the floor of the main hall. As the maintenance team get started with the work, they find significant water damage underneath the flooring. What was supposed to be a minor repair now needs much more attention. The flooring will need to be completely replaced. Alex checks the asbestos management survey report for more information about the state of the flooring. He realises that the asbestos management survey was comprehensive, but it did not explore the deeper layers underneath the vinyl flooring. He is not certain, but he thinks that replacing the flooring will also mean that the scope of the work will need to change from maintenance to refurbishment. Alex stops his workers from working on the flooring until an asbestos refurbishment/demolition survey is completed. He reaches out to Dr Felicia Moore, a self-employed asbestos consultant, to investigate further. After explaining the situation, Dr Moore advises Alex that he will need to commission an asbestos refurbishment/demolition survey. She explains that a refurbishment survey will be much more intrusive than the previous asbestos management survey and will probably involve lifting parts of the flooring to inspect the deeper layers. It will help to make sure that all potential asbestos hazards are identified and managed appropriately. Alex hires an asbestos surveyor experienced with refurbishments in older buildings. After a thorough and intrusive inspection, the asbestos surveyor confirms that there is asbestos material under the layer of vinyl flooring. Pulling up the vinyl flooring without suitable control measures could have put the health and safety of workers at risk, as well as the health and safety of people that use the hall. Alex schedules a meeting with the senior management team at Auron Developments and the manager of Goldside Community Hall. He presents the findings of the asbestos refurbishment/demolition survey and explains the problem of the newly discovered asbestos material. After discussing the plan for the project, they agree on a new timeline and budget for the project, ensuring that the hall would be safe for the community to use. Alex hires a licensed asbestos removalist to remove the old flooring with appropriate control measures in place.
+
+[p57 | prose | Key characters in this example scenario]
+Key characters in this example scenario
+
+[p57 | table | Key characters in this example scenario]
+| Auron Developments---Property developer---PCBU | Alex---Project manager---Worker of Auron Developments | Dr Felicia Moore---Asbestos consultant---PCBU | Asbestos surveyor---PCBU | Licenced asbestos removalist---PCBU |
+| --- | --- | --- | --- | --- |
+
+[p58 | prose | 7.18 Emergency demolition]
+7.18 Emergency demolition
+
+[p58 | prose | 7.18 Emergency demolition]
+You must make sure, so far as is reasonably practicable, that you have a procedure to reduce the risk of asbestos exposure in an emergency. This procedure must be recorded in your asbestos management plan.
+
+[p58 | prose | 7.18 Emergency demolition]
+Think about the types of emergencies that could happen at your building or workplace, and how the risk of asbestos exposure could be reduced. You may need to record different procedures in your asbestos management plan to account for the different types of emergencies that could happen.
+
+[p58 | prose | 7.18 Emergency demolition]
+If there is an emergency and a structure or plant that contains asbestos material needs to be demolished, WorkSafe must be notified before the demolition starts.
+
+[p58 | prose | 7.18 Emergency demolition]
+You can read more about notifying WorkSafe on the WorkSafe website Notify WorkSafe
+
+[p60 | prose | 8.1 Introduction]
+8.1 Introduction
+
+[p60 | prose | 8.1 Introduction]
+Monitoring your asbestos control measures helps to make sure you can respond to changes in asbestos risks. Your control measures should be reviewed on an ongoing basis to:
+
+[p60 | prose | 8.1 Introduction]
+– check that they are still managing your asbestos risks and
+
+[p60 | prose | 8.1 Introduction]
+– to identify any new asbestos risks that need to be managed.
+
+[p60 | prose | 8.1 Introduction]
+Monitoring your control measures is the last step of the asbestos identification and management process (Figure 14).
+
+[p60 | prose | 8.1 Introduction]
+Collect information about your building or workplace
+
+[p60 | prose | 8.1 Introduction]
+Plan to manage asbestos material
+
+[p60 | prose | 8.1 Introduction]
+Manage asbestos material
+
+[p60 | prose | 8.1 Introduction]
+5
+
+[p60 | prose | 8.1 Introduction]
+Monitor your control measures
+
+[p60 | prose | 8.1 Introduction]
+FIGURE 14:
+
+[p60 | prose | 8.1 Introduction]
+Asbestos identification and management process – monitor your control measures
+
+[p60 | prose | 8.2 Maintain effective control measures]
+8.2 Maintain effective control measures
+
+[p60 | prose | 8.2 Maintain effective control measures]
+If you put a control measure in place to manage the risk of asbestos exposure, you must make sure it is effective and maintained so that it stays effective.
+
+[p60 | prose | 8.2 Maintain effective control measures]
+This means that control measures must be regularly monitored and checked to ensure that they are still managing the risk effectively. This should occur on an ongoing basis – not just when the control measure is first put in place.
+
+[p60 | prose | 8.2 Maintain effective control measures]
+You should regularly inspect areas of your building or workplace that contain or are assumed to contain asbestos material. Inspections should assess:
+
+[p60 | prose | 8.2 Maintain effective control measures]
+– the condition of asbestos material
+
+[p60 | prose | 8.2 Maintain effective control measures]
+– any signs of deterioration of asbestos material
+
+[p60 | prose | 8.2 Maintain effective control measures]
+– the effectiveness of encapsulation, sealing, or enclosure.
+
+[p60 | prose | 8.2 Maintain effective control measures]
+If you discover that a control measure is no longer effective or needs to be changed, you must update your asbestos management plan.
+
+[p60 | prose | 8.3 Review your control measures]
+8.3 Review your control measures
+
+[p60 | prose | 8.3 Review your control measures]
+Monitoring how well your asbestos control measures are performing can help to show if your control measures are still effective.
+
+[p60 | prose | 8.3 Review your control measures]
+You must review and, when needed, revise your control measures to maintain a work environment that is without risks to health and safety, so far as is reasonably practicable.
+
+[p60 | prose | 8.3 Review your control measures]
+Control measures must be reviewed and revised as needed to make sure they remain effective. Some examples of situations where you must review your control measure are shown in Table 8.
+
+[p61 | table | 8.3 Review your control measures]
+| REVIEW MUST OCCUR | DETAILS |
+| --- | --- |
+| If the control measure is not controlling the risk it was put in place to control, so far as is reasonably practicable | If an incident occurs or if monitoring shows the control measure is not managing the risk, you must review your asbestos control measures. |
+| For example, if: - routine air monitoring shows an increased level of asbestos fibres - asbestos material that was encapsulated gets damaged - a structure enclosing asbestos material has deteriorated. |  |
+| Before a change at the workplace that is likely to cause a new or different risk to health and safety that the measure may not effectively control | A change at the workplace could include a change to: - the workplace or building itself (for example, a refurbishment) - any aspect of the work environment (for example, bringing in a permanent item of plant that contains asbestos), or - asystem of work, a process, or a procedure (for example, changing the route for goods at a warehouse to account for areas where there is asbestos cement). |
+| If a new relevant hazard or risk is identified | Changes in your building or workplace can cause asbestos material that was previously safe to be hazardous again. New asbestos risks can be introduced in many ways, including: - changes in building use - new construction or renovation work - accidental, criminal, or environmental damage - second-hand plant - aging of the building or workplace. |
+| If the engagement with your workers indicates that a review is necessary | You must have practices in place that give your workers reasonable opportunities to participate effectively in improving health and safety in the business on an ongoing basis (these are known as worker participation practices). This includes processes for workers to report health and safety issues (for example, concerns that asbestos risks are not being adequately managed). You can read more about worker engagement and participation on the WorkSafe website Worker engagement and participation |
+| If a Health and Safety Representative (HSR) requests a review | A HSR can request a review of a control measure if they reasonably believe that: - the health and safety of a member of the work group represented by the HSR may be at risk, and - you have not adequately reviewed the control measure in response to the circumstance. |
+
+[p61 | prose | 8.3 Review your control measures]
+TABLE 8: Examples of situations that require a review of your control measures
+
+[p61 | prose | 8.4 Health monitoring]
+8.4 Health monitoring
+
+[p61 | prose | 8.4 Health monitoring]
+Health monitoring means monitoring a person to identify any changes in their health status because of exposure to certain health hazards arising from work carried out by a business or undertaking.
+
+[p61 | prose | 8.4 Health monitoring]
+Health monitoring is a way to check if the health of workers is being harmed from exposure to hazards while carrying out work. It aims to detect early signs of ill-health or disease.
+
+[p61 | prose | 8.4 Health monitoring]
+HSWA requires that PCBUs monitor the health of their workers to make sure they are not being harmed from the work that they do for the PCBU. The Health and Safety at Work (General Risk and Workplace Management) Regulations provide more specific requirements for how to do health monitoring. You can read more about these requirements on the WorkSafe website Exposure monitoring and health monitoring – guidance for businesses
+
+[p61 | prose | 8.4 Health monitoring]
+If you have work that involves asbestos taking place at a building or workplace that you own or manage, you must make sure that appropriate health monitoring is in place for the workers carrying out the work.
+
+[p62 | prose | 8.4 Health monitoring]
+The duty to provide health monitoring is shared between relevant PCBUs. You may not be providing health monitoring to workers, but you must check that health monitoring is being provided to workers by another PCBU.
+
+[p62 | prose | What health monitoring requirements do you need to check?]
+What health monitoring requirements do you need to check?
+
+[p62 | prose | What health monitoring requirements do you need to check?]
+Before you have work involving asbestos carried out at your building or workplace, you must check that:
+
+[p62 | prose | What health monitoring requirements do you need to check?]
+– health monitoring is provided to workers at risk of exposure to asbestos
+
+[p62 | prose | What health monitoring requirements do you need to check?]
+– the health monitoring considers the demographic, medical, and occupational history of the worker, as well as records of the worker’s personal exposure to asbestos
+
+[p62 | prose | What health monitoring requirements do you need to check?]
+– the health monitoring includes a physical examination of the worker
+
+[p62 | prose | What health monitoring requirements do you need to check?]
+– the health monitoring starts or started within four weeks of a worker beginning asbestos removal work.
+
+[p62 | prose | What health monitoring requirements do you need to check?]
+Health monitoring is not required for workers of Class B asbestos removal licence-holders who carry out Class B asbestos removal work for less than four weeks in any 12-month period.
+
+[p62 | prose | What health monitoring requirements do you need to check?]
+Workers may also need other types of health monitoring depending on the type of work they do. You should check that the health monitoring in place is suitable for the work that will be carried out (for example, hearing tests for workers working in noisy environments).
+
+[p62 | prose | Example scenario: Checking that health monitoring is in place]
+Example scenario: Checking that health monitoring is in place
+
+[p62 | prose | Example scenario: Checking that health monitoring is in place]
+Commerce Towers is a landmark office complex built in the 1980s. It was recently purchased by Anderson Properties. The buildings in the complex have not been renovated since they were built and are known to contain asbestos materials. Before Anderson Properties can proceed with their plan to modernise the complex, the asbestos needs to be removed.
+
+[p62 | prose | Example scenario: Checking that health monitoring is in place]
+The company has received a bid for the work from Bassett Asbestos Removal, a licensed asbestos removal contractor known for its professionalism and health and safety standards. Bassett Asbestos Removal have estimated that the asbestos removal work will take three months and need a team of at least ten workers.
+
+[p62 | prose | Example scenario: Checking that health monitoring is in place]
+James, the Chief Health and Safety Officer for Anderson Properties, is responsible for making sure that all contractors follow health and safety regulations in all their projects. As Bassett Asbestos Removal’s bid was being considered, James requested detailed information about their health monitoring plans.
+
+[p62 | prose | Example scenario: Checking that health monitoring is in place]
+Sumira, Bassett Asbestos Removal’s Operations Manager, provided James with information about their health monitoring procedures. Sumira explained that their company keeps records of each worker’s health monitoring, which starts at a worker’s four-week induction and is done every two years. The health monitoring includes a physical examination by a medical practitioner, focused on the respiratory system and lung function. She also clarified that the examination takes into account the worker’s demographics, medical history, and records of any exposure to asbestos from past projects.
+
+[p62 | prose | Example scenario: Checking that health monitoring is in place]
+Sumira also showed James the procedures in place to encourage workers to talk about any concerns they might have about their health and safety.
+
+[p62 | prose | Example scenario: Checking that health monitoring is in place]
+Feeling confident that suitable health monitoring procedures were in place for Bassett Asbestos Removal’s workers, James was comfortable to proceed with their bid for the asbestos removal work at Commerce Towers.
+
+[p63 | prose | Example scenario: Checking that health monitoring is in place]
+You can find more information about health monitoring on the WorkSafe website Exposure monitoring and health monitoring – guidance for businesses
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+8.5 Review your asbestos identification and management process
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+Reviewing your asbestos identification and management process helps you to find out whether the procedures in place are working as they should. Acting on the lessons learned from your review can help you make sure your process stays fit-for-purpose.
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+Reviewing your asbestos identification and management process can help you to:
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+– spot potential issues early
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+– act before a problem becomes worse.
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+Your review should consider:
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+– the individual stages of asbestos management (for example, collecting information, identifying asbestos material, assessing risks, and managing asbestos material)
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+– how these stages work together as a cohesive process
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+– what lessons were learned at each stage of the process.
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+For example, your review of your asbestos identification and management process might reveal that:
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+– information about your building or workplace is kept in too many different places and is difficult to find
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+– contact information for people included in your asbestos management plan is out of date
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+– equipment needed to reach certain areas of the building has been moved to another site.
+
+[p63 | prose | 8.5 Review your asbestos identification and management process]
+If you make a change to your asbestos identification and management process as a result of your review, you must update your asbestos management plan.
+
+[p64 | prose | 8.6 Involve your workers]
+8.6 Involve your workers
+
+[p64 | prose | 8.6 Involve your workers]
+You should have a suitable process in place to allow workers to report incidents, near misses, or health and safety concerns.
+
+[p64 | prose | 8.6 Involve your workers]
+Involve your workers or their representatives whenever you review or update your asbestos control measures, or review your asbestos identification and management process. You should also consult with other PCBUs that are involved with managing asbestos in your building or workplace.
+
+[p64 | prose | 8.6 Involve your workers]
+For more information on worker engagement, participation and representation see the WorkSafe website Good practice for worker engagement, participation and representation
+
+[p66 | glossary | Appendix A: Glossary]
+Appendix A: Glossary
+
+[p66 | glossary | Appendix A: Glossary]
+| TERM | DEFINITION |
+| --- | --- |
+| Accredited laboratory | A laboratory that is accredited by International Accreditation New Zealand (IANZ) or National Association of Testing Authorities (NATA). |
+| A laboratory may also be approved by WorkSafe to analyse samples for the presence of asbestos or asbestos-containing material (ACM) for up to 12 months while undergoing accreditation. |  |
+| Air monitoring | Measuring airborne asbestos fibres by sampling and analysing them. |
+| Airborne contamination standard for asbestos | The average concentration of 0.1 respirable asbestos fibres per millilitre of air over any eight-hour period. |
+| Asbestos | A naturally occurring fibrous silicate mineral (rock-forming mineral). |
+|  | There are two groups of asbestos, and six common types: = chrysotile asbestos (white) = crocidolite asbestos (blue) = grunerite (or amosite) (brown) - actinolite - anthophyllite asbestos - tremolite asbestos. |
+| Asbestos identification and management process | be managed. A framework that can be followed which sets out how to manage asbestos material in a building or workplace. Its steps include information about how to: - identify asbestos material in your building or workplace - prioritise and manage the risks of asbestos |
+| Asbestos management survey | - keep up-to-date records of your asbestos management approach. An assessment of a building or workplace undertaken by an asbestos surveyor to: - and and of |
+|  | identify record the location, amount, type asbestos material readily accessible during normal occupancy of the building (including maintenance) - inspect and record information about the condition of asbestos material present - confirm whether material suspected to be asbestos material is asbestos material. |
+| Asbestos refurbishment or demolition survey | An assessment of a building undertaken by an asbestos surveyor when a building or workplace (or part of it) is going to be refurbished or demolished. |
+|  | The purpose of a refurbishment or demolition survey is to locate all the asbestos material in a building or workplace (or part of it) before refurbishment or demolition work starts. |
+| Asbestos register | A document that lists all identified or assumed asbestos in a building or workplace. |
+| Asbestos Regulations | The Health and Safety at Work (Asbestos) Regulations 2016. |
+| Asbestos removal control plan (ARCP) | A document prepared by a licensed asbestos removalist that includes information about: - how the asbestos removal will be carried out (including the method, tools, equipment, and PPE that will be used) ' the asbestos material that will be removed (including its location, type, and condition) ' the asbestos removal area for the work and any air monitoring points ' how asbestos waste will be transported and disposed of. |
+| Asbestos removal licence | A Class A or Class B asbestos removal licence. |
+| Asbestos removal work | Work involving the removal of asbestos, asbestos-contaminated soil, or asbestos- containing material. |
+| Asbestos removalist | A PCBU that carries out asbestos removal work. |
+| Asbestos surveyor | A PCBU that carries out asbestos survey work. |
+| Asbestos waste | Asbestos material, asbestos-contaminated soil, or asbestos-containing material that has been removed. Asbestos waste also includes items used during work with or on asbestos material (for example, plastic sheeting and disposable PPE) that needs to be disposed of. |
+
+[p67 | glossary | Appendix A: Glossary]
+| TERM | DEFINITION |
+| --- | --- |
+| Asbestos-containing material (ACM) | Any material or thing that, by its design, contains asbestos. |
+| Asbestos-contaminated dust (ACD) | Dust or debris that has settled within a workplace and is (or is assumed to be) contaminated with asbestos. |
+| Asbestos-contaminated soil | Soil that is contaminated with asbestos material. |
+| Asbestos-related work | Work involving asbestos other than asbestos removal work. |
+| Business or undertaking | The usual meanings are: - business: an activity usually carried out with the intention of making a profit or gain - undertaking: an activity that is non-commercial in nature (for example, certain activities of a local authority or a not-for-profit group). |
+| Certified (training) | A certificate obtained from a training provider for undergoing training for either Class A or Class B licensed asbestos removal work. |
+| Class A asbestos removal licence | A licence that authorises the holder to carry out Class A asbestos removal work. |
+| Class A asbestos removal work | Asbestos removal work for which a Class A asbestos removal licence is required. |
+| Class B asbestos removal licence | A licence that authorises the holder to carry out Class B asbestos removal work. |
+| Class B asbestos removal work | Asbestos removal work for which a Class B asbestos removal licence is required. |
+| Clearance inspection | An inspection of an asbestos removal area after asbestos removal work has been completed to verify that the area is safe for normal use. |
+| Competent person | A competent person is someone who has the appropriate skills, training, knowledge, and experience to perform the task or role. |
+| Control measure | A way of eliminating or minimising risks to health and safety. |
+| Demolition | Demolishing or dismantling a structure, or part of a structure that is loadbearing or otherwise related to the physical integrity of the structure. |
+| Duty | A legal obligation to act responsibly according to the law. |
+| Duty holder | A person who has a duty under HSWA. There are four types of duty holders - PCBUs, officers, workers and other persons at workplaces. |
+| Eliminate | To remove the sources of harm (for example, equipment, substances, or work processes). |
+| Emergency | An uncontrolled event that has caused, or could cause: - loss of life - injury - serious property damage. |
+| It can include declarations of civil defence emergencies, fires, or other significant incidents. It does not include delays unless these are the result of one of the above situations. |  |
+| Friable | Flaky or powdery asbestos that can be crumbled or reduced to a powder without much pressure. Friable asbestos can easily release fibres into the air if it is disturbed. |
+| Good Practice Guidelines (GPG) | Describes current ‘good practice’ to help duty holders understand and apply their duties under HSWA. |
+| GRWM Regulations | Health and Safety at Work (General Risk and Workplace Management) Regulations 2016 |
+| Hazard | A potential source of harm. It could include an object, situation, or behaviour. |
+| Health monitoring | Monitoring a person to identify any changes in their health status because of exposure to certain health hazards arising from the conduct of the business or undertaking. |
+| Health monitoring is a way to check if the health of workers is being harmed from exposure to hazards while carrying out work. It aims to detect early signs of ill-health or disease. |  |
+
+[p68 | glossary | Appendix A: Glossary]
+TERM
+
+[p68 | glossary | Appendix A: Glossary]
+DEFINITION
+
+[p68 | glossary | Appendix A: Glossary]
+| rexm | PEFINIIIN |
+| --- | --- |
+| HSWA | Health and Safety at Work Act 2015. |
+| The key work health and safety legislation in New Zealand. HSWA applies to all work and workplaces unless specifically excluded. |  |
+| You can find the full text of the Act on the New Zealand Legislation website. |  |
+| IANZ | International Accreditation New Zealand. |
+| Licensed asbestos assessor | A competent person licensed by WorkSafe to carry out clearance inspections for Class A asbestos removal work. |
+| Licensed asbestos removal work | Removal work for which a Class A or Class B asbestos removal licence is required. |
+| Licensed asbestos removalist | A PCBU that holds a Class A or Class B asbestos removal licence. |
+| Minimise | To take steps that protect the health and safety of people by reducing the likelihood of an event occurring, reducing the level of harm to people if it does occur, or both. |
+| NATA | National Association of Testing Authorities. |
+| Non-friable asbestos | Non-friable asbestos usually has asbestos fibres bonded into another material such as cement or vinyl. Non-friable asbestos is less likely to release asbestos fibres into the air unless it is disturbed or has started to deteriorate. |
+| Other persons at the workplace | Includes workplace visitors and casual volunteers (who are not volunteer workers). |
+| These people have their own health and safety duties to take reasonable care to keep themselves safe and to not harm others at a workplace. |  |
+| Overlapping duties | When a PCBU shares duties with other PCBUs. When two or more PCBUs are working together at the same location or through a contracting chain, they must work together to fulfil their duties of care and manage risks. Where those duties overlap, the PCBUs must consult, cooperate and coordinate with each other to meet their health and safety responsibilities to workers and others. |
+| PCBU | Person conducting a business or undertaking. |
+| In most cases a PCBU will be a business entity, such as a company. However, an individual carrying out business as a sole trader or self-employed person is also a PCBU. |  |
+| A PCBU does not include workers or officers of a PCBU, volunteer associations with no employees, or home occupiers that employ or engage a tradesperson to carry out residential work. |  |
+| Plant | Includes: - any machinery, vehicle, vessel, aircraft, equipment (including personal protective equipment), appliance, container, implement, or tool - any component of any of those things - anything fitted or connected to any of those things. |
+|  |  |
+| Policy clarification | Aims to ‘clear things up’ - by clarifying WorkSafe’s approach on a specific issue. |
+| Position | Outlines how WorkSafe interprets key concepts in law. |
+| PPE | Personal protective equipment. Anything used or worn by a person (including clothing) to minimise risks to the person’s health and safety. This may include - but is not limited to: - respiratory protective equipment - protective helmets - protective eyewear protective boots protective gloves hearing protection high-vis clothing sunhats sunscreen and lip protection L |
+
+[p68 | glossary | Appendix A: Glossary]
+– safety harness systems.
+
+[p69 | glossary | Appendix A: Glossary]
+| TERM | DEFINITION |
+| --- | --- |
+| Primary duty of care | A PCBU must ensure, so far as is reasonably practicable, the health and safety of workers, and that other persons are not put at risk by its work. This is called the ‘primary duty of care’. |
+| Readily accessible | The document can be accessed without difficulty in hard copy, electronic form, or any other form. |
+| Reasonably practicable | What is or was reasonably able to be done to ensure health and safety taking into account and weighing up relevant matters including: - the likelihood of the risk concerned occurring or workers being exposed to the hazard - the degree of harm that might result - what the person concerned knows, or ought reasonably to know, about: - the hazard or risk - ways of eliminating or minimising the risk the availability and suitability of ways to eliminate or minimise the risk after assessing the extent of the risk and the available ways of eliminating or minimising the risk, the cost associated with available ways of eliminating or minimising the risk, including whether the cost is grossly disproportionate to the risk. |
+| Refurbishment | Carrying out work in a building or structure with an emphasis on changing or upgrading it. |
+| Risk | Risks arise from people being exposed to a hazard (a source of harm). |
+| Safe work instrument (SWI) | A type of subordinate instrument (sometimes called tertiary legislation) under HSWA. |
+|  | SWIs can be used for almost any purpose, however, they only have legal effect where specifically referred to in relevant regulations. SWIs can be used to: = prescribe detailed or technical matters or standards that change relatively frequently and will often be industry-specific set additional or modified control measures for hazardous substances approved or reassessed by the Environmental Protection Authority provide an alternative means of complying with regulations support the effective operation of the health and safety regulatory framework, for instance by setting exposure monitoring standards or stipulating requirements for training, competence, safety management systems. |
+| Safety data sheet (SDS) | Describes the properties and uses of a substance, that is, its identity, chemical and physical properties, health hazard information, precautions for use, and safe handling information. |
+| Sample analysis | Methods used to identify and quantify asbestos in materials or soils. |
+| Shadow vacuuming | Holding a vacuum cleaner nozzle close to the task being performed and sucking the debris away as it is created. |
+| Trace level | An average concentration over any 8-hour period of less than 0.01 respirable asbestos fibres per millilitre of air. |
+| WEPR Regulations | Health and Safety at Work (Worker Engagement, Participation, and Representation) Regulations 2016. |
+| Worker | An individual who carries out work in any capacity for a PCBU. A worker may be: - an employee - a contractor or subcontractor = an employee of a contractor or subcontractor = an employee of a labour hire company = an outworker (including a homeworker) = an apprentice or a trainee, a person gaining work experience or on a work trial = a volunteer worker. Workers can be at any level (for example, managers are workers too). A PCBU is also a worker if the PCBU is an individual who carries out work in that business or undertaking. |
+
+[p70 | glossary | Appendix A: Glossary]
+| TERM | DEFINITION |
+| --- | --- |
+| Workplace | Any place where a worker goes or is likely to be while at work, or where work is being carried out or is customarily carried out. Most duties under HSWA relate to the conduct of work. However, some duties are linked to workplaces. |
+| WorkSafe/ | The government agency that is the primary work health and safety regulator. |
+| WorkSafe New Zealand | Other government agencies can be designated to carry out certain health and safety functions, for example, Maritime New Zealand and the Civil Aviation Authority. Previous work health and safety regulators include OSH, Department of Labour, and MBIE. |
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+Appendix B: A-Z of products that may contain asbestos
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+D
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Air conditioning ducts – exterior or interior acoustic and thermal insulation
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Arc shields in lift motor rooms or large electrical cabinets
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos-based plastic products – as electrical insulates and acid-resistant compositions or aircraft seats – Asbestos ceiling tiles
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement conduits
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement electrical fuse boards
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement external roofs and walls
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement in use for form work when pouring concrete
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement internal flues and downpipes
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement moulded products, such as gutters, ridge cappings, gas meter covers, cable troughs and covers
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement pieces for packing spaces between floor joists and piers
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement underground pits, as used for traffic control wiring and telecommunications cabling
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement render, plaster, mortar and coursework
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement sheet
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement sheet behind ceramic tiles
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement sheet internal over exhaust canopies, such as ovens and fume cupboards
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement sheet underlays for vinyl
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement storm drain pipes
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos cement water pipes (usually underground)
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos-containing laminates (such as Formica) used where heat resistance is required
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos-containing pegboard
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos felts
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos marine board (marinate)
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos mattresses used for covering hot equipment in power stations
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos paper used variously for insulation, filtering and production of fire resistant laminates
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos roof tiles
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos textile gussets in airconditioning ducting systems
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Asbestos yarn
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Autoclave/steriliser insulation
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Bitumen-based water proofing such as malthoid (typically on roofs and floors but also in brickwork)
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Bituminous adhesives and sealants
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Boiler gaskets
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Boiler insulation, slabs and wet mix
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Brake disc pads
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Brake linings
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Builders Paper
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Calorifier insulation
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Car body filters (not common)
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Carpet Underlay
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Caulking compounds, sealant and adhesives
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Ceilings – textured (such as whisper/stipple)
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Cement render
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Ceramic fuses in switchboards
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Chrysotile wicks in kerosene heaters
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Clutch faces
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Compressed asbestos cement panels for flooring, verandas, bathrooms and steps for demountable buildings
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Compressed asbestos fibres (CAF) used in brakes and gaskets for plant and vehicles
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Door seals on ovens
+
+[p71 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Decramastic Roof Tiles
+
+[p72 | appendix | Appendix B: A-Z of products that may contain asbestos]
+| Electric heat banks - block insulation Electric hot water services (normally not asbestos but some millboard could be present) Electric light fitting, high wattage, insulation around fitting (and bituminised) Electrical switchboards (see pitch-based) Exhausts on vehicles |
+| --- |
+| Filler in acetylene gas cylinders |
+| Filters - beverage, wine filtration |
+| Fire blankets |
+| Fire curtains |
+| Fire door insulation |
+| Fire-rated wall rendering (containing asbestos with mortar) |
+| Fire-resistant plaster board (typically on ships) |
+| Fire retardant material on steelwork supporting reactors on columns in refineries (chemical industry) |
+| Flexible hoses |
+| Floor vinyl sheets |
+| Floor vinyl tiles |
+| Fuse blankets and ceramic fuses in switchboards |
+| Galbestos roofing materials (decorative coating on metal roofs for sound proofing) |
+| Gaskets - chemicals, refineries Gaskets - general |
+| Gauze mats in laboratories or chemical refineries Gib board |
+| Gloves (for insulation against heat) Hairdryers (around heating elements) |
+| Header (manifold) insulation |
+| Insulation blocks |
+| Laboratory bench tops Laboratory fume cupboard panels Laboratory ovens (wall insulation) Lagged exhaust pipes on emergency power generators Lagging in penetrations in fireproof walls Lift shafts - asbestos cement panels lining the shaft at the opening of each floor and asbestos packing around penetrations Limpet asbestos spray insulation |
+| Locomotives lagging on boilers, steam lines, steam dome and gaskets |
+| Mastics Millboard between heating units and walls Millboard lining of switchboxes Mortar Metal pressed roofing tiles |
+| Packing materials for gauges, valves etc (can be square packing, rope or loose fibre) Packing material on window anchorage points in high-rise buildings Paint (typically industrial epoxy paints) Penetrations through concrete slabs in high-rise buildings Pipe insulation including moulded sections, water-mix type, rope braid and sheet Pitch-based (Zelemite, ausbestos, lebah) electrical switchboards Plaster and plaster cornice adhesives Pump insulation |
+| Refractory linings Refractory tiles Rubber (extent of usage unknown) — |
+
+[p72 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Roofs
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+W
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Sealant between floor slab and wall, (usually in boiler rooms, risers or lift shafts)
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Sealant or mastik on windows
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Sealants and mastics in airconditioning ducting joints
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Spackle or plasterboard wall-jointing compounds
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Sprayed insulation – acoustic wall and ceiling
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Sprayed insulation – beams and ceiling slabs
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Sprayed insulation – fire retardant sprayed on nut internally for bolts holding external building wall panels
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Stoves (old domestic type) and stove wall insulation
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Swimming pools (if a marblesheen/marblelite finish)
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Spa pools (if a marblesheen/marblelite finish)
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Tapered ends of pipe lagging (where the lagging is not necessarily asbestos)
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Tilux sheeting in place of ceramic tiles in bathrooms
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Trailing cable under lift cabins
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Trains, Guard vans, millboard between heater and wall
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Trains – sprayed asbestos between steel shell and laminex
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Underlay of carpet
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Valve insulation
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Vinyl flooring (note can be both vinyl and mastic underneath)
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Window putty
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Welding rods
+
+[p73 | appendix | Appendix B: A-Z of products that may contain asbestos]
+– Woven asbestos cable sheath
+
+[p74 | appendix | Appendix B: A-Z of products that may contain asbestos]
+NAME OF COMPETENT PERSON:
+
+[p74 | appendix | Appendix B: A-Z of products that may contain asbestos]
+| Date identified | Location | Product type | Description | Friable or non-friable | Condition | Amount | Accessibility | Tested | Test result | Action taken |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 15 June 2022 | Ground floor changing cubicle | Vinyl flooring | Square tile with black adhesive | Non-friable | Excellent | 2600mm x 2000mm | Accessible - used every day | Yes - 30 June 2022 | Positive | Labelled, avoid disturbance |
+| 15 June 2022 | Service access EH-3 | Pipework | Gaskets | Non-friable | Good | Small amount between pipes | Accessed by maintenance staff only | No | Assume positive | Labelled |
+
+[p75 | appendix | Appendix B: A-Z of products that may contain asbestos]
+| Date identified | Location | Product type | Description | Friable or non-friable | Condition | Amount | Accessibility | Tested | Test result | Action taken |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+[p76 | appendix | Appendix B: A-Z of products that may contain asbestos]
+Appendix D:
+
+[p76 | prose | Asbestos management plan (example)]
+Asbestos management plan (example)
+
+[p76 | prose | Asbestos management plan (example)]
+The Health and Safety at Work (Asbestos) Regulations 2016 require an up-to-date asbestos management plan for a workplace where asbestos or asbestos-containing material (ACM) is identified, or is likely to be present.
+
+[p76 | prose | Asbestos management plan (example)]
+A Person Conducting a Business or Undertaking (PCBU) with management or control of the workplace must ensure that a written asbestos management plan is prepared. The regulations specify what information must be in the plan.
+
+[p76 | prose | Asbestos management plan (example)]
+You can use this template to develop an Asbestos Management Plan. (Note: A separate demolition and refurbishment survey is required to identify asbestos before demolition or refurbishment is carried out at a workplace).
+
+[p76 | prose | Asbestos management plan (example)]
+Questions 1–7 must be completed.
+
+[p76 | prose | Asbestos management plan (example)]
+The plan should help you to keep everyone healthy and safe. Keep it short, simple and easy to understand.
+
+[p76 | prose | Asbestos management plan (example)]
+It must be easy for the following people to access:
+
+[p76 | prose | Asbestos management plan (example)]
+– workers and their representatives (such as Health and Safety representatives), and
+
+[p76 | prose | Asbestos management plan (example)]
+– PCBUs working, or requiring work to be carried out, at the workplace.
+
+[p76 | prose | WorkSafe information]
+WorkSafe information
+
+[p76 | prose | WorkSafe information]
+Asbestos management plans
+
+[p76 | prose | WorkSafe information]
+Management and removal of asbestos
+
+[p76 | prose | WorkSafe information]
+You must engage and consult with workers when you are identifying hazards and working out how to manage risks.
+
+[p76 | prose | 1. The workplace]
+1. The workplace
+
+[p76 | prose | 1. The workplace]
+If asbestos or asbestos-containing material (ACM) is identified at your workplace, a PCBU with management or control of the workplace must make sure that both the presence and the location of asbestos material is clearly indicated
+
+[p76 | prose | 1. The workplace]
+If the building owner and the tenant/s share management and control of the workplace, then they share the overlapping duty to prepare the asbestos management plan.
+
+[p76 | prose | 1. The workplace]
+This asbestos management plan covers the management of asbestos and any asbestos-containing material (ACM) at:
+
+[p76 | prose | 1. The workplace]
+(business name and street address of workplace)
+
+[p76 | prose | 1. The workplace]
+If your organisation has other physical addresses (workplaces in a different location to the one above) you need to prepare site-specific documents for each location.
+
+[p76 | prose | PCBU with management or control of the workplace]
+PCBU with management or control of the workplace
+
+[p76 | prose | PCBU with management or control of the workplace]
+This could be the building owner, who should know where the asbestos or ACM is located in the building or structure.
+
+[p76 | prose | PCBU with management or control of the workplace]
+Name:
+
+[p76 | prose | 2. Plan preparation and review]
+2. Plan preparation and review
+
+[p76 | prose | 2. Plan preparation and review]
+Plan prepared by
+
+[p76 | prose | 2. Plan preparation and review]
+Email:
+
+[p76 | prose | 2. Plan preparation and review]
+Mobile phone:
+
+[p76 | prose | 2. Plan preparation and review]
+Version:
+
+[p76 | prose | Reviewing and revising this plan]
+Reviewing and revising this plan
+
+[p76 | prose | Reviewing and revising this plan]
+The PCBU with management or control of the workplace must review and (if necessary) revise this asbestos management plan if:
+
+[p76 | prose | Reviewing and revising this plan]
+– an asbestos control measure is reviewed
+
+[p76 | prose | Reviewing and revising this plan]
+– asbestos at this workplace is removed, disturbed, sealed or enclosed
+
+[p76 | prose | Reviewing and revising this plan]
+– five years have passed since the plan was last reviewed
+
+[p76 | prose | Reviewing and revising this plan]
+– the plan is no longer adequate for managing the asbestos risks, for example, if new asbestos is identified or a previously inaccessible area is now accessible
+
+[p76 | prose | Reviewing and revising this plan]
+– a worker representative requests a review under regulation 14 of the Health and Safety at Work (Asbestos) Regulations 2016
+
+[p76 | prose | Reviewing and revising this plan]
+Date/s this plan has been reviewed/revised:
+
+[p77 | prose | Reviewing and revising this plan]
+w o n k t o n o d u o y f I . d e g a n a m s i M C A / s o t s e b s a o t e r u s o p x e f o k s i r e h t w o h t u o b a , s n o i s i c e d r o f s n o s a e r d n a , s n o i s i c e d e h t t u o b a s l i a t e d g n i d u l c n i , ) s ( e g a p g n i w o l l o f e h t n o e l b a t e h t t u o l l c u s n o s r e p t n e t e p m o c a y b t u o d e i r r a c e b y e v r u s s o t s e b s a n a t a h t d e d n e m m o c e r s i t i , d e t a c o l s i t i e r e h w r o , M C A / s o t s e b s a n i a t n o c e c a l p k r o w r u o y t a s t c u d o r p r o s e r u t c u r t s , s g n i d l i u b h c i h
+
+[p77 | prose | Reviewing and revising this plan]
+: n o i t a m r o f n i e f a S k r o W
+
+[p77 | table | Reviewing and revising this plan]
+| ETHOD OF IDERTIAION | = = | S | i o) | 7 Ott |  | s | N |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| TFRAME For compLeTion | onmren |  | ~ |  |  | o e |  |
+| Reasons = = | = |  | oen | s |  | i | & |
+| How oF Asaesros ExposURETo Acwi e | aNAGES |  |  |  |  | t |  |
+| scie Conorion |  |  | " |  |  |  |  |
+| FBLE o oFABLE? Frie Nor- | i |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| siaeD AA VoLUME |  |  |  |  |  |  |  |
+| voF sass/ |  |  | P o |  |  | P i |  |
+| ropuCT/TEM CoNTAINING saros/ach |  |  |  |  |  | = E |  |
+| uo on ConTamING STRUCTURE asasros/acn |  |  | - - |  | o | i e e |  |
+
+[p77 | prose | Reviewing and revising this plan]
+s e r b fi s o t s e b s a g n i n i a t n o c M C A d n a s o t s e b s a s e d u l c n i t I . y r d n e h w e r u s s e r p d n a h y b r e d w o p a o t d e c u d e r r o , d e h s u r c , d e . n o i t i d n o c d o o g l b n m i t u r c e b o t e l b e e h s t n e m e c a t o n s i d n a , m r o f r e d w o p n i t o n s i s o t s s o t s e b s a s a h c u s , d n u o p m o c g n i d n o b e a b s a e l b a i r f - n o N h t i w d e c r o f n i e r
+
+[p78 | prose | Reviewing and revising this plan]
+Asbestos management plan (example)
+
+[p78 | prose | Reviewing and revising this plan]
+Appendices
+
+[p78 | table | Reviewing and revising this plan]
+| BUILDING OR STRUCTURE CONTAINING ASBESTOS/ACM | PRODUCT/ITEM CONTAINING ASBESTOS/ACM | TYPE OF ASBESTOS/ACM | ESTIMATED VOLUME OR AREA | FRIABLE OR NON-FRIABLE? | DESCRIBE CONDITION | HOW RISK OF EXPOSURE TO ASBESTOS/ACM WILL BE MANAGED | REASONS | TIMEFRAME FOR COMPLETION | METHOD OF IDENTIFICATION |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Friable* | Non-friable† |  | What control measures will be used (for example, removal, encapsulation, sealing, enclosure)? | Explain why each control measure was chosenIf no action is required, explain why | (DD/MM/YYYY) | How was the asbestos/ACM identified?- Asbestos survey (attach a paper copy or an electronic copy to the back of this form)- Assumption- Other method (explain below, for example: asbestos is indicated on building plans) |
+|  |  |  |  |  |  |  |  |  | <input class="RadioButton" type="radio"/> DD / MM / YEAR | <input class="RadioButton" type="radio"/> Assumption<input class="RadioButton" type="radio"/> Asbestos survey (attach copy to back of form)<input class="RadioButton" type="radio"/> Other method |
+|  |  |  |  |  |  |  |  |  | <input class="RadioButton" type="radio"/> DD / MM / YEAR | <input class="RadioButton" type="radio"/> Assumption<input class="RadioButton" type="radio"/> Asbestos survey (attach copy to back of form)<input class="RadioButton" type="radio"/> Other method |
+|  |  |  |  |  |  |  |  |  | <input class="RadioButton" type="radio"/> DD / MM / YEAR | <input class="RadioButton" type="radio"/> Assumption<input class="RadioButton" type="radio"/> Asbestos survey (attach copy to back of form)<input class="RadioButton" type="radio"/> Other method |
+|  |  |  |  |  |  |  |  |  | <input class="RadioButton" type="radio"/> DD / MM / YEAR | <input class="RadioButton" type="radio"/> Assumption<input class="RadioButton" type="radio"/> Asbestos survey (attach copy to back of form)<input class="RadioButton" type="radio"/> Other method |
+
+[p79 | prose | Reviewing and revising this plan]
+How are you indicating the presence and location of asbestos/ACM to the people at this workplace who need to know that it is there? For example, people whose work could expose them to respirable asbestos fibres?
+
+[p79 | prose | Reviewing and revising this plan]
+(You can choose how to indicate that asbestos/ACM is present and where it is. For example, make an asbestos record, put a sign on the nearest door, use labels, or mark it on a site plan (see the example on the last page of this template). Make sure people know where to find this information or are given it before they start work.)
+
+[p79 | prose | Reviewing and revising this plan]
+Action:
+
+[p79 | prose | Reviewing and revising this plan]
+Name and role of person/s responsible:
+
+[p79 | prose | Reviewing and revising this plan]
+Action:
+
+[p79 | prose | WorkSafe information]
+WorkSafe information
+
+[p79 | prose | WorkSafe information]
+Meeting the duty to indicate the presence and location of asbestos at work
+
+[p79 | prose | 4. Procedures for managing incidents or emergencies involving asbestos or ACM]
+4. Procedures for managing incidents or emergencies involving asbestos or ACM
+
+[p79 | prose | 4. Procedures for managing incidents or emergencies involving asbestos or ACM]
+How will incidents or emergencies involving asbestos/ACM be managed?
+
+[p79 | prose | 4. Procedures for managing incidents or emergencies involving asbestos or ACM]
+Action:
+
+[p79 | prose | 4. Procedures for managing incidents or emergencies involving asbestos or ACM]
+(For example, stop work immediately, secure and evacuate work area, contact site manager. Add additional steps – see your workplace emergency plan for details.)
+
+[p79 | prose | 4. Procedures for managing incidents or emergencies involving asbestos or ACM]
+Name and role of person/s responsible:
+
+[p79 | prose | 4. Procedures for managing incidents or emergencies involving asbestos or ACM]
+Action:
+
+[p79 | prose | 4. Procedures for managing incidents or emergencies involving asbestos or ACM]
+Name and role of person/s responsible:
+
+[p79 | prose | 4. Procedures for managing incidents or emergencies involving asbestos or ACM]
+Name and role of person/s responsible:
+
+[p79 | prose | 4. Procedures for managing incidents or emergencies involving asbestos or ACM]
+WorkSafe information
+
+[p79 | prose | 4. Procedures for managing incidents or emergencies involving asbestos or ACM]
+Workplace emergency plans
+
+[p80 | prose | Main contact person/s for incident/emergency management]
+Main contact person/s for incident/emergency management
+
+[p80 | prose | Main contact person/s for incident/emergency management]
+(for example, site manager, facilities manager)
+
+[p80 | prose | Main contact person/s for incident/emergency management]
+Position/job title:
+
+[p80 | prose | Main contact person/s for incident/emergency management]
+Email:
+
+[p80 | prose | 6. Workers carrying out work involving asbestos – information and training]
+6. Workers carrying out work involving asbestos – information and training
+
+[p80 | prose | 6. Workers carrying out work involving asbestos – information and training]
+The information and training workers require will depend on the work to be done, how much supervision workers need, the type of asbestos in your workplace, and the risk of exposure.
+
+[p80 | prose | 6. Workers carrying out work involving asbestos – information and training]
+Licensed asbestos removal work can only be carried out by a licensed removalist who has completed certified training
+
+[p80 | prose | Information and training]
+Information and training
+
+[p80 | prose | Information and training]
+What information and training has already been provided to workers carrying out asbestos-related work:
+
+[p80 | prose | Information and training]
+(For example: asbestos awareness training, safe work methods, site-specific instructions, what PPE equipment is required (see Section 14 of Management and removal of asbestos))
+
+[p80 | prose | 5. Procedures for recording details of incidents or emergencies involving asbestos or ACM]
+5. Procedures for recording details of incidents or emergencies involving asbestos or ACM
+
+[p80 | prose | 5. Procedures for recording details of incidents or emergencies involving asbestos or ACM]
+After you have handled an incident or emergency, make sure that everyone at the workplace knows what happened and how to prevent a similar event happening again.
+
+[p80 | prose | 5. Procedures for recording details of incidents or emergencies involving asbestos or ACM]
+How and where will information about incidents or emergencies be recorded:
+
+[p80 | prose | 5. Procedures for recording details of incidents or emergencies involving asbestos or ACM]
+(For example, in a database or other electronic record, in a risk register, in a site diary or notebook.)
+
+[p80 | prose | 5. Procedures for recording details of incidents or emergencies involving asbestos or ACM]
+What information and training is still to be provided to workers carrying out asbestos-related work?
+
+[p80 | prose | 5. Procedures for recording details of incidents or emergencies involving asbestos or ACM]
+(For example: asbestos awareness training, safe work methods, site-specific instructions.)
+
+[p80 | prose | WorkSafe information]
+WorkSafe information
+
+[p80 | prose | WorkSafe information]
+Training for workers doing work involving asbestos (excluding licensed asbestos removal workers)
+
+[p80 | prose | WorkSafe information]
+Work with asbestos/ACM should be supervised so that it is carried out safely. Supervisors should:
+
+[p80 | prose | WorkSafe information]
+– check that workers have – ’site awareness’ – including knowing the locations of asbestos/ACM indicated in this Asbestos Management Plan, so they can avoid disturbing asbestos in or near the work area
+
+[p80 | prose | WorkSafe information]
+– explain what to do in an emergency involving asbestos.
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+7. Workers’ roles and responsibilities
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+a. Identify each worker (for example employee) carrying out work involving asbestos/ACM. Briefly describe each worker’s role and responsibilities. For example: boiler room maintenance; plumbing work involving pipes and lagging.
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+Note: If the worker is a contractor or sub-contractor, then enter their details in section (b).
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+Name on site:
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+Responsibilities: (tasks/main activities)
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+Name:
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+Position/job title:
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+Responsibilities: (tasks/main activities)
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+Date: DD / MM / YEAR
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+Name:
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+Position/job title:
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+b. Identify each contractor or sub-contractor carrying out work involving asbestos/ACM. Briefly describe their role and responsibilities. For example, electrician replacing the switchboard panel, technician working in lift shaft.
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+This information must be updated each time a contractor or sub- contractor is working on your site.
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+Name on site:
+
+[p81 | prose | 7. Workers’ roles and responsibilities]
+Position/job title and company:
+
+[p81 | prose | 8. Worker health monitoring]
+8. Worker health monitoring
+
+[p81 | prose | 8. Worker health monitoring]
+Note: The requirement for worker health monitoring applies only to certain workplaces. Health monitoring must be provided for workers who may be exposed to asbestos while carrying out certain types of asbestos-related work.
+
+[p81 | prose | 8. Worker health monitoring]
+Get advice about whether health monitoring is required for workers, taking into account:
+
+[p81 | prose | 8. Worker health monitoring]
+– their exposure to asbestos/ACM
+
+[p81 | prose | 8. Worker health monitoring]
+– how long they have been exposed to it
+
+[p81 | prose | 8. Worker health monitoring]
+– the type of work that they do
+
+[p81 | prose | 8. Worker health monitoring]
+– the level of risk or potential risk to health and safety
+
+[p81 | prose | 8. Worker health monitoring]
+– whether respiratory protective equipment (RPE) is being used to manage risk.
+
+[p81 | prose | 8. Worker health monitoring]
+An occupational hygienist on the HASANZ Register can provide advice.
+
+[p81 | prose | 8. Worker health monitoring]
+If health monitoring is required for your workers, what health monitoring has been – or will be – carried out?
+
+[p81 | prose | 8. Worker health monitoring]
+Responsibilities: (tasks/main activities)
+
+[p81 | prose | 8. Worker health monitoring]
+WorkSafe information
+
+[p81 | prose | 8. Worker health monitoring]
+Health monitoring
+
+[p82 | prose | 8. Worker health monitoring]
+9. You can choose whether or not to include more information It is good practice to keep written notes about asbestos-related results, records or other documents relating to this plan. For example: schedules for completing asbestos work, air monitoring test results, asbestos survey results, training records.
+
+[p82 | prose | 8. Worker health monitoring]
+You can add photos, site plan/s (remove or replace the following example), or other relevant documents here. Link to electronic files or attach printed or photocopied records.
+
+[p83 | prose | Disclaimer]
+Disclaimer

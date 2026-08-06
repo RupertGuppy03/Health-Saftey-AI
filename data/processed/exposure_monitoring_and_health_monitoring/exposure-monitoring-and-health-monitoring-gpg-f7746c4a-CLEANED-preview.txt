@@ -143,10 +143,7 @@ Exposure monitoring
 Exposure monitoring measures and evaluates what your workers are being exposed to while they are at work.
 
 [p11 | prose | Exposure monitoring]
-This can involve workers wearing a device while they work. Examples of personal exposure monitoring:
-
-[p11 | prose | Exposure monitoring]
-It should be carried out by suitably qualified, trained and experienced people who know how to carry out the monitoring you need (such as Occupational Hygienists).
+This can involve workers wearing a device while they work. Examples of personal exposure monitoring: - measuring the level of noise workers are being exposed to - measuring the amount of a substance hazardous to health that workers are being exposed to - measuring the amount of vibration workers’ arms, hands or whole body are being exposed to. It should be carried out by suitably qualified, trained and experienced people who know how to carry out the monitoring you need (such as Occupational Hygienists).
 
 [p11 | prose | Exposure monitoring]
 Biological exposure monitoring is another type of exposure monitoring. It usually involves taking blood or urine samples to test for a substance (or a metabolite of a substance) workers are working with.
@@ -161,7 +158,7 @@ Health monitoring
 Health monitoring looks at whether a worker’s health is being harmed because of what they are being exposed to while they are at work.
 
 [p11 | prose | Health monitoring]
-Examples:
+Examples: - carrying out hearing tests to check for hearing loss from being exposed to noise - checking for skin damage from being exposed to a substance hazardous to health - checking for nerve, muscle or circulation damage from being exposed to vibration.
 
 [p11 | prose | Health monitoring]
 Well-being programmes, employment prescreening and fitness-to-work examinations are not health monitoring.

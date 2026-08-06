@@ -1,0 +1,3500 @@
+[p1 | prose | Industrial Rope Access in New Zealand: Best Practice Guidelines]
+Industrial Rope Access in New Zealand: Best Practice Guidelines
+
+[p1 | prose | Industrial Rope Access in New Zealand: Best Practice Guidelines]
+MAY 2012
+
+[p2 | prose | Industrial Rope Access in New Zealand: Best Practice Guidelines]
+Cover photo: Airways radar dome maintenance. Photo by G Hallam.
+
+[p2 | prose | Industrial Rope Access in New Zealand: Best Practice Guidelines]
+have made every effort to ensure that the information contained in this publication is
+
+[p2 | prose | Industrial Rope Access in New Zealand: Best Practice Guidelines]
+reliable, but make no guarantee of its accuracy or completeness and do not accept any
+
+[p2 | prose | Industrial Rope Access in New Zealand: Best Practice Guidelines]
+liability for any errors. The Department and the Industrial Rope Access Association of New
+
+[p2 | prose | Industrial Rope Access in New Zealand: Best Practice Guidelines]
+Zealand may change the contents of this publication at any time without notice.
+
+[p2 | prose | Published by the Industrial Rope Access Association of New Zealand]
+Published by the Industrial Rope Access Association of New Zealand
+
+[p2 | prose | Lower Hutt]
+Lower Hutt
+
+[p2 | prose | Wellington 5040]
+Wellington 5040
+
+[p2 | prose | Website: www.iraanz.co.nz]
+Website: www.iraanz.co.nz
+
+[p2 | prose | In association with the Department of Labour]
+In association with the Department of Labour
+
+[p2 | prose | Wellington 6011]
+Wellington 6011
+
+[p2 | prose | Website: www.dol.govt.nz]
+Website: www.dol.govt.nz
+
+[p2 | prose | Copyright © Industrial Rope Access Association of New Zealand]
+Copyright © Industrial Rope Access Association of New Zealand
+
+[p3 | prose | TABLE OF CONTENTS]
+TABLE OF CONTENTS
+
+[p3 | table | TABLE OF CONTENTS]
+| TABLE OF | CONTENTS ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss |  |
+| --- | --- | --- |
+| SECTION | ssssssssssssssss 1: INTRODUCTION, PURPOSE AND SCOPE |  |
+| 1.1 | Introduction |  |
+| 1.2 | Purpose.. |  |
+| 1.3 | Scope |  |
+| SECTION | 2: SAFE WORK PRINCIPLES ssssssssssssn | T |
+| 2.1 | Principles of permanent and temporary anchor systems |  |
+| 2.2 | Health and safety principles for industrial rope access work |  |
+| SECTION | 3: PLANNING AND HAZARD ASSESSMENT ssssssssssssssssssss | 11 |
+| 3.1 | Health and safety systems | 11 |
+| 3.2 | Planning | 11 |
+| 3.3 | Preliminary (task) analysis | 12 |
+| 3.4 | Levels of operative skills... | 12 |
+| 3.5 | Hazard identification | 12 |
+| 3.6 | Hazards specific to the rope access method or work task | 13 |
+| 3.7 | Height hazard assessment | 13 |
+| 3.8 | Health and safety plan | 13 |
+| 3.9 | Use of tools and equipment | 13 |
+| 3.10 | Communications | 14 |
+| 3.11 | Record-keeping | 14 |
+| SECTION | 4: PERSONNEL | 15 |
+| 4.1 | Selection | 15 |
+| 4.2 | Competency | 15 |
+| 4.3 | Team size | 16 |
+| SECTION | 5: | 17 |
+|  | EQUIPMENT |  |
+| 5.1 | General | 17 |
+| 5.2 | Standards | 17 |
+| 5.3 | Suitable anchor systems | 17 |
+| 5.4 | of anchors | 22 |
+|  | Types permanent |  |
+| 5.5 | Lifelines | 26 |
+| 5.6 | Specific rope access equipment | 27 |
+| 5.7 | Edge protection | 34 |
+| 5.8 | Equipment marking and traceability | 35 |
+| 5.9 | Inspection | 35 |
+| 5.10 | Retiring equipment.. | 36 |
+| 5.11 | Records | 36 |
+| SECTION | 6: WORKING METHODS ssssssssssssssssssss | 37 |
+| 6.1 | General | 37 |
+| 6.2 | Types of rope access work | 38 |
+| 6.3 | Planning and paperwork | 39 |
+| 6.4 | Set-up and working methods | 40 |
+| 6.5 | Changes to the system | 41 |
+| 6.6 | Basic techniques | 41 |
+| 6.7 | Advanced techniques | 44 |
+| 6.8 | Knots | 47 |
+
+[p4 | table | TABLE OF CONTENTS]
+| 6.9 | Anchor points | 48 |
+| --- | --- | --- |
+| SECTION | 7: EMERGENCIES AND RESCUE | 50 |
+| 7.1 | General | 50 |
+| 7.2 Suspension intolerance (trauma) | 50 |  |
+| APPENDIX | 1: FORMS AND TEMPLATES sssssssssssssssssssssssssssn | 52 |
+| Rope Operations Inspection and Audit Checklist | 53 |  |
+| Task Analysis Form | 56 |  |
+| Significant Hazard Register (example) | 58 |  |
+| Significant hazard register | 60 |  |
+| Health | and Safety Plan | 61 |
+| APPENDIX | 2: DEFINITIONS ... n ssn [ | ssss 64 |
+| APPENDIX 3: LEGISLATION | 70 |  |
+| A summary of the Health and Safety in Employment Act 1992. Health and Safety in Employment Regulations 1995 | 70 |  |
+| 73 |  |  |
+| APPENDIX | 4: LIST OF STANDARDS P TTII | 76 |
+| Work equipment standards | 76 |  |
+| General | requirements for instructions | 76 |
+| Mountaineering and climbing equipment standards | 76 |  |
+| General standards | 77 |  |
+| Rescue standards | 78 |  |
+| Australian and New Zealand standards | 78 |  |
+| APPENDIX 5: RELATED PUBLICATIONS TTII TI | 80 |  |
+| Legislation | 80 |  |
+| Department of Labour publications | 80 |  |
+| Other publications | 80 |  |
+
+[p7 | prose | SECTION 1: INTRODUCTION, PURPOSE AND SCOPE]
+SECTION 1: INTRODUCTION, PURPOSE AND SCOPE
+
+[p7 | prose | 1.1 Introduction]
+1.1 Introduction
+
+[p7 | prose | 1.1 Introduction]
+Rope access uses techniques originally developed in caving and climbing to allow workers access to difficult-to-reach locations.
+
+[p7 | prose | 1.1 Introduction]
+Rope access techniques are successfully used around the world, and in New Zealand the industry is growing quickly.
+
+[p7 | prose | 1.1 Introduction]
+The rope access industry is committed to ensuring that this occupation continues to maintain high health and safety standards. These best practice guidelines have been prepared by the Industrial Rope Access Association of New Zealand (IRAANZ) and the Department of Labour to provide guidance and advice to employers, operators and clients about the health and safety requirements for rope access work projects.
+
+[p7 | prose | 1.2 Purpose]
+1.2 Purpose
+
+[p7 | prose | 1.2 Purpose]
+The purpose of this document is to provide best practice guidelines on:
+
+[p7 | prose | 1.2 Purpose]
+the safe use of rope access techniques in New Zealand when working at height and where rope access is used in a workplace as the main means of access, support and protection against a fall
+
+[p7 | prose | 1.2 Purpose]
+the design, installation and certification of permanent anchors and anchorage
+
+[p7 | prose | systems]
+systems
+
+[p7 | prose | systems]
+the selection and maintenance requirements for rope access equipment.
+
+[p7 | prose | systems]
+Describing best practice principles of rope access techniques and equipment will give employers, employees, principals and contractors confidence in rope access methods as a safe, effective system of work.
+
+[p7 | prose | 1.3 Scope]
+1.3 Scope
+
+[p7 | prose | 1.3 Scope]
+These guidelines set out recommendations for all people who are involved in the industrial rope access industry, including building owners, engineers and building managers as well as operators. It outlines safe rope access techniques when working at height in a variety of different situations, and describes the best practice requirements for the design and installation of anchors and other systems, along with their use and maintenance.
+
+[p7 | prose | 1.3 Scope]
+They apply to employers, employees and self-employed people using rope access methods, and to people who contract or commission rope access work, such as principals, and persons in control of places of work.
+
+[p7 | prose | 1.3 Scope]
+They do not apply to fall arrest, recreational situations, arboriculture or emergency services rescue work.
+
+[p7 | prose | 1.3 Scope]
+These guidelines are not intended to be an instruction manual for working at height. It is essential that all persons working at height first seek and obtain
+
+[p8 | prose | 1.3 Scope]
+specialist training and qualifications in the correct use of the techniques and equipment described in this document.
+
+[p9 | prose | SECTION 2: SAFE WORK PRINCIPLES]
+SECTION 2: SAFE WORK PRINCIPLES
+
+[p9 | prose | SECTION 2: SAFE WORK PRINCIPLES]
+Rope access can provide safe methods to access and carry out tasks at height or in other difficult-to-access situations.
+
+[p9 | prose | SECTION 2: SAFE WORK PRINCIPLES]
+The principles for a safe rope access system include:  planning and management (refer to Section 3)     provision for emergency situations (Section 7).
+
+[p9 | prose | 2.1 Principles for permanent and temporary anchor]
+2.1 Principles for permanent and temporary anchor
+
+[p9 | prose | systems]
+systems
+
+[p9 | prose | systems]
+Anchor systems need to be designed and fit for purpose. They must provide assurance that the minimum strength requirements are met or exceeded.
+
+[p9 | prose | systems]
+Safe permanent anchors require:
+
+[p9 | prose | systems]
+an appropriately engineered design and/or manufacture   correct installation testing, certification and documentation.
+
+[p9 | prose | systems]
+Safe temporary anchors require:
+
+[p9 | prose | systems]
+experience and knowledge in selecting suitable objects, structures and
+
+[p9 | prose | systems]
+substrates to attach to
+
+[p9 | prose | systems]
+an understanding of how forces are generated and distributed by systems  suitably rated attachment equipment.
+
+[p9 | prose | systems]
+The principles for permanent and temporary anchor systems are outlined in further detail in Section 5 of these guidelines.
+
+[p9 | prose | 2.2 Health and safety principles for industrial rope access]
+2.2 Health and safety principles for industrial rope access
+
+[p9 | prose | 2.2 Health and safety principles for industrial rope access]
+work
+
+[p9 | prose | 2.2 Health and safety principles for industrial rope access]
+Before commencing any work, a task analysis should be carried out to confirm if rope access is the safest and most suitable method for the job.
+
+[p9 | prose | 2.2 Health and safety principles for industrial rope access]
+Identify the hazards associated with falling. Implement controls to eliminate, isolate or minimise these hazards. This will help to ensure that rigorous safety procedures are effectively followed.
+
+[p9 | prose | 2.2 Health and safety principles for industrial rope access]
+The hazard identification and management process involves: 1. identifying hazards that could cause or create falls 2. assessing the significance of these hazards to determine if they are
+
+[p9 | prose | 2.2 Health and safety principles for industrial rope access]
+capable of causing serious harm1
+
+[p9 | prose | 2.2 Health and safety principles for industrial rope access]
+3. controlling the hazards by implementing the most effective hazard controls
+
+[p9 | prose | 2.2 Health and safety principles for industrial rope access]
+using the “hierarchy of control” principle:
+
+[p9 | appendix | 1 Refer to Appendix 2 for a definition of “serious harm”]
+1 Refer to Appendix 2 for a definition of “serious harm”
+
+[p10 | appendix | 1 Refer to Appendix 2 for a definition of “serious harm”]
+eliminate the hazard so that personnel will not be harmed 
+
+[p10 | appendix | 1 Refer to Appendix 2 for a definition of “serious harm”]
+if it is not possible to eliminate the hazard, isolate the hazard from personnel, for example, by providing a barrier between the hazard and the worker, or if elimination or isolation methods are not practicable, minimise the hazard by implementing controls that minimise personnel exposure to the hazard, and
+
+[p10 | appendix | 1 Refer to Appendix 2 for a definition of “serious harm”]
+4. review the controls regularly to ensure that they are working as planned.
+
+[p10 | appendix | 1 Refer to Appendix 2 for a definition of “serious harm”]
+Specific hazard controls for industrial rope access work should be implemented in the following order:
+
+[p10 | appendix | 1 Refer to Appendix 2 for a definition of “serious harm”]
+1. Control the hazard by using a passive fall prevention system. 2. If (1) is not practicable, control the hazard by using a work positioning system.
+
+[p10 | appendix | 1 Refer to Appendix 2 for a definition of “serious harm”]
+3. If (1) and (2) are not practicable, control the hazard by using a fall arrest
+
+[p10 | prose | system.]
+system.
+
+[p10 | prose | system.]
+4. If none of the above is practicable, control the hazard by using all other
+
+[p10 | prose | practicable hazard control measures.]
+practicable hazard control measures.
+
+[p10 | prose | practicable hazard control measures.]
+Double protection is a fundamental safety principle for rope access. This generally means that a worker uses a working line plus a safety line independently attached to an anchor to prevent falling. This is a combination of points (2) and (3) above.
+
+[p10 | prose | practicable hazard control measures.]
+All operators must be adequately trained to carry out any rope access project, and must work in teams of at least two people.
+
+[p11 | prose | SECTION 3: PLANNING AND HAZARD ASSESSMENT]
+SECTION 3: PLANNING AND HAZARD ASSESSMENT
+
+[p11 | prose | SECTION 3: PLANNING AND HAZARD ASSESSMENT]
+The management of any rope access system requires a set of planning and decision-making processes ensuring that appropriate levels of supervision are combined with competent, trained personnel and appropriate equipment, using suitable working methods.
+
+[p11 | prose | 3.1 Health and safety systems]
+3.1 Health and safety systems
+
+[p11 | prose | 3.1 Health and safety systems]
+When planning and managing a rope access system, the aim is to ensure a safe workplace for operators and others in the vicinity of the place of work.
+
+[p11 | prose | 3.1 Health and safety systems]
+A documented health and safety system, including hazard identification and control strategies, should be in place. It should include training records and forms for notifications and accident reporting and emergency procedures, including site-specific rescue procedures.
+
+[p11 | prose | 3.1 Health and safety systems]
+Everyone has a responsibility to ensure that the techniques and equipment being used are appropriate and fit for purpose.
+
+[p11 | prose | 3.2 Planning]
+3.2 Planning
+
+[p11 | prose | 3.2 Planning]
+The following issues should be considered when designing or planning a rope access project:
+
+[p11 | prose | 3.2 Planning]
+Are there established supervision roles and clear lines of responsibility for decision making?
+
+[p11 | prose | 3.2 Planning]
+How will the intended work be carried out that will eliminate, isolate or minimise hazards?
+
+[p11 | prose | 3.2 Planning]
+Can safety be improved by building in features such as guardrails or safety nets?
+
+[p11 | prose | 3.2 Planning]
+Can future maintenance work be made safer by building in systems - for example, permanent anchors?
+
+[p11 | prose | 3.2 Planning]
+How will the work requirements interface with rope access methods?
+
+[p11 | prose | 3.2 Planning]
+Is enough known about the work and the hazards to carry out the work safely?
+
+[p11 | prose | 3.2 Planning]
+Is there appropriate experience and/or expertise to carry out the work safely?
+
+[p11 | prose | 3.2 Planning]
+Have all hazards potentially affecting other people (such as other workers or the public) been taken into account?
+
+[p11 | prose | 3.2 Planning]
+How large should the exclusion zone be to include the safety of others?
+
+[p11 | prose | 3.2 Planning]
+In addition, the following information should be considered when designing or planning any rope access project:
+
+[p11 | prose | 3.2 Planning]
+safe work procedures
+
+[p11 | prose | 3.2 Planning]
+contractual performance obligations
+
+[p11 | prose | 3.2 Planning]
+insurance
+
+[p11 | prose | 3.2 Planning]
+hazard management documentation
+
+[p11 | prose | 3.2 Planning]
+staff competency
+
+[p11 | prose | 3.2 Planning]
+communication
+
+[p12 | prose | 3.2 Planning]
+• record-keeping.
+
+[p12 | prose | 3.3 Preliminary task analysis]
+3.3 Preliminary task analysis
+
+[p12 | prose | 3.3 Preliminary task analysis]
+Before any rope access work begins, a task analysis should be carried out to ensure that the methods are suitable for the specific work proposed, and that they can be carried out safely. To complete a task analysis, the following steps are required:
+
+[p12 | prose | 3.3 Preliminary task analysis]
+A task analysis template is provided in Appendix 1.
+
+[p12 | prose | 3.4 Levels of operative skills]
+3.4 Levels of operative skills
+
+[p12 | prose | 3.4 Levels of operative skills]
+Personnel skill levels, along with experience and supervision, must be appropriate for the job to be carried out. Current competency requirements for rope access work exist at two levels: basic and advanced. Additional divisions and specialisations are planned in future New Zealand Qualifications Authority unit standard reviews. Consideration may be given to training and experience requirements for the safe operation of machinery and other significant hazards, including working in confined spaces.
+
+[p12 | prose | 3.4 Levels of operative skills]
+Personnel requirements are discussed further in Section 4.
+
+[p12 | prose | 3.5 Hazard identification]
+3.5 Hazard identification
+
+[p12 | prose | 3.5 Hazard identification]
+Before any rope access work is carried out, a hazard identification and control exercise must be completed. All team members should be involved in this process, and be familiar with the final contents of the plan. The information gathered during the hazard identification and control exercise is used to ensure that work can be carried out safely. This may include confirmation that:
+
+[p12 | prose | 3.5 Hazard identification]
+An example of a completed significant hazard register and a significant hazard register template is provided in Appendix 1.
+
+[p13 | prose | 3.6 Hazards specific to the rope access method or work task]
+3.6 Hazards specific to the rope access method or work task
+
+[p13 | prose | 3.6 Hazards specific to the rope access method or work task]
+All hazards that any person (including members of the public) could be exposed to as the result of working at height or falling objects should be identified and assessed in terms of their potential to cause serious harm.
+
+[p13 | prose | 3.6 Hazards specific to the rope access method or work task]
+Specific hazards relating to the physiological effects of rope access methods on suspended persons, for example long suspension times and operating machinery, may require additional monitoring due to their cumulative effects on the body.
+
+[p13 | prose | 3.6 Hazards specific to the rope access method or work task]
+Ropes and other equipment may interact with other tools in the work environment, creating additional hazards, such as those that generate heat, or impact the substrate.
+
+[p13 | prose | 3.7 Height hazard assessment]
+3.7 Height hazard assessment
+
+[p13 | prose | 3.7 Height hazard assessment]
+Potentially hazardous areas for consideration include, but are not limited to, the following:
+
+[p13 | prose | 3.7 Height hazard assessment]
+access to and egress from the work area
+
+[p13 | prose | 3.7 Height hazard assessment]
+environmental hazards such as wind, rain, dust, hot and cold weather, exhaust fumes
+
+[p13 | prose | 3.7 Height hazard assessment]
+the ability of work platforms to support the required people, tools and other equipment
+
+[p13 | prose | 3.7 Height hazard assessment]
+size of and changes to the level of, friction, slope and environment of workstations
+
+[p13 | prose | 3.7 Height hazard assessment]
+restraints to prevent people from accidentally slipping or stepping off work platforms
+
+[p13 | prose | 3.7 Height hazard assessment]
+obstructions caused by materials, rubbish or fixed and protruding objects
+
+[p13 | prose | 3.7 Height hazard assessment]
+position of unprotected work platform edges or penetrations and
+
+[p13 | prose | 3.7 Height hazard assessment]
+proximity to energy sources such as electricity and gas.
+
+[p13 | prose | 3.8 Health and safety plan]
+3.8 Health and safety plan
+
+[p13 | prose | 3.8 Health and safety plan]
+A health and safety plan should be prepared for each rope access project.
+
+[p13 | prose | 3.8 Health and safety plan]
+The plan should include:
+
+[p13 | prose | 3.8 Health and safety plan]
+general aspects/scope of work
+
+[p13 | prose | 3.8 Health and safety plan]
+controlling public access/other work groups
+
+[p13 | prose | 3.8 Health and safety plan]
+rope access work
+
+[p13 | prose | 3.8 Health and safety plan]
+rescue plan
+
+[p13 | prose | 3.8 Health and safety plan]
+environmental hazards.
+
+[p13 | prose | 3.9 Use of tools and equipment]
+3.9 Use of tools and equipment
+
+[p13 | prose | 3.9 Use of tools and equipment]
+The selection of rope access equipment should be suitable for the intended task. Equipment should be designed and constructed of suitable materials and certified as compliant with applicable standards.
+
+[p14 | prose | 3.9 Use of tools and equipment]
+The compatibility of equipment with other items and aspects of the rope access system should be verified with manufacturers’ specifications.
+
+[p14 | prose | 3.9 Use of tools and equipment]
+In addition, all operators must receive adequate training in the correct examination and use of equipment supplied to them.
+
+[p14 | prose | 3.10 Communication]
+3.10 Communication
+
+[p14 | prose | 3.10 Communication]
+All team members must be able to maintain clear communication with each other. In particular, the supervisor should maintain contact with all team members.
+
+[p14 | prose | 3.10 Communication]
+Particular conditions such as background noise or weather should be taken into account.
+
+[p14 | prose | 3.10 Communication]
+Provision for communication with outside groups, for example emergency services, should be part of any communication plan.
+
+[p14 | prose | 3.11 Record-keeping]
+3.11 Record-keeping
+
+[p14 | prose | 3.11 Record-keeping]
+Appropriate records for rope access projects, staff and equipment should be kept, along with records of any training or accidents and other relevant health and safety documents (refer to Appendix 1).
+
+[p14 | prose | 3.11 Record-keeping]
+Relevant documentation such as work plan details, hazard identification and control plans and emergency procedures should be available on site for personnel involved in the work.
+
+[p14 | prose | 3.11 Record-keeping]
+Rope access workers should keep accurate logbooks of all work undertaken. The use of digital photos is also a good means of supporting logbook entries.
+
+[p15 | prose | SECTION 4: PERSONNEL]
+SECTION 4: PERSONNEL
+
+[p15 | prose | 4.1 Selection]
+4.1 Selection
+
+[p15 | prose | 4.1 Selection]
+Everyone working at height should have some formal knowledge of fall protection principles and methods. The New Zealand Qualifications Authority has a number of specific unit standards relating to fall protection which are widely known and used.
+
+[p15 | prose | 4.1 Selection]
+All persons selected for rope access work should have an adequate level of fitness and be free of any disability which could affect their ability to work safely. They should have an affinity for heights so that they can make decisions and work comfortably without compromising their own or others’ safety.
+
+[p15 | prose | 4.1 Selection]
+They should have an aptitude and attitude suitable for engaging in a team environment and undertaking training. Employers have a duty to see that all workers are trained and competent for their assigned tasks. There is also an obligation to monitor employee exposure to hazards in the workplace.
+
+[p15 | prose | 4.1 Selection]
+Training should be delivered by a nationally accredited organisation along with a separate formal assessment. The training needs to be relevant to industrial rope access techniques and not recreation-based programmes or skill sets. Employers are encouraged to undertake additional internal training programmes where close supervision is maintained during the skill and experience acquisition phase.
+
+[p15 | prose | 4.1 Selection]
+The New Zealand Qualifications Authority provides two specific National Certificates in Rope Access at Levels 3 and 4. Other qualifications and training may be acceptable but the employer should ensure that they provide similar levels of content and competencies.
+
+[p15 | prose | 4.2 Competency]
+4.2 Competency
+
+[p15 | prose | 4.2 Competency]
+Competence is attained through a combination of training, knowledge and experience. The following skill sets provide a schedule of competencies for operators at two levels: basic and advanced.
+
+[p15 | prose | 4.2 Competency]
+The Industrial Rope Access Association of New Zealand (IRAANZ) provides a Certificate of Competence to those providing proof of training and an adequate log of experience. A challenge assessment may be required where certification has expired, or operators have been out of the industry for a period of time.
+
+[p15 | prose | 4.2 Competency]
+Where Certificates of Competency are issued, personnel will need to supply written proof of experience and hours.
+
+[p15 | prose | Basic]
+Basic
+
+[p15 | prose | Basic]
+Basic competence will require a full set of skills relating to personal safety on rope skills, including:
+
+[p15 | prose | Basic]
+ascending  descending
+
+[p16 | prose | Basic]
+knot bypass techniques  
+
+[p16 | prose | Basic]
+rigging for simple systems and rescue.
+
+[p16 | prose | Basic]
+Various techniques for basic competency are discussed in Section 6.
+
+[p16 | prose | Basic]
+Additionally, personnel should hold a first aid certificate along with some formal fall arrest (and fall protection) qualifications and training for the inspection of equipment. They should have knowledge of the Health and Safety in Employment Act 1992 and their obligations under the Act, as well as general workplace safety training and specific training relating to other aspects of the work, for example machinery, chemical handling, etc.
+
+[p16 | prose | Advanced]
+Advanced
+
+[p16 | prose | Advanced]
+Advanced competency will depend on the specific requirements of the particular job, and will require further training and experience with the specifics of the rope access system chosen.
+
+[p16 | prose | Advanced]
+This will include detailed inspection techniques, aid and lead climbing techniques, needles and cableways, as well as the advanced rigging and rescue requirements involved with each of these methods.
+
+[p16 | prose | Advanced]
+Additionally, the installation, testing and documentation for permanent anchor systems under the direction and design of an engineer should be treated as an advanced task.
+
+[p16 | prose | Advanced]
+Any heavy hauling may require additional skills relating to rigging, load management and specific formal training relating to crane-based activities.
+
+[p16 | prose | 4.3 Team size]
+4.3 Team size
+
+[p16 | prose | 4.3 Team size]
+Rope access teams must be supervised and self-supporting so that the team is capable of handling all rescue and emergencies with the resources on hand. Teams must have a minimum of two members. Any team must have a designated team supervisor in control of all decisions relating to safety.
+
+[p16 | prose | 4.3 Team size]
+In some instances, additional team members may be required as observers to alert other team members to specific hazards and their controls, for example confined spaces, cranes and derricks operating in the vicinity.
+
+[p16 | prose | 4.3 Team size]
+Overall supervision at a project level may be required where multiple teams are working in hazardous environments, even when in close proximity to each other.
+
+[p17 | prose | SECTION 5: EQUIPMENT]
+SECTION 5: EQUIPMENT
+
+[p17 | prose | 5.1 General]
+5.1 General
+
+[p17 | prose | 5.1 General]
+All equipment, particularly the rope, should be selected to ensure that it is fit for the intended purpose and compatible with other key elements of the rope access system. It is the obligation of the employer to provide suitable personal protective equipment (PPE) for employees. Nearly all items of rope access equipment are considered to be PPE.
+
+[p17 | prose | 5.1 General]
+Purchasing standards-certified equipment will provide surety that each item has met rigorous testing requirements and is suitable for use in the workplace.
+
+[p17 | prose | 5.1 General]
+The manufacturers’ technical notices and specification sheets are the primary source of information, techniques and advice for the correct operation of all equipment. Specific training and regular practice will provide the experience required to use equipment safely and efficiently.
+
+[p17 | prose | 5.2 Standards]
+5.2 Standards
+
+[p17 | prose | 5.2 Standards]
+EN certification (European Committee for Standardization) is used extensively in these guidelines. EN certification is recognised as the most modern and coherent set of applicable and compatible rope access equipment standards.
+
+[p17 | prose | 5.2 Standards]
+Some of the AS/NZS 1891 series has been updated, but these standards more correctly apply to fall arrest techniques and equipment. Specific advice on the selection, use and maintenance for fall arrest equipment is detailed in AS/NZS 1891.4:2009 Industrial fall-arrest systems and devices Part 4: Selection, use and maintenance.
+
+[p17 | prose | 5.2 Standards]
+AS/NZS 4488:1+2:1997 Industrial rope access systems have not been updated since its publication. European standards relating to rope grabs, back-ups and descenders now exist, as well as methodology allowing for lead and aid climbing situations that were not previously described in AS/NZS 4488.
+
+[p17 | prose | 5.2 Standards]
+Other internationally-accepted standards such as NFPA (National Fire Protection Association) and ANSI (American National Standards Institute) should be referenced with care to ensure that all elements within a rope access system are compatible.
+
+[p17 | prose | 5.3 Suitable anchor systems]
+5.3 Suitable anchor systems
+
+[p17 | prose | 5.3 Suitable anchor systems]
+All permanent anchor systems must be designed by a chartered professional engineer (CPEng).
+
+[p17 | prose | 5.3 Suitable anchor systems]
+The manufacturer and designer should ensure that each permanent attachment is uniquely identified so that its installation, testing and maintenance can be tracked during its lifetime. Permanent anchor systems are subject to environmental and other working stressors. They are also reliant on the condition and strength of the material into which they are installed.
+
+[p18 | prose | 5.3 Suitable anchor systems]
+Therefore, anchor inspection and testing regimes should consider all these factors. Maintenance procedures should be specified by the designer as well as the expected design life of the system.
+
+[p18 | prose | 5.3 Suitable anchor systems]
+The relevant Australian/New Zealand standards that apply are:
+
+[p18 | prose | 5.3 Suitable anchor systems]
+AS/NZ1891.4:2009 – Industrial fall-arrest systems and devices Part 4:
+
+[p18 | prose | Selection, use and maintenance]
+Selection, use and maintenance
+
+[p18 | prose | Selection, use and maintenance]
+AS/NZS 4488: 1 + 2 1997 – Industrial rope access systems.
+
+[p18 | prose | Selection, use and maintenance]
+Wherever practicable, all anchors shall be designed to sustain a minimum load of 15kN irrespective of the intended use. All the temporary parts of connected systems to these anchors such as rope, slings and hardware should exceed this value to allow for potential wear and tear.
+
+[p18 | prose | Selection, use and maintenance]
+All temporary anchor terms and certified devices such as beam clamps, slings, chains, shackles and wire rope shall be of a tested and rated type with a minimum breaking load of 22kN.
+
+[p18 | prose | Selection, use and maintenance]
+Permanent collectivised systems relying on rails, wires or bars may require a special test method and certification to verify the engineering involved, as these items are not covered by the standards.
+
+[p18 | prose | Principals, building owners and property managers]
+Principals, building owners and property managers
+
+[p18 | prose | Principals, building owners and property managers]
+Anchor systems are safety-critical, and a failure of any part could result in death. There are many potential problems, for example:
+
+[p18 | prose | Principals, building owners and property managers]
+poorly manufactured or designed systems (not designed for the intended
+
+[p18 | prose | use)]
+use)
+
+[p18 | prose | use)]
+an appropriate system but not installed correctly, for example into the wrong type of substrate or not in line with manufacturers’ installation guidance
+
+[p18 | prose | use)]
+anchors with obscured or hidden corrosion  anchors that have been tested incorrectly (which may have compromised the strength of the anchor or failed to identify faults).
+
+[p18 | prose | use)]
+Principals, building owners, property managers and persons who control a place of work have duties under the Health and Safety in Employment (HSE) Act 1992, including ensuring that permanent anchor systems have been designed, installed, certified, maintained and re-certified by the appropriate persons.
+
+[p18 | prose | use)]
+Each step in the anchor design, installation, certification and maintenance process requires confirmation that the previous step has been adequately completed. The designer of the system must confirm that the anchor from the manufacturer is suitable for the intended purpose.
+
+[p18 | prose | use)]
+The installer must ensure that the design plans are detailed and carried
+
+[p18 | prose | out correctly.]
+out correctly.
+
+[p19 | prose | out correctly.]
+The certifier must verify that the correct paperwork for the installation of each anchor is present, and then test it in accordance with any design requirements and the standards.
+
+[p19 | prose | out correctly.]
+A plate identifying the installer, the date and rated load and any specific
+
+[p19 | prose | out correctly.]
+instructions must be attached next to the installation and recorded on the compliance certificate.
+
+[p19 | prose | out correctly.]
+A user of the system must confirm that the anchor point has been installed
+
+[p19 | prose | out correctly.]
+and certified within the past 12 months.
+
+[p19 | prose | out correctly.]
+If the documentation or installation plates are absent, the anchors and anchor system should be re-certified before use. If this cannot be done (for example, a certifier cannot see the entire anchor or the original engineering data) the anchor should be replaced.
+
+[p19 | prose | out correctly.]
+If there is reason to suspect potential structural damage following an earthquake or other major event, all permanent anchors on damaged buildings should be considered unsafe until they have been re-certified.
+
+[p19 | prose | Permanent anchor system design]
+Permanent anchor system design
+
+[p19 | prose | Permanent anchor system design]
+For industrial rope access systems, the minimum load requirement of an anchor is 12kN. However, it is a requirement of the AS/NZS standards that all systems are designed to meet the 15kN standard where practicable. Modern building design and materials make it easy to exceed these values.
+
+[p19 | prose | Permanent anchor system design]
+The systems must be designed using sound engineering principles and following the relevant AS/NZS standards. The design should also consider environmental factors, such as proximity to the coast or highly corrosive atmospheres that may affect the system.
+
+[p19 | prose | Permanent anchor system design]
+Anchors should be designed so that a full inspection can be conducted. It is critical that the anchor system can be inspected for corrosion.
+
+[p19 | prose | Permanent anchor system design]
+Consideration should be given to the positioning of the anchors to give the best access and to avoid potential hazards to users. Part of the recommended design process requires a competent rope access person to identify the necessary rope paths and access requirements. Where practicable, ensure that the end user of the system is consulted.
+
+[p19 | prose | Permanent anchor system design]
+The design phase requires collaboration between rope access experts and engineers. Both parties have specific skills that are needed to ensure that the systems are designed to be safe and useable.
+
+[p19 | prose | Permanent anchor system design]
+Through-drilled anchor systems should be the first preference of the designer whenever structural and on-going access considerations permit. The use of friction “mechanical” anchors should be carefully weighed against the risks of possible deterioration over time.
+
+[p19 | prose | Permanent anchor system design]
+Records should be kept of the design, design considerations and “as installed” plans for reference by later users.
+
+[p20 | prose | Installation]
+Installation
+
+[p20 | prose | Installation]
+Installation is a critical part of the overall rope access system, as even the best- designed system can fail if it is inadequately installed. In particular, anchors must be installed in accordance with the manufacturers’ instructions, designers’ criteria and the overall system design. All installations should conform to the relevant building codes, as penetration of the structure could degrade building strength.
+
+[p20 | prose | Installation]
+A chartered professional engineer (CPEng) should assess and certify the type of permanent anchor to be used before and after it is installed, and verify that the system has passed any required testing after installation. The CPEng must provide a PS1 Producer Statement (Design) which should include:
+
+[p20 | prose | Installation]
+a clear statement of the design standard(s) referenced  details of the design rating of all certified anchors, including the anchor type (through-bolt, chemical anchor, friction anchor, etc)
+
+[p20 | prose | Installation]
+a schematic drawing showing the layout and location of the certified
+
+[p20 | prose | Installation]
+anchors, identifying those of different ratings, if applicable
+
+[p20 | prose | Installation]
+any special conditions regarding on-going inspection and re-certification.
+
+[p20 | prose | Installation]
+The installer should liaise with the engineer to ensure there is sufficient information upon which the engineer is able to base anchor designs. If not, the engineer should request further details or carry out a site visit to agree (with the installer) a workable and acceptable layout.
+
+[p20 | prose | Installation]
+Specified drill-bit diameters and minimum embedment depths must be strictly adhered to. Reduction of the embedment depth of mechanical and chemical anchors significantly affects both their tensile and shear performance. Onsite modifications (such as the shortening of bolts) that are contrary to published specifications are not permitted.
+
+[p20 | prose | Installation]
+For every permanently installed anchor, there should be a permanently-fixed plate identifying the installer, the date and the design load, including any special conditions. It should include the anchor’s unique number and the next inspection date. Installers should provide evidence of their status as a certified installer (often received from the manufacturer) and they must provide a PS3 Producer Statement (Construction) to the building owner to verify that the system has been installed correctly.
+
+[p20 | prose | Installation]
+All specifications from the manufacturer/designer for friction and chemical anchors must be followed, including proper cleaning of drilled holes, proof loading and specified torqueing of fixings. It is important that screwed-on eye nuts are fitted so that their shoulder abuts the surface to which they are mounted. Eye nuts must be fitted sufficiently tightly so that they cannot be undone by hand, but over-tightening must be avoided as this may inadvertently stress the anchor assembly. There must be sufficient thread engagement through the nut in accordance with manufacturers’ specifications.
+
+[p21 | prose | Installation]
+Chemical anchors, in particular, need to be installed correctly. Voids have been found in the resin of a number of recently tested anchors, and anchors have been known to move or pull out when tested.
+
+[p21 | prose | Installation]
+To verify that installation has followed the PS1 Producer Statement (Design), the CPEng must provide a PS4 Producer Statement (Construction Review) which confirms that the anchors have been installed correctly.
+
+[p21 | prose | Inspection and testing of systems]
+Inspection and testing of systems
+
+[p21 | prose | Inspection and testing of systems]
+Permanent rope access systems are often exposed to harsh environments, and regular examination of the total system is an important part of ensuring performance. AS/NZ 1891.4:2009 specifies that all components of the systems should be inspected at regular intervals as per the summary of inspection requirements in section 9. Permanently installed anchors are singled out in the standard for attention.
+
+[p21 | prose | Inspection and testing of systems]
+If documentation is not available to verify the ultimate loadings of the system’s components and a CPEng’s involvement in the design process, such a person should be consulted before continued use or re-certification. It is possible that another system may need to be installed.
+
+[p21 | prose | Inspection and testing of systems]
+Anchors should be inspected and tested at least every 12 months in accordance with standards, or as specified by the design engineer or equipment manufacturer. A log should be provided of all testing and verification for each permanent anchor point. Attention is given to the need to permanently identify all anchors not rated for a fall arrest system.
+
+[p21 | prose | Inspection and testing of systems]
+Testing and inspection must be carried out by persons who are competent and able to demonstrate adequate training and experience of anchor systems.
+
+[p21 | prose | Inspection and testing of systems]
+One component of anchor examination is the proof loading of friction anchors. It is not acceptable to apply proof loading without considering the design loadings of the anchor systems specified in AS/NZ 1891.4:2009 or consulting the designer. Axial proof loading greater than 50% of the design criteria (as required by the relevant standards) is likely to weaken or reduce the design life of the anchors.
+
+[p21 | prose | Inspection and testing of systems]
+The equipment used to carry out pull testing should be calibrated to ensure the results are credible. The calibration should be carried out by a company accredited by International Accreditation New Zealand (IANZ).
+
+[p21 | prose | Inspection and testing of systems]
+The calibration certificate should accompany the testing equipment, and personnel should be trained in its interpretation. Persons carrying out pull testing need to consider the effect of the substrate deflection when carrying out the axial proof loading. The deflection can sometimes give a false reading.
+
+[p22 | prose | Operator verification of permanent anchors and anchor systems]
+Operator verification of permanent anchors and anchor systems
+
+[p22 | prose | Operator verification of permanent anchors and anchor systems]
+An operator’s life may depend on the accuracy of each of the previous stages of anchor installation.
+
+[p22 | prose | Operators of industrial rope access systems should:]
+Operators of industrial rope access systems should:
+
+[p22 | prose | Operators of industrial rope access systems should:]
+confirm that permanent anchors have been installed in accordance with the designer’s and/or manufacturer’s guidelines
+
+[p22 | prose | Operators of industrial rope access systems should:]
+visually inspect the anchors prior to use.
+
+[p22 | prose | Operators of industrial rope access systems should:]
+Confirmation should be a simple step, as at each permanent anchor point there should be a plate providing details about the anchor’s safety.
+
+[p22 | prose | Operators of industrial rope access systems should:]
+However, if it is not practicable to position a plate at the anchor site, the building owner/property manager should keep the log for each anchor point, including design, installation and re-certification/testing.
+
+[p22 | prose | Operators of industrial rope access systems should:]
+If the operator is unable to verify that the system has been safely designed, installed and examined as required, they should seek confirmation from the building owner/property manager that the systems are safe and fit for purpose prior to use.
+
+[p22 | prose | 5.4 Types of permanent anchors]
+5.4 Types of permanent anchors
+
+[p22 | prose | 5.4 Types of permanent anchors]
+Most permanent fall arrest or abseil anchors fall into one of the following categories:
+
+[p22 | prose | 5.4 Types of permanent anchors]
+   mechanically fixed.
+
+[p22 | prose | 5.4 Types of permanent anchors]
+chemically fixed through bolted structurally reinforced
+
+[p22 | prose | Lifespan of permanent anchors]
+Lifespan of permanent anchors
+
+[p22 | prose | Lifespan of permanent anchors]
+All permanent anchors should have a maximum lifespan of 10 years unless indicated by the manufacturer as less. Where systems have a longer design lifespan than 10 years, additional reference to a certified engineer and/or the manufacturer should take place at the 10 year rollover or the lesser period as indicated in the design brief.
+
+[p22 | prose | Lifespan of permanent anchors]
+Chemically fixed anchors
+
+[p22 | prose | Lifespan of permanent anchors]
+Single or multi-fixed (for example, three holes) chemically fixed anchors are drilled into concrete and glued with a high grade adhesive. They are load tested on installation and should be load tested each year as part of annual re- certification.
+
+[p22 | prose | Lifespan of permanent anchors]
+Note: Some single chemically fixed anchors are designed to only be loaded in shear (right angle pull). For tension loads (direct pull), a multi-fixed chemically fixed anchor should be used. Specific manufacturers’ guidance will be required as the performance specifications vary between makes and models.
+
+[p24 | prose | Through bolted anchors]
+Through bolted anchors
+
+[p24 | prose | Through bolted anchors]
+Through bolted anchors are usually fixed through structural steel or concrete. They usually require no additional bracing as the substrate is stronger than the rating of the anchor.
+
+[p25 | prose | Structurally reinforced anchors]
+Structurally reinforced anchors
+
+[p25 | prose | Structurally reinforced anchors]
+Structurally reinforced anchors are fitted to roof or wall framing under or behind the exterior cladding of the building. They usually involve the strengthening of the roof or wall framing to ensure that the strength of the substrate exceeds the rating of the anchor. Lightweight timber and DHS (Dimond Hi-Span) metal purlins are not designed for fall arrest or abseil loads. Any anchors fitted to roof or wall framing should
+
+[p26 | prose | Structurally reinforced anchors]
+involve additional bracing and reinforcing under the direction of a chartered professional engineer (CPEng). Note: this bracing should not weaken the structure.
+
+[p26 | prose | Structurally reinforced anchors]
+Mechanically fixed anchors
+
+[p26 | prose | Structurally reinforced anchors]
+Additional care should be used when selecting mechanically fixed or friction anchors for permanent installation as environmental effects of weathering and corrosion can limit the lifespan. Specific guidance from the engineer and manufacturer must be followed.
+
+[p26 | prose | 5.5 Lifelines]
+5.5 Lifelines
+
+[p26 | prose | 5.5 Lifelines]
+Horizontal lifelines function differently to single anchor points as the end anchors on the lifeline are subjected to magnified shock loads in the event of a fall. Lifelines are not rated for abseiling. Their function is limited to providing fall arrest support when working at height such as protection while accessing abseil anchor points around a roof.
+
+[p26 | prose | 5.5 Lifelines]
+All horizontal and vertical lifelines should be tagged and re-certified annually to remain compliant with AS/NZS 1891.4:2009. At installation, installers should provide evidence of their certified installer status and supply a Producer Statement (PS3) to the building owner to verify that the lifeline system has been installed correctly.
+
+[p26 | prose | 5.5 Lifelines]
+Most horizontal (or vertical) lifelines will fall into one of the following categories:
+
+[p26 | prose | 5.5 Lifelines]
+prescribed systems  proprietary systems  engineered systems.
+
+[p26 | prose | Prescribed systems]
+Prescribed systems
+
+[p26 | prose | Prescribed systems]
+A prescribed system is a lifeline that is designed and installed in accordance with AS/NZS 1891.2 Supp 1:2001. The end anchor loadings on these systems may reach up to 63.3kN.
+
+[p26 | prose | Proprietary systems]
+Proprietary systems
+
+[p26 | prose | Proprietary systems]
+A proprietary system is a lifeline that is designed and installed in accordance with a manufacturer’s specification. These systems usually include shock-absorbing components that reduce the end anchor loadings of the lifeline.
+
+[p26 | prose | Proprietary systems]
+However, all the anchors that support proprietary lifelines are still subject to the same design, installation, certification and testing criteria as stated in this section. Therefore, all anchors that support proprietary lifelines must be designed by a chartered professional engineer (CPEng).
+
+[p27 | prose | Engineered systems]
+Engineered systems
+
+[p27 | prose | Engineered systems]
+An engineered system is a lifeline that is designed and installed under the direction of a qualified structural engineer. These are not as common as proprietary systems but will accommodate most fall arrest situations.
+
+[p27 | prose | 5.6 Specific rope access equipment]
+5.6 Specific rope access equipment
+
+[p28 | prose | 5.6 Specific rope access equipment]
+Harnesses (applicable standards: EN 361, EN 358, EN 813, AS/NZS 1891:1)
+
+[p28 | prose | 5.6 Specific rope access equipment]
+The harness provides the ergonomic link between the operator and the rope access system. The harness should be selected to ensure the correct size and fit for each user as the operator can spend considerable time suspended in the harness.
+
+[p28 | prose | 5.6 Specific rope access equipment]
+Discomfort due to a poorly-fitted harness can greatly reduce the effective working time of an operator and may contribute to physiological problems in the event of a fall. Before using a harness for the first time, the operator should conduct a suspension test to ensure the size and adjustments are correct and that the harness has acceptable comfort levels.
+
+[p28 | prose | 5.6 Specific rope access equipment]
+Figure 11: Navaho Bod Croll Rope Access Harness
+
+[p28 | prose | 5.6 Specific rope access equipment]
+Rope access harnesses normally differ from fall arrest-specific harnesses in that the worker is retained in a semi-sitting position. Additional padding elements and gear loops are provided to locate items of equipment that need to be carried. Side attachment points also allow for positioning systems on towers, steelwork, etc.
+
+[p28 | prose | 5.6 Specific rope access equipment]
+Full body harnesses allow rope operators to also conduct fall arrest operations when required, as the mandatory fall arrest attachment points are located in the upper dorsal and sternal positions.
+
+[p28 | prose | 5.6 Specific rope access equipment]
+A sit harness and compatible chest harness combination can also provide compliance for fall arrest where certified to do so. Where no suitable fall arrest attachment point is afforded by the harness design, the operator must take additional steps to ensure that the working methods avoid any potential fall arrest situations.
+
+[p28 | prose | 5.6 Specific rope access equipment]
+No modifications to the harness are allowed. Do not tie additional loops or connections to other elements on the harness (i.e. leg loops) as these may interfere with correct deployment during a fall or while suspended. Use the manufacturers’ attachment points.
+
+[p28 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Ascenders (applicable standards: EN 567, EN 12841)
+
+[p28 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Ascenders are rope clamps primarily used for progression on rope, and as locking elements in roped hauling situations. They slide easily in one direction and lock in the opposite direction. The locking mechanism is normally spring-loaded and is designed to prevent accidental detachment from the rope when in use. The cams for rope ascenders are commonly toothed to more positively engage the rope during operations in wet or muddy conditions. The teeth can cause damage to
+
+[p29 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+the rope when overloaded or subjected to unacceptable impacts in the case of a fall.
+
+[p29 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+When used to provide additional or primary security to either rope, ascenders should be placed as high as lanyards allow, reducing any potential fall energy.
+
+[p29 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Ascenders can either be chest-mounted or fitted with a handle on a lanyard attachment to the harness with a foot loop for assistance. The method of attachment to the harness should not be removable in normal field use. Maillon Rapides are preferred for this purpose. They are semi-permanent attachment rings with a screw closure mechanism which are designed for connecting items not normally disassembled in the field.
+
+[p29 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Descenders (applicable standards: EN 341, EN 12841)
+
+[p29 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Figure 12: Rig Compact self-braking descender
+
+[p29 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Descenders are devices which induce friction to the rope to allow for a controlled descent of the operator. They must have an auto-locking feature in the event of a loss of control by the operator. Descenders are not normally removable from the rope when it is under load. They may also have anti-panic functions for the less experienced operator.
+
+[p29 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Descenders with a face plate which opens without the need to remove the device from the harness to install the rope, are less likely to be accidentally dropped.
+
+[p29 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Some descenders will also allow rope to be drawn backwards through the device easily to facilitate positioning options and short ascending.
+
+[p29 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+The speed and length of the descent can generate considerable heat and a descender should be chosen which responds to the conditions of the job. Do not over speed or bounce when abseiling. Additional friction requirements may need to be created during rescue procedures and extra loadings will require attention.
+
+[p29 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Backup devices (applicable standards: EN 353-2, AS/NZS 1891.3)
+
+[p29 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Also known as guided type fall arresters, backup devices provide an attachment to the secondary or safety line.
+
+[p30 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Backup devices should be designed and rated specifically for this function and the manufacturers’ specifications should be followed precisely. Particular attention should be paid to compatibility with attachment lanyards, including their length, energy absorption and attachment procedures as well as the requirements of the safety rope being used.
+
+[p30 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Backups should not be loaded in normal use so that adverse effects on the safety system are minimised.
+
+[p30 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Lanyards (applicable standards: EN 354, EN 355, EN 358, AS/NZS 1891.1)
+
+[p30 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Figure 13: Grillon adjustable lanyards for work positioning
+
+[p30 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Lanyards are flexible connections between elements in a rope access system. For rope access work, lanyards come in two main types - those incorporating an energy absorber that can dissipate energy created in a fall, and those used with or without adjusters for work positioning methods.
+
+[p30 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+The lanyard between the backup device and the operator must comply with the specifications of the device’s manufacturer. It may or may not require an energy absorber but it should be as short as possible to reduce impact forces in the case of a working line failure.
+
+[p30 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Self-tied lanyards for work positioning are particularly useful in rope access work. They can provide additional support during work operations and facilitate aid climbing techniques, as well as temporary stances for drilling. They should be regularly inspected during use, as steelwork and sharp edges can quickly degrade their integrity. Rope for the self-tied lanyards should be a minimum of 10.5mm and have a minimum breaking strength of 25kN.
+
+[p31 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+For positioning lanyards, a steel carabiner is the preference for the throwing end of the lanyard, which is passed over steel trusses, etc as they are heavier and more robust for this work.
+
+[p31 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Lanyards should not be choked back onto themselves. This can cause abrasion to the lanyard and potentially place a side loading on the carabiner.
+
+[p31 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Energy-absorbing lanyards used for climbing techniques involving fixed ladders or steel work must comply with the manufacturers’ specifications.
+
+[p31 | prose | Ascenders (applicable standards: EN 567, EN 12841)]
+Do not add extra lanyard lengths or hardware to these lanyards unless specified, and do not clip the spare ends back onto the operator.
+
+[p31 | prose | Helmets (applicable standards: EN 397, EN 12492)]
+Helmets (applicable standards: EN 397, EN 12492)
+
+[p31 | prose | Helmets (applicable standards: EN 397, EN 12492)]
+A specific height safety helmet is required for rope access work. This will have an enhanced chin strap, which is capable of keeping the helmet on the head of the user during a tumbling fall. Modern height safety helmets normally meet all specifications for industrial use in a construction environment and may include visors, earmuff mountings as well as molten metal splash and electrical conductivity ratings.
+
+[p31 | prose | Helmets (applicable standards: EN 397, EN 12492)]
+Lighter designs for work such as window cleaning and painting may not offer the same durability in heavy construction work. Mountaineering helmets should be checked for industrial compatibility ratings before use.
+
+[p31 | prose | Helmets (applicable standards: EN 397, EN 12492)]
+Ordinary construction helmets are not designed to protect workers at height but are designed to protect workers from falling objects. Helmets should be checked for any damage that may have occurred during transport and storage.
+
+[p31 | prose | Helmets (applicable standards: EN 397, EN 12492)]
+Do not write, inscribe or paste stickers on helmets unless approved by the manufacturer.
+
+[p31 | prose | Carabiners and connectors (applicable standard: EN 362)]
+Carabiners and connectors (applicable standard: EN 362)
+
+[p31 | prose | Carabiners and connectors (applicable standard: EN 362)]
+All carabiners used for operator attachments and system requirements must be self-closing and manual or auto-locking. They must be capable of being opened by at least two consecutive and deliberate actions. This includes screw gate closures and double or triple auto locking arrangements. Single action snap links must not be any part of the life support system of the operator.
+
+[p31 | prose | Carabiners and connectors (applicable standard: EN 362)]
+Other suitable connectors include double action aluminium alloy or steel scaffold and ladder hooks for lanyards.
+
+[p31 | prose | Carabiners and connectors (applicable standard: EN 362)]
+Carabiners are commonly made from steel or aluminium alloy.
+
+[p31 | prose | Carabiners and connectors (applicable standard: EN 362)]
+Personal carabiners on the end of lanyards attaching alloy devices to the operator are normally aluminium alloy to reduce weight. They are opened and closed regularly during operations. Where possible, carabiners should be auto-locking to prevent accidentally leaving them in an open and reduce wear on the locking mechanism (screw threads).
+
+[p32 | prose | Carabiners and connectors (applicable standard: EN 362)]
+Steel carabiners are preferred for all system use and in shared rigging because they are generally stronger and more robust than carabiners made from other materials in this situation. The additional weight often helps to maintain the correct orientation when installed on anchors, etc. Steel carabiners may have an increased wear effect on aluminium alloy products around the attachment holes.
+
+[p32 | prose | Carabiners and connectors (applicable standard: EN 362)]
+When using large volume slings, ensure that the carabiner is oriented to take the larger items at its larger end. Slings stuffed into the tight radius ends of smaller carabiners can cause failure at lower than anticipated forces.
+
+[p32 | prose | Carabiners and connectors (applicable standard: EN 362)]
+Never make chains of carabiners as even a small amount of twisting will cause them to separate. Carabiner gates are the weakest element and cross-loading them can cause failure.
+
+[p32 | prose | Carabiners and connectors (applicable standard: EN 362)]
+Carabiners come in a variety of shapes with distinct advantages for specific uses.
+
+[p32 | prose | Oval]
+Oval
+
+[p32 | prose | Oval]
+Oval carabiners are useful for pulley systems and connecting devices because they sit centrally and in line with any loading. Normally, they have a narrow gate opening and are not recommended for use with larger or multiple slings attached. Ovals are the weakest of all carabiner shapes.
+
+[p32 | prose | D-shape and modified-D]
+D-shape and modified-D
+
+[p32 | prose | D-shape and modified-D]
+D-shape and modified-D carabiners are the strongest of all shapes because the load is kept close to the spine of the carabiner and away from the gate. These are a good general purpose carabiner.
+
+[p32 | prose | Pear shaped and HMS]
+Pear shaped and HMS
+
+[p32 | prose | Pear shaped and HMS]
+Pear shaped and HMS carabiners allow for a wide gate opening and offer good load distribution when packing multiple ropes or slings in them. These are good for friction hitches when managing loads.
+
+[p32 | prose | Pear shaped and HMS]
+Figure 14: OK symmetrical locking carabiner with screw and triact locking systems
+
+[p32 | prose | Fall arrest equipment (applicable standards: EN 363 series, AS/NZS 1891 series)]
+Fall arrest equipment (applicable standards: EN 363 series, AS/NZS 1891 series)
+
+[p32 | prose | Fall arrest equipment (applicable standards: EN 363 series, AS/NZS 1891 series)]
+Operators and employers must ensure that all fall arrest equipment is compliant with either the EN 363 or AS/NZS 1891 standard series. Separate advice and training is required for general fall arrest situations and is not covered in this document.
+
+[p33 | prose | Fall arrest equipment (applicable standards: EN 363 series, AS/NZS 1891 series)]
+When using a combination of work methods, ensure that they do not interfere with the other’s operational performance. Doubling up fall arrest gear or combining it with rope access systems can lead to neither system performing correctly.
+
+[p33 | prose | Fall arrest equipment (applicable standards: EN 363 series, AS/NZS 1891 series)]
+Beware of running ropes over the top of static lines or other lanyards and equipment.
+
+[p33 | prose | Footwear]
+Footwear
+
+[p33 | prose | Footwear]
+Depending on the job the operator may need to wear sturdy footwear with some ankle support to protect them during climbing operations. A steel cap toe box should be used in all construction applications. Some lighter maintenance operations prefer to use a soft shoe with special grip soles to protect the glass or other coatings from marking or damage.
+
+[p33 | prose | Rope (applicable standards: EN 1891, AS/NZS 4142.3, EN 892)]
+Rope (applicable standards: EN 1891, AS/NZS 4142.3, EN 892)
+
+[p33 | prose | Rope (applicable standards: EN 1891, AS/NZS 4142.3, EN 892)]
+A rope is a line that can have various jobs, hence a safety line, a working line, a hauling line, etc.
+
+[p33 | prose | Rope (applicable standards: EN 1891, AS/NZS 4142.3, EN 892)]
+Ropes complying with the above standards are constructed of man-made fibres such as polyamide (nylon) and polyester. Ropes should be made of Kernmantle construction with a load-bearing core protected by an outer woven sheath. The number of bundles in the sheath reflects the volume of material used and hence the resistance to wear and tear. The diameter of the rope reflects the overall strength but shall not be less than 10.5mm with a minimum strength of 25kN.
+
+[p33 | prose | Rope (applicable standards: EN 1891, AS/NZS 4142.3, EN 892)]
+Ropes for working lines and safety lines should be semi-static or low stretch with typically around three to five percent elongation when working loads are applied (50-150kg).
+
+[p33 | prose | Rope (applicable standards: EN 1891, AS/NZS 4142.3, EN 892)]
+A dynamic rope meeting EN 892 can be used for lead climbing where greater impacts are anticipated. A dynamic rope is not suitable for normal working and safety lines as the additional stretch makes positioning more difficult and increases potential fall distances. Stretching can increase the wear and tear, particularly over edges.
+
+[p33 | prose | Rope (applicable standards: EN 1891, AS/NZS 4142.3, EN 892)]
+Rope is fundamental to any rope access operation. The selection of appropriate rope for a task should consider the following criteria:
+
+[p33 | prose | Rope (applicable standards: EN 1891, AS/NZS 4142.3, EN 892)]
+the rope’s resistance to wear, abrasion, chemicals, UV, soiling and contaminants the rope’s performance in wet, cold and dirty conditions
+
+[p33 | prose | Rope (applicable standards: EN 1891, AS/NZS 4142.3, EN 892)]
+ handling in regard to tying and untying knots, coiling and resistance to
+
+[p33 | prose | Rope (applicable standards: EN 1891, AS/NZS 4142.3, EN 892)]
+kinking and stiffness the rope’s compatibility with all the devices that need to interact with it. Smaller diameter ropes may run faster in descenders than desirable and thicker ropes may cause jamming.
+
+[p34 | prose | Rope (applicable standards: EN 1891, AS/NZS 4142.3, EN 892)]
+Ropes should be regularly cleaned by washing according to the manufacturer’s instructions and hung to dry away from direct sunlight and contaminants.
+
+[p34 | prose | Rope (applicable standards: EN 1891, AS/NZS 4142.3, EN 892)]
+The lifetime of the rope will vary according to the intensity of use. Refer to the manufacturer’s instructions.
+
+[p34 | prose | Slings (applicable standards: EN 566, EN 795B, EN 354)]
+Slings (applicable standards: EN 566, EN 795B, EN 354)
+
+[p34 | prose | Slings (applicable standards: EN 566, EN 795B, EN 354)]
+Slings provide a suitable interface between many types of structures and the rope.
+
+[p34 | prose | Slings (applicable standards: EN 566, EN 795B, EN 354)]
+They should be rated for a minimum breaking load of 22kN and rigged in such a way as to avoid de-rating them by choking.
+
+[p34 | prose | Slings (applicable standards: EN 566, EN 795B, EN 354)]
+Rated lifting slings (1 tonne) are commonly used and require the use of larger appropriately-sized connectors. Lifting slings use a safe working load rating of 7:1 and are rated differently to climbing equipment which uses a minimum breaking load. A 1 tonne-rated lifting sling has a breaking load of 7 tonnes.
+
+[p34 | prose | Slings (applicable standards: EN 566, EN 795B, EN 354)]
+For hot work or where serious damage can occur to software such as slings and lanyards, steel wire or chain items should be substituted.
+
+[p34 | prose | Slings (applicable standards: EN 566, EN 795B, EN 354)]
+Steel wire slings shall be manufactured, tested and rated by a competent agency before going into use. They will be mechanically terminated and a SWL will be indicated on the swage.
+
+[p34 | prose | Slings (applicable standards: EN 566, EN 795B, EN 354)]
+Where chain is used it shall be of a rated type and stamped and verified.
+
+[p34 | prose | Slings (applicable standards: EN 566, EN 795B, EN 354)]
+Avoid choking slings because it diminishes the known strength of the item. (Note: this could be more than 60 per cent of the breaking load in some rigging situations). Do not tie slings together and never directly tie the rope into a sling. Use a suitable connector to avoid soft-on-soft joins.
+
+[p34 | prose | Pulleys (applicable standard: EN 12278)]
+Pulleys (applicable standard: EN 12278)
+
+[p34 | prose | Pulleys (applicable standard: EN 12278)]
+All pulleys used for life support purposes need to be designed and certified for such use. Beware of common industrial or yachting pulleys which will not be subject to such rigorous testing and are not rated for life support. They may be used where there are other means for the safe attachment of personnel (as in a rescue aid).
+
+[p34 | prose | 5.7 Edge protection]
+5.7 Edge protection
+
+[p34 | prose | 5.7 Edge protection]
+Edge protection is necessary to prevent wear on the software parts of the system, such as ropes.
+
+[p34 | prose | 5.7 Edge protection]
+Sharp edges, concrete lips, protrusions, metal framing and rough surfaces quickly abrade the outer sleeve of the rope or sling during the normal stretch and contraction of the rope access system when working. This can dramatically shorten the usable life of such items or lead to failure.
+
+[p35 | prose | 5.7 Edge protection]
+Edge protection is commonly composed of PVC sleeves, hose remnants, carpet or canvas wrapping.
+
+[p35 | prose | 5.7 Edge protection]
+Some very good commercial types with bearing rollers are available as well as passive rope guide types for concrete edges.
+
+[p35 | prose | 5.7 Edge protection]
+Rated chain links tied and slipped into the rope make very robust protectors for use on cliffs and steel edges, but will require additional techniques for bypassing.
+
+[p35 | prose | 5.8 Equipment marking and traceability]
+5.8 Equipment marking and traceability
+
+[p35 | prose | 5.8 Equipment marking and traceability]
+New equipment should be recorded in a logbook prior to being entered into service. Record the type of item, the date the product enters services, the date of manufacture and any individual serial numbers which will allow the operator to trace the item when updating records of inspection.
+
+[p35 | prose | 5.8 Equipment marking and traceability]
+An individual or company marking may be made to all items provided that it does not degrade the performance of the item.
+
+[p35 | prose | 5.8 Equipment marking and traceability]
+Do not stamp products with additional identification numbers. A light engraving is allowed on most items but should avoid functional areas of devices. Refer to the manufacturer for advice if unsure.
+
+[p35 | prose | 5.8 Equipment marking and traceability]
+Carabiners should be marked on the gate closure mechanisms in preference to the body or gate.
+
+[p35 | prose | 5.8 Equipment marking and traceability]
+Felt pens may contain chemicals which can affect the tensile strength of software products. Use only on labels provided or at the very end of straps.
+
+[p35 | prose | 5.8 Equipment marking and traceability]
+Ropes should have an individual marking allowing traceability to the original information pertaining to the roll. The marking should also record the length, type, diameter and date of entry into service. This information is commonly enclosed in heat-shrink wrap at the end of the rope or by a colour code marking.
+
+[p35 | prose | 5.9 Inspection]
+5.9 Inspection
+
+[p35 | prose | 5.9 Inspection]
+All equipment used for life support purposes must be inspected regularly to ensure its suitability for continued use. Records of these inspections will provide proof that this has been done. Employers should ensure that these tasks are carried out regularly to minimise the chance of defective items being used.
+
+[p35 | prose | 5.9 Inspection]
+A competent person who has familiarity with the equipment and experience with inspection techniques should carry out all inspections. To become competent, specific training in inspection techniques will be required under close supervision.
+
+[p35 | prose | 5.9 Inspection]
+The frequency of these inspections shall follow the individual manufacturer’s instructions. A more regular inspection regime will provide greater security for operators and employers to verify the continued performance of the equipment.
+
+[p35 | prose | 5.9 Inspection]
+A suggested regime is:
+
+[p36 | prose | 5.9 Inspection]
+The operator should inspect each item and check its function before each use. This is the quick inspect pre-use check and should identify any major issues affecting the performance of the harness, device or other equipment. A more detailed logged inspection is carried out at frequencies subject to the intensity of use. This may vary from the end of each job to each day, week or month. For example in geotechnical drilling, the equipment and ropes are subjected to high intensity wear and more frequent detailed inspections are necessary. A third inspection by an independent competent person should be carried out at least annually. This involves an inspection by someone who is not the regular user of the equipment. Any creeping incremental faults or wear, which have become normalised by the user, can be identified and noted.
+
+[p36 | prose | 5.10 Retiring equipment]
+5.10 Retiring equipment
+
+[p36 | prose | 5.10 Retiring equipment]
+Any items which fail inspection shall be immediately removed from service and separated from the rest of the equipment by marking or tagging the item. Items that failed inspection can then be serviced or referred to the manufacturer to remedy if possible before returning to use.
+
+[p36 | prose | 5.10 Retiring equipment]
+Items failing inspection and determined no longer fit for use should be destroyed and removed from the logbook.
+
+[p36 | prose | 5.10 Retiring equipment]
+When destroying equipment, make sure that it is rendered unusable. For devices, remove the attachment hole or cams, and harnesses should have all metalwork (buckles, attachment points, etc) removed before disposal. Rope should be cut into short lengths. Remember to dispose all items safely and in a responsible way.
+
+[p36 | prose | 5.11 Records]
+5.11 Records
+
+[p36 | prose | 5.11 Records]
+A separate page for each item in the logbook will save on time when recording information and detail about each item. Commonly occurring faults with certain items can be identified to further improve safety and determine an items’ length of serviceable life.
+
+[p37 | prose | SECTION 6: WORKING METHODS]
+SECTION 6: WORKING METHODS
+
+[p37 | prose | 6.1 General]
+6.1 General
+
+[p37 | prose | 6.1 General]
+A rope access system commonly employs a working line and a safety line. The working line, on which the operator is suspended under tension during ascent and descent, is the primary means of access. Depending on the mass of the operator, the anchor is subject to a continual force of 1-2kN, which should be applied in a static manner. This is also known as a work positioning system.
+
+[p37 | prose | 6.1 General]
+The safety line plays no part in the access system but is always available to catch the operator in the event of a mishap with the working line or the operator’s attachment to it. The anchor for the safety line can then be subject to a force of up to 6kN. This is also known as a limited free fall system. Forces generated in falls of less than 600mm are held to be less than 6kN.
+
+[p37 | prose | 6.1 General]
+Attention to the length of back-up lanyard joining the operator to the safety system is critical where no energy absorber is included in the lanyard.
+
+[p37 | prose | 6.1 General]
+Rope access systems depend on the competence of the operators and their supervisors to ensure that the entire chain of the system’s components is correctly assembled. They must also ensure that the working methods reduce the likelihood and severity of any impacts on either of the two systems.
+
+[p37 | prose | 6.1 General]
+Each operator must maintain at least one point of contact with each line at all times. During transitions, knot bypasses and other positional changes, the operator must make additional contact points before subtracting any existing point.
+
+[p37 | prose | 6.1 General]
+Operators should carry the equipment for ascent and descent at all times.
+
+[p37 | prose | 6.1 General]
+Each working line and safety line requires a separate independent anchor, which will normally be rated to a minimum of 15kN. This ensures a factor of safety of 7:1 for the working line and at least 2:5 for the safety line given that any fall onto the safety line should be limited.
+
+[p37 | prose | 6.1 General]
+Whenever possible, the safety line should not be loaded during normal operations and care should be taken to establish which line is which when setting up or restarting work. This will optimise safety by ensuring that any unforeseen wear or damage occurring to the working line will not automatically be occurring on the safety line as well.
+
+[p37 | prose | 6.1 General]
+Other factors which may determine the severity of any impacts are:
+
+[p37 | prose | 6.1 General]
+ any knots in the rope, which can absorb energy when tightening under load.
+
+[p37 | prose | the length of rope from the operator to the anchor]
+the length of rope from the operator to the anchor
+
+[p37 | prose | the length of rope from the operator to the anchor]
+Rope access teams must consist of a minimum of two operators who each have two independent lines. They need to be a self-supporting team, meaning that
+
+[p38 | prose | the length of rope from the operator to the anchor]
+they can render assistance or rescue for each other. They need to be able to maintain visual contact at all times and be in a position to assist immediately when required. Confined space and other hazardous environments may require additional personnel to be added to the team.
+
+[p38 | prose | 6.2 Types of rope access work]
+6.2 Types of rope access work
+
+[p38 | prose | 6.2 Types of rope access work]
+There are a large number of situations where rope access methodology and expertise can create safe working environments and relative efficiencies in the time spent working. Many of these situations depend on good planning and management as well as high levels of training and experience.
+
+[p38 | prose | 6.2.1 Geotechnical]
+6.2.1 Geotechnical
+
+[p38 | prose | 6.2.1 Geotechnical]
+The geotechnical field is very diverse in New Zealand and provides methods for work outdoors that concentrate on establishment, stabilisation and remedial activities on roads, bridges, mining and developmental activities. This work is often transient and relies on suitable temporary anchor systems to be developed and installed when and where required.
+
+[p38 | prose | 6.2.1 Geotechnical]
+Additional hazards to both personnel and equipment are regularly encountered. Environments can include falling rocks, toxic dust and unstable, slippery surfaces, as well as the frequent use of heavy machinery, drills and compressed air, which require intensive management processes.
+
+[p38 | prose | 6.2.1 Geotechnical]
+High levels of experience and supervision are needed to ensure that safe working methods are maintained.
+
+[p38 | prose | 6.2.2 Urban]
+6.2.2 Urban
+
+[p38 | prose | 6.2.2 Urban]
+Urban rope access is a large and varied field with applications and methods dealing with man-made structures. Types of work range from window cleaning and painting to general maintenance, glazing, construction and restoration work. Also included are types of difficult access for roofing, repairs and access to and from work on telecommunications installations.
+
+[p38 | prose | 6.2.2 Urban]
+Rope access systems which rely on basic techniques such as window cleaning and painting still require appropriate levels of experience and supervision.
+
+[p38 | prose | 6.2.2 Urban]
+On large and complex buildings such as towers, stadia and bridges, additional levels of training and supervision are required.
+
+[p38 | prose | 6.2.2 Urban]
+Where the frequency of work is regular, anchor systems must be permanently installed, tested and tagged.
+
+[p38 | prose | 6.2.3 Film and theatre]
+6.2.3 Film and theatre
+
+[p38 | prose | 6.2.3 Film and theatre]
+Rope access systems are becoming more common in film and theatre applications, including stunt work and rigging for stages. All operators who are required to work aloft should have formal training in work at height situations and rope access methods where appropriate.
+
+[p39 | prose | 6.2.3 Film and theatre]
+Situations involving flying other persons aloft who are not necessarily trained or experienced (acting talent) should be controlled by advanced operators with suitable experience and supervision skills.
+
+[p39 | prose | 6.2.3 Film and theatre]
+Many temporary anchor situations may be required as well as engineered solutions for stage rigging and load lifting requirements. Some load lifting and rigging situations will require formal rigging certification for both personnel and equipment.
+
+[p39 | prose | 6.2.4 Oil and gas]
+6.2.4 Oil and gas
+
+[p39 | prose | 6.2.4 Oil and gas]
+The oil and gas industry has a number of tasks for which rope access personnel are regularly engaged. This can vary from installation and maintenance procedures to the safety supervision of others.
+
+[p39 | prose | 6.2.4 Oil and gas]
+Additional requirements may be needed for off-shore work, including formal qualifications, fire-fighting and other emergency procedures.
+
+[p39 | prose | 6.2.4 Oil and gas]
+Gaseous atmospheres and other toxic hydrocarbon environments may require additional safety management with regard to equipment selection, such as resistance to chemicals and mixtures of steel and aluminium alloys creating low thermal sparks.
+
+[p39 | prose | 6.2.4 Oil and gas]
+Both temporary and permanent anchor systems are employed.
+
+[p39 | prose | 6.3 Planning and paperwork]
+6.3 Planning and paperwork
+
+[p39 | prose | 6.3 Planning and paperwork]
+Before any rope access activity can take place, a plan and any resulting compliance paperwork needs to be undertaken. This could include:
+
+[p39 | prose | 6.3 Planning and paperwork]
+a hazard analysis to determine the best method to carry out the job  a hazard identification  permits to work  notifications to the Department of Labour for particular hazardous work  checking, logging and tagging any necessary tools and equipment  a written rescue plan  site inductions, entry permits and any lockout procedures  specific licence requirements (for example, powder actuated tools, blasting, etc)
+
+[p39 | prose | 6.3 Planning and paperwork]
+hazardous substances information, transport and handling procedures  resourcing.
+
+[p39 | prose | 6.3 Planning and paperwork]
+All the necessary equipment required should be sourced and made ready for transport to the work site.
+
+[p39 | prose | 6.3 Planning and paperwork]
+Take care to ensure that the ropes are of sufficient length for the job and that sufficient quantities of rigging slings, carabiners, etc are available.
+
+[p39 | prose | 6.3 Planning and paperwork]
+Have bags to carry equipment to protect it during transport and storage.
+
+[p40 | prose | 6.3 Planning and paperwork]
+Check that all equipment has been inspected and logged prior to transport and entry into service.
+
+[p40 | prose | 6.3 Planning and paperwork]
+Make sure that any necessary exclusion zone equipment is available.
+
+[p40 | prose | 6.3 Planning and paperwork]
+6.4 Set-up and working methods
+
+[p40 | prose | 6.3 Planning and paperwork]
+Establish any exclusion zones prior to setting up the rope access system and ensure that they are adequate to do the job.
+
+[p40 | prose | 6.3 Planning and paperwork]
+Make sure that any areas accessible to the public are suitably isolated and post a guard if necessary. When accessing roofs and exterior spaces on buildings, ensure that access points and doors are secure.
+
+[p40 | prose | 6.3 Planning and paperwork]
+When blocking footpaths or roads ensure that set-up and working methods comply with territorial authority requirements.
+
+[p40 | prose | 6.3 Planning and paperwork]
+Check weather and wind conditions. Establish parameters for ceasing operations if conditions get too bad.
+
+[p40 | prose | 6.3 Planning and paperwork]
+Inspect all equipment prior to use, including ropes and slings (see Section 5.9).
+
+[p40 | prose | 6.3 Planning and paperwork]
+Establish safe access ways to anchor points, including the temporary installation of a fall protection system when moving within two metres of an edge.
+
+[p40 | prose | 6.3 Planning and paperwork]
+Establish the safety line and working line system for each operator and check each other’s work. Where slings are used, refer to the guide for rigging angles so that the anticipated load does not increase the force on the anchor.
+
+[p40 | prose | 6.3 Planning and paperwork]
+Inspect the rope as it pays out to check that it is free from defects which may have occurred during transport to storage in the time since the last job.
+
+[p40 | prose | 6.3 Planning and paperwork]
+Each line should be checked to ensure it reaches the ground or suitable transition point and a stopper knot is tied in the end to prevent accidentally abseiling out of the system.
+
+[p40 | prose | 6.3 Planning and paperwork]
+Carefully check each rope path and arrange suitable edge protection at any point where rubbing or damage can occur to the rope. The use of rebelays and diversions can help eliminate some of these points if installed correctly.
+
+[p40 | prose | 6.3 Planning and paperwork]
+Tie all knots and check them before dressing and packing. This ensures optimal performance of the knot during loading.
+
+[p40 | prose | 6.3 Planning and paperwork]
+Ensure all tools are attached via lanyards or another method to prevent dropping.
+
+[p40 | prose | 6.3 Planning and paperwork]
+Prior to entering the system and starting work, undertake a buddy check. This will include checking that each operator has all the necessary equipment as well as ensuring that it is fitted correctly and that any connectors are correctly done up.
+
+[p41 | prose | 6.5 Changes to the system]
+6.5 Changes to the system
+
+[p41 | prose | 6.5 Changes to the system]
+Make sure all supervisors and operators understand the work plan and their part in it. If changes are made to the rope access system, make sure all personnel are advised.
+
+[p41 | prose | 6.5 Changes to the system]
+Changes could include:
+
+[p41 | prose | 6.5 Changes to the system]
+ work method changes 
+
+[p41 | prose | reactions to environmental variations]
+reactions to environmental variations
+
+[p41 | prose | the arrival or departure of other personnel.]
+the arrival or departure of other personnel.
+
+[p41 | prose | the arrival or departure of other personnel.]
+When changing the system, make sure that all rope paths do not need additional edge protection, and that they are still long enough to reach the ground.
+
+[p41 | prose | the arrival or departure of other personnel.]
+When dismantling the system, ensure that all personnel have a safe egress pathway and that any lockouts are restored.
+
+[p41 | prose | the arrival or departure of other personnel.]
+Do not drop ropes, slings and other gear from height.
+
+[p41 | prose | 6.6 Basic techniques]
+6.6 Basic techniques
+
+[p41 | prose | 6.6 Basic techniques]
+The following information is not intended as a training manual or substitute for correct tuition. The manufacturer’s technical instructions and guidance notes should always be followed, and a formal training programme instituted.
+
+[p41 | prose | 6.6 Basic techniques]
+Operators will require direct supervision during the learning period, as well as continuous monitoring until the supervisor is satisfied that the operator has achieved a suitable level of competence.
+
+[p41 | prose | Rigging]
+Rigging
+
+[p41 | prose | Rigging]
+All rope access systems depend on the correct rigging and connection of ropes and equipment. Basic rigging will involve the use of anchoring methods to connect the ropes to the structure or terrain. This may involve permanently- installed anchors or temporary anchors.
+
+[p41 | prose | Rigging]
+Each rope designated as a working line or safety line shall have its own completely separate connection system including any bolts, slings and carabiners.
+
+[p41 | prose | Rigging]
+Where substantial structures for example, rigid steel joists, large trees) are used as the anchor, each rope shall have its own independent connection.
+
+[p41 | prose | Rigging]
+Rigging should always seek to minimise any potential height hazard to the operator during entry or egress from the system. Always connect to the safety system first and disconnect from it last.
+
+[p41 | prose | Rigging]
+In multi-point anchor systems or where slings are used, the internal rigging angle should not generally be more than 90 degrees. Never exceed 120 degrees unless the sling or system is specifically designed to allow this.
+
+[p42 | prose | Rigging]
+Extreme caution should be used for collectivised anchor systems, as forces may be generated in directions other than the intended load.
+
+[p42 | prose | Rigging]
+Where rebelay points are used, they should be the same strength as the original anchor (15kN).
+
+[p42 | prose | Rigging]
+Ropes should always be rigged in to reduce or eliminate any pendulum effect which might compromise the integrity of the rope.
+
+[p42 | prose | Rigging]
+Always tie a stopper knot in the end of each rope to prevent abseiling off the rope’s end.
+
+[p42 | prose | Rigging]
+Always use appropriate edge protection for both ropes whenever edges are encountered. This includes protrusions and parapets down the length of the rope.
+
+[p42 | prose | Ascending]
+Ascending
+
+[p42 | prose | Ascending]
+Before connecting the ascending gear to the working line, ensure that the backup is connected to the safety line and given a function check. Connect the chest first, verifying function, and then the hand ascender with the foot loop. Verify all connections and conduct buddy checks with other team members.
+
+[p42 | prose | Ascending]
+If returning to the system after a break, check for any items which may have been disturbed, and verify which line is the safety and which is the working line.
+
+[p42 | prose | Ascending]
+When moving from descent to ascent, ensure that the ascenders are correctly installed and functioning correctly prior to removing the descender.
+
+[p42 | prose | Descending]
+Descending
+
+[p42 | prose | Descending]
+When preparing for descent, connect to the safety system and verify its function. Connect the descender and check for correct orientation and function. Conduct buddy checks prior to going over an edge or into position.
+
+[p42 | prose | Descending]
+When feeding rope through prior to going over an edge, take care to allow enough rope to overcome the edge and any obstacles, while checking that the backup device is not being impeded.
+
+[p42 | prose | Descending]
+During the action of getting over the edge, ensure that the descender is locked off, using its locking handle or by tying it off manually.
+
+[p42 | prose | Descending]
+Make sure that the working rope is controlled at all times when moving.
+
+[p42 | prose | Descending]
+When changing from ascent to descent, ensure that the descender is orientated correctly and given a function check prior to removing the ascender.
+
+[p42 | prose | Descending]
+Transitions: change ropes, re-belay, redirect, knot bypass
+
+[p42 | prose | Descending]
+When conducting transitions and using the hand ascender to establish an extra point of contact, the ascender should be installed as high as the lanyard allows, preventing excessive fall energy from developing.
+
+[p43 | prose | Descending]
+Always check that two points of contact are maintained throughout the transition, including connecting at least two separate lines.
+
+[p43 | prose | Traversing]
+Traversing
+
+[p43 | prose | Traversing]
+Beware of incorrect orientation of equipment when traversing horizontal or angled rope paths as some devices do not function normally. Ascenders may need an additional carabiner to ensure continued contact with the line and to prevent accidental stripping out.
+
+[p43 | prose | Rescue]
+Rescue
+
+[p43 | prose | Rescue]
+Rescue may become necessary for a variety of reasons when the operator becomes unable to carry out normal working methods.
+
+[p43 | prose | Rescue]
+There may be many reasons for this, including unknown medical conditions, an injury or the failure of their working line or connections. They may be exhausted or suffering from overheating, but not necessarily unconscious.
+
+[p43 | prose | Rescue]
+A suspended person is at risk of suspension intolerance (suspension trauma) when they are unconscious, or exhausted and unable to move. Good industry practice indicates that a person in danger of succumbing to the effects of suspension intolerance should be rescued within 10 minutes. This must involve moving the person to a position where they are no longer suspended in their harness.
+
+[p43 | prose | Rescue]
+Irrespective of the cause, any personnel who become unconscious when working from a rope must seek medical attention as soon as possible, regardless of whether they appear to have recovered after rescue.
+
+[p43 | prose | Rescue]
+It is important to factor in additional hazards for the rescuer. These will include:
+
+[p43 | prose | Rescue]
+   any continuing emergency conditions to the landing zone and any specific treatment for the patient such as maintaining an airway.
+
+[p43 | prose | Rescue]
+The rescuer must always verify that their rescue system is correctly deployed and orientated for the evacuation prior to interacting with the patient.
+
+[p43 | prose | Rescue]
+When rescuing or assisting any team member, make sure that at least two connections to the patient are maintained. Where an additional aid such as a lightweight pulley system or foot loop is used temporarily, they should not count as a point of attachment unless rated for a life load.
+
+[p43 | prose | Rescue]
+The rescuer must continue to maintain at least one point of contact with the working line and at least one point of contact with the safety line.
+
+[p44 | prose | Rescue]
+The preference is to remove the patient from their ropes to the rescuer’s ropes in case of any compromise to their system or obstructions caused by dealing with additional sets of ropes.
+
+[p44 | prose | Rescue]
+Rescue techniques must be regularly practiced to ensure competence in the event that they are required. Any new team combinations should familiarise themselves with their team’s equipment and any differences in personal set-up. Practice should reflect aspects of the work site or job if these are unfamiliar to any member of the work team.
+
+[p44 | prose | 6.7 Advanced techniques]
+6.7 Advanced techniques
+
+[p44 | prose | 6.7 Advanced techniques]
+Before undertaking the following advanced techniques, the operator should have a good grounding in the basic techniques as well as suitable experience. Many advanced techniques require knowledge of mathematics and vector forces, as well as comprehensive training and guidance under the direct supervision of an advanced operator with extensive experience in the application of advanced techniques.
+
+[p44 | prose | 6.7 Advanced techniques]
+Some techniques require a higher level of fitness and dexterity.
+
+[p44 | prose | Rigging]
+Rigging
+
+[p44 | prose | Rigging]
+Advanced techniques are generally regarded as those which depart from the vertical and progress into overhanging situations, and situations where there may be additional complexity to gain access.
+
+[p44 | prose | Rigging]
+A comprehensive knowledge of rigging angles and vector forces is required. Rescue situations can develop which will require an intensive and carefully planned approach that allow for all possibilities that can be reasonably foreseen.
+
+[p44 | prose | Rigging]
+Rigging should always be checked regularly, paying particular attention to moving lines coming into contact with stationary lines.
+
+[p44 | prose | Needles and counterweights]
+Needles and counterweights
+
+[p44 | prose | Needles and counterweights]
+Needles are cantilevered beams with weight baskets that allow for ropes to be set up overhanging an edge or protrusion.
+
+[p44 | prose | Needles and counterweights]
+Counterweights are a suspended or otherwise immobile mass to counteract the force of an operator’s weight. They need to be calculated to give the same anchor strength as other anchors.
+
+[p44 | prose | Needles and counterweights]
+Only those operators specifically trained and certified to NZQA Level 4 Working on Ropes should undertake this task. Where the needle is for a swing stage or temporary work platform, the operator shall be a NZQA-certified suspended scaffolder with the appropriate Certificate of Competency in accordance with the Health and Safety in Employment Regulations 1995.
+
+[p44 | prose | Needles and counterweights]
+Needles shall be of an engineered design and constructed correctly to that specification. Check all components are present and correct and that all bolts, lock nuts, retaining clips and shackles are installed correctly.
+
+[p45 | prose | Needles and counterweights]
+Never use weights which are capable of flowing away when punctured, such as sand or water.
+
+[p45 | prose | Needles and counterweights]
+Make sure that the structure is capable of supporting the needle, weights and load and that the calculated formula for ascertaining the correct numbers of weights if followed.
+
+[p45 | prose | Needles and counterweights]
+Always lock the weights in place to the needle to prevent accidental disengagement. Check the needle to make sure that it will not rotate.
+
+[p45 | prose | Needles and counterweights]
+Operators should have their own individual needle or counterweight system.
+
+[p45 | prose | Needles and counterweights]
+Do not attach to the needle for fall protection during set-up and dismantling. Where possible, tie the needle back and make provision for access ropes to allow an easy transition from the structure to the hanging lines.
+
+[p45 | prose | Needles and counterweights]
+Use the outermost point for the working line and the inner as the safety line, making sure that the ropes do not twist or accidentally extend the needle. If undertaking the rescue of another operator from a separate needle, beware of the additional loading and turning moment on each needle.
+
+[p45 | prose | Needles and counterweights]
+Precautions should be taken to ensure that counterweight masses do not move if the environment changes, for example if it rains.
+
+[p45 | prose | Needles and counterweights]
+Lead climbing
+
+[p45 | prose | Needles and counterweights]
+Lead climbing is a technique which allows the operator to climb a face or structure using their feet and hands as the primary access method.
+
+[p45 | prose | Needles and counterweights]
+A belayer who pays out or takes in rope to reduce the severity of any potential fall normally attends the safety line.
+
+[p45 | prose | Needles and counterweights]
+During progression, regularly placed intermediate protection points are clipped with the running ropes to limit any risk of falling.
+
+[p45 | prose | Needles and counterweights]
+Where potential falls are anticipated, a dynamic rope should be used. Twin rope semi-static systems can allow for the placement of protection above the climber and reduce any potential fall distances.
+
+[p45 | prose | Needles and counterweights]
+Lead climbing is a commonly used method where the terrain is easy or straightforward and the operator is able to move confidently, for example steel lattice work. This is a first-up-or-across technique to allow for the rigging of a normal two rope system prior to undertaking the work.
+
+[p45 | prose | Needles and counterweights]
+Always tie the rope directly into the attachment point on the harness for the leader to prevent any compromise to the orientation of a connector in the case of a fall. Where there is the possibility of dropping the rope, the belayer should also tie into the rope.
+
+[p46 | prose | Needles and counterweights]
+Take care to ensure that the belayer cannot be dislodged from their position, which may require attachment to the ground or structures.
+
+[p46 | prose | Needles and counterweights]
+The belayer should be experienced in both belay and advanced rescue techniques in case the operator becomes stuck or falls and lowering off is not possible.
+
+[p46 | prose | Needles and counterweights]
+A clear communication system will be required between the climbing operator and the belayer. The belayer should be able to anticipate the actions of the climber.
+
+[p46 | prose | Needles and counterweights]
+Aid climbing
+
+[p46 | prose | Needles and counterweights]
+Aid climbing is a technique which allows the operator to climb a face or structure without the direct benefit of hands and feet as a primary access method. Aid climbing is done by using slings and adjustable lanyards to transfer the weight of the operator between temporary anchor positions.
+
+[p46 | prose | Needles and counterweights]
+At all times the climber should have a safety line attached which is controlled by an experienced belayer. Use the same attachment methods and belaying advice as for lead climbing, taking care to organise systems efficiently where two ropes are involved.
+
+[p46 | prose | Needles and counterweights]
+The preference for a working line and a safety line allows a greater flexibility for changes in the plan and assists in the retrieval and rescue of any operator who might have a mishap. If a rescue is necessary, the rescuer has the benefit of both a working line and a safety line.
+
+[p46 | prose | Needles and counterweights]
+Aid climbs should be kept as short as possible between regular breaks and changeovers because operators can quickly become distressed or overheated while hanging in their gear. All the team, including the leader and belayer, will need to be aware of each other and be able to assist wherever required.
+
+[p46 | prose | Needles and counterweights]
+Rescue techniques should be practiced regularly before conducting aid climbing to ensure that any rescue action can be done by experienced team members immediately by experienced team members should the need arise.
+
+[p46 | prose | Cableways]
+Cableways
+
+[p46 | prose | Cableways]
+Cableways are ropes set up between two points to allow for the transfer of materials that is suspended from them. Where the load is live (persons) the system shall have an additional safety line.
+
+[p46 | prose | Cableways]
+Never overload a cableway. The additional forces can destroy the anchors or integrated equipment.
+
+[p46 | prose | Cableways]
+Personnel setting up cableways should be able to plan and calculate the anchor forces using the required formulae. Personnel will need experience and knowledge of tensioning lines and its effects, as well as an understanding of pulley systems in relation to cableway safety.
+
+[p47 | prose | Cableways]
+Never put a live load on a single cableway. Always create separate anchor systems for safety lines and prevent running lines and fixed lines from interacting.
+
+[p47 | prose | Hauling]
+Hauling
+
+[p47 | prose | Hauling]
+Always ascertain the weight and centre of gravity of the load prior to attempting a lift.
+
+[p47 | prose | Hauling]
+Make sure that all components are rated for the requirements of the job. Pay particular attention to the working load limits of the hauling line, attachment slings and eyes.
+
+[p47 | prose | Hauling]
+Never stand under a load or be connected to or suspended from a load.
+
+[p47 | prose | Rescue]
+Rescue
+
+[p47 | prose | Rescue]
+Advanced rescue covers all situations involving advanced techniques. This will include upward evacuation, bypassing knots and other obstructions, transferring patients between systems and horizontal transfer.
+
+[p47 | prose | Rescue]
+Supervisors of new personnel and those providing multiple team supervision should have comprehensive training and experience in order to satisfy competency requirements.
+
+[p47 | prose | Rescue]
+Advanced working methods may require all members of the team to be able to act in any rescue situation.
+
+[p47 | prose | 6.8 Knots]
+6.8 Knots
+
+[p47 | prose | 6.8 Knots]
+Knots should be chosen that are suitable for the intended use. Take into consideration the ease of tying, untying and inspection.
+
+[p47 | prose | 6.8 Knots]
+An experienced operator should check all knots. Basic rope activities will require the knowledge of at least one of each type as appropriate to the job.
+
+[p47 | prose | 6.8 Knots]
+Knots can be classified according to their function within the system. Some knots have a variety of applications, but the following is a general guide.
+
+[p47 | prose | Anchors]
+Anchors
+
+[p47 | prose | Anchors]
+Figure 8 doubled on a bight or rethread  Figure 9
+
+[p47 | prose | Anchors]
+Life support
+
+[p47 | prose | Anchors]
+Figure 8 rethread (direct connection to the rope)  Barrel (1/2 double fisherman’s back on itself for lanyards)
+
+[p47 | prose | Rigging]
+Rigging
+
+[p47 | prose | Rigging]
+Alpine butterfly (making a three-way connection or isolating section of
+
+[p47 | prose | rope)]
+rope)
+
+[p48 | prose | rope)]
+Clove hitch (for round objects, temporary set-ups, back clipping of
+
+[p48 | prose | rope)]
+lanyards) Italian hitch (friction knot for control of hauling, lowering)
+
+[p48 | prose | rope)]
+ Prussic (classic and Klemeist)  Double fisherman’s (joining ropes and cords)  Stopper knot (single figure 8 or barrel/fisherman’s knot)  Rolling hitch (for tying on tube for hauling)  Timber hitch (for tying on timber planks for hauling)  Sheet bend (join throw lines to the mainline)  Bowline (quick attachment of objects to a line for hauling)  Tape knot (tying tape into slings).
+
+[p48 | prose | 6.9 Anchor points]
+6.9 Anchor points
+
+[p48 | prose | Selection]
+Selection
+
+[p48 | prose | Selection]
+Anchors may be permanent or temporary. Section 5.3 sets out requirements for anchor systems, and Section 5.4 outlines the common types of permanent anchors.
+
+[p48 | prose | Selection]
+The selection of anchor points should be done by a competent person. The person should ensure that, where applicable, all the requirements are met before the anchors are used.
+
+[p48 | prose | Selection]
+Permanent anchors include eye bolts, structural steel, natural geological features, steel or concrete structures, such as plant rooms.
+
+[p48 | prose | Selection]
+Temporary anchors include beam clamps, ground anchors and needles. Note: needles must only be used by appropriately qualified personnel.
+
+[p48 | prose | Selection]
+If the anchor has more than adequate strength (for example, a lift housing), each line should still be separately attached by a connector and/or sling.
+
+[p48 | prose | Selection]
+Ropes must be able to be attached to anchors, and operators attached to ropes in a situation where there is no risk from falling. For example, from within the handrails or using a separate fall protection system.
+
+[p48 | prose | Strength]
+Strength
+
+[p48 | prose | Strength]
+Anchors must be capable of holding a minimum ultimate force of 12kN in all directions in which they might be loaded. However if slings are needed, they must be rigged for a minimum load rating of at least 24kN.
+
+[p48 | prose | Strength]
+As detailed in Section 5, all anchors should by preference be rated to 15kN.
+
+[p48 | prose | Strength]
+All eyebolt anchors must be labelled with detailed installation, installer and maintenance information.
+
+[p48 | prose | Strength]
+All permanent anchors must be regularly inspected and proof loaded.
+
+[p49 | prose | Use]
+Use
+
+[p49 | prose | Use]
+Each operator should use their own anchor system. The principle of double protection means that two anchors should always be used for each operator.
+
+[p49 | prose | Use]
+The angle between each anchor leg should be as small as possible. The preferred maximum is 90 degrees, with a recommended maximum included angle of 120 degrees, unless allowance is made for the higher loads imposed by a greater angle.
+
+[p50 | prose | SECTION 7: EMERGENCIES AND RESCUE]
+SECTION 7: EMERGENCIES AND RESCUE
+
+[p50 | prose | 7.1 General]
+7.1 General
+
+[p50 | prose | 7.1 General]
+Note: This section applies only to rope access situations. It does not apply to recreational activities or emergency services.
+
+[p50 | prose | 7.1 General]
+All rope access operators must receive training in dealing with emergency situations and maintain their competence through regular practice.
+
+[p50 | prose | 7.1 General]
+Specific techniques for rescuing personnel working on ropes must be known and regularly practised.
+
+[p50 | prose | 7.1 General]
+Prior to the start of each work project, a rescue plan must be developed that takes into account the potential hazards present, the necessary equipment, competent personnel, first aid and medical provision if necessary. This becomes part of the safety plan for the job.
+
+[p50 | prose | 7.1 General]
+In rescue situations, rope access systems will be often subject to higher-than- normal loads. This needs to be considered in the safety plan.
+
+[p50 | prose | 7.1 General]
+For the purposes of rescue planning, rescuers should be able to retrieve the patient in less than 10 minutes.
+
+[p50 | prose | 7.1 General]
+Clear instructions and procedures must be given for site-specific emergencies (for example, fire alarms or site evacuations).
+
+[p50 | prose | 7.1 General]
+Every worksite should have:
+
+[p50 | prose | 7.1 General]
+specific rescue equipment to carry out a rescue in any situation on the site  a first aid kit  at least one trained first aider.
+
+[p50 | prose | 7.2 Suspension intolerance (trauma)]
+7.2 Suspension intolerance (trauma)
+
+[p50 | prose | 7.2 Suspension intolerance (trauma)]
+Suspension intolerance can occur when a person remains immobile while suspended in a harness. This could be as a result of an accident, exhaustion, overheating, a contaminated atmosphere or a medical condition.
+
+[p50 | prose | 7.2 Suspension intolerance (trauma)]
+Suspension intolerance can occur in as little as five minutes and can lead to fainting, nausea, breathlessness and, if not quickly alleviated, unconsciousness and death.
+
+[p50 | prose | 7.2 Suspension intolerance (trauma)]
+It appears to be caused by the constriction of the femoral artery in the groin, causing the failure of blood to return from the lower limbs to the heart. This causes a rapid acceleration in other physiological conditions. Operator susceptibility is unrelated to fitness or other physical conditions. Unconscious persons are in immediate danger and urgent intervention is required.
+
+[p50 | prose | 7.2 Suspension intolerance (trauma)]
+Symptoms include but are not limited to:
+
+[p51 | prose | 7.2 Suspension intolerance (trauma)]
+a tingling of the toes and fingers  numbness  sweating up the side of the head  disorientation and nausea.
+
+[p51 | prose | 7.2 Suspension intolerance (trauma)]
+To prevent suspension trauma from occurring, the operator must get out of a suspended position as soon as possible. If this is not possible:
+
+[p51 | prose | 7.2 Suspension intolerance (trauma)]
+move the legs regularly – like pedalling a bicycle  raise the knees towards the chest.
+
+[p51 | prose | 7.2 Suspension intolerance (trauma)]
+Immediate medical attention must be given to any person who has been unconscious on rope irrespective of whether they appear to recover once on the ground.
+
+[p52 | appendix | APPENDIX 1: FORMS AND TEMPLATES]
+APPENDIX 1: FORMS AND TEMPLATES
+
+[p52 | prose | Serious Harm Notification Form]
+Serious Harm Notification Form
+
+[p52 | prose | Serious Harm Notification Form]
+The Notification of Serious Harm and Accidents form can be downloaded from the Department of Labour’s website at http://www.osh.dol.govt.nz/services/notification/accident.shtml
+
+[p52 | prose | Serious Harm Notification Form]
+This site also provides information about the types of serious harm accident or situation that require notification to the Department of Labour.
+
+[p52 | prose | Notification of Particular Hazardous Works Form]
+Notification of Particular Hazardous Works Form
+
+[p52 | prose | Notification of Particular Hazardous Works Form]
+Notifications of particular hazardous works, as defined by the Health and Safety in Employment Regulations 1995, can be made to the Department of Labour in two ways:
+
+[p52 | prose | Notification of Particular Hazardous Works Form]
+1. download the notifiable works form and fax it to the nearest regional
+
+[p52 | prose | office http://www.osh.dol.govt.nz/order/catalogue/pdf/form-hazwk.pdf; or]
+office http://www.osh.dol.govt.nz/order/catalogue/pdf/form-hazwk.pdf; or
+
+[p52 | prose | office http://www.osh.dol.govt.nz/order/catalogue/pdf/form-hazwk.pdf; or]
+2. submit an online form
+
+[p52 | prose | http://www.osh.dol.govt.nz/tools/HazardousWork/Pages/HazardousWork.a spx.]
+http://www.osh.dol.govt.nz/tools/HazardousWork/Pages/HazardousWork.a spx.
+
+[p52 | prose | http://www.osh.dol.govt.nz/tools/HazardousWork/Pages/HazardousWork.a spx.]
+Further information about the notification process and what types of work require notification can be obtained from http://www.osh.dol.govt.nz/services/notification/hazardous-work.shtml.
+
+[p53 | prose | Rope Operations Inspection and Audit Checklist]
+Rope Operations Inspection and Audit Checklist
+
+[p53 | table | Rope Operations Inspection and Audit Checklist]
+| Date: | Site: |
+| --- | --- |
+| Description of work: |  |
+| Estimated time to complete work: |  |
+| Team members: |  |
+
+[p53 | prose | Before work commences]
+Before work commences
+
+[p53 | table | Before work commences]
+|  | ofe Has the client been contacted to establish that operators will be on site? Are there any special requirements that the workers need to be made aware of regarding emergency evacuation procedures, inductions or other health and safety policy? | commencions |
+| --- | --- | --- |
+|  | Has a job safety analysis and work plan been completed for all the tasks? |  |
+|  | Have all the necessary PPE and rope access system requirements been located? |  |
+|  | Is there a logbook of inspections for equipment? |  |
+|  | Has a Notification of Particular Hazardous Work Form been sent to the Department of Labour? (at least 24 hours prior to the start of the job) |  |
+|  | Is each operator trained and competent for all of the tasks to be carried out? (power tools, welding, drilling, etc) |  |
+|  | Does each operator, including the supervisor, have a sufficient level of skill and experience with the rope access system being used? |  |
+|  | Does each operator have a current Certificate of Competency? |  |
+|  | Is each operator familiar with the job plan? |  |
+| 10 | Has a hazard identification and risk analysis been carried out? |  |
+| 11 | Has each identified hazard been adequately controlled? |  |
+| 12 | Is there a plan for fully protecting all publicly accessible areas? |  |
+| 13 | Are there established safe access pathways to the anchor points or will the job require additional resources to be installed first? |  |
+| 14 | Are all the permanent installed anchors tested and tagged? |  |
+| 15 | Is there a written rescue plan that is known to each member of the team? |  |
+| 16 | Is the rescue plan resourced for any special requirements which might be needed? (for example, confined spaces, gaseous atmospheres, difficult access, etc) |  |
+
+[p54 | prose | System set-up]
+System set-up
+
+[p54 | table | System set-up]
+| 17 | fe Is the work vehicle parked safely? | comensacions |
+| --- | --- | --- |
+| 18 | Has the team discussed and understood the hazard identification process? |  |
+| 19 | Is there a communication system, and does everyone know how to use it? |  |
+| 20 | Have all the barriers and exclusion zones been established prior to commencing with the rope access system set-up? |  |
+| 21 | Are any required lockouts in place, including security for access areas? |  |
+| 22 | Does each operator have all the required PPE: helmet, harness, descender, back-up device and other safety equipment, boots, coveralls, earmuffs, etc? |  |
+| 23 | Have all items of rope access equipment been inspected prior to use? |  |
+| 24 | Does each operator have the means to ascend and descend independently? |  |
+| 25 | Are there two ropes per operator and are they fully separated on individual anchors? |  |
+| 26 | Have the ropes been checked and verified for their installed length and location? |  |
+| 27 | Have all knots and rigging been tied correctly and buddy checked? |  |
+| 28 | Is edge protection required? |  |
+| 29 | Have all edge protection items been secured? |  |
+| 30 | Are items of equipment over 8kg attached correctly to their own independent line? (water blasters, hoses, compressor, drill, etc) |  |
+
+[p54 | prose | On-rope checks]
+On-rope checks
+
+[p54 | table | On-rope checks]
+|  | ofrsse | [/nN]comments/actions |
+| --- | --- | --- |
+| 31 | Is each operator correctly attached to the system and buddy checked prior to starting on ropes? |  |
+| 32 | Are the operators able to continue to monitor each other and any environmental changes whilst working? (noise, poor light, wind proximity to each other, etc) |  |
+| 33 | When ceasing work temporarily, have all items that are left in place been secured? |  |
+| 34 | Has the client been notified that operators are temporarily leaving the job? |  |
+| 35 | Have all checks been redone after lunch breaks, etc? |  |
+
+[p55 | prose | Upon completion]
+Upon completion
+
+[p55 | table | Upon completion]
+|  | [ofswe | commens/actions |
+| --- | --- | --- |
+| 36 | Has all equipment been removed safely and packed away ready for transport? |  |
+| 37 | Have inspections been logged and completed where required? |  |
+| 38 | Have lockouts and barriers been removed and have all services been established? |  |
+| 39 | Have any rubbish or hazardous waste products been disposed of correctly? |  |
+| 40 | Has the site been secured and the client notified of completion? |  |
+
+[p55 | table | Upon completion]
+| Have ai actions been followed up and | [vesmo | |
+| --- | --- |
+| completeaz Notes |  |
+| Signature |  |
+| Name |  |
+
+[p56 | prose | Task Analysis Form]
+Task Analysis Form
+
+[p56 | table | Task Analysis Form]
+| JOB DESCRIPTION List the steps required to complete the job. (Follow the flow of the process.) | LOCATION/SITE | OPERATORS DATE |  |
+| --- | --- | --- | --- |
+| List the potential SIGNIFICANT hazards beside each step. Focus on what can cause harm and what can go wrong. STEP | List the control methods required to ELIMINATE, ISOLATE or MINIMISE each SIGNIFICANT hazard. | Person responsible to implement control(s). |  |
+| STEP NO | NO | E/I/M |  |
+
+[p57 | table | Task Analysis Form]
+| PPE REQUIRED | ANALYSIS COMPLETED BY |
+| --- | --- |
+| EQUIPMENT REQUIRED |  |
+| SIGNAGE REQUIRED | DATE |
+
+[p58 | prose | Significant Hazard Register (example)]
+Significant Hazard Register (example)
+
+[p58 | prose | Date of Assessment]
+Date of Assessment
+
+[p58 | table | Date of Assessment]
+| | e[ |  | l | e |
+| --- | --- | --- | --- |
+| Falling from heights via: defective or poorly modified equipment unchecked, defective anchors poor or no work planning and height hazard assessment | . Fatal or other serious injuries | Minimise | Never work at height alone; all teams should comprise a minimum of two people Ensure that permanent anchors have been checked and tested within the last 12 months Ensure that advanced personnel establish and test temporary anchors prior to use Ensure that all rope access equipment has been inspected prior to commencing the work Carry out a task analysis and design a health and safety plan prior to the work commencing Ensure that all rope access operators are trained and experienced to their level of competency and can conduct the work safely. |
+| Environmental conditions (e.g. rain, poor visibility, fog, cold conditions | Slips, trips, falls and other injuries | Eliminate Minimise | Determine parameters that work can be safely conducted in and halt work if these parameters are exceeded Obtain weather reports to help plan the work Ensure that operators have the necessary PPE to keep themselves warm when working in cold conditions |
+| Insufficient lighting | Slips, trips, falls and other injuries | Eliminate | Provide sufficient lighting so that tasks can be safely conducted regardless of weather conditions, time of day or building enclosure Clearly define and light access ways |
+| Poor access to work site Poor access around work site | Slips, trips, falls and other injuries Manual handling injuries | Minimise | Housekeeping regimes to help keep site clear Ensure sufficient space around work areas Ensure there is good access for personnel and equipment Keep other people not directly involved with concrete pouring clear from area |
+| Penetrations not covered | Falling onto sharp objects | Isolate | Ensure that penetrations are secured, identified and covered |
+
+[p59 | table | Date of Assessment]
+| | e | [ e |  | l e |
+| --- | --- | --- | --- |
+| Hot weather | . Suspension intolerance . Dehydration . Dizziness | Minimise | Prepare and test an emergency rescue plan prior to the work commencing Ensure adequate drinking water is available Suitable clothing to be worn e.g. light coloured clothing Ensure that there are shaded areas where appropriate Provide temporary cover for work areas or rest areas Operators should recognise the basic symptoms of suspension intolerance in themselves and others |
+| Contact with hazardous substances | Short or long term health effects: . overcome by vapours . rash/allergy . disease | Minimise Eliminate Minimise | Identify hazardous substances and supply safety data sheets Use less or non-hazardous alternatives where possible Ensure that users are adequately trained in the substance’s safe use and that appropriate protective clothing/equipment is used |
+| Exposure to ultra-violet light, glare | . skin cancer . eye damage . sunburn | Minimise | Ensure that appropriate clothing and equipment is used/worn e.g. sunscreen, shirts, sunglasses |
+| Sharp edges | Damage to or severing of rope leading to falls | Isolate | Protect rope from sharp edges with matting or similar materials Inspect rope before commencing or recommencing work for wear and tear |
+| Noise from operating machinery | Hearing loss | Minimise | Use quieter or muffled equipment where practicable Provide adequate hearing protection suitable for the level of noise exposure |
+
+[p60 | prose | Significant hazard register]
+Significant hazard register
+
+[p60 | prose | Location]
+Location
+
+[p60 | prose | Location]
+Date of Assessment
+
+[p60 | table | Location]
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+[p61 | prose | Health and Safety Plan]
+Health and Safety Plan
+
+[p61 | prose | Health and Safety Plan]
+Date:
+
+[p61 | prose | Health and Safety Plan]
+Site:
+
+[p61 | prose | Health and Safety Plan]
+Job name:
+
+[p61 | prose | Health and Safety Plan]
+Estimated time to complete job:
+
+[p61 | prose | Health and Safety Plan]
+Team details
+
+[p61 | prose | Health and Safety Plan]
+Team Members
+
+[p61 | prose | Health and Safety Plan]
+Basic/Advanced training completed?
+
+[p61 | prose | Health and Safety Plan]
+First aid qualified? Y/N
+
+[p61 | prose | Health and Safety Plan]
+Name:
+
+[p61 | prose | Health and Safety Plan]
+Name:
+
+[p61 | prose | Health and Safety Plan]
+Name:
+
+[p61 | prose | Health and Safety Plan]
+Name:
+
+[p61 | prose | Health and Safety Plan]
+Supervisor:
+
+[p61 | prose | Health and Safety Plan]
+Project Manager:
+
+[p61 | prose | Health and Safety Plan]
+Work requirements
+
+[p61 | table | Health and Safety Plan]
+| Task analysis completed and attached? | Y/N | Issues: |
+| --- | --- | --- |
+| Hazard identification completed and attached? Y/N Issues: |  |  |
+| Is confined space work required? Y/N Details: |  |  |
+| Is hot work being conducted? | Y/N | Details: |
+
+[p62 | prose | Health and Safety Plan]
+Are exclusion zones required?
+
+[p62 | prose | Health and Safety Plan]
+Is a traffic management plan required?
+
+[p62 | prose | Health and Safety Plan]
+Is a site map attached?
+
+[p62 | prose | Health and Safety Plan]
+Is a site map attached? Y/N
+
+[p62 | prose | Health and Safety Plan]
+Y/N Details:
+
+[p62 | prose | Health and Safety Plan]
+Y/N
+
+[p62 | prose | Health and Safety Plan]
+Details
+
+[p62 | prose | Health and Safety Plan]
+Y/N Details:
+
+[p62 | prose | Health and Safety Plan]
+Client details
+
+[p62 | table | Health and Safety Plan]
+| Name of client: | Phone number: |
+| --- | --- |
+| Worksite address |  |
+| Contact person: | Phone number: |
+
+[p62 | prose | Health and Safety Plan]
+Client safety processes
+
+[p62 | prose | Health and Safety Plan]
+Environmental parameters
+
+[p63 | prose | Tools/equipment]
+Tools/equipment
+
+[p63 | table | Tools/equipment]
+| Issue | Comments |
+| --- | --- |
+| Rope access equipment inspected and logged: |  |
+| Tools inspected and in good condition: |  |
+| Communications equipment inspected and tested: |  |
+| Permanent anchors tested within past 12 months and documentation sighted: |  |
+| Rescue equipment including first aid provisions checked: |  |
+| Monitoring equipment (e.g. for toxic gases) calibrated within past 6 months |  |
+| Other: |  |
+
+[p63 | prose | Sign off]
+Sign off
+
+[p63 | table | Sign off]
+| I understand the contents of this health and safety plan: |  |
+| --- | --- |
+| Name: | Signature: |
+| Name: | Signature: |
+| Name: | Signature: |
+| Name: | Signature: |
+
+[p63 | table | Sign off]
+| Supervisor name: | Signature: |
+| --- | --- |
+| Project Manager name: | Signature |
+
+[p64 | appendix | APPENDIX 2: DEFINITIONS]
+APPENDIX 2: DEFINITIONS
+
+[p64 | prose | Accepted]
+Accepted
+
+[p64 | prose | international]
+international
+
+[p64 | prose | standard]
+standard
+
+[p64 | prose | standard]
+The main international standard setting body is the International
+
+[p64 | prose | standard]
+Organisation for Standardisation, widely known as ISO. Other
+
+[p64 | prose | international organisations with standards applicable to]
+international organisations with standards applicable to
+
+[p64 | prose | international organisations with standards applicable to]
+industrial rope access equipment and practice include the
+
+[p64 | prose | European Committee for Standardisation (CEN), American]
+European Committee for Standardisation (CEN), American
+
+[p64 | prose | National Standards Institute (ANSI), Standards Australia and]
+National Standards Institute (ANSI), Standards Australia and
+
+[p64 | prose | National Standards Institute (ANSI), Standards Australia and]
+Standards New Zealand. Advice should be sought before
+
+[p64 | prose | National Standards Institute (ANSI), Standards Australia and]
+accepting any others.
+
+[p64 | prose | National Standards Institute (ANSI), Standards Australia and]
+Aid climbing
+
+[p64 | prose | National Standards Institute (ANSI), Standards Australia and]
+A method of climbing using mechanical or artificial aids to attach
+
+[p64 | prose | to a structure or substrate for protection or assistance.]
+to a structure or substrate for protection or assistance.
+
+[p64 | prose | All practicable steps]
+All practicable steps
+
+[p64 | prose | All practicable steps]
+The steps taken to achieve the result that it is reasonably
+
+[p64 | prose | All practicable steps]
+practicable to take in the circumstances, having regard to:
+
+[p64 | prose | All practicable steps]
+1. the nature and severity of harm that may be suffered
+
+[p64 | prose | All practicable steps]
+if the result is not achieved; and
+
+[p64 | prose | All practicable steps]
+2. the current state of knowledge about the likelihood
+
+[p64 | prose | All practicable steps]
+and severity of harm that will be suffered if the result
+
+[p64 | prose | All practicable steps]
+is not achieved; and
+
+[p64 | prose | All practicable steps]
+3. the current state of knowledge about harm of that
+
+[p64 | prose | nature; and]
+nature; and
+
+[p64 | prose | nature; and]
+4. the current state of knowledge about the means
+
+[p64 | prose | nature; and]
+available to achieve the results and about the likely
+
+[p64 | prose | effectiveness of each of those means; and]
+effectiveness of each of those means; and
+
+[p64 | prose | effectiveness of each of those means; and]
+5. availability and cost of each of those means.
+
+[p64 | prose | effectiveness of each of those means; and]
+To avoid doubt, a person required by the Health and Safety in
+
+[p64 | prose | effectiveness of each of those means; and]
+Employment Act 1992 to take all practicable steps is required to
+
+[p64 | prose | effectiveness of each of those means; and]
+take those steps only in respect of circumstances that the
+
+[p64 | prose | effectiveness of each of those means; and]
+person knows or ought reasonably to know about.
+
+[p64 | prose | Anchor]
+Anchor
+
+[p64 | prose | Anchor]
+A designated point for the purpose of attaching a working line,
+
+[p64 | prose | safety line or other fall protection system.]
+safety line or other fall protection system.
+
+[p64 | prose | Anchor system]
+Anchor system
+
+[p64 | prose | Anchor system]
+A system of two or more interconnected anchor points, linked so
+
+[p64 | prose | Anchor system]
+as to provide a single secure anchor point.
+
+[p64 | prose | Ascender]
+Ascender
+
+[p64 | prose | Ascender]
+A type of rope grab, when attached to a rope, locks onto rope in
+
+[p64 | prose | Ascender]
+one direction, and slides freely in the other direction.
+
+[p64 | prose | Back-up system]
+Back-up system
+
+[p64 | prose | Back-up system]
+A secondary system deployed in the event of a failure of the
+
+[p64 | prose | primary system.]
+primary system.
+
+[p64 | prose | Beam clamp]
+Beam clamp
+
+[p64 | prose | Beam clamp]
+A mechanical device that can be attached to horizontal or
+
+[p64 | prose | Beam clamp]
+vertical beams to create an anchor point.
+
+[p65 | prose | Belaying]
+Belaying
+
+[p65 | prose | Belaying]
+A variety of techniques used in climbing situations where the
+
+[p65 | prose | Belaying]
+safety system is controlled by a separate operator (a belayer).
+
+[p65 | prose | Buddy check]
+Buddy check
+
+[p65 | prose | Buddy check]
+A process where each operator checks the rigging and
+
+[p65 | prose | equipment setup of another operator on the team prior to]
+equipment setup of another operator on the team prior to
+
+[p65 | prose | commencing work.]
+commencing work.
+
+[p65 | prose | Carabiner]
+Carabiner
+
+[p65 | prose | Carabiner]
+A type of connector, with a spring-loaded gate that is capable of
+
+[p65 | prose | Carabiner]
+being opened, closed and locked.
+
+[p65 | prose | Chartered]
+Chartered
+
+[p65 | prose | Professional Engineer]
+Professional Engineer
+
+[p65 | prose | (CPEng)]
+(CPEng)
+
+[p65 | prose | (CPEng)]
+A person who is registered with the-Institute of Professional Engineers New Zealand (IPENZ) and holds a current registration certificate under the Chartered Professional Engineers of New
+
+[p65 | prose | Zealand Act 2002.]
+Zealand Act 2002.
+
+[p65 | prose | Zealand Act 2002.]
+A list of CPEngs can be downloaded from the-Institute of Professional Engineers New Zealand (IPENZ) http://www.ipenz.org.nz/ipenz/finding/cpeng/Search/search.cfm
+
+[p65 | prose | Chemical Anchor]
+Chemical Anchor
+
+[p65 | prose | Chemical Anchor]
+An anchor point created using chemical glues to fix the bolt or
+
+[p65 | prose | eye into the substrate.]
+eye into the substrate.
+
+[p65 | prose | Competent person]
+Competent person
+
+[p65 | prose | Competent person]
+A person who has, through a combination of training,
+
+[p65 | prose | Competent person]
+qualification and experience, acquired the knowledge and skills
+
+[p65 | prose | Competent person]
+enabling that person to correctly perform a specified task.
+
+[p65 | prose | Descender]
+Descender
+
+[p65 | prose | Descender]
+A friction inducing device which attaches to a line and allows a
+
+[p65 | prose | Descender]
+person to descend the rope in a controlled manner and to stop
+
+[p65 | prose | Descender]
+and maintain a stationary position.
+
+[p65 | prose | Double protection]
+Double protection
+
+[p65 | prose | Double protection]
+A secondary means of protection to deploy in the event of the failure of the primary means.
+
+[p65 | prose | Dynamic loading]
+Dynamic loading
+
+[p65 | prose | Dynamic loading]
+A load introduced suddenly into a system, as in the case of a
+
+[p65 | prose | fall.]
+fall.
+
+[p65 | prose | Dynamic rope]
+Dynamic rope
+
+[p65 | prose | Dynamic rope]
+Rope which dissipates energy when loaded, as in a fall, by
+
+[p65 | prose | Dynamic rope]
+stretching. Commonly used in lead climbing situations.
+
+[p65 | prose | Energy absorber]
+Energy absorber
+
+[p65 | prose | Energy absorber]
+A device which by design reduces the deceleration force
+
+[p65 | prose | Energy absorber]
+imposed by a suddenly arrested fall.
+
+[p65 | prose | Étrier(Aider)]
+Étrier(Aider)
+
+[p65 | prose | Étrier(Aider)]
+A webbing type of ladder used as a climbing aid.
+
+[p65 | prose | Factor of Safety]
+Factor of Safety
+
+[p65 | prose | Factor of Safety]
+The ratio between the load that would cause failure of an item
+
+[p65 | prose | Factor of Safety]
+of equipment and the load that is imposed on it in service.
+
+[p65 | prose | Fall arrest]
+Fall arrest
+
+[p65 | prose | Fall arrest]
+An assembly of interconnected components comprising a
+
+[p65 | prose | Fall arrest]
+harness connected to an anchorage point or anchorage system
+
+[p66 | prose | either directly or by means of a lanyard.]
+either directly or by means of a lanyard.
+
+[p66 | prose | Fall-arrest harness]
+Fall-arrest harness
+
+[p66 | prose | Fall-arrest harness]
+An assembly of interconnected shoulder and leg straps, with or
+
+[p66 | prose | Fall-arrest harness]
+without a body belt, designed for attachment to a lanyard, pole
+
+[p66 | prose | Fall-arrest harness]
+strap or fall arrest device, and used where there is the
+
+[p66 | prose | Fall-arrest harness]
+possibility of a free or limited free fall. Also called a safety
+
+[p66 | prose | harness.]
+harness.
+
+[p66 | prose | Fall factor]
+Fall factor
+
+[p66 | prose | Fall factor]
+A method of working out the proportional seriousness of a fall.
+
+[p66 | prose | Fall factor]
+It is the length of the fall divided by the length of the lanyard.
+
+[p66 | prose | Fall factor]
+In rope access an amount of media (usually rope) is also
+
+[p66 | prose | Fall factor]
+available to distribute the impact force of the fall.
+
+[p66 | prose | Free fall]
+Free fall
+
+[p66 | prose | Free fall]
+on a slope on which it is not possible to walk without the
+
+[p66 | prose | assistance of a handrail or line.]
+assistance of a handrail or line.
+
+[p66 | prose | Friction “Mechanical”]
+Friction “Mechanical”
+
+[p66 | prose | Anchors]
+Anchors
+
+[p66 | prose | Anchors]
+An anchor point created using a bolt with an expanding cone or
+
+[p66 | prose | Anchors]
+collar to generate friction against the sides of the hole in the
+
+[p66 | prose | substrate.]
+substrate.
+
+[p66 | prose | Ground Anchor]
+Ground Anchor
+
+[p66 | prose | Ground Anchor]
+A temporary anchor point created using angle iron or similar
+
+[p66 | prose | Ground Anchor]
+inserted into the ground to resist the systems loading
+
+[p66 | prose | requirements.]
+requirements.
+
+[p66 | prose | Hazard]
+Hazard
+
+[p66 | prose | occurrence, phenomenon, process, situation, or]
+occurrence, phenomenon, process, situation, or
+
+[p66 | prose | occurrence, phenomenon, process, situation, or]
+substance (whether arising or caused within or outside
+
+[p66 | prose | occurrence, phenomenon, process, situation, or]
+a place of work) that is an actual or potential cause or
+
+[p66 | prose | source of harm; and]
+source of harm; and
+
+[p66 | prose | source of harm; and]
+includes:
+
+[p66 | prose | a situation where a person’s behaviour may]
+a situation where a person’s behaviour may
+
+[p66 | prose | a situation where a person’s behaviour may]
+be an actual (or potential) cause (or source)
+
+[p66 | prose | of harm to the person or another person;]
+of harm to the person or another person;
+
+[p66 | prose | and]
+and
+
+[p66 | prose | (ii)]
+(ii)
+
+[p66 | prose | (ii)]
+without limitation, a situation described in
+
+[p66 | prose | (ii)]
+subparagraph (i) resulting from physical or
+
+[p66 | prose | mental fatigue, drugs, alcohol, traumatic]
+mental fatigue, drugs, alcohol, traumatic
+
+[p66 | prose | shock, or any other temporary condition]
+shock, or any other temporary condition
+
+[p66 | prose | shock, or any other temporary condition]
+that affects a person’s behaviour.
+
+[p66 | prose | IRAANZ]
+IRAANZ
+
+[p66 | prose | Industrial Rope Access Association of New Zealand.]
+Industrial Rope Access Association of New Zealand.
+
+[p66 | prose | Kernmantle rope]
+Kernmantle rope
+
+[p66 | prose | Kilonewton (kN)]
+Kilonewton (kN)
+
+[p66 | prose | Kilonewton (kN)]
+Rope constructed with its interior core (the kern) protected with
+
+[p66 | prose | Kilonewton (kN)]
+a woven exterior sheath (mantle) that is designed to optimise
+
+[p66 | prose | strength, durability, and flexibility.]
+strength, durability, and flexibility.
+
+[p66 | prose | strength, durability, and flexibility.]
+A kilonewton is the general unit for the measurement of force and strength requirements for equipment and anchorages. A newton is the amount of force required to accelerate a body
+
+[p67 | prose | strength, durability, and flexibility.]
+with a mass of one kilogram at a rate of one meter per second squared. A kilonewton is a thousand of these units.
+
+[p67 | prose | strength, durability, and flexibility.]
+As an approximation, 100kg hanging at rest on a line will exert a force of 1kN on the anchor.
+
+[p67 | prose | Lanyard]
+Lanyard
+
+[p67 | prose | Lanyard]
+A line used to connect a fall arrest harness to a line or anchor.
+
+[p67 | prose | Lanyard]
+May be employed as part of a fall arrest lanyard assembly,
+
+[p67 | prose | Lanyard]
+which includes a personal energy absorber.
+
+[p67 | prose | Lanyard]
+Lead climbing
+
+[p67 | prose | Lanyard]
+A climbing technique that involves one person moving while
+
+[p67 | prose | Lanyard]
+being belayed by a second person. Potential fall lengths are
+
+[p67 | prose | Lanyard]
+reduced by frequent intermediate attachments to the structure
+
+[p67 | prose | Lanyard]
+using slings and carabiners through which the rope runs.
+
+[p67 | prose | Limited free fall]
+Limited free fall
+
+[p67 | prose | Limited free fall]
+A fall not greater than 600mm limiting the potential force to less
+
+[p67 | prose | than 6kN.]
+than 6kN.
+
+[p67 | prose | Log book]
+Log book
+
+[p67 | prose | A record of work experience, equipment usage or equipment]
+A record of work experience, equipment usage or equipment
+
+[p67 | prose | inspections.]
+inspections.
+
+[p67 | prose | Minimum Breaking]
+Minimum Breaking
+
+[p67 | prose | Load (MBL)]
+Load (MBL)
+
+[p67 | prose | Load (MBL)]
+The MBL is the minimum load at which an item of equipment
+
+[p67 | prose | Load (MBL)]
+can fall when it is new.
+
+[p67 | prose | Needle]
+Needle
+
+[p67 | prose | Needle]
+A system of metal components which allow the operator to be
+
+[p67 | prose | Needle]
+suspended from a cantilevered outrigger. Weights are applied
+
+[p67 | prose | Needle]
+to one end of the needle to counter the calculated force
+
+[p67 | prose | requirements of the anchor points.]
+requirements of the anchor points.
+
+[p67 | prose | requirements of the anchor points.]
+Pendulum fall/effect The pendulum effect is a potential hazard resulting from lateral
+
+[p67 | prose | requirements of the anchor points.]
+movement or swing during a slip or fall where the ropes are
+
+[p67 | prose | requirements of the anchor points.]
+extended sideways from the normal fall line. This can result in
+
+[p67 | prose | requirements of the anchor points.]
+operators striking objects or having catastrophic consequences
+
+[p67 | prose | for the integrity of the system along sharp edges.]
+for the integrity of the system along sharp edges.
+
+[p67 | prose | Personal Protective]
+Personal Protective
+
+[p67 | prose | Equipment (PPE)]
+Equipment (PPE)
+
+[p67 | prose | Equipment (PPE)]
+PPE is equipment designed to mitigate the effect on a user from
+
+[p67 | prose | one or more hazards in the working environment.]
+one or more hazards in the working environment.
+
+[p67 | prose | Proof Load]
+Proof Load
+
+[p67 | prose | Restrained fall]
+Restrained fall
+
+[p67 | prose | Restrained fall]
+A load applied to an anchor indicating it has been correctly
+
+[p67 | prose | Restrained fall]
+installed and is fit for service.
+
+[p67 | prose | Restrained fall]
+Any fall where the person suffering the fall is under less than
+
+[p67 | prose | the full influence of gravity due to the action of a restraint]
+the full influence of gravity due to the action of a restraint
+
+[p67 | prose | the full influence of gravity due to the action of a restraint]
+device, or is sliding down a slope less than that described for a
+
+[p67 | prose | free fall, or a fall of less than 600mm.]
+free fall, or a fall of less than 600mm.
+
+[p67 | prose | Rope access operator]
+Rope access operator
+
+[p67 | prose | or operator]
+or operator
+
+[p67 | prose | or operator]
+A person trained and assessed as competent to use an industrial
+
+[p67 | prose | rope access system.]
+rope access system.
+
+[p67 | prose | Rope access system]
+Rope access system
+
+[p67 | prose | Rope access system]
+A system relying primarily on ropes and two separate suitable
+
+[p67 | prose | Rope access system]
+anchor points, which provide a primary access system and a
+
+[p68 | prose | Rope access system]
+back-up safety system. The system requires the use of a
+
+[p68 | prose | Rope access system]
+harness for the operator, who may also use a swing chair for
+
+[p68 | prose | Rope access system]
+comfort. Travel through the system is achieved by using
+
+[p68 | prose | ascenders and/or descenders on the primary rope and a]
+ascenders and/or descenders on the primary rope and a
+
+[p68 | prose | ascenders and/or descenders on the primary rope and a]
+separate device connecting the operator at all times to the
+
+[p68 | prose | safety rope.]
+safety rope.
+
+[p68 | prose | safety rope.]
+Rope grab (backup
+
+[p68 | prose | type)]
+type)
+
+[p68 | prose | type)]
+A device which travels on a safety line and automatically
+
+[p68 | prose | type)]
+engages and locks so as to arrest the limited free fall of an
+
+[p68 | prose | type)]
+operator. A rope grab usually employs the principle of inertial
+
+[p68 | prose | type)]
+locking, cam/lever locking, or both. Rope grabs can also be of
+
+[p68 | prose | type)]
+the ascender type (see Ascender).
+
+[p68 | prose | Rope protector]
+Rope protector
+
+[p68 | prose | Rope protector]
+A sleeve or other item that protects a rope from abrasion or
+
+[p68 | prose | cuts.]
+cuts.
+
+[p68 | prose | Safe Working Load]
+Safe Working Load
+
+[p68 | prose | Safe Working Load]
+The SWL is the maximum load (as certified by a competent
+
+[p68 | prose | Safe Working Load]
+person) that can be supported safely under particular service
+
+[p68 | prose | Safe Working Load]
+conditions, for example the SWL can be lower than the Working
+
+[p68 | prose | Load Limit.]
+Load Limit.
+
+[p68 | prose | Safety line]
+Safety line
+
+[p68 | prose | Safety line]
+Rope used in the event of a fall from a structure or, in a rope
+
+[p68 | prose | Safety line]
+access system, in the event of working rope failure. Also known
+
+[p68 | prose | as a backup rope or secondary rope.]
+as a backup rope or secondary rope.
+
+[p68 | prose | Serious harm]
+Serious harm
+
+[p68 | prose | Serious harm]
+As defined by Schedule 1 of the Health and Safety in
+
+[p68 | prose | Serious harm]
+Employment Act 1992: includes death, and:
+
+[p68 | prose | Serious harm]
+1. Any of the following conditions that amounts to or
+
+[p68 | prose | results in permanent loss of bodily function, or]
+results in permanent loss of bodily function, or
+
+[p68 | prose | temporary severe loss of bodily function: respiratory]
+temporary severe loss of bodily function: respiratory
+
+[p68 | prose | temporary severe loss of bodily function: respiratory]
+disease, noise-induced hearing loss, neurological
+
+[p68 | prose | disease, cancer, dermatological disease, communicable]
+disease, cancer, dermatological disease, communicable
+
+[p68 | prose | disease, cancer, dermatological disease, communicable]
+disease, musculoskeletal disease, illness caused by
+
+[p68 | prose | poisoning, vision impairment, chemical or hot-metal]
+poisoning, vision impairment, chemical or hot-metal
+
+[p68 | prose | poisoning, vision impairment, chemical or hot-metal]
+burn of eye, penetrating wound of eye, bone fracture,
+
+[p68 | prose | poisoning, vision impairment, chemical or hot-metal]
+laceration, crushing.
+
+[p68 | prose | poisoning, vision impairment, chemical or hot-metal]
+2. Amputation of body part.
+
+[p68 | prose | poisoning, vision impairment, chemical or hot-metal]
+3. Burns requiring referral to a specialist registered medical
+
+[p68 | prose | practitioner or specialist outpatient clinic.]
+practitioner or specialist outpatient clinic.
+
+[p68 | prose | practitioner or specialist outpatient clinic.]
+4. Loss of consciousness from lack of oxygen.
+
+[p68 | prose | practitioner or specialist outpatient clinic.]
+5. Loss of consciousness, or acute illness requiring
+
+[p68 | prose | practitioner or specialist outpatient clinic.]
+treatment by a registered medical practitioner, from
+
+[p68 | prose | absorption, inhalation or ingestion of any substance.]
+absorption, inhalation or ingestion of any substance.
+
+[p68 | prose | absorption, inhalation or ingestion of any substance.]
+6. Any harm that causes the person harmed to be
+
+[p68 | prose | absorption, inhalation or ingestion of any substance.]
+hospitalised for a period of 48 hours or more
+
+[p68 | prose | absorption, inhalation or ingestion of any substance.]
+commencing within seven days of the harm's
+
+[p68 | prose | occurrence.]
+occurrence.
+
+[p69 | prose | Semi Static Rope]
+Semi Static Rope
+
+[p69 | prose | Semi Static Rope]
+A low-stretch kernmantle rope used for primary and safety lines.
+
+[p69 | prose | Shear]
+Shear
+
+[p69 | prose | Shear]
+A load commonly applied perpendicular or at an angle to the
+
+[p69 | prose | Shear]
+axis of the installed anchor system bolt or eye.
+
+[p69 | prose | Static loading]
+Static loading
+
+[p69 | prose | The gradual introduction of load into a system.]
+The gradual introduction of load into a system.
+
+[p69 | prose | Substrate]
+Substrate
+
+[p69 | prose | Substrate]
+The material into which an anchor system is installed, for
+
+[p69 | prose | example concrete, timber, soil.]
+example concrete, timber, soil.
+
+[p69 | prose | Tension]
+Tension
+
+[p69 | prose | Tension]
+A load applied commonly in the same axis as an installed anchor
+
+[p69 | prose | system bolt or eye.]
+system bolt or eye.
+
+[p69 | prose | system bolt or eye.]
+Tek screw
+
+[p69 | prose | system bolt or eye.]
+A self-drilling screw that does not require a pre-drilled pilot hole.
+
+[p69 | prose | Total restraint]
+Total restraint
+
+[p69 | prose | Total restraint]
+A working situation where a fall is not possible, usually due to
+
+[p69 | prose | Total restraint]
+anchor position and lanyard length. Normally a proprietary
+
+[p69 | prose | Total restraint]
+designed system of pre-configured items without adjustment.
+
+[p69 | prose | Ultimate strength]
+Ultimate strength
+
+[p69 | prose | Ultimate strength]
+The highest engineering stress developed in a material before
+
+[p69 | prose | rupture.]
+rupture.
+
+[p69 | prose | Work positioning]
+Work positioning
+
+[p69 | prose | system]
+system
+
+[p69 | prose | system]
+An adjustable system designed to provide a primary means of
+
+[p69 | prose | system]
+support and restraint to allow work to be carried out in
+
+[p69 | prose | reasonable comfort.]
+reasonable comfort.
+
+[p69 | prose | Work restraint]
+Work restraint
+
+[p69 | prose | system]
+system
+
+[p69 | prose | system]
+A non-adjustable system that uses equipment to prevent the user from being able to approach height hazards and therefore no fall can occur.
+
+[p69 | prose | Working Load Limit]
+Working Load Limit
+
+[p69 | prose | Working Load Limit]
+The WWL is the maximum load that is determined by the
+
+[p69 | prose | Working Load Limit]
+manufacturer that an item of equipment is designed to sustain.
+
+[p69 | prose | See also Safe Working Load.]
+See also Safe Working Load.
+
+[p69 | prose | See also Safe Working Load.]
+Working line
+
+[p69 | prose | See also Safe Working Load.]
+Rope under load used primarily for work positioning and rope
+
+[p69 | prose | See also Safe Working Load.]
+access including suspension, ascending and descending. Also
+
+[p69 | prose | See also Safe Working Load.]
+known as the primary rope.
+
+[p70 | appendix | APPENDIX 3: LEGISLATION]
+APPENDIX 3: LEGISLATION
+
+[p70 | appendix | APPENDIX 3: LEGISLATION]
+The Health and Safety in Employment Act 1992 (the Act) is the overarching legislation for workplace health and safety.
+
+[p70 | appendix | APPENDIX 3: LEGISLATION]
+The Act is accompanied by regulations, including the Health and Safety in Employment Regulations 1995.
+
+[p70 | appendix | APPENDIX 3: LEGISLATION]
+A full copy of the Act and regulations can be downloaded free of charge at www.legislation.govt.nz.
+
+[p70 | appendix | APPENDIX 3: LEGISLATION]
+Note: compliance with the HSE Act and the HSE regulations (where applicable) is mandatory.
+
+[p70 | prose | A summary of the Health and Safety in Employment Act 1992]
+A summary of the Health and Safety in Employment Act 1992
+
+[p70 | prose | A summary of the Health and Safety in Employment Act 1992]
+The Health and Safety in Employment Act 1992’s (the Act’s) object is to promote the prevention of harm to all persons at work and other persons in, or in the vicinity of, a place of work.
+
+[p70 | prose | A summary of the Health and Safety in Employment Act 1992]
+Section 5 sets out the object of the Act, and lists various means contained in the Act to achieve it, including by:
+
+[p70 | prose | A summary of the Health and Safety in Employment Act 1992]
+promoting excellence in health and safety management, in particular
+
+[p70 | prose | A summary of the Health and Safety in Employment Act 1992]
+through promoting the systematic management of health and safety;  defining hazards and harm in a comprehensive way so that all hazards and
+
+[p70 | prose | A summary of the Health and Safety in Employment Act 1992]
+harm are covered, including harm caused by work-related stress and hazardous behaviour caused by certain temporary conditions; imposing duties to ensure that people are not harmed as a result of work activities; and setting requirements that relate to the taking of all practicable steps to ensure health and safety, and are flexible to cover different circumstances; recognising that volunteers doing work activities for other persons should have their health and safety protected because their well-being and work are as important as the well-being and work of employees; requiring employee participation in the improvement of health and safety and encouraging good faith co-operation in places of work; and
+
+[p70 | prose | A summary of the Health and Safety in Employment Act 1992]
+providing a range of enforcement methods in response to failure to comply
+
+[p70 | prose | with the Act.]
+with the Act.
+
+[p70 | prose | with the Act.]
+The Act also provides for the making of Regulations and Approved Codes of Practice.
+
+[p70 | prose | Employers’ duties]
+Employers’ duties
+
+[p70 | prose | Employers’ duties]
+Section 6 of the HSE Act places a general duty on all employers to take all practicable steps to ensure the safety of employees while at work.
+
+[p70 | prose | Employers’ duties]
+In particular, they are required to take all practicable steps to: (a) provide and maintain a safe working environment;
+
+[p71 | prose | Employers’ duties]
+(b) provide and maintain facilities for the safety and health of employees at
+
+[p71 | prose | Employers’ duties]
+work;
+
+[p71 | prose | Employers’ duties]
+(c) ensure that machinery and equipment is safe for employees; (d) ensure that working arrangements are not hazardous to employees; and (e) Provide procedures to deal with emergencies that may arise while
+
+[p71 | prose | Employers’ duties]
+employees are at work.
+
+[p71 | prose | Hazard management]
+Hazard management
+
+[p71 | prose | Hazard management]
+Section 7 of the Act requires all employers to have in place an effective method for systematically identifying and regularly reviewing hazards in the place of work (existing, new and potential), to determine whether they are significant hazards and require further action.
+
+[p71 | prose | Hazard management]
+If an accident or harm occurs that requires particulars to be recorded (see section 25 of the Act), employers are required to investigate it to determine if it was caused by or arose from a significant hazard.
+
+[p71 | prose | Hazard management]
+Where the hazard is significant, the Act sets out the steps employers must take:
+
+[p71 | prose | Hazard management]
+1. Where practicable, the hazard must be eliminated (section 8). 2. If elimination is not practicable, the hazard must be isolated (section 9). 3. If it is impracticable to eliminate or isolate the hazard completely, then employers must minimise the likelihood that employees will be harmed by the hazard (section 10).
+
+[p71 | prose | Hazard management]
+Where the hazard has not been eliminated or isolated, employers must, where appropriate:
+
+[p71 | prose | Hazard management]
+1. ensure that protective clothing and equipment is provided, accessible and
+
+[p71 | prose | Hazard management]
+used;
+
+[p71 | prose | Hazard management]
+2. monitor employees’ exposure to the hazard; 3. seek the consent of employees to monitor their health; and 4. with informed consent, monitor employees’ health.
+
+[p71 | prose | Hazard management]
+An employer does not comply with their obligations under Section 10 of the Act:
+
+[p71 | prose | Hazard management]
+by paying an allowance or salary to an employee instead of providing them
+
+[p71 | prose | with protective clothing and equipment, or]
+with protective clothing and equipment, or
+
+[p71 | prose | with protective clothing and equipment, or]
+by requiring an employee to provide their own protective clothing and
+
+[p71 | prose | equipment.]
+equipment.
+
+[p71 | prose | equipment.]
+Section 12 of the Act requires employers to provide employees and health and safety representatives with information about:
+
+[p71 | prose | equipment.]
+1. hazards employees may be exposed to while at work; 2. hazards employees may create, which could harm other people; 3. how to minimise the likelihood of these hazards becoming a source of harm to themselves and others;
+
+[p71 | prose | equipment.]
+4. the location of safety equipment; and 5. emergency procedures.
+
+[p71 | prose | equipment.]
+This information must be provided in a manner that the employee can understand.
+
+[p72 | prose | equipment.]
+Employers are also required to inform employees of the results of any health and safety monitoring. In doing so, the privacy of individual employees must be protected.
+
+[p72 | prose | Involvement of employees in the development of health and safety procedures]
+Involvement of employees in the development of health and safety procedures
+
+[p72 | prose | Involvement of employees in the development of health and safety procedures]
+Employers have a duty to provide reasonable opportunities to employees to participate effectively in ongoing processes for improvement of health and safety in their place of work (section 19B).
+
+[p72 | prose | Involvement of employees in the development of health and safety procedures]
+This applies in particular to the processes set out in sections 6-13 of the Act. Employees therefore have a right to participate in this process in their place of work. The Act specifies circumstances where a system is required to be in place to properly canvas the views of employees. Safety and health committees and representatives provide a means for such consultation and co-operation, and their establishment is encouraged.
+
+[p72 | prose | Involvement of employees in the development of health and safety procedures]
+Training for employees
+
+[p72 | prose | Involvement of employees in the development of health and safety procedures]
+Section 13 of the Act requires that all employers must ensure employees:
+
+[p72 | prose | Involvement of employees in the development of health and safety procedures]
+ are supervised by an experienced person.
+
+[p72 | prose | Involvement of employees in the development of health and safety procedures]
+receive appropriate training so they can do their work safely; and
+
+[p72 | prose | Involvement of employees in the development of health and safety procedures]
+In addition, employees must be adequately trained in the safe use of equipment in the place of work, including protective clothing and equipment.
+
+[p72 | prose | Involvement of employees in the development of health and safety procedures]
+People carrying out demolition work should be trained so they can carry out this work safely and without risk to their own health, safety and that of others. This training must reflect the requirements detailed within these guidelines.
+
+[p72 | prose | Accidents and Serious Harm (records and notification)]
+Accidents and Serious Harm (records and notification)
+
+[p72 | prose | Accidents and Serious Harm (records and notification)]
+The Act requires employers to keep a register of work-related accidents and serious harm. This includes every accident that harmed (or might have harmed):
+
+[p72 | prose | Accidents and Serious Harm (records and notification)]
+1. any employee at work; and 2. any person in a place of work under the employer’s control.
+
+[p72 | prose | Accidents and Serious Harm (records and notification)]
+Employers are also required to investigate all accidents, harm and near-misses to determine whether they were caused by a significant hazard.
+
+[p72 | prose | Accidents and Serious Harm (records and notification)]
+Employers are required to notify serious harm that occurs to employees while at work to the Secretary (in practice, the nearest Department of Labour (DoL) office), as soon as possible. In addition, the accident must also be reported on the prescribed form within seven days. Forms are available from the DoL website www.dol.govt.nz or from the nearest DoL office.
+
+[p72 | prose | Accidents and Serious Harm (records and notification)]
+If a person suffers serious harm, the scene of the accident must not be disturbed unless to:
+
+[p72 | prose | Accidents and Serious Harm (records and notification)]
+1. save life or prevent suffering; or 2. maintain public access for essential services, such as electricity or gas; or
+
+[p73 | prose | Accidents and Serious Harm (records and notification)]
+3. prevent serious damage or loss of property
+
+[p73 | prose | Accidents and Serious Harm (records and notification)]
+The DoL office will advise whether it wishes to investigate the accident and what action may be taken in the meantime.
+
+[p73 | prose | Duties of persons in control of a place of work]
+Duties of persons in control of a place of work
+
+[p73 | prose | Duties of persons in control of a place of work]
+Section 16 of the Act requires persons in control of a place of work take all practicable steps to ensure that no hazard, that is or arises in the place of work, affects people:
+
+[p73 | prose | Duties of persons in control of a place of work]
+1. in the vicinity of the place of work; and 2. who are lawfully in the place of work (employees/contractors etc.); or 3. who are in the place of work to undertake activities such as purchasing or inspecting goods for purchase.
+
+[p73 | prose | Duties of principals (clients)]
+Duties of principals (clients)
+
+[p73 | prose | Duties of principals (clients)]
+Section 18 of the Act requires that principals must take all practicable steps to ensure that no contractor or their employees are harmed while doing any work that they have been engaged to do.
+
+[p73 | prose | Duties of principals (clients)]
+Section 18A of the Act puts obligations on both sellers and suppliers of plant and equipment to a place of work, including hire companies.
+
+[p73 | prose | Duties of principals (clients)]
+Hirers and leasers of plant and equipment must determine if the plant or equipment is to be used in a place of work.
+
+[p73 | prose | Duties of principals (clients)]
+If so, they must ensure that the plant has been designed and maintained so it is safe for use.
+
+[p73 | prose | Duties of principals (clients)]
+Sellers or suppliers of plant and equipment must ensure that the plant has been designed, made and maintained so it is safe for use.
+
+[p73 | prose | Duties of principals (clients)]
+Installers or arrangers of plant and equipment must ensure that the plant or equipment is installed so it is safe for use.
+
+[p73 | prose | Duties of principals (clients)]
+These obligations do not apply if the plant is sold "as is" or is second-hand.
+
+[p73 | prose | Health and Safety in Employment Regulations 1995]
+Health and Safety in Employment Regulations 1995
+
+[p73 | prose | Health and Safety in Employment Regulations 1995]
+These Regulations require employers to provide facilities for their employees. These include:
+
+[p73 | prose | Health and Safety in Employment Regulations 1995]
+1. drinking water 2. toilets 3. hand-washing facilities 4. a means for leaving the place of work safely in the event of an emergency 5. first aid facilities 6. adequate lighting so that employees may do their tasks and duties safely 7. adequate ventilation 8. adequate means for controlling humidity Page 73
+
+[p73 | prose | Health and Safety in Employment Regulations 1995]
+1. drinking water 2. toilets 3. hand-washing facilities 4. a means for leaving the place of work safely in the event of an emergency 5. first aid facilities 6. adequate lighting so that employees may do their tasks and duties safely 7. adequate ventilation 8. adequate means for controlling humidity Page 73
+
+[p74 | prose | Health and Safety in Employment Regulations 1995]
+9. facilities to control atmospheric contaminants as closely as possible to their source and
+
+[p74 | prose | Health and Safety in Employment Regulations 1995]
+10. facilities for employees to have meals during work hours in reasonable shelter and comfort, being facilities that are separate from any plant or materials used in the place of work and free from atmospheric contaminants, dirt, noise etc.
+
+[p74 | prose | Health and Safety in Employment Regulations 1995]
+These facilities must be located as close as possible to the place of work, be in sufficient numbers, be suitable for their intended purpose and be maintained in good order and condition.
+
+[p74 | prose | Health and Safety in Employment Regulations 1995]
+In situations where employees clothing are exposed to contaminants or likely to become wet, suitable changing facilities must be provided by the employer.
+
+[p74 | prose | Regulation 11: Noise]
+Regulation 11: Noise
+
+[p74 | prose | Regulation 11: Noise]
+Regulation 11 sets maximum noise levels for employees to be exposed to while at work. This is 85 decibels averaged over an eight-hour period, or a peak exposure level of 140 decibels.
+
+[p74 | prose | Regulation 11: Noise]
+For further information please refer to the Department of Labour publication Approved Code of Practice for the Management of Noise in the Workplace.
+
+[p74 | prose | Regulation 21: Heights of more than three metres]
+Regulation 21: Heights of more than three metres
+
+[p74 | prose | Regulation 21: Heights of more than three metres]
+Regulation 21 applies to falls from heights of three metres or more. It states that every employer shall take all practicable steps to ensure that, where any employee may fall more than three metres, suitable means are provided to prevent the employee from falling.
+
+[p74 | prose | Regulation 21: Heights of more than three metres]
+There is a reasonably good understanding amongst many people in building and construction that if the distance of possible fall is greater than 3 metres then steps must be taken to prevent any fall from occurring.
+
+[p74 | prose | Regulation 21: Heights of more than three metres]
+What is not so well understood is that even if a possible fall is less than 3 metres the HSE Act requires that if there is any chance of harm resulting, steps must be taken to prevent the fall from occurring.
+
+[p74 | prose | Regulation 21: Heights of more than three metres]
+Regulation 21 is the source of the often-quoted “3 metre rule”. It is mistakenly believed that no further action is needed where a person faces a fall of less than 3 metres. That belief is wrong and ignores the overarching duties in the Act.
+
+[p74 | prose | Regulation 22 – Scaffolding]
+Regulation 22 – Scaffolding
+
+[p74 | prose | Regulation 22 – Scaffolding]
+Regulation 22 requires that where scaffolding has been erected for use, the scaffolding is erected so that it is:
+
+[p74 | prose | Regulation 22 – Scaffolding]
+1. safe and fit for the purpose intended
+
+[p74 | prose | Regulation 22 – Scaffolding]
+2. properly constructed of sound material and
+
+[p74 | prose | Regulation 22 – Scaffolding]
+3. constructed with sufficient reserve strength in regard to the intended loadings that will be imposed on the scaffolding.
+
+[p75 | prose | Regulation 26: Notification of particular hazardous work]
+Regulation 26: Notification of particular hazardous work
+
+[p75 | prose | Regulation 26: Notification of particular hazardous work]
+Regulation 26 requires that where a person intends to conduct notifiable work, that:
+
+[p75 | prose | Regulation 26: Notification of particular hazardous work]
+1. notice of this intent is lodged with the nearest office of the Department of
+
+[p75 | prose | Regulation 26: Notification of particular hazardous work]
+Labour to where the work is to be carried out; and
+
+[p75 | prose | Regulation 26: Notification of particular hazardous work]
+2. the notice shall be in writing; and 3. the notice shall be given at least 24 hours before the time at which the employer intends to start work.
+
+[p75 | prose | Regulation 27: Certificates of Competence]
+Regulation 27: Certificates of Competence
+
+[p75 | prose | Regulation 27: Certificates of Competence]
+Regulation 27 allows for the issuing of Certificates of Competence for the following hazardous activities:
+
+[p75 | prose | Regulation 27: Certificates of Competence]
+Scaffolding – Basic, Advanced and Suspended;  Occupational Diver; and  Powder-Actuated Tool Operator (PAT).
+
+[p75 | prose | Regulation 27: Certificates of Competence]
+For further information, refer to A Guide to the Health and Safety in Employment Act 1992.
+
+[p76 | appendix | APPENDIX 4: LIST OF STANDARDS]
+APPENDIX 4: LIST OF STANDARDS
+
+[p76 | prose | European Committee for Standardization]
+European Committee for Standardization
+
+[p76 | prose | Work equipment standards]
+Work equipment standards
+
+[p76 | prose | PPE against falls from a height: Descender devices]
+PPE against falls from a height: Descender devices
+
+[p76 | prose | PPE against falls from a height: Descender devices]
+PPE against fails from a height: Guided type fall arrestors. Part 1: Specification for guided type fall arrestors on a rigid anchorage line
+
+[p76 | prose | PPE against falls from a height: Descender devices]
+PPE against falls from a height: Guided type fall arrestors. Part 2: Specification for guided type fall arrestors on a flexible anchorage line
+
+[p76 | prose | PPE against falls from a height: Lanyards]
+PPE against falls from a height: Lanyards
+
+[p76 | prose | PPE against falls from a height: Energy absorbers]
+PPE against falls from a height: Energy absorbers
+
+[p76 | prose | PPE against falls from a height: Work positioning systems]
+PPE against falls from a height: Work positioning systems
+
+[p76 | prose | PPE against falls from a height: Retractable type fall arrestors]
+PPE against falls from a height: Retractable type fall arrestors
+
+[p76 | prose | PPE against falls from a height: Full body harness]
+PPE against falls from a height: Full body harness
+
+[p76 | prose | PPE against falls from a height: Connectors]
+PPE against falls from a height: Connectors
+
+[p76 | prose | PPE against falls from a height: Connectors]
+PPE against falls from a height: Fall arrest systems
+
+[p76 | prose | PPE against falls from a height: Test methods]
+PPE against falls from a height: Test methods
+
+[p76 | prose | PPE against falls from a height: Test methods]
+PPE against falls from a height: General requirements for instructions for use, maintenance, periodic examination, repair, marking and packaging
+
+[p76 | prose | PPE against falls from a height: Test methods]
+PPE against falls from a height: Sit harness
+
+[p76 | prose | PPE against falls from a height: Low stretch kernmantle rope]
+PPE against falls from a height: Low stretch kernmantle rope
+
+[p76 | prose | PPE against falls from a height: Low stretch kernmantle rope]
+Height safety PPE. Rope access systems. Rope adjustment advices.
+
+[p76 | prose | General requirements for instructions]
+General requirements for instructions
+
+[p76 | prose | PPE against falls from a height: List of equivalent terms]
+PPE against falls from a height: List of equivalent terms
+
+[p76 | prose | PPE against falls from a height: List of equivalent terms]
+Mountaineering and climbing equipment standards
+
+[p76 | prose | Mountaineering equipment – Accessory cord – Safety requirements and test methods]
+Mountaineering equipment – Accessory cord – Safety requirements and test methods
+
+[p76 | prose | Mountaineering equipment – Tape – Safety requirements and test methods]
+Mountaineering equipment – Tape – Safety requirements and test methods
+
+[p76 | prose | Mountaineering equipment – Slings – Safety requirements and test methods]
+Mountaineering equipment – Slings – Safety requirements and test methods
+
+[p77 | prose | Mountaineering equipment – Rope clamps – Safety requirements and test methods]
+Mountaineering equipment – Rope clamps – Safety requirements and test methods
+
+[p77 | prose | Mountaineering equipment – Ice anchors – Safety requirements and test methods]
+Mountaineering equipment – Ice anchors – Safety requirements and test methods
+
+[p77 | prose | Mountaineering equipment – Pitons – Safety requirements and test methods]
+Mountaineering equipment – Pitons – Safety requirements and test methods
+
+[p77 | prose | Mountaineering equipment – Crampons – Safety requirements and test methods]
+Mountaineering equipment – Crampons – Safety requirements and test methods
+
+[p77 | prose | Mountaineering equipment – Crampons – Safety requirements and test methods]
+Mountaineering equipment – Energy absorbing systems for use in Klettersteig (via ferrata) climbing – Safety requirements and test methods
+
+[p77 | prose | Mountaineering equipment – Rock anchors – Safety requirements and test methods]
+Mountaineering equipment – Rock anchors – Safety requirements and test methods
+
+[p77 | prose | EN 12270 Mountaineering equipment – Chocks – Safety requirements and test]
+EN 12270 Mountaineering equipment – Chocks – Safety requirements and test
+
+[p77 | prose | methods]
+methods
+
+[p77 | prose | EN 12275 Mountaineering equipment – Connectors – Safety requirements and]
+EN 12275 Mountaineering equipment – Connectors – Safety requirements and
+
+[p77 | prose | test methods]
+test methods
+
+[p77 | prose | EN 12276 Mountaineering equipment – Frictional anchors – Safety]
+EN 12276 Mountaineering equipment – Frictional anchors – Safety
+
+[p77 | prose | requirements and test methods]
+requirements and test methods
+
+[p77 | prose | EN 12277 Mountaineering equipment – Harnesses – Safety requirements and]
+EN 12277 Mountaineering equipment – Harnesses – Safety requirements and
+
+[p77 | prose | test methods]
+test methods
+
+[p77 | prose | EN 12278 Mountaineering equipment – Pulleys – Safety requirements and test]
+EN 12278 Mountaineering equipment – Pulleys – Safety requirements and test
+
+[p77 | prose | methods]
+methods
+
+[p77 | prose | EN 12492 Mountaineering equipment – Climber’s safety helmets – Safety]
+EN 12492 Mountaineering equipment – Climber’s safety helmets – Safety
+
+[p77 | prose | requirements and test methods]
+requirements and test methods
+
+[p77 | prose | EN 13089 Mountaineering equipment – Ice tools – Safety requirements and]
+EN 13089 Mountaineering equipment – Ice tools – Safety requirements and
+
+[p77 | prose | test methods]
+test methods
+
+[p77 | prose | General standards]
+General standards
+
+[p77 | prose | Specification for industrial safety helmets]
+Specification for industrial safety helmets
+
+[p77 | prose | Fibre ropes for general service – Polyamide]
+Fibre ropes for general service – Polyamide
+
+[p77 | prose | Fibre ropes for general service – General specification]
+Fibre ropes for general service – General specification
+
+[p77 | prose | EN ISO/IEC 17050-1]
+EN ISO/IEC 17050-1
+
+[p77 | prose | Conformity assessment – Supplier’s declaration of conformity – Part 1: General requirements]
+Conformity assessment – Supplier’s declaration of conformity – Part 1: General requirements
+
+[p78 | prose | Rescue standards]
+Rescue standards
+
+[p78 | prose | Rescue standards]
+EN 1496
+
+[p78 | prose | Rescue standards]
+EN 1497
+
+[p78 | prose | Rescue standards]
+EN 1498
+
+[p78 | prose | Rescue standards]
+Height safety PPE – Rescue lifting devices
+
+[p78 | prose | Rescue standards]
+Rescue equipment – Rescue harnesses
+
+[p78 | prose | Rescue standards]
+Height safety PEE – Rescue loops
+
+[p78 | prose | Australian and New Zealand standards]
+Australian and New Zealand standards
+
+[p78 | prose | Australian and New Zealand standards]
+Australian standards exist for some items of PPE for protection against falls from a height and rescue. The table below indicates which PPE and rope rescue items have Australian standards for manufacturing and use.
+
+[p78 | prose | Australian and New Zealand standards]
+Joint Australian/New Zealand standards can be purchased from Standards New Zealand. Website: www.standards.co.nz.
+
+[p78 | prose | Australian and New Zealand standards]
+Australian standards can be purchased from Standards Australia. Website: www.standards.com.au.
+
+[p78 | table | Australian and New Zealand standards]
+| Item of PPE | AS or AS/NZS standard number | Date of release |
+| --- | --- | --- |
+| Ascenders/rope grabs | None |  |
+| Cords | None |  |
+| Descenders | None |  |
+| Energy absorbers | AS/NZS 1891.1 | 2007 |
+| Fall arrest devices | AS/NZS 1891.3 | 1997 |
+| Harnesses | AS/NZS 1891.1 | 2007 |
+| Helmets | AS/NZS 1801 | 1997 |
+| Carabiners | None |  |
+| Lanyards | AS/NZS 1891.1 | 2007 |
+| Pulleys | None |  |
+| Rescue knives | None |  |
+| Rope (11mm+) | AS/NZS 4488.1 and 2 | 1997 |
+| Slings webbing synthetic (lifting purposes) | AS 1353.1 | 1997 |
+
+[p79 | prose | Australian and New Zealand standards]
+Slings wire ropes
+
+[p79 | prose | Australian and New Zealand standards]
+Tube nut connectors
+
+[p79 | prose | Australian and New Zealand standards]
+AS 1666.1
+
+[p79 | prose | Australian and New Zealand standards]
+None
+
+[p80 | appendix | APPENDIX 5: RELATED PUBLICATIONS]
+APPENDIX 5: RELATED PUBLICATIONS
+
+[p80 | appendix | APPENDIX 5: RELATED PUBLICATIONS]
+Note: every effort has been made to ensure that the documents, websites and webpages listed in this Appendix were correct at the time of publication. However, please note that documents and website addresses not under the control of the Industrial Rope Access Association of New Zealand or the Department of Labour may change without notice.
+
+[p80 | prose | Legislation]
+Legislation
+
+[p80 | prose | Legislation]
+Health and Safety in Employment Act 1992  Health and Safety in Employment Regulations 1995  Building Act 2004  Electricity Act 1992  Electricity (Safety) Regulations 2010
+
+[p80 | prose | Legislation]
+New Zealand legislation can be downloaded free of charge from www.legislation.govt.nz.
+
+[p80 | prose | Department of Labour publications]
+Department of Labour publications
+
+[p80 | prose | Department of Labour publications]
+Best Practice Guidelines for Working at Height in New Zealand  Guidelines for the Provision of Facilities and General Safety and Health in the Construction Industry
+
+[p80 | prose | Department of Labour publications]
+Safe Working in a Confined Space  Approved Code of Practice for Load-Lifting Rigging  First Aid for Workplaces – A Good Practice Guide  Best Practice Guidelines for Scaffolding in New Zealand (owned by the Scaffolding and Rigging Association of New Zealand (SARNZ) and endorsed by the Department of Labour).
+
+[p80 | prose | Department of Labour publications]
+Department of Labour health and safety publications can be accessed at www.osh.dol.govt.nz. Note: some industry-produced publications need to be purchased directly from the industry association.
+
+[p80 | prose | Other publications]
+Other publications
+
+[p80 | prose | Other publications]
+Industrial Rope Access Association of New Zealand: Certification and
+
+[p80 | prose | Assessment Scheme and Operational Requirements.]
+Assessment Scheme and Operational Requirements.
+
+[p80 | prose | Assessment Scheme and Operational Requirements.]
+Industrial Rope Access Trade Association (2009): General Requirements for Certification of Personnel Involved in Industrial Rope Access Methods (6th edition).
+
+[p80 | prose | Assessment Scheme and Operational Requirements.]
+Electricity Engineers’ Association (EEA). Safety Rules: Safety Manual Electricity
+
+[p80 | prose | Assessment Scheme and Operational Requirements.]
+Industry (SM-EI) Parts 1-3. SMEI documents can be purchased from www.eea.co.nz.
+
+[p80 | prose | Assessment Scheme and Operational Requirements.]
+Electricity Engineers’ Association (EEA) (2008). Guide for the Use of Personal Fall Arrest Systems (3rd edition). This document can be downloaded free of charge from www.eea.co.nz.
+
+[p81 | prose | More information]
+More information
+
+[p81 | prose | More information]
+www.dol.govt.nz 0800 20 90 20 Information, examples and answers to your questions about the topics covered here can be found on our website www.dol.govt.nz or by calling us free on 0800 20 90 20.

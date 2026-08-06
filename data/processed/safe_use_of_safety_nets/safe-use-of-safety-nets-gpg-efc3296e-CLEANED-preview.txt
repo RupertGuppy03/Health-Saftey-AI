@@ -1,0 +1,1460 @@
+[p2 | prose | This best practice guideline outlines safety net requirements and the safe use of safety nets.]
+This best practice guideline outlines safety net requirements and the safe use of safety nets.
+
+[p2 | prose | DISCLAIMER]
+DISCLAIMER
+
+[p2 | prose | DISCLAIMER]
+WorkSafe NZ has made every effort to ensure the information contained in this publication is reliable, but makes no guarantee of its completeness. WorkSafe NZ may change the contents of this guideline at any time without notice.
+
+[p2 | prose | DISCLAIMER]
+This document is a guideline only. It should not be used as a substitute for legislation or legal advice. WorkSafe NZ is not responsible for the results of any action taken on the basis of information in this document, or for any errors or omissions.
+
+[p2 | prose | MORE INFORMATION]
+MORE INFORMATION
+
+[p2 | prose | MORE INFORMATION]
+FASET (Fall Arrest Safety Equipment Training) have technical bulletins that address technical and safety matters surrounding the safe use of nets. (see www.faset.org.uk/information-bulletins.htm)
+
+[p3 | prose | MORE INFORMATION]
+Safety nets installed below a high level work area reduce the distance a person can fall. Safety nets are designed to deflect and absorb the energy of a fall so they reduce the likelihood of a person being injured. There must be enough clear space below the net so that as the net deflects, the person who has fallen does not strike an obstacle or the ground. Safety nets allow people to work at height without restricting their movement.
+
+[p4 | prose | TABLE OF CONTENTS]
+TABLE OF CONTENTS
+
+[p4 | prose | INTRODUCTION]
+INTRODUCTION
+
+[p4 | prose | Purpose]
+Purpose
+
+[p4 | prose | Legal requirements]
+Legal requirements
+
+[p4 | prose | Referenced standards]
+Referenced standards
+
+[p4 | prose | 1.4 Definitions]
+1.4 Definitions
+
+[p4 | prose | Interpretation]
+Interpretation
+
+[p4 | prose | 02 SAFETY NETS]
+02 SAFETY NETS
+
+[p4 | prose | Principles of safety net design]
+Principles of safety net design
+
+[p4 | prose | Safety net systems]
+Safety net systems
+
+[p4 | prose | Safety net classification]
+Safety net classification
+
+[p4 | prose | 2.4 Mesh rope]
+2.4 Mesh rope
+
+[p4 | prose | 2.5 Border rope]
+2.5 Border rope
+
+[p4 | prose | 2.5 Border rope]
+Tie rope
+
+[p4 | prose | 2.7 Coupling rope]
+2.7 Coupling rope
+
+[p4 | prose | Safety net label]
+Safety net label
+
+[p4 | prose | 2.9 Removable test mesh]
+2.9 Removable test mesh
+
+[p4 | prose | 2.10 Size of safety nets]
+2.10 Size of safety nets
+
+[p4 | prose | 2.11 Safety nets less than 35 m2]
+2.11 Safety nets less than 35 m2
+
+[p4 | prose | 2.12 Fall height]
+2.12 Fall height
+
+[p4 | prose | 2.13 Clearance distances]
+2.13 Clearance distances
+
+[p4 | prose | 2.14 Net sag]
+2.14 Net sag
+
+[p4 | prose | 2.14 Net sag]
+2.15 Over-tensioning and under-tensioning
+
+[p4 | prose | 2.14 Net sag]
+2.16 Catching width
+
+[p4 | prose | 2.14 Net sag]
+2.17 Catching width where the slope of the working platform is more than 20o
+
+[p4 | prose | 03 INSTALLING SAFETY NETS]
+03 INSTALLING SAFETY NETS
+
+[p4 | prose | Planning]
+Planning
+
+[p4 | prose | 3.2 Designer’s role]
+3.2 Designer’s role
+
+[p4 | prose | Installer’s role]
+Installer’s role
+
+[p4 | prose | 3.4 Main contractor or site supervisor’s roles]
+3.4 Main contractor or site supervisor’s roles
+
+[p4 | prose | Supplier or manufacturer’s role]
+Supplier or manufacturer’s role
+
+[p4 | prose | Safety net installation hierarchy]
+Safety net installation hierarchy
+
+[p5 | prose | 04 INSTALLATION REQUIREMENTS]
+04 INSTALLATION REQUIREMENTS
+
+[p5 | prose | 04 INSTALLATION REQUIREMENTS]
+Inspecting nets before installation
+
+[p5 | prose | Installation (generally)]
+Installation (generally)
+
+[p5 | prose | 4.3 Net access]
+4.3 Net access
+
+[p5 | prose | 4.4 Anchor points]
+4.4 Anchor points
+
+[p5 | prose | 4.4 Anchor points]
+4.5 Attaching safety nets to steel structures
+
+[p5 | prose | 4.4 Anchor points]
+4.6 Attaching safety nets to timber structures
+
+[p5 | prose | 4.7 Under-rolling]
+4.7 Under-rolling
+
+[p5 | prose | 4.7 Under-rolling]
+4.8 Eaves bagging
+
+[p5 | prose | 4.9 Gaps at net edges]
+4.9 Gaps at net edges
+
+[p5 | prose | 4.9 Gaps at net edges]
+4.10 Joining and overlapping nets
+
+[p5 | prose | 4.11 Handover documentation]
+4.11 Handover documentation
+
+[p5 | prose | 4.11 Handover documentation]
+4.12 Dismantling (striking)
+
+[p5 | prose | 05 RESCUE PLAN]
+05 RESCUE PLAN
+
+[p5 | prose | 06 INSPECTIONS, TESTING, MAINTENANCE AND REPAIR]
+06 INSPECTIONS, TESTING, MAINTENANCE AND REPAIR
+
+[p5 | prose | Inspections]
+Inspections
+
+[p5 | prose | 6.2 General testing]
+6.2 General testing
+
+[p5 | prose | 6.2 General testing]
+Testing for UV deterioration
+
+[p5 | prose | 6.4 Debris in the net]
+6.4 Debris in the net
+
+[p5 | prose | 6.5 Net care]
+6.5 Net care
+
+[p5 | prose | 6.5 Net care]
+6.6 Damaged safety nets
+
+[p5 | prose | 6.5 Net care]
+6.7 Repairing safety nets and ropes
+
+[p5 | prose | 6.5 Net care]
+6.8 Repairing a knotless safety net
+
+[p5 | prose | 6.5 Net care]
+6.9 Repairing a knotted safety net
+
+[p5 | prose | 6.5 Net care]
+6.10 Storing safety nets
+
+[p5 | prose | 6.11 Further information]
+6.11 Further information
+
+[p5 | appendix | 07 APPENDIX A]
+07 APPENDIX A
+
+[p5 | prose | Visual inspection checklist]
+Visual inspection checklist
+
+[p5 | appendix | 08 APPENDIX B]
+08 APPENDIX B
+
+[p5 | prose | 8.1 Handover checklist]
+8.1 Handover checklist
+
+[p6 | prose | 01/]
+01/
+
+[p6 | prose | INTRODUCTION]
+INTRODUCTION
+
+[p6 | prose | INTRODUCTION]
+IN THIS SECTION:
+
+[p7 | prose | A fall from a height is likely to result in a serious injury. By installing safety nets below a high-level work area, there is less likelihood that the person will be injured if they fall.]
+A fall from a height is likely to result in a serious injury. By installing safety nets below a high-level work area, there is less likelihood that the person will be injured if they fall.
+
+[p7 | prose | A fall from a height is likely to result in a serious injury. By installing safety nets below a high-level work area, there is less likelihood that the person will be injured if they fall.]
+Regardless of the time spent on a roof, the risk of falling is high. Any fall is likely to result in a serious injury. Safety nets installed below a high-level work area reduce the distance that a worker can fall. They absorb the impact of the fall and provide a ‘soft landing’ to reduce the likelihood of a person being injured.
+
+[p7 | prose | A fall from a height is likely to result in a serious injury. By installing safety nets below a high-level work area, there is less likelihood that the person will be injured if they fall.]
+Safety nets are collective fall arrest systems , not fall restraint systems. That is, they provide passive protection from falls while allowing people to work at height without restricting their movement.
+
+[p7 | prose | A fall from a height is likely to result in a serious injury. By installing safety nets below a high-level work area, there is less likelihood that the person will be injured if they fall.]
+Collective fall arrest systems include: > safety nets > soft landing systems, or fall arrest mats.
+
+[p7 | prose | 1.1 PURPOSE]
+1.1 PURPOSE
+
+[p7 | prose | 1.1 PURPOSE]
+This Best Practice Guideline covers the safety requirements and safe use of safety nets to protect people from being injured by a fall from a height. This information is for anyone who has to provide a safe place of work and make sure that all plant and equipment is safe. It describes best practice for: > safety net design principles > types and classifications of safety nets > safety net components > installing of safety nets > inspection, repair and maintenance of safety nets.
+
+[p7 | prose | 1.2 LEGAL REQUIREMENTS]
+1.2 LEGAL REQUIREMENTS
+
+[p7 | prose | 1.2 LEGAL REQUIREMENTS]
+The Health and Safety in Employment Act (HSE Act) 1992 requires that all practicable steps must be taken to prevent a person at work from being harmed. People who have responsibilities under the law include: > employers, who must ensure a safe working environment and facilities for safety and health; and ensure that any plant used by employees is designed, made, arranged and maintained so that it is safe (HSE Act s.6) > self-employed people, who must ensure that no action or inaction causes any harm to themselves or any other person (HSE Act s.17) > principals, who must ‘take all practicable steps’ to ensure that no one is harmed while the work is being done (HSE Act s.18) > anyone who hires, leases or loans plant or equipment to be used in a workplace must ensure that the plant or equipment is designed, made and maintained so that it is safe for its intended use (HSE Act s.18A). This means where it is possible for someone to fall from a height while working, all practicable steps must be taken to prevent them from being injured, regardless of whether they are working at height for a short or long time.
+
+[p8 | prose | 1.3 REFERENCED STANDARDS]
+1.3 REFERENCED STANDARDS
+
+[p8 | prose | 1.3 REFERENCED STANDARDS]
+There are no New Zealand Standards for using safety nets as fall arrest systems, so this guide follows the test methods, installation procedures and safety net positioning limits described in the following British and European codes of practice and standards:
+
+[p8 | prose | 1.3 REFERENCED STANDARDS]
+> BS 8411 (Code of practice for safety nets on construction sites and other works)
+
+[p8 | prose | 1.3 REFERENCED STANDARDS]
+> BS EN 1263-1 (Safety nets – Part 1: Safety requirements, test methods)
+
+[p8 | prose | 1.3 REFERENCED STANDARDS]
+> BS EN 1263-2 (Safety nets – Part 2: Safety requirements for the positioning limits).
+
+[p8 | prose | 1.3 REFERENCED STANDARDS]
+This guideline should not be interpreted as excluding from use other materials, designs, installation procedures and test methods not specifically referred to in these standards and codes of practice. However, manufacturers and suppliers must be able to show their nets meet the same or better test and performance results than the European standards.
+
+[p8 | prose | 1.4 DEFINITIONS]
+1.4 DEFINITIONS
+
+[p8 | prose | 1.4 DEFINITIONS]
+Anchorage device (safety nets)
+
+[p8 | prose | 1.4 DEFINITIONS]
+A device or system used to connect a safety net to the structure. May include tie ropes, karabiners or other attachment devices.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Anchor point
+
+[p8 | prose | 1.4 DEFINITIONS]
+A fixing on the structure that the safety net is attached to.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Border rope
+
+[p8 | prose | 1.4 DEFINITIONS]
+A rope that passes through each mesh around the net’s perimeter and determines the net’s overall dimensions.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Catching width
+
+[p8 | prose | 1.4 DEFINITIONS]
+The horizontal distance from the edge of a work platform to the outer edge of the safety net.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Characteristic load
+
+[p8 | prose | 1.4 DEFINITIONS]
+The calculated maximum load that an anchor point is designed to carry.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Class
+
+[p8 | prose | 1.4 DEFINITIONS]
+The safety net classification based on the mesh size and energy absorption capacity.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Clearance distance
+
+[p8 | prose | 1.4 DEFINITIONS]
+The distance below the net that must be kept clear of objects that a falling person might otherwise strike as the safety net deflects under their impact.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Competent person
+
+[p8 | prose | 1.4 DEFINITIONS]
+A person who has acquired through a combination of training and qualifications or experience, the knowledge and skills to correctly perform the required task.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Coupling rope
+
+[p8 | prose | 1.4 DEFINITIONS]
+The rope that joins two safety nets together.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Eaves bagging
+
+[p8 | prose | 1.4 DEFINITIONS]
+A rigging technique to prevent waisting at the unsupported perimeter of a safety net.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Fall height
+
+[p8 | prose | 1.4 DEFINITIONS]
+The vertical distance between a work platform and the safety net.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Initial sag
+
+[p8 | prose | 1.4 DEFINITIONS]
+The amount of sag due to the net’s self-weight.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Mesh
+
+[p8 | prose | 1.4 DEFINITIONS]
+A series of ropes arranged in either a square or diamond pattern to form a net.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Mesh rope
+
+[p8 | prose | 1.4 DEFINITIONS]
+The rope used to make the net’s meshes.
+
+[p8 | prose | 1.4 DEFINITIONS]
+Mesh size
+
+[p8 | prose | 1.4 DEFINITIONS]
+The distance from centre to centre of the mesh.
+
+[p9 | prose | SECTION 1.0 // INTRODUCTION]
+SECTION 1.0 // INTRODUCTION
+
+[p9 | prose | Net system]
+Net system
+
+[p9 | prose | The safety net, tie ropes or other]
+The safety net, tie ropes or other
+
+[p9 | prose | The safety net, tie ropes or other]
+anchorage devices, and the supporting
+
+[p9 | prose | The safety net, tie ropes or other]
+structure linked together to provide a
+
+[p9 | prose | collective fall arrest system.]
+collective fall arrest system.
+
+[p9 | prose | Principal]
+Principal
+
+[p9 | prose | Principal]
+A person who or that engages any person
+
+[p9 | prose | Principal]
+(otherwise than as an employee) to do any
+
+[p9 | prose | Principal]
+work for gain or reward.
+
+[p9 | prose | Safety net]
+Safety net
+
+[p9 | prose | The combination of mesh, border ropes, test]
+The combination of mesh, border ropes, test
+
+[p9 | prose | meshes and labels of the net.]
+meshes and labels of the net.
+
+[p9 | prose | meshes and labels of the net.]
+Supporting structure
+
+[p9 | prose | The structure to which the safety net]
+The structure to which the safety net
+
+[p9 | prose | The structure to which the safety net]
+is attached.
+
+[p9 | prose | Test mesh]
+Test mesh
+
+[p9 | prose | Test mesh]
+A separate piece of mesh attached to a net,
+
+[p9 | prose | Test mesh]
+made from the same material and produced
+
+[p9 | prose | Test mesh]
+in the same batch as the net to which it is
+
+[p9 | prose | Test mesh]
+attached, that can be removed for testing the
+
+[p9 | prose | net’s UV deterioration.]
+net’s UV deterioration.
+
+[p9 | prose | net’s UV deterioration.]
+Tie rope
+
+[p9 | prose | net’s UV deterioration.]
+A rope used to secure the border rope to an
+
+[p9 | prose | anchor point on the structure.]
+anchor point on the structure.
+
+[p9 | prose | Waisting]
+Waisting
+
+[p9 | prose | Waisting]
+The effect of a net being pulled horizontally
+
+[p9 | prose | away from the structure or intended perimeter]
+away from the structure or intended perimeter
+
+[p9 | prose | of the net, either due to over-tensioning or the]
+of the net, either due to over-tensioning or the
+
+[p9 | prose | net’s self-weight at an unsupported edge.]
+net’s self-weight at an unsupported edge.
+
+[p9 | prose | 1.5 INTERPRETATION]
+1.5 INTERPRETATION
+
+[p9 | prose | 1.5 INTERPRETATION]
+‘Shall’ or ‘must’ are used where the statement
+
+[p9 | prose | 1.5 INTERPRETATION]
+is a legal requirement, or where a practice is
+
+[p9 | prose | the minimum threshold for safety.]
+the minimum threshold for safety.
+
+[p9 | prose | the minimum threshold for safety.]
+‘Should’ and ‘may’ are used when you should
+
+[p9 | prose | the minimum threshold for safety.]
+adopt the recommendation where practicable.
+
+[p9 | prose | the minimum threshold for safety.]
+This will help you comply with the HSE Act’s
+
+[p9 | prose | the minimum threshold for safety.]
+requirement to ‘take all practicable steps’.
+
+[p10 | prose | IN THIS SECTION:]
+IN THIS SECTION:
+
+[p10 | table | IN THIS SECTION:]
+| 2.1 | Principles of safety net design | 2.12 | Fall height |
+| --- | --- | --- | --- |
+| 2.2 | Safety net systems | 2.13 | Clearance distances |
+| 2.3 | Safety net classification | 2.14 | Net sag |
+| 2.4 | Mesh rope | 2.15 | Over-tensioning and under-tensioning |
+| 2.5 | Border rope | 2.16 | Catching width |
+| 2.6 | Tie rope | 2.17 | Catching width where the slope of the working platform is more than 20° |
+| 2.7 | Coupling rope |  |  |
+| 2.8 | Safety net label |  |  |
+| 2.9 | Removable test mesh |  |  |
+| 2.10 | Size of safety nets |  |  |
+| 2.11 | Safety nets less than 35 m2 |  |  |
+
+[p11 | prose | IN THIS SECTION:]
+Safety nets are designed to progressively deflect (stretch) and absorb the energy of a fall, so a falling person is less likely to be injured. The greater the fall height, the greater the impact; so the net’s deflection must also be greater.
+
+[p11 | prose | 2.1 PRINCIPLES OF SAFETY NET DESIGN]
+2.1 PRINCIPLES OF SAFETY NET DESIGN
+
+[p11 | prose | 2.1 PRINCIPLES OF SAFETY NET DESIGN]
+Safety nets are designed to progressively deflect (stretch) and absorb the energy of a fall, so a falling person is less likely to be injured. The greater the fall height, the greater the impact; so the net’s deflection must also be greater. The safety net must be able to deform or deflect enough to absorb all of the energy from the fall’s impact up to the maximum fall height for the design. There must be enough clear distance below the net so that the person falling does not hit an obstacle or the ground while the net is deflecting. Notes: > When a load lands on a knotted net, the knots near the impact tighten. The tightening is permanent and reduces the amount of energy the net can absorb from further impacts. Knotless nets do not have this problem. > A person who falls onto a knotless net is less likely to receive facial injuries. > Square mesh is more popular than diamond mesh, with no obvious reason for the preference, according to research1 in the UK. > Square mesh has less sag when rigged so at its mid-point, it is closer to the work level. WorkSafe NZ recommends the use of knotless, square mesh for ‘S’ safety nets.
+
+[p11 | prose | 2.2 SAFETY NET SYSTEMS]
+2.2 SAFETY NET SYSTEMS
+
+[p11 | prose | 2.2 SAFETY NET SYSTEMS]
+This guideline is for ‘System S’ safety nets, which are horizontally-installed safety nets with a continuous border rope. Safety nets may be either knotted or knotless with a square (Q) or diamond (D) mesh arrangement.
+
+[p11 | prose | 2.3 SAFETY NET CLASSIFICATION]
+2.3 SAFETY NET CLASSIFICATION
+
+[p11 | prose | 2.3 SAFETY NET CLASSIFICATION]
+BS EN 1263-1 lists four classes of nets: > classes A and B describe the net’s maximum energy absorption capacity (that is, how much energy it can absorb), measured in kilojoules (kJ). For example: class A = 2.3 kJ; class B = 4.4 kJ > classes 1 and 2 describe the mesh sizes. For example: class 1 = 60 mm; class 2 = 100 mm.
+
+[p12 | prose | 2.3 SAFETY NET CLASSIFICATION]
+Table 1 sets out the net classifications.
+
+[p12 | table | 2.3 SAFETY NET CLASSIFICATION]
+| Class | Energy absorption capacity (kJ) | Mesh size (mm) |
+| --- | --- | --- |
+| Al | 255 | 60 |
+| A2 | 23 | 100 |
+| Bl | 4.4 | 60 |
+| B2 | 4.4 | 100 |
+
+[p12 | prose | 2.3 SAFETY NET CLASSIFICATION]
+Table 1: Classification of nets according to energy absorption capacity and mesh size.
+
+[p12 | prose | 2.3 SAFETY NET CLASSIFICATION]
+Both classes A1 and A2 nets are suitable for system S safety nets. Class A2 nets (2.3 kJ energy absorption capacity and 100 mm mesh size) are most commonly used as the larger mesh size is lighter and has less initial sag.
+
+[p12 | prose | 2.4 MESH ROPE]
+2.4 MESH ROPE
+
+[p12 | prose | 2.4 MESH ROPE]
+Mesh rope should be made from at least three separate strands, braided so they cannot unravel. It should be tested according to BS EN 1263-1, clause 7.3.
+
+[p12 | prose | 2.5 BORDER ROPE]
+2.5 BORDER ROPE
+
+[p12 | prose | 2.5 BORDER ROPE]
+A border rope is a continuous rope passing through each mesh around the perimeter of S safety nets. It should have a minimum tensile strength of 30kN, and be tested according to BS EN 1263-1, clause 7.5.
+
+[p12 | prose | 2.6 TIE ROPE]
+2.6 TIE ROPE
+
+[p12 | prose | 2.6 TIE ROPE]
+Tie ropes fasten the safety net to the structural elements and/or the anchor points on the structure being netted. They should have a minimum tensile strength of 30kN and be tested according to BS EN 1263-1, clause 7.5.
+
+[p12 | prose | 2.7 COUPLING ROPE]
+2.7 COUPLING ROPE
+
+[p12 | prose | 2.7 COUPLING ROPE]
+Coupling ropes join safety nets together when more than one net is needed to protect an area. They should have a minimum tensile strength of 7.5kN and tested according to BS EN 1263-1, clause 7.5.
+
+[p12 | prose | 2.8 SAFETY NET LABEL]
+2.8 SAFETY NET LABEL
+
+[p12 | prose | 2.8 SAFETY NET LABEL]
+All safety nets should have a label showing the:
+
+[p12 | prose | 2.8 SAFETY NET LABEL]
+> manufacturer’s name and article code
+
+[p12 | prose | 2.8 SAFETY NET LABEL]
+> date of manufacture
+
+[p12 | prose | 2.8 SAFETY NET LABEL]
+> class and size of net
+
+[p12 | prose | 2.8 SAFETY NET LABEL]
+> mesh size and configuration
+
+[p12 | prose | 2.8 SAFETY NET LABEL]
+> net’s unique identity or serial number (ID)
+
+[p12 | prose | 2.8 SAFETY NET LABEL]
+> net’s minimum energy absorption capacity
+
+[p12 | prose | 2.8 SAFETY NET LABEL]
+> type of ongoing net inspections.
+
+[p12 | prose | 2.8 SAFETY NET LABEL]
+The label must be permanently attached to the net and be legible throughout the net’s life.
+
+[p12 | prose | 2.9 REMOVABLE TEST MESH]
+2.9 REMOVABLE TEST MESH
+
+[p12 | prose | 2.9 REMOVABLE TEST MESH]
+Tests for UV deterioration of safety nets must be done at least every 12 months. All safety nets should have at least three test meshes loosely woven into the net so they can be removed one at a time for testing (see section 6 Inspections, testing, maintenance and repairs).
+
+[p12 | prose | 2.9 REMOVABLE TEST MESH]
+Each test mesh must have the same ID number, be made from the same material, and produced in the same batch as the net to which it is attached.
+
+[p12 | prose | Notes:]
+Notes:
+
+[p12 | prose | Notes:]
+> A current test label must be displayed on all safety nets older than 12 months, showing the net has been tested in the past 12 months and meets the manufacturer’s minimum test energy absorption capacity.
+
+[p12 | prose | Notes:]
+> Test labels are valid for 12 months and must not expire while the net is installed.
+
+[p12 | prose | Notes:]
+> The net owner should keep net test results.
+
+[p12 | prose | 2.10 SIZE OF SAFETY NETS]
+2.10 SIZE OF SAFETY NETS
+
+[p12 | prose | 2.10 SIZE OF SAFETY NETS]
+BS EN 1263-2 only applies to safety nets over 35 m2 and where the shortest side is at least 5.0 metres.
+
+[p13 | prose | 2.10 SIZE OF SAFETY NETS]
+If the fall height is over 2.0 metres, the safety net must :
+
+[p13 | prose | 2.10 SIZE OF SAFETY NETS]
+> be larger than 35m2 > have the shortest side at least 5.0 metres, and > have a maximum fixing spacing of 2.5 metres.
+
+[p13 | prose | 2.11 SAFETY NETS LESS THAN 35 M2]
+2.11 SAFETY NETS LESS THAN 35 M2
+
+[p13 | prose | 2.11 SAFETY NETS LESS THAN 35 M2]
+If a load falls onto a net less than 35 m2, the small net area means there will be less deflection and more limited energy absorption compared to nets with a larger area. System S safety nets that are less than 35 m2 are not covered by BS EN 1263-2. WorkSafe NZ recommends that when a net area is less than 35 m2, you should use a class B safety net with 4.4 kJ energy absorption capacity.
+
+[p13 | prose | 2.12 FALL HEIGHT]
+2.12 FALL HEIGHT
+
+[p13 | prose | 2.12 FALL HEIGHT]
+The fall height is the distance a person will fall from the work platform onto the safety net - see Figure 2. A greater fall height results in a greater fall impact.
+
+[p13 | prose | 2.12 FALL HEIGHT]
+Keep the fall height as low as possible by installing safety nets as close as practicably possible below the work platform. Where possible, install nets no more than 2.0 metres
+
+[p13 | prose | 2.12 FALL HEIGHT]
+below the work platform. Note that BS EN 1263-2 allows a maximum fall height of 6.0 metres (this gives a nominal fall height of 7.0 metres from a person’s centre of gravity) but this applies only to nets that are more than 35 m2 (see section 2.10 Size of safety nets). Within 2.0 metres of the net’s outer edges, the fall height between the work platform and net should be no more than 3.0 metres. This is because safety nets cannot deflect as much at corners and edges (BS EN 1263-2). See Figure 3.
+
+[p13 | prose | 2.13 CLEARANCE DISTANCES]
+2.13 CLEARANCE DISTANCES
+
+[p13 | prose | 2.13 CLEARANCE DISTANCES]
+There must be enough clearance below the safety net to allow for it to deform when a person falls onto it. The amount it will deform depends on the height of the fall and the span of the net. See Figure 4.
+
+[p14 | prose | 2.13 CLEARANCE DISTANCES]
+The graph in Figure 5 (from BS EN 1263-2: Figure 4) shows typical deformation when an object lands on the net. It is based on fall height and can be used to calculate the minimum clearance distance needed below the net, but only applies where the: > area of the net is more than 35 m2 > shortest side of the net is at least 5.0 m > initial sag is no more than 10% of the smallest side of the net, and > fall height is no more than 6.0 m. As an additional safety factor BS 8411: 2007 recommends allowing an extra 0.5 metre clearance below the net.
+
+[p14 | table | 2.13 CLEARANCE DISTANCES]
+| 8 m |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 7 |  |  |  |  |  |
+| 6 |  |  |  |  |  |
+| 5 |  |  |  |  |  |
+| 4 |  |  | l=20m |  |  |
+| 3 |  |  | l=16m |  |  |
+| 2 |  |  | l=12m |  |  |
+| 1 |  |  | l=9m |  |  |
+| 0 | 1 | 2 | 3 | 4 | 5 m |
+
+[p14 | prose | 2.13 CLEARANCE DISTANCES]
+Fall height Figure 5: Deformation of net when an object falls on it.
+
+[p14 | prose | 2.14 NET SAG]
+2.14 NET SAG
+
+[p14 | prose | 2.14 NET SAG]
+Net sag, or initial sag, is the amount of deformation from the net’s own weight. Net sag should be between 5% and 10% of the net’s shortest side.
+
+[p14 | prose | 2.14 NET SAG]
+To have enough initial sag, the safety net should be at least 10% larger (along both sides) than the area it is going to cover. Excess netting should be under-rolled into the tie rope or attachment system (see section 4.7 Under-rolling) to spread the load evenly and avoid too much stress on individual meshes.
+
+[p14 | prose | 2.15 OVER-TENSIONING AND UNDER-TENSIONING]
+2.15 OVER-TENSIONING AND UNDER-TENSIONING
+
+[p14 | prose | 2.15 OVER-TENSIONING AND UNDER-TENSIONING]
+Safety nets should not be over-tensioned as they must be able to deflect and absorb energy from the impact of a fall. An over-tensioned net, or a net with too many fixing points, may not be able to deflect enough. In either case, the impact on the person falling onto the net increases, as well as increasing the load imposed on the net and structure. An under-tensioned net may deflect too much and if there isn’t enough clearance below the net, a falling person may hit an obstacle or the ground.
+
+[p14 | prose | 2.16 CATCHING WIDTH]
+2.16 CATCHING WIDTH
+
+[p14 | prose | 2.16 CATCHING WIDTH]
+If a person trips when they are moving forward, they fall forward as well as downward. The distance they fall forward is affected by the height of the fall; that is, the higher the fall, the further the forward movement. Nets providing protection at the edge of a work platform must be wide enough to include the falling person’s forward movement – see Figure 7. The width of the net between the edge of the work platform and the outer edge of the safety net is called the catching width.
+
+[p15 | prose | 2.16 CATCHING WIDTH]
+Figure 7: Catching width.
+
+[p15 | prose | 2.16 CATCHING WIDTH]
+BS EN 1263-2: Table 2 sets out minimum catching widths for maximum fall heights – see Table 2 of this guide. As an added safety factor, BS 8411 recommends extending the net at least 1.5 metres beyond the distances given in Table 2 of BS EN 1263-2.
+
+[p15 | table | 2.16 CATCHING WIDTH]
+| Maximum fall height H, (metres) | Minimum catching width b as per BS EN 1263-2: Table 2 (metres) | Catching width recommended by BS 8411 (metres) |
+| --- | --- | --- |
+| 1.0 | 20 | 3.5 |
+| 3.0 | 25 | 4.0 |
+| 6.0 | 3.0 | 4.5 |
+
+[p15 | prose | 2.16 CATCHING WIDTH]
+Table 2: Catching widths for maximum fall heights (from BS EN 1263:2, Table 2 and Clause 4.3).
+
+[p15 | prose | 2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O]
+2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O
+
+[p15 | prose | 2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O]
+If the slope of the working platform is more than 20°:
+
+[p15 | prose | 2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O]
+> the catching width must be at least 3.0 metres, and
+
+[p15 | prose | 2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O]
+> the distance (t) between the work platform’s edge and the lowest point of the safety net’s outside edge should be no more than 3.0 metres. See Figure 9.
+
+[p15 | prose | 2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O]
+Figure 8: Fall heights where working platform has a slope of more than 20o.
+
+[p16 | prose | 2.17 CATCHING WIDTH WHERE THE SLOPE OF THE WORKING PLATFORM IS MORE THAN 20O]
+IN THIS SECTION:
+
+[p17 | prose | SECTION 3.0 // INSTALLING SAFETY NETS]
+SECTION 3.0 // INSTALLING SAFETY NETS
+
+[p17 | prose | SECTION 3.0 // INSTALLING SAFETY NETS]
+Safety net installation must be planned and include everyone who is involved in supplying, installing and using nets.
+
+[p17 | prose | 3.1 PLANNING]
+3.1 PLANNING
+
+[p17 | prose | 3.1 PLANNING]
+Plan the installation before installing a safety
+
+[p17 | prose | 3.1 PLANNING]
+net. You should consider:
+
+[p17 | prose | 3.1 PLANNING]
+> the installation (rigging) and dismantling
+
+[p17 | prose | 3.1 PLANNING]
+(striking) sequence
+
+[p17 | prose | 3.1 PLANNING]
+> providing and locating anchor points
+
+[p17 | prose | 3.1 PLANNING]
+> how to keep the right clearance distance
+
+[p17 | prose | below the safety net]
+below the safety net
+
+[p17 | prose | below the safety net]
+> the means of access for rigging and striking
+
+[p17 | prose | below the safety net]
+temporary repairs and removing debris, and
+
+[p17 | prose | > a rescue plan.]
+> a rescue plan.
+
+[p17 | prose | > a rescue plan.]
+Planning should include everyone involved in
+
+[p17 | prose | > a rescue plan.]
+supplying, installing and using nets, including:
+
+[p17 | prose | > the permanent works designer]
+> the permanent works designer
+
+[p17 | prose | > net supplier/installer]
+> net supplier/installer
+
+[p17 | prose | > main contractor/site supervisor]
+> main contractor/site supervisor
+
+[p17 | prose | > main contractor/site supervisor]
+> roofing contractor.
+
+[p17 | prose | 3.2 DESIGNER’S ROLE]
+3.2 DESIGNER’S ROLE
+
+[p17 | prose | 3.2 DESIGNER’S ROLE]
+The designer’s role includes:
+
+[p17 | prose | 3.2 DESIGNER’S ROLE]
+> designing suitable anchorage points
+
+[p17 | prose | 3.2 DESIGNER’S ROLE]
+> avoiding details that make safety net
+
+[p17 | prose | installation difficult or dangerous.]
+installation difficult or dangerous.
+
+[p17 | prose | 3.3 INSTALLER’S ROLE]
+3.3 INSTALLER’S ROLE
+
+[p17 | prose | 3.3 INSTALLER’S ROLE]
+The installer rigs (installs) and strikes
+
+[p17 | prose | 3.3 INSTALLER’S ROLE]
+(dismantles) the nets. Before starting
+
+[p17 | prose | 3.3 INSTALLER’S ROLE]
+installation, the installer should give the main
+
+[p17 | prose | contractor or site supervisor information about:]
+contractor or site supervisor information about:
+
+[p17 | prose | contractor or site supervisor information about:]
+> their training and qualifications2 for installing
+
+[p17 | prose | safety nets]
+safety nets
+
+[p17 | prose | > the testing, maintenance and energy]
+> the testing, maintenance and energy
+
+[p17 | prose | absorption capacity of the nets]
+absorption capacity of the nets
+
+[p17 | prose | absorption capacity of the nets]
+> the plant they intend to use to install
+
+[p17 | prose | the nets]
+the nets
+
+[p17 | prose | the nets]
+> the access facilities they need
+
+[p17 | prose | > the anchor points and/or fixing requirements]
+> the anchor points and/or fixing requirements
+
+[p17 | prose | > clearance distance requirements]
+> clearance distance requirements
+
+[p17 | prose | > a rescue plan]
+> a rescue plan
+
+[p17 | prose | > a rescue plan]
+> how to protect workers below the net.
+
+[p17 | prose | They should also:]
+They should also:
+
+[p17 | prose | They should also:]
+> check anchor points
+
+[p17 | prose | They should also:]
+> make sure anchor points are suitable for
+
+[p17 | prose | the loads]
+the loads
+
+[p17 | prose | the loads]
+> make sure the nets are fit for purpose
+
+[p17 | prose | the loads]
+> make sure there is enough clearance under
+
+[p17 | prose | the nets.]
+the nets.
+
+[p17 | prose | the nets.]
+Once the nets have been installed, the
+
+[p17 | prose | the nets.]
+installer should give handover documentation
+
+[p17 | prose | to the main contractor/site supervisor. The]
+to the main contractor/site supervisor. The
+
+[p17 | prose | to the main contractor/site supervisor. The]
+documents should verify the safety net system
+
+[p17 | prose | to the main contractor/site supervisor. The]
+is fit for purpose, as well as giving written
+
+[p17 | prose | instructions on:]
+instructions on:
+
+[p17 | prose | > rescue procedures]
+> rescue procedures
+
+[p17 | prose | > inspection procedures]
+> inspection procedures
+
+[p17 | prose | > inspection procedures]
+> removing debris from the nets.
+
+[p17 | prose | 2 e.g. FASET certification]
+2 e.g. FASET certification
+
+[p18 | prose | 2 e.g. FASET certification]
+The installer should also give verbal instructions on all procedures.
+
+[p18 | prose | 2 e.g. FASET certification]
+Everyone who may be involved in a rescue must have rescue training.
+
+[p18 | prose | 2 e.g. FASET certification]
+(See also section 4.11 Handover documentation).
+
+[p18 | prose | 3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES]
+3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES
+
+[p18 | prose | 3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES]
+The main contractor or site supervisor is responsible for:
+
+[p18 | prose | 3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES]
+> providing access for installation
+
+[p18 | prose | 3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES]
+> providing suitable anchorage points
+
+[p18 | prose | 3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES]
+> making sure ground conditions are suitable where mobile access equipment is needed.
+
+[p18 | prose | 3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES]
+The main contractor or site supervisor must also make sure:
+
+[p18 | prose | 3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES]
+> the installer has supplied the handover documentation
+
+[p18 | prose | 3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES]
+> all subcontractors and workers on site are instructed on the safety net’s purpose and function
+
+[p18 | prose | 3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES]
+> workers are trained to carry out a rescue
+
+[p18 | prose | 3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES]
+> someone is responsible for inspecting and maintaining the nets according to the supplier’s/installer’s instructions
+
+[p18 | prose | 3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES]
+> someone is responsible for maintaining clearance distances
+
+[p18 | prose | 3.4 MAIN CONTRACTOR OR SITE SUPERVISOR’S ROLES]
+> nets are not used as a storage area or to protect workers from falling debris.
+
+[p18 | prose | 3.5 SUPPLIER OR MANUFACTURER’S ROLE]
+3.5 SUPPLIER OR MANUFACTURER’S ROLE
+
+[p18 | prose | 3.5 SUPPLIER OR MANUFACTURER’S ROLE]
+Safety net suppliers or manufacturers must provide an instruction manual on how to safely install and use the nets.
+
+[p18 | prose | 3.6 SAFETY NET INSTALLATION HIERARCHY]
+3.6 SAFETY NET INSTALLATION HIERARCHY
+
+[p18 | prose | 3.6 SAFETY NET INSTALLATION HIERARCHY]
+A hierarchy of safety net installation minimises risk to the riggers. The hierarchy goes from low to high risk as follows:
+
+[p18 | prose | 3.6 SAFETY NET INSTALLATION HIERARCHY]
+1. At ground level with a remote anchorage attachment
+
+[p18 | prose | 3.6 SAFETY NET INSTALLATION HIERARCHY]
+2. Using a mobile elevating work platform (MEWP). See Figure 9.
+
+[p18 | prose | 3.6 SAFETY NET INSTALLATION HIERARCHY]
+3. Using a ladder for short-duration work, but only after carrying out a hazard assessment
+
+[p18 | prose | 3.6 SAFETY NET INSTALLATION HIERARCHY]
+4. Using rope access techniques.
+
+[p18 | prose | Notes:]
+Notes:
+
+[p18 | prose | Notes:]
+1. Mobile access towers (or mobile scaffold towers) are not recommended for installing safety nets as they can catch in the nets when moving around.
+
+[p18 | prose | Notes:]
+2. Rope access work is highly specialised. Only trained and competent people should do rope access work.
+
+[p18 | prose | Notes:]
+Figure 9: Safety net installation using a mobile elevating work platform.
+
+[p19 | prose | Notes:]
+IN THIS SECTION: 4.1 Inspecting nets before installation 4.2 Installation (generally) 4.3 Net access 4.4 Anchor points 4.5 Attaching safety nets to steel structures 4.6 Attaching safety nets to timber structures 4.7 Under-rolling 4.8 Eaves bagging 4.9 Gaps at net edges 4.10 Joining and overlapping nets 4.11 Handover documentation 4.12 Dismantling (striking)
+
+[p20 | prose | Before installation, safety nets must be inspected for damage or defects. Do not use nets that are damaged or have defects.]
+Before installation, safety nets must be inspected for damage or defects. Do not use nets that are damaged or have defects.
+
+[p20 | prose | Before installation, safety nets must be inspected for damage or defects. Do not use nets that are damaged or have defects.]
+Safety nets must have the manufacturer’s and removable test mesh labels. Do not use nets that do not have labels attached.
+
+[p20 | prose | 4.1 INSPECTING NETS BEFORE INSTALLATION]
+4.1 INSPECTING NETS BEFORE INSTALLATION
+
+[p20 | prose | 4.1 INSPECTING NETS BEFORE INSTALLATION]
+Before installing the nets, the installer should: > examine the safety nets on both sides for damage or defects > check the net’s labels (manufacturer’s and removable test mesh) are displayed, current and valid. If the installer finds any damage or defects, the net should not be used. If the damage is reparable, the net may be repaired; otherwise it must be withdrawn from service. If a label is not attached, or the label’s information is not legible, do not use the net.
+
+[p20 | prose | 4.2 INSTALLATION (GENERALLY)]
+4.2 INSTALLATION (GENERALLY)
+
+[p20 | prose | 4.2 INSTALLATION (GENERALLY)]
+> Install safety nets as close as possible to the work platform. > Rig safety nets to follow the roof line. > Nets should not restrict the construction work. Ceiling battens must not be installed until the safety nets have been removed. If they are installed before or with safety nets in place, the battens will be the first obstacle the falling person hits. Before installing nets near live wires or overhead power cables, contact the line owner to make the wires or cabling safe.
+
+[p20 | prose | 4.3 NET ACCESS]
+4.3 NET ACCESS
+
+[p20 | prose | 4.3 NET ACCESS]
+Nets must be easily accessible to carry out a rescue or clear debris. Provide access by: > installing the nets next to a work platform > installing the nets next to the work platform’s access point > providing an access platform next to the net. People should be able to remove debris from the nets without walking on them. Do not use safety nets to collect debris, for storage, as a work platform, or for providing access to a work platform.
+
+[p20 | prose | 4.4 ANCHOR POINTS]
+4.4 ANCHOR POINTS
+
+[p20 | prose | 4.4 ANCHOR POINTS]
+Safety nets are attached with tie ropes or karabiners to the supporting structure or to specifically-designed anchor points on the structure. Based on a maximum fall height of 6 metres and an assumed load angle of 45° to the horizontal, each anchor point should have a 6 kN minimum load-carrying capacity—see Figure 10. The combined load-carrying capacity of the supporting structure applied over three adjacent anchor points should be at least 4 kN, 6 kN, 4 kN.
+
+[p21 | prose | 4.6 ATTACHING SAFETY NETS TO TIMBER STRUCTURES]
+4.6 ATTACHING SAFETY NETS TO TIMBER STRUCTURES
+
+[p21 | prose | 4.6 ATTACHING SAFETY NETS TO TIMBER STRUCTURES]
+Safety nets may be attached to timber structures such as rafters and top plates. Do not attach safety nets to timber purlins or ceiling battens.
+
+[p21 | prose | 4.6 ATTACHING SAFETY NETS TO TIMBER STRUCTURES]
+The maximum distance between anchor points according to BS EN 1263-2 is 2.5 metres but WorkSafe NZ recommends installing anchor points at between 1.5 and 2.0 metre centres. Safety nets used in residential, timber frame construction may need to be attached at closer centres. Anchor points and the supporting structure that the safety nets are fastened to must not have sharp edges that could rub on the tie ropes.
+
+[p21 | prose | 4.5 ATTACHING SAFETY NETS TO STEEL STRUCTURES]
+4.5 ATTACHING SAFETY NETS TO STEEL STRUCTURES
+
+[p21 | prose | 4.5 ATTACHING SAFETY NETS TO STEEL STRUCTURES]
+Safety nets may be attached directly to hot-rolled, structural steel members such as trusses, rafters, portal frames and purlin support cleats. Do not attach safety nets to gutter supports, pipework or electrical service installations. Cold-formed sections such as purlins, ceiling battens and scaffolding tubes should not be used unless calculations show they are strong enough for the load.
+
+[p21 | prose | 4.7 UNDER-ROLLING]
+4.7 UNDER-ROLLING
+
+[p21 | prose | 4.7 UNDER-ROLLING]
+Safety nets should be at least 10% larger (along both sides) than the area requiring protection (see section 2.15 Over-tensioning and under-tensioning). Reduce the net size to fit by under-rolling. This is a preferred method of reducing the net size as it distributes the load on the net evenly and gives a strong edge for the tie rope or other attachment system. In some situations, such as when the netting must be installed from a ladder, under-rolling the net on a ladder may put the installer at more risk than gathering, so gathering may be a better option.
+
+[p21 | prose | 4.8 EAVES BAGGING]
+4.8 EAVES BAGGING
+
+[p21 | prose | 4.8 EAVES BAGGING]
+Where anchor points are widely spaced (see section 4.4 Anchor points), the safety net’s edge may pull in or ‘waist’, leaving a gap that a person could fall through. If waisting occurs, make an ‘eaves bag’ by folding approximately 2.0 metres of net back on itself and stitching the sides together to create a bag around 1.0 metre deep. See Figure 12.
+
+[p22 | prose | 4.9 GAPS AT NET EDGES]
+4.9 GAPS AT NET EDGES
+
+[p22 | prose | 4.9 GAPS AT NET EDGES]
+There should be no gaps between the safety net and the adjacent structure. If unavoidable, gaps of up to 100mm are allowed. If there are obstructions (for example, around columns), a gap of no more than 225 mm is allowed but it must not be able to get any larger.
+
+[p22 | prose | 4.10 JOINING AND OVERLAPPING NETS]
+4.10 JOINING AND OVERLAPPING NETS
+
+[p22 | prose | 4.10 JOINING AND OVERLAPPING NETS]
+If more than one net is needed to protect an area, join nets by: > lacing, or > overlapping. Safety nets can be laced together using a coupling rope with a minimum 7.5 kN breaking strain (type O or greater as defined in BS EN 1263-1). The coupling rope must pass through every second mesh and around both border ropes. Tie the ends off at the corners. The completed lacing should give a join with gaps no more than 100mm.
+
+[p22 | prose | 4.10 JOINING AND OVERLAPPING NETS]
+If joining nets by overlapping, the overlap must be at least 2.0 metres (or 20 meshes) wide, measured at the narrowest point for the entire length of the overlap. Nets that follow the slope of the roof should be installed with the upper net overlapping the lower net (referred to as ‘tiling’) so that if a person falls, they will not roll down the pitch and off the open end.
+
+[p22 | prose | 4.11 HANDOVER DOCUMENTATION]
+4.11 HANDOVER DOCUMENTATION
+
+[p22 | prose | 4.11 HANDOVER DOCUMENTATION]
+Once installed, the installer must inspect the safety net to make sure it is correctly installed and fit for purpose. They must then give handover documentation to the main contractor or site supervisor that includes: > confirmation that all safety net components comply with BS EN 1263: parts 1 or equivalent > confirmation that the safety net was installed in accordance with BS 8411 and BS EN 1263-2 or equivalent > a description of the area being ‘handed over’ > evidence that the safety nets were tested within the past 12 months.
+
+[p23 | prose | 4.11 HANDOVER DOCUMENTATION]
+> an instruction manual for the nets including information on: > installation, use and dismantling > storage, care and inspection > dates for testing test meshes > conditions for removing safety nets from service > hazards (such as heat, chemicals, etc) > written instructions on rescue, inspection and debris removal procedures > the name of the person who inspected the net, the handover date, and the signature of the person receiving the handover documentation. The main contractor or site supervisor must keep the documentation on site for the duration of the construction project. The safety net system should have a label with the: > installer’s name > handover date > description and area of net > net serial or ID numbers > clearance distance needed under the nets. If there is no handover documentation, you should regard the nets as unsuitable for use. Do not carry out work above the nets until the installer provides documentation.
+
+[p23 | prose | 4.12 DISMANTLING (STRIKING)]
+4.12 DISMANTLING (STRIKING)
+
+[p23 | prose | 4.12 DISMANTLING (STRIKING)]
+Dismantling (striking) safety nets is the reverse process to installation. Safety nets should only be dismantled by trained installers who can identify and mark net damage. Plan the dismantling process during the net installation planning stage, to recover the nets safely and intact. Do not drop nets to the ground in an uncontrolled way during dismantling, as damaged nets may not be able to be re-used.
+
+[p24 | prose | 4.12 DISMANTLING (STRIKING)]
+05/ RESCUE PLAN
+
+[p25 | prose | A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.]
+A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.
+
+[p25 | prose | A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.]
+Rescue operations will vary depending on the site, location of the fall and extent of the injuries to the person who has fallen.
+
+[p25 | prose | A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.]
+The main contractor or site supervisor is responsible for making sure that:
+
+[p25 | prose | A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.]
+> a rescue can be carried out, and
+
+[p25 | prose | A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.]
+> all workers on the site know what the rescue plan is and their role in a rescue, if needed.
+
+[p25 | prose | A rescue plan must be in place before any work above the nets begins. Equipment needed for the rescue must be available at all times.]
+If possible, carry out a practice rescue before starting work above the safety net.
+
+[p26 | prose | 06/]
+06/
+
+[p26 | prose | RESCUE PLAN INSPECTIONS, TESTING, MAINTENANCE AND REPAIR]
+RESCUE PLAN INSPECTIONS, TESTING, MAINTENANCE AND REPAIR
+
+[p26 | prose | IN THIS SECTION:]
+IN THIS SECTION:
+
+[p26 | prose | IN THIS SECTION:]
+6.1 Inspections 6.2 General testing 6.3 Testing for UV deterioration 6.4 Debris in the net 6.5 Net care 6.6 Damaged safety nets 6.7 Repairing safety nets and ropes 6.8 Repairing a knotless safety net 6.9 Repairing a knotted safety net 6.10 Storing safety nets 6.11 Further information
+
+[p27 | prose | IN THIS SECTION:]
+Visual inspections must be carried out regularly. If a net does not pass a visual inspection, do not use it.
+
+[p27 | prose | 6.1 INSPECTIONS]
+6.1 INSPECTIONS
+
+[p27 | prose | 6.1 INSPECTIONS]
+Visual inspections of the safety nets must be carried out regularly by a competent person (see section 1.4 Definitions). An inspection regime is given in Table 3. Records of all inspections must be kept on site.
+
+[p27 | table | 6.1 INSPECTIONS]
+| Carry out sual nspecti S | By tl |
+| --- | --- |
+| when the net is installed | installer |
+| daily before use | user |
+| weekly | site supervisor |
+| after adverse weather | site supervisor |
+
+[p27 | prose | 6.1 INSPECTIONS]
+Table 3: Frequency of net inspections.
+
+[p27 | prose | 6.1 INSPECTIONS]
+Visual inspections include checking for:
+
+[p27 | prose | 6.1 INSPECTIONS]
+> incorrect installation
+
+[p27 | prose | 6.1 INSPECTIONS]
+> mesh abrasion
+
+[p27 | prose | 6.1 INSPECTIONS]
+> cuts or nicks in mesh
+
+[p27 | prose | 6.1 INSPECTIONS]
+> heat or friction damage to mesh
+
+[p27 | prose | 6.1 INSPECTIONS]
+> stitching damage
+
+[p27 | prose | 6.1 INSPECTIONS]
+> damaged or deformed fittings
+
+[p27 | prose | 6.1 INSPECTIONS]
+> dirt or debris in the net
+
+[p27 | prose | 6.1 INSPECTIONS]
+> defects in knots (if knotted mesh)
+
+[p27 | prose | 6.1 INSPECTIONS]
+> UV degradation (although generally not seen with visual inspection).
+
+[p27 | prose | 6.1 INSPECTIONS]
+If a net does not pass the visual inspection, do not use it. Either remove and repair it, or take it out of service permanently.
+
+[p27 | prose | 6.1 INSPECTIONS]
+Minimum ongoing net inspection requirements are described in BS EN 1263-1: Annex B.
+
+[p27 | prose | 6.2 GENERAL TESTING]
+6.2 GENERAL TESTING
+
+[p27 | prose | 6.2 GENERAL TESTING]
+General testing includes:
+
+[p27 | prose | 6.2 GENERAL TESTING]
+> visual examination (see 6.1)
+
+[p27 | prose | 6.2 GENERAL TESTING]
+> measuring the net
+
+[p27 | prose | 6.2 GENERAL TESTING]
+> weighing the net.
+
+[p27 | prose | 6.2 GENERAL TESTING]
+Test methods and requirements are described in BS EN 1263-1: clause 7.
+
+[p27 | prose | 6.3 TESTING FOR UV DETERIORATION]
+6.3 TESTING FOR UV DETERIORATION
+
+[p27 | prose | 6.3 TESTING FOR UV DETERIORATION]
+Test safety nets at least every 12 months to determine the amount of UV deterioration and to make sure the manufacturer’s minimum energy absorption capacity will be maintained for the next 12 months.
+
+[p27 | prose | 6.3 TESTING FOR UV DETERIORATION]
+Test meshes (see section 2.9 Removable test mesh) are attached to the safety net and removed one at a time for annual testing. Test meshes must remain attached to the net until needed for testing. Do not use test meshes for any other purpose.
+
+[p27 | prose | 6.3 TESTING FOR UV DETERIORATION]
+Nets more than 12 months old must have a current test tag or label attached to the net to confirm the net met the manufacturer’s energy absorption capacity requirements at the most recent testing. Keep the corresponding certificate with details on site. The test tag and certificate must not expire while the net is in use.
+
+[p27 | prose | 6.3 TESTING FOR UV DETERIORATION]
+Test methods for UV deterioration are described in BS EN 1263-1: clause 7.7.
+
+[p28 | prose | 6.4 DEBRIS IN THE NET]
+6.4 DEBRIS IN THE NET
+
+[p28 | prose | 6.4 DEBRIS IN THE NET]
+Safety nets catch a falling person, but they will also catch falling debris. Debris can damage the net, and if left in the net is a hazard because it might: > injure a falling person > cause the net to overload and deflect excessively > increase the net sag and fall distance.
+
+[p28 | prose | 6.4 DEBRIS IN THE NET]
+When debris falls onto a safety net, immediately stop work above and below the net. Remove the debris, and have the net checked for damage by a competent person before work continues. WorkSafe NZ recommends one person on site is responsible for keeping safety nets free of debris. Note: Snow on the safety net can overload the net and cause excessive deflection.
+
+[p28 | prose | 6.5 NET CARE]
+6.5 NET CARE
+
+[p28 | prose | 6.5 NET CARE]
+Do not damage nets during handling and storage. Damage may occur from: > prolonged UV exposure > sharp objects > abrasion > sparks or exposure to heat from welding, grinding or burning
+
+[p28 | prose | 6.5 NET CARE]
+> adverse weather such as strong winds > significant load or impact. When handling nets during rigging or striking: > do not drag nets across the ground > avoid contact with sharp edges. When installing nets, do not: > stack material onto the net > let debris accumulate in the net > allow people to jump or throw objects into the net.
+
+[p28 | prose | 6.6 DAMAGED SAFETY NETS]
+6.6 DAMAGED SAFETY NETS
+
+[p28 | prose | 6.6 DAMAGED SAFETY NETS]
+Do not use damaged nets (see section 6.1 Inspections). Following impact from a heavy object (such as a person or debris), the safety net should be checked by a competent person and if necessary, repaired or taken out of service.
+
+[p28 | prose | 6.7 REPAIRING SAFETY NETS AND ROPES]
+6.7 REPAIRING SAFETY NETS AND ROPES
+
+[p28 | prose | 6.7 REPAIRING SAFETY NETS AND ROPES]
+Safety nets must be repaired by a competent person (i.e. someone who has completed a recognised 3 training course within the past 5 years). Nets should preferably be repaired in a controlled environment, away from the site.
+
+[p28 | prose | 6.7 REPAIRING SAFETY NETS AND ROPES]
+Repairs must be made using new material that is similar to the net mesh cord and recommended for use by the manufacturer. Cable ties must not be used as a net repair, although they may be used to hold a patch in place before stitching or to tie up the loose ends of a patch.
+
+[p29 | prose | SECTION 6.0 // INSPECTIONS, TESTING, MAINTENANCE AND REPAIR]
+SECTION 6.0 // INSPECTIONS, TESTING, MAINTENANCE AND REPAIR
+
+[p29 | prose | SECTION 6.0 // INSPECTIONS, TESTING, MAINTENANCE AND REPAIR]
+A label showing the repairer and date of
+
+[p29 | prose | SECTION 6.0 // INSPECTIONS, TESTING, MAINTENANCE AND REPAIR]
+repair must be fixed to the net next to the
+
+[p29 | prose | manufacturer’s label. The repairs must also]
+manufacturer’s label. The repairs must also
+
+[p29 | prose | manufacturer’s label. The repairs must also]
+be recorded and another handover certificate
+
+[p29 | prose | manufacturer’s label. The repairs must also]
+(see section 4.11 Handover documentation),
+
+[p29 | prose | manufacturer’s label. The repairs must also]
+confirming that the safety net remains fit
+
+[p29 | prose | manufacturer’s label. The repairs must also]
+for purpose, should be given to the main
+
+[p29 | prose | contractor or site supervisor.]
+contractor or site supervisor.
+
+[p29 | prose | contractor or site supervisor.]
+Border rope repairs must be made using rope
+
+[p29 | prose | with at least 30kN tensile strength. Repairs]
+with at least 30kN tensile strength. Repairs
+
+[p29 | prose | with at least 30kN tensile strength. Repairs]
+may be spliced or machine sewn but must not
+
+[p29 | prose | with at least 30kN tensile strength. Repairs]
+be knotted. Repairs to the net selvedge should
+
+[p29 | prose | with at least 30kN tensile strength. Repairs]
+maintain the original strength of the net.
+
+[p29 | prose | with at least 30kN tensile strength. Repairs]
+Damaged tie ropes should not be used.
+
+[p29 | prose | C-Ring and other proprietary repair systems]
+C-Ring and other proprietary repair systems
+
+[p29 | prose | C-Ring and other proprietary repair systems]
+may only be used on safety net systems if they
+
+[p29 | prose | C-Ring and other proprietary repair systems]
+have been approved by the manufacturer as
+
+[p29 | prose | suitable for that net.]
+suitable for that net.
+
+[p29 | prose | 6.8 REPAIRING A KNOTLESS SAFETY NET]
+6.8 REPAIRING A KNOTLESS SAFETY NET
+
+[p29 | prose | 6.8 REPAIRING A KNOTLESS SAFETY NET]
+When multiple meshes of a knotless net are
+
+[p29 | prose | 6.8 REPAIRING A KNOTLESS SAFETY NET]
+damaged, the net should be repaired using
+
+[p29 | prose | 6.8 REPAIRING A KNOTLESS SAFETY NET]
+new patch material that has been approved
+
+[p29 | prose | 6.8 REPAIRING A KNOTLESS SAFETY NET]
+by the manufacturer as being suitable for their
+
+[p29 | prose | 6.8 REPAIRING A KNOTLESS SAFETY NET]
+net, and which complies with BS EN 1263-1.
+
+[p29 | prose | 6.8 REPAIRING A KNOTLESS SAFETY NET]
+The repair should overlap the entire area that
+
+[p29 | prose | 6.8 REPAIRING A KNOTLESS SAFETY NET]
+is damaged by at least one mesh.
+
+[p29 | prose | 6.8 REPAIRING A KNOTLESS SAFETY NET]
+A patch may be laced to the safety net using
+
+[p29 | prose | 6.8 REPAIRING A KNOTLESS SAFETY NET]
+lacing repair twine to attach all meshes
+
+[p29 | prose | (both the inside and perimeter meshes).]
+(both the inside and perimeter meshes).
+
+[p29 | prose | (both the inside and perimeter meshes).]
+Alternatively cable ties may be used to attach
+
+[p29 | prose | (both the inside and perimeter meshes).]
+the inside meshes of the patch but perimeter
+
+[p29 | prose | (both the inside and perimeter meshes).]
+meshes must be laced using repair twine.
+
+[p29 | prose | (both the inside and perimeter meshes).]
+Single mesh repairs should extend at least one
+
+[p29 | prose | square past the damage, and the repair twine]
+square past the damage, and the repair twine
+
+[p29 | prose | square past the damage, and the repair twine]
+must cross the damaged hole twice. Repairs
+
+[p29 | prose | square past the damage, and the repair twine]
+should not overlap.
+
+[p29 | prose | square past the damage, and the repair twine]
+Repair twine should be at least 3mm thick and
+
+[p29 | prose | square past the damage, and the repair twine]
+double knotted on either side of each node.
+
+[p29 | prose | 6.9 REPAIRING A KNOTTED SAFETY NET]
+6.9 REPAIRING A KNOTTED SAFETY NET
+
+[p29 | prose | 6.9 REPAIRING A KNOTTED SAFETY NET]
+A knotted safety net should be repaired
+
+[p29 | prose | 6.9 REPAIRING A KNOTTED SAFETY NET]
+using new repair twine of the same type and
+
+[p29 | prose | 6.9 REPAIRING A KNOTTED SAFETY NET]
+thickness as the original net and has been
+
+[p29 | prose | 6.9 REPAIRING A KNOTTED SAFETY NET]
+approved by the manufacturer as being
+
+[p29 | prose | suitable for their net.]
+suitable for their net.
+
+[p29 | prose | suitable for their net.]
+Cable ties must not be used to connect the
+
+[p29 | prose | suitable for their net.]
+repair twine. Knotted nets should not be
+
+[p29 | prose | suitable for their net.]
+repaired using a knotless patch repair.
+
+[p29 | prose | suitable for their net.]
+The repairer must be competent in the repair
+
+[p29 | prose | suitable for their net.]
+of knotted nets. This is usually carried out by
+
+[p29 | prose | the manufacturer.]
+the manufacturer.
+
+[p29 | prose | 6.10 STORING SAFETY NETS]
+6.10 STORING SAFETY NETS
+
+[p29 | prose | Store safety nets:]
+Store safety nets:
+
+[p29 | prose | > undercover]
+> undercover
+
+[p29 | prose | > in dry conditions]
+> in dry conditions
+
+[p29 | prose | > in dry conditions]
+> protected from UV
+
+[p29 | prose | > away from heat sources and materials or]
+> away from heat sources and materials or
+
+[p29 | prose | > away from heat sources and materials or]
+substances that could cause damage, like
+
+[p29 | prose | acids, dyes, solvents and oil.]
+acids, dyes, solvents and oil.
+
+[p29 | prose | acids, dyes, solvents and oil.]
+If a safety net has been stored for more than
+
+[p29 | prose | acids, dyes, solvents and oil.]
+12 months, it must be inspected and tested for
+
+[p29 | prose | acids, dyes, solvents and oil.]
+UV deterioration before being re-used.
+
+[p29 | prose | 6.11 FOR MORE INFORMATION]
+6.11 FOR MORE INFORMATION
+
+[p29 | prose | FASET (Fall Arrest Safety Equipment Training)]
+FASET (Fall Arrest Safety Equipment Training)
+
+[p29 | prose | FASET (Fall Arrest Safety Equipment Training)]
+have technical bulletins that address technical
+
+[p29 | prose | FASET (Fall Arrest Safety Equipment Training)]
+and safety matters surrounding the safe use of
+
+[p29 | prose | FASET (Fall Arrest Safety Equipment Training)]
+nets. See www.faset.org.uk.
+
+[p30 | prose | 07/]
+07/
+
+[p30 | prose | 07/]
+APPENDIX A IN THIS SECTION: 7.1 Visual inspection checklist
+
+[p31 | prose | 7.1 VISUAL INSPECTION CHECKLIST]
+7.1 VISUAL INSPECTION CHECKLIST
+
+[p31 | table | 7.1 VISUAL INSPECTION CHECKLIST]
+| Checklist for safety net inspections | Y/N |  |
+| --- | --- | --- |
+| Are the nets correctly labelled? |  |  |
+| Are the labels current (i.e. less than 12 months old)? |  |  |
+| Are there distortions in the line or appearance of the nets or supporting framework? |  |  |
+| Has a net been used to arrest a fall or had a load imposed on it (appears as deformation of the net)? |  |  |
+| Has debris or an imposed load damaged the net? |  |  |
+| Are anchorage points intact and good order? |  |  |
+| Is the net clear of debris? |  |  |
+| Are cuts or fraying of the mesh cord, tie ropes, etc visible? |  |  |
+| Is there any other visible damage to the safety net system? |  |  |
+
+[p31 | prose | 7.1 VISUAL INSPECTION CHECKLIST]
+If any of the checks have a ‘yes’ response, nets should either be removed and repaired, or taken out of service permanently.
+
+[p32 | prose | 08/]
+08/
+
+[p32 | appendix | APPENDIX B]
+APPENDIX B
+
+[p32 | appendix | APPENDIX B]
+IN THIS SECTION: 8.1 Handover checklist
+
+[p33 | prose | 8.1 HANDOVER CHECKLIST]
+8.1 HANDOVER CHECKLIST
+
+[p33 | table | 8.1 HANDOVER CHECKLIST]
+| Checklist for handover documentati | Y/N |
+| --- | --- |
+| Are nets in good condition, been tested in the previous 12 months and have a valid ID and current test label attached? |  |
+| Have the nets been installed as close as is reasonably practicable to the underside of the work platform? |  |
+| Are all gaps between net and structure less than 100 mm? |  |
+| Are attachment points a maximum of 2.5 m apart for tie ropes; 1.8 m apart for Grippas; 1.5-2.0 m apart for net claws? |  |
+| Does the net sag between 5-10% of the shortest side of the net? |  |
+| If overlapped, are overlaps at least 2.0 m and tiled correctly? |  |
+| If laced, has 8 mm lacing/12 mm rope ties been used and any gaps are less than 100mm? |  |
+| Are the knots tied correctly? |  |
+| Are all the nets attached to the structure/anchor points correctly? |  |
+| Is the net under-rolled correctly? |  |
+| Are there any materials/obstacles less than 3.0 m below the netted area? |  |
+| Do people working above the nets need to take additional safety measures e.g. a harness? |  |
+
+[p34 | prose | Notes]
+Notes
+
+[p36 | prose | Notes]
+New Zealand Government WORKSAFE NEW ZEALAND
