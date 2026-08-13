@@ -24,3 +24,9 @@ SAMPLE_PDF = (
     / "pcbus_working_together"
     / "PCBUs-Working-Together-GPG.pdf"
 )
+
+# ChromaDB / vectorstore configuration
+# Single source-of-truth: collection name and where to persist the DB on disk.
+# Change CHROMA_COLLECTION_NAME here if a new version is created (e.g. hs_construction_v2).
+CHROMA_COLLECTION_NAME = "hs_construction_v1"
+CHROMA_PERSIST_DIR = PROJECT_ROOT / "vectorstore"
