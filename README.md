@@ -81,3 +81,31 @@ We collaborate on GitHub. To keep things simple and avoid clashes:
 3. Work in your area of the project.
 4. Open a Pull Request when you're ready, so the team can review before it
    merges into `main`.
+
+---
+
+## ChromaDB persistence (vectorstore)
+
+This project uses ChromaDB as a local, on-disk vector store. The persisted files live
+under the repository root in the `vectorstore/` folder and are intentionally not
+committed to git.
+
+Why not commit the vectorstore?
+
+- The persisted embeddings are large and binary; they don't suit diffs or code review.
+- Vector stores are environment-specific and can be rebuilt by ingestion when needed.
+
+How to inspect the persisted collection locally
+
+After installing the project's dependencies (see "Getting started"), run the
+verification script which opens the named collection defined in code and prints
+its item count (works even when the collection is empty):
+
+```bash
+python scripts/check_chroma_collection.py
+```
+
+The collection name is defined centrally in `src/config/settings.py` as
+`CHROMA_COLLECTION_NAME`. To open a different collection name for debugging pass
+`--collection NAME` to the script.
+
