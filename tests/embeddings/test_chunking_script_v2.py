@@ -100,7 +100,17 @@ def cleaned_file(tmp_path):
 
 @pytest.fixture
 def chunks(tmp_path, cleaned_file):
-    return chunking.chunk_document(cleaned_file, tmp_path / "doc-a-CHUNKS.json")
+    # Small thresholds so this handful of short fixture elements still
+    # produces multiple distinct chunks, the way a real multi-thousand
+    # character document would under the real defaults.
+    return chunking.chunk_document(
+        cleaned_file,
+        tmp_path / "doc-a-CHUNKS.json",
+        target_chars=40,
+        max_chars=200,
+        min_chars=10,
+        overlap_chars=0,
+    )
 
 
 @pytest.fixture
@@ -134,19 +144,25 @@ def test_every_chunk_has_the_required_metadata(chunks):
 
 
 def test_metadata_field_names_match_the_sprint_1_contract(chunks):
-    # Story 2 DoD: the field names must match the chunking script exactly.
+    # Story 2 DoD: the locked field names must still be exactly as Sprint 1
+    # defined them. page_start/page_end are additive.
     assert set(chunks[0]) <= {
         "chunk_id",
         "text",
         "source_file",
         "page_number",
+        "page_start",
+        "page_end",
         "section_heading",
         "chunk_type",
     }
 
 
-def test_chunk_type_preserved_for_a_homogeneous_section(chunks):
-    table_chunks = [c for c in chunks if c["section_heading"] == "Hazard summary"]
+def test_table_elements_are_always_typed_table(chunks):
+    # chunk_document derives section_heading from Title elements it walks, not
+    # from the input record's own section_heading field, so a table's chunk
+    # inherits whatever heading is in force rather than the fixture's label.
+    table_chunks = [c for c in chunks if "| Hazard |" in c["text"]]
 
     assert table_chunks
     assert all(c["chunk_type"] == "table" for c in table_chunks)
@@ -186,34 +202,77 @@ def test_output_file_matches_the_returned_chunks(tmp_path, cleaned_file):
     assert json.loads(output.read_text(encoding="utf-8")) == returned
 
 
-def test_a_long_section_is_split_with_overlap(tmp_path):
-    sentences = " ".join(f"Sentence number {i} about site safety." for i in range(400))
-    records = [
-        {
-            "text": sentences,
-            "source_file": "long.pdf",
-            "page_number": 1,
-            "element_type": "NarrativeText",
-            "section_heading": "Long section",
-            "chunk_type": "prose",
-        }
-    ]
+def _element(text, page_number, element_type="NarrativeText", source_file="long.pdf"):
+    return {
+        "text": text,
+        "source_file": source_file,
+        "page_number": page_number,
+        "element_type": element_type,
+        "section_heading": "",
+        "chunk_type": "prose",
+    }
+
+
+def test_many_small_elements_are_packed_up_to_the_target(tmp_path):
+    # 40 elements of ~25 chars each, well past target_chars=200 in aggregate,
+    # each far too small to be its own chunk under the real 300-char minimum.
+    records = [_element(f"Sentence number {i} here.", 1) for i in range(40)]
     source = tmp_path / "long-CLEANED.json"
     source.write_text(json.dumps(records), encoding="utf-8")
 
     produced = chunking.chunk_document(
-        source, tmp_path / "long-CHUNKS.json", chunk_size=1000, chunk_overlap=200
+        source,
+        tmp_path / "long-CHUNKS.json",
+        target_chars=200,
+        max_chars=300,
+        min_chars=50,
+        overlap_chars=0,
     )
 
     assert len(produced) > 1
-    assert all(len(c["text"]) <= 1000 for c in produced)
+    assert all(len(c["text"]) <= 300 for c in produced)
+    assert all(len(c["text"]) >= 50 for c in produced[:-1])  # last may be a short remainder
 
 
-def test_page_number_is_the_first_page_of_the_section(chunks):
-    heights = [c for c in chunks if c["section_heading"] == "Working at height"]
+def test_consecutive_chunks_share_overlap_text(tmp_path):
+    records = [_element(f"Sentence number {i} about site safety here today.", 1) for i in range(30)]
+    source = tmp_path / "overlap-CLEANED.json"
+    source.write_text(json.dumps(records), encoding="utf-8")
 
-    assert heights
-    assert all(c["page_number"] == 2 for c in heights)
+    produced = chunking.chunk_document(
+        source,
+        tmp_path / "overlap-CHUNKS.json",
+        target_chars=200,
+        max_chars=400,
+        min_chars=50,
+        overlap_chars=100,
+    )
+
+    assert len(produced) > 1
+    # The tail of one chunk should reappear at the head of the next.
+    first_tail_words = produced[0]["text"].split()[-5:]
+    assert " ".join(first_tail_words) in produced[1]["text"]
+
+
+def test_page_start_and_end_span_a_multi_page_chunk(tmp_path):
+    records = [
+        _element("Row one of the section.", 5),
+        _element("Row two, still the same section.", 5),
+        _element("Row three, now on the next page.", 6),
+    ]
+    source = tmp_path / "pages-CLEANED.json"
+    source.write_text(json.dumps(records), encoding="utf-8")
+
+    # Thresholds high enough that all three elements land in one chunk.
+    produced = chunking.chunk_document(
+        source, tmp_path / "pages-CHUNKS.json", target_chars=1000, min_chars=1000
+    )
+
+    assert len(produced) == 1
+    chunk = produced[0]
+    assert chunk["page_start"] == 5
+    assert chunk["page_end"] == 6
+    assert chunk["page_number"] == chunk["page_start"]
 
 
 # =====================================================
@@ -532,19 +591,19 @@ def test_records_carry_the_pipeline_provenance(chunk_file, memory_collection):
 
     assert metadata["pipeline_version"] == chunking.PIPELINE_VERSION
     assert metadata["embedding_model"] == chunking.EMBEDDING_MODEL
-    assert metadata["chunk_size"] == chunking.CHUNK_SIZE
-    assert metadata["chunk_overlap"] == chunking.CHUNK_OVERLAP
+    assert metadata["chunk_target_chars"] == chunking.CHUNK_TARGET_CHARS
+    assert metadata["chunk_overlap_chars"] == chunking.CHUNK_OVERLAP_CHARS
 
 
 def test_provenance_reflects_the_config_actually_used(chunk_file, memory_collection):
     chunking.ingest_to_chromadb(
-        chunk_file, chunk_size=1000, chunk_overlap=200, client=StubOpenAIClient()
+        chunk_file, target_chars=1000, overlap_chars=200, client=StubOpenAIClient()
     )
 
     metadata = memory_collection.get(include=["metadatas"])["metadatas"][0]
 
-    assert metadata["chunk_size"] == 1000
-    assert metadata["chunk_overlap"] == 200
+    assert metadata["chunk_target_chars"] == 1000
+    assert metadata["chunk_overlap_chars"] == 200
 
 
 def test_provenance_does_not_displace_the_locked_schema(chunk_file, memory_collection):
@@ -561,3 +620,242 @@ def test_summary_reports_what_happened(chunk_file, memory_collection, chunks):
     assert summary["chunks_embedded"] == len(chunks)
     assert summary["stale_removed"] == 0
     assert summary["pipeline_version"] == chunking.PIPELINE_VERSION
+
+
+# =====================================================
+# ADAPTIVE HEADING DETECTION (CHUNKING QUALITY FIX)
+# =====================================================
+
+def test_numbered_headings_are_always_structural():
+    assert chunking._is_structural_heading("1.3 Contracting duties")
+    assert chunking._is_structural_heading("2. Scope")
+
+
+def test_short_all_caps_lines_are_structural():
+    assert chunking._is_structural_heading("KEY POINTS")
+
+
+def test_a_long_all_caps_line_is_not_structural():
+    shouting = "THIS LINE IS DELIBERATELY WRITTEN TO BE MUCH TOO LONG TO EVER COUNT AS A REAL SECTION HEADING LABEL"
+    assert len(shouting) > 80  # guards the test itself against silently shrinking below the cap
+    assert not chunking._is_structural_heading(shouting)
+
+
+def test_mid_sentence_fragments_do_not_look_like_structural_headings():
+    # The exact class of fragment that caused the original bug: a PDF line
+    # wrap tagged Title by the extractor, capitalised only by coincidence.
+    assert not chunking._is_structural_heading("Work Act 2015 (HSWA), illustrate different")
+
+
+@pytest.mark.parametrize(
+    "text",
+    [
+        "your duties under the Health and Safety at",  # starts lowercase: a continuation
+        "Use of the guide, illustrate different points.",  # ends in a full stop: a real sentence
+    ],
+)
+def test_looks_like_heading_shape_rejects_fragment_shapes(text):
+    assert not chunking._looks_like_heading_shape(text)
+
+
+def test_looks_like_heading_shape_accepts_a_short_title_case_label():
+    assert chunking._looks_like_heading_shape("Key terms")
+    assert chunking._looks_like_heading_shape("Emergency procedures")
+
+
+def test_is_section_heading_requires_a_finished_previous_sentence_for_shape_matches():
+    # "Work Act 2015 (HSWA), illustrate different" only looks heading-shaped
+    # because "Work" happens to be capitalised — it is really a continuation
+    # of the unfinished previous line, so it must be rejected...
+    assert not chunking.is_section_heading(
+        "Work Act 2015 (HSWA), illustrate different",
+        allow_shape=True,
+        previous_text="your duties under the Health and Safety at",
+    )
+    # ...but the same text is accepted when the true previous sentence ends
+    # properly, since then it really could be a new short heading.
+    assert chunking.is_section_heading(
+        "Emergency procedures", allow_shape=True, previous_text="All work must stop."
+    )
+
+
+def test_is_section_heading_ignores_the_continuation_gate_for_structural_headings():
+    # A numbered heading is unambiguous regardless of what came before it.
+    assert chunking.is_section_heading(
+        "1.3 Contracting duties", allow_shape=True, previous_text="mid-sentence fragment"
+    )
+
+
+def test_detect_allow_heading_shape_is_false_for_a_numbering_heavy_document():
+    records = [
+        {"element_type": "Title", "text": t}
+        for t in ["1.1 Purpose", "1.2 Scope", "2.1 Duties", "SAFETY", "KEY POINTS"]
+    ]
+    assert chunking.detect_allow_heading_shape(records) is False
+
+
+def test_detect_allow_heading_shape_is_true_for_a_title_case_document():
+    records = [
+        {"element_type": "Title", "text": t}
+        for t in ["Key terms", "Emergency procedures", "Contact details", "Site rules"]
+    ]
+    assert chunking.detect_allow_heading_shape(records) is True
+
+
+# =====================================================
+# TABLES STAY ATOMIC (CHUNKING QUALITY FIX)
+# =====================================================
+
+TABLE_TEXT = "| A | B |\n| --- | --- |\n| 1 | 2 |"
+
+
+def _table_element(text=TABLE_TEXT, page_number=1, source_file="doc.pdf"):
+    return {
+        "text": text,
+        "source_file": source_file,
+        "page_number": page_number,
+        "element_type": "Table",
+        "section_heading": "",
+        "chunk_type": "table",
+    }
+
+
+def test_a_table_is_never_merged_with_surrounding_prose(tmp_path):
+    records = [
+        {"text": "A complete sentence about the site.", "source_file": "doc.pdf",
+         "page_number": 1, "element_type": "NarrativeText", "section_heading": "", "chunk_type": "prose"},
+        _table_element(),
+        {"text": "Another complete sentence right after.", "source_file": "doc.pdf",
+         "page_number": 1, "element_type": "NarrativeText", "section_heading": "", "chunk_type": "prose"},
+    ]
+    source = tmp_path / "table-CLEANED.json"
+    source.write_text(json.dumps(records), encoding="utf-8")
+
+    produced = chunking.chunk_document(source, tmp_path / "table-CHUNKS.json")
+
+    table_chunks = [c for c in produced if c["chunk_type"] == "table"]
+    assert len(table_chunks) == 1
+    assert table_chunks[0]["text"] == TABLE_TEXT
+    assert not any("sentence" in c["text"] for c in table_chunks)
+
+
+def test_every_table_element_becomes_its_own_chunk(tmp_path):
+    records = [_table_element(), _table_element(page_number=2), _table_element(page_number=3)]
+    source = tmp_path / "tables-CLEANED.json"
+    source.write_text(json.dumps(records), encoding="utf-8")
+
+    produced = chunking.chunk_document(source, tmp_path / "tables-CHUNKS.json")
+
+    assert len(produced) == 3
+    assert all(c["chunk_type"] == "table" for c in produced)
+
+
+def test_an_oversized_table_is_split_with_the_header_repeated(tmp_path):
+    header = "| TERM | DEFINITION |\n| --- | --- |"
+    rows = "\n".join(f"| word{i} | a fairly long definition line number {i} |" for i in range(80))
+    big_table = f"{header}\n{rows}"
+
+    records = [_table_element(text=big_table)]
+    source = tmp_path / "bigtable-CLEANED.json"
+    source.write_text(json.dumps(records), encoding="utf-8")
+
+    produced = chunking.chunk_document(
+        source, tmp_path / "bigtable-CHUNKS.json", max_chars=1000
+    )
+
+    assert len(produced) > 1
+    assert all(c["chunk_type"] == "table" for c in produced)
+    assert all(c["text"].startswith(header) for c in produced)
+    assert all(len(c["text"]) <= 1000 + len(header) for c in produced)
+
+
+def test_a_heading_only_lead_in_is_captioned_onto_its_table(tmp_path):
+    records = [
+        {"text": "Drawings", "source_file": "doc.pdf", "page_number": 1,
+         "element_type": "Title", "section_heading": "", "chunk_type": "prose"},
+        _table_element(),
+    ]
+    source = tmp_path / "caption-CLEANED.json"
+    source.write_text(json.dumps(records), encoding="utf-8")
+
+    produced = chunking.chunk_document(source, tmp_path / "caption-CHUNKS.json")
+
+    assert len(produced) == 1
+    assert produced[0]["chunk_type"] == "table"
+    assert produced[0]["text"] == f"Drawings\n{TABLE_TEXT}"
+
+
+def test_a_finished_sentence_is_not_treated_as_a_table_caption(tmp_path):
+    # Regression test: the caption path must never absorb genuine prose just
+    # because it happens to be short — only unfinished labels/fragments.
+    records = [
+        {"text": "This is a complete sentence.", "source_file": "doc.pdf", "page_number": 1,
+         "element_type": "NarrativeText", "section_heading": "", "chunk_type": "prose"},
+        _table_element(),
+    ]
+    source = tmp_path / "no-caption-CLEANED.json"
+    source.write_text(json.dumps(records), encoding="utf-8")
+
+    produced = chunking.chunk_document(source, tmp_path / "no-caption-CHUNKS.json")
+
+    assert len(produced) == 2
+    table_chunk = [c for c in produced if c["chunk_type"] == "table"][0]
+    assert table_chunk["text"] == TABLE_TEXT
+    prose_chunk = [c for c in produced if c["chunk_type"] != "table"][0]
+    assert "complete sentence" in prose_chunk["text"]
+
+
+# =====================================================
+# ELEMENT ORDER AND NON-ADJACENT SECTIONS (CHUNKING QUALITY FIX)
+# =====================================================
+
+def test_non_adjacent_sections_sharing_a_heading_are_not_merged(tmp_path):
+    # The old defaultdict-grouping chunker grouped by (source_file,
+    # section_heading), so two non-adjacent sections with the same title text
+    # would be silently combined even with unrelated content between them.
+    records = [
+        {"text": "1. Notes", "source_file": "doc.pdf", "page_number": 1,
+         "element_type": "Title", "section_heading": "", "chunk_type": "prose"},
+        {"text": "First occurrence content.", "source_file": "doc.pdf", "page_number": 1,
+         "element_type": "NarrativeText", "section_heading": "", "chunk_type": "prose"},
+        {"text": "2. Other section", "source_file": "doc.pdf", "page_number": 2,
+         "element_type": "Title", "section_heading": "", "chunk_type": "prose"},
+        {"text": "Unrelated content in between.", "source_file": "doc.pdf", "page_number": 2,
+         "element_type": "NarrativeText", "section_heading": "", "chunk_type": "prose"},
+        {"text": "1. Notes", "source_file": "doc.pdf", "page_number": 3,
+         "element_type": "Title", "section_heading": "", "chunk_type": "prose"},
+        {"text": "Second, unrelated occurrence content.", "source_file": "doc.pdf", "page_number": 3,
+         "element_type": "NarrativeText", "section_heading": "", "chunk_type": "prose"},
+    ]
+    source = tmp_path / "repeat-CLEANED.json"
+    source.write_text(json.dumps(records), encoding="utf-8")
+
+    produced = chunking.chunk_document(
+        source, tmp_path / "repeat-CHUNKS.json",
+        target_chars=10, max_chars=10_000, min_chars=1, overlap_chars=0,
+    )
+
+    first = [c for c in produced if "First occurrence" in c["text"]]
+    second = [c for c in produced if "Second, unrelated" in c["text"]]
+    assert first and second
+    assert first[0] is not second[0]
+    assert "Unrelated content" not in first[0]["text"]
+    assert "First occurrence" not in second[0]["text"]
+
+
+def test_elements_are_read_in_document_order(tmp_path):
+    records = [
+        {"text": f"Element number {i}.", "source_file": "doc.pdf", "page_number": 1,
+         "element_type": "NarrativeText", "section_heading": "", "chunk_type": "prose"}
+        for i in range(5)
+    ]
+    source = tmp_path / "order-CLEANED.json"
+    source.write_text(json.dumps(records), encoding="utf-8")
+
+    produced = chunking.chunk_document(
+        source, tmp_path / "order-CHUNKS.json", target_chars=10_000, min_chars=1
+    )
+
+    assert len(produced) == 1
+    positions = [produced[0]["text"].index(f"Element number {i}.") for i in range(5)]
+    assert positions == sorted(positions)

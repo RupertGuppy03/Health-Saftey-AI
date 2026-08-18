@@ -135,10 +135,55 @@ Configured centrally in `src/config/settings.py`:
 | `EMBEDDING_DIMENSIONS` | `1536` | The model's native width; not truncated |
 | `EMBEDDING_BATCH_SIZE` | `128` | Texts per API call — the full corpus is ~43 calls, not ~5,400 |
 | `EMBEDDING_MAX_TOKENS_PER_REQUEST` | `100000` | A batch over this is split again |
-| `PIPELINE_VERSION` | `2.0.0` | Stamped on every record; bump when a change invalidates stored vectors |
-| `CHUNK_SIZE` / `CHUNK_OVERLAP` | `4000` / `800` | Characters, not tokens; stamped alongside each record |
+| `PIPELINE_VERSION` | `3.0.0` | Stamped on every record; bump when a change invalidates stored vectors |
+| `CHUNK_TARGET_CHARS` | `3000` | What the packer aims for per chunk (~750 tokens, inside the locked 500-1000 band) |
+| `CHUNK_MAX_CHARS` | `4000` | Hard ceiling for a single chunk |
+| `CHUNK_MIN_CHARS` | `300` | A chunk below this is folded into a neighbour rather than stored on its own |
+| `CHUNK_OVERLAP_CHARS` | `600` | Trailing context carried into the next prose chunk |
+| `HEADING_STRUCTURAL_SHARE` | `0.40` | Threshold for whether a document's headings are numbered/ALL-CAPS enough to trust on their own |
 
-Embedding the whole corpus (~5,400 chunks) costs roughly **$0.02**.
+Embedding the whole corpus (~3,700 chunks) costs a fraction of a cent.
+
+### How chunking works
+
+Cleaned elements are packed **in document order** into chunks — not split from a single
+joined string, the way a text splitter works. `Title` elements are candidate section
+breaks, `Table` elements are always their own chunk, and everything else accumulates
+until a chunk is worth retrieving.
+
+Not every `Title` element extracted from a PDF is a real heading — line-wrapped text is
+sometimes tagged `Title` element by element, which would turn a broken sentence into a
+string of one-word "section headings" and one-line "chunks". Two checks catch this:
+
+- **Structural test**: numbered (`1.3`, `2.1`) or short ALL CAPS text is always trusted
+  as a heading, regardless of context.
+- **Shape test**: a short, capitalised, non-numbered line (e.g. `Key terms`) is trusted
+  as a heading only if it is not a Title Case document's house style *and* the previous
+  element reads as a finished sentence. Without that second condition, a capitalised
+  line-wrap fragment (e.g. `"Work Act 2015 (HSWA), illustrate different"`, itself a
+  continuation of the previous line) would be mistaken for a new heading.
+
+Which documents get the shape test is decided **per document**: `detect_allow_heading_shape`
+measures what share of a document's own `Title` elements are structural, and only enables
+the looser shape rule where the document does not already have a clear numbered/ALL-CAPS
+convention (below `HEADING_STRUCTURAL_SHARE`). Both checks are purely typographic — they
+never look at subject matter, so behaviour does not depend on which topic a document covers.
+
+A misclassified heading only costs a slightly less precise `section_heading` in a
+citation — it never creates its own tiny chunk, since a heading always attaches to the
+body text that follows it.
+
+Tables are never split below their size cap and never merged with surrounding prose.
+Where a heading-only label sits directly before a table with nothing to merge it
+backward into (a checklist-style `Label` → `Table` → `Label` → `Table` run), the label is
+prepended to the table as a caption instead of being left as its own one-line chunk. A
+table larger than `CHUNK_MAX_CHARS` is split on row boundaries, and the header row is
+repeated at the top of every part so each stands alone.
+
+A small number of chunks (well under 1% of the corpus) remain under `CHUNK_MIN_CHARS` —
+mainly a trailing heading at the very end of a document with a table immediately before
+it and nothing after. This is accepted rather than fixed by relaxing "tables are never
+merged with prose".
 
 **Querying the collection:** the stored vectors are 1536-dimension OpenAI vectors, but
 ChromaDB still has its own built-in 384-dimension embedder attached. Calling
@@ -160,8 +205,8 @@ document filename, its page number and its position in the document, so a repeat
 overwrites the same records instead of appending duplicates.
 
 Each record also stores the pipeline that produced it: `pipeline_version`,
-`embedding_model`, `chunk_size` and `chunk_overlap`. That is how you tell whether a
-vector in the collection is stale.
+`embedding_model`, `chunk_target_chars` and `chunk_overlap_chars`. That is how you tell
+whether a vector in the collection is stale.
 
 **When re-ingesting the document is enough.** If you change chunking or cleaning and
 re-ingest a document, any record the new run no longer produces is deleted. A document
@@ -179,8 +224,8 @@ from src.vectorstore_client import reset_collection
 reset_collection()   # drops and recreates hs_construction_v1, empty
 ```
 
-Then re-ingest every document. A full re-embed of the corpus is roughly 5,400 chunks,
-about 43 API calls and around $0.02, so rebuilding is cheap — when in doubt, rebuild.
+Then re-ingest every document. A full re-embed of the corpus is roughly 3,700 chunks and
+well under a cent, so rebuilding is cheap — when in doubt, rebuild.
 
 To keep the old vectors around for comparison, change `CHROMA_COLLECTION_NAME` in
 `src/config/settings.py` to a new version (for example `hs_construction_v2`) instead of

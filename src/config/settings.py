@@ -55,9 +55,18 @@ EMBEDDING_MAX_TOKENS_PER_REQUEST = 100_000
 # Stamped onto every stored record so stale embeddings are detectable after a
 # pipeline change. Bump this when chunking, cleaning or the embedding model
 # changes in a way that invalidates vectors already in the collection.
-PIPELINE_VERSION = "2.0.0"
+PIPELINE_VERSION = "3.0.0"
 
-# Chunking defaults. Kept here so the config stamped at ingestion matches the
-# config chunking actually used.
-CHUNK_SIZE = 4000
-CHUNK_OVERLAP = 800
+# Chunking configuration.
+# Chunks are built by packing whole elements in document order rather than by
+# splitting a joined string, so these are targets for the packer rather than
+# arguments to a text splitter.
+CHUNK_TARGET_CHARS = 3000    # aim for this; ~750 tokens, inside the locked 500-1000 band
+CHUNK_MAX_CHARS = 4000       # hard ceiling for any single chunk
+CHUNK_MIN_CHARS = 300        # never emit a chunk smaller than this; merge it backwards
+CHUNK_OVERLAP_CHARS = 600    # trailing context carried into the next prose chunk
+
+# A document whose Title elements are at least this structural (numbered, or short
+# ALL CAPS) is treated as having a clear heading convention, and only those count
+# as section breaks. Below it, the looser shape rule is enabled as well.
+HEADING_STRUCTURAL_SHARE = 0.40
