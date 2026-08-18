@@ -135,6 +135,8 @@ Configured centrally in `src/config/settings.py`:
 | `EMBEDDING_DIMENSIONS` | `1536` | The model's native width; not truncated |
 | `EMBEDDING_BATCH_SIZE` | `128` | Texts per API call — the full corpus is ~43 calls, not ~5,400 |
 | `EMBEDDING_MAX_TOKENS_PER_REQUEST` | `100000` | A batch over this is split again |
+| `PIPELINE_VERSION` | `2.0.0` | Stamped on every record; bump when a change invalidates stored vectors |
+| `CHUNK_SIZE` / `CHUNK_OVERLAP` | `4000` / `800` | Characters, not tokens; stamped alongside each record |
 
 Embedding the whole corpus (~5,400 chunks) costs roughly **$0.02**.
 
@@ -150,4 +152,37 @@ from src.vectorstore_client import get_collection
 vector = embed_texts(["your question here"])
 results = get_collection().query(query_embeddings=vector, n_results=5)
 ```
+
+## Re-running ingestion and rebuilding
+
+Ingestion is safe to re-run. Every chunk gets a deterministic ID built from the
+document filename, its page number and its position in the document, so a repeat run
+overwrites the same records instead of appending duplicates.
+
+Each record also stores the pipeline that produced it: `pipeline_version`,
+`embedding_model`, `chunk_size` and `chunk_overlap`. That is how you tell whether a
+vector in the collection is stale.
+
+**When re-ingesting the document is enough.** If you change chunking or cleaning and
+re-ingest a document, any record the new run no longer produces is deleted. A document
+that used to yield 500 chunks and now yields 300 ends up with exactly 300 — the 200
+leftovers are removed rather than left behind to be retrieved later. This happens
+automatically; you do not need to clear anything first.
+
+**When you must rebuild everything.** Changing the embedding model, or its dimensions,
+invalidates every vector in the collection, and mixing widths in one collection is an
+error. Bump `PIPELINE_VERSION` and wipe the collection:
+
+```python
+from src.vectorstore_client import reset_collection
+
+reset_collection()   # drops and recreates hs_construction_v1, empty
+```
+
+Then re-ingest every document. A full re-embed of the corpus is roughly 5,400 chunks,
+about 43 API calls and around $0.02, so rebuilding is cheap — when in doubt, rebuild.
+
+To keep the old vectors around for comparison, change `CHROMA_COLLECTION_NAME` in
+`src/config/settings.py` to a new version (for example `hs_construction_v2`) instead of
+resetting, and ingest into that.
 

@@ -162,3 +162,50 @@ def test_query_with_a_matching_width_vector_works(isolated_store):
 
     assert results["ids"][0][0] == "a", "nearest vector should come back first"
     assert results["metadatas"][0][0]["source_file"] == "d.pdf"
+
+
+# =====================================================
+# REBUILD PATH (STORY 3)
+# =====================================================
+
+def test_reset_collection_empties_a_populated_collection(isolated_store):
+    collection = vectorstore_client.get_collection()
+    collection.add(
+        ids=["a", "b"],
+        documents=["one", "two"],
+        embeddings=[_vector(1), _vector(2)],
+    )
+
+    fresh = vectorstore_client.reset_collection()
+
+    assert fresh.count() == 0
+    assert vectorstore_client.count_collection() == 0
+
+
+def test_reset_collection_returns_a_usable_collection(isolated_store):
+    vectorstore_client.get_collection().add(
+        ids=["a"], documents=["one"], embeddings=[_vector(1)]
+    )
+
+    fresh = vectorstore_client.reset_collection()
+    fresh.add(ids=["b"], documents=["two"], embeddings=[_vector(2)])
+
+    assert fresh.name == CHROMA_COLLECTION_NAME
+    assert fresh.count() == 1
+
+
+def test_reset_collection_is_safe_when_nothing_exists(isolated_store):
+    # delete_collection raises NotFoundError on a missing collection, unlike
+    # delete(ids=...), so resetting before any ingestion must not blow up.
+    fresh = vectorstore_client.reset_collection("hs_construction_never_made")
+
+    assert fresh.count() == 0
+
+
+def test_reset_collection_leaves_other_collections_alone(isolated_store):
+    keep = vectorstore_client.get_collection("hs_construction_keep")
+    keep.add(ids=["a"], documents=["one"], embeddings=[_vector(1)])
+
+    vectorstore_client.reset_collection("hs_construction_drop")
+
+    assert vectorstore_client.get_collection("hs_construction_keep").count() == 1

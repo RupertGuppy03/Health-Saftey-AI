@@ -13,6 +13,7 @@ letting it embed anything itself.
 import json
 import os
 from collections import defaultdict
+from pathlib import Path
 
 import tiktoken
 from dotenv import load_dotenv
@@ -20,10 +21,13 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from openai import OpenAI
 
 from src.config.settings import (
+    CHUNK_OVERLAP,
+    CHUNK_SIZE,
     EMBEDDING_BATCH_SIZE,
     EMBEDDING_DIMENSIONS,
     EMBEDDING_MAX_TOKENS_PER_REQUEST,
     EMBEDDING_MODEL,
+    PIPELINE_VERSION,
 )
 from src.vectorstore_client import get_collection
 
@@ -322,24 +326,42 @@ def embed_texts(
 # SPRINT 2 - CHROMADB INGESTION
 # =====================================================
 
-def _chunk_record_id(chunk):
-    """Chroma ID for a chunk, namespaced by its source document.
+def _chunk_record_id(source_file, page_number, index):
+    """Deterministic Chroma ID: filename stem, page, position in the document.
 
-    chunk_id is a per-file counter that restarts at CHUNK_00001, so on its own
-    it collides between documents and the second document ingested would
-    overwrite the first.
+    Computed from the data rather than assigned by a counter, so the same chunk
+    file always produces the same IDs. The stem keeps documents from colliding;
+    the index keeps chunks on the same page apart.
     """
 
-    return f"{chunk['source_file']}::{chunk['chunk_id']}"
+    return f"{Path(source_file).stem}:p{int(page_number):04d}:{index:04d}"
 
 
-def _chunk_metadata(chunk):
-    """Metadata stored alongside a chunk, using the Sprint 1 field names."""
+def build_chunk_ids(chunks):
+    """One deterministic ID per chunk, in chunk-file order."""
+
+    return [
+        _chunk_record_id(chunk["source_file"], chunk["page_number"], index)
+        for index, chunk in enumerate(chunks)
+    ]
+
+
+def _chunk_metadata(chunk, chunk_size, chunk_overlap):
+    """Metadata stored alongside a chunk.
+
+    The first four fields are the locked Sprint 1 schema. The rest record which
+    pipeline produced the vector, so stale embeddings can be spotted after a
+    config change.
+    """
 
     metadata = {
         "source_file": chunk["source_file"],
         "page_number": chunk["page_number"],
         "section_heading": chunk["section_heading"],
+        "pipeline_version": PIPELINE_VERSION,
+        "embedding_model": EMBEDDING_MODEL,
+        "chunk_size": chunk_size,
+        "chunk_overlap": chunk_overlap,
     }
 
     if chunk.get("chunk_type"):
@@ -348,16 +370,48 @@ def _chunk_metadata(chunk):
     return metadata
 
 
+def _prune_stale_records(collection, source_files, current_ids):
+    """Delete records for these documents that this run did not produce.
+
+    upsert only overwrites IDs that still exist. If a chunking change makes a
+    document yield fewer chunks than before, the leftovers would stay in the
+    collection and keep being retrieved. Removing them is what keeps a re-run
+    a true replacement rather than an accumulation.
+    """
+
+    current = set(current_ids)
+    removed = 0
+
+    for source_file in sorted(source_files):
+
+        existing = collection.get(
+            where={"source_file": source_file},
+            include=[],
+        )["ids"]
+
+        stale = sorted(set(existing) - current)
+
+        if stale:
+            collection.delete(ids=stale)
+            removed += len(stale)
+
+    return removed
+
+
 def ingest_to_chromadb(
     chunk_file,
     collection_name=None,
     batch_size=EMBEDDING_BATCH_SIZE,
+    chunk_size=CHUNK_SIZE,
+    chunk_overlap=CHUNK_OVERLAP,
     client=None,
 ):
     """Embed a chunk file with OpenAI and upsert it into the named collection.
 
-    The collection name and on-disk location come from src.config.settings via
-    the vector store client, so they are not repeated here.
+    Safe to re-run. Chunk IDs are deterministic, so a repeat run upserts over
+    the same records instead of appending, and any record this run no longer
+    produces is pruned. The collection name and on-disk location come from
+    src.config.settings via the vector store client.
 
     NOTE: the collection stores 1536-dimension OpenAI vectors, but Chroma still
     has its own built-in 384-dimension embedder attached. Querying this
@@ -385,9 +439,12 @@ def ingest_to_chromadb(
 
     count_before = collection.count()
 
-    ids = [_chunk_record_id(chunk) for chunk in chunks]
+    ids = build_chunk_ids(chunks)
     documents = [chunk["text"] for chunk in chunks]
-    metadatas = [_chunk_metadata(chunk) for chunk in chunks]
+    metadatas = [
+        _chunk_metadata(chunk, chunk_size, chunk_overlap)
+        for chunk in chunks
+    ]
 
     print(f"Upserting into collection '{collection.name}'...")
 
@@ -402,14 +459,23 @@ def ingest_to_chromadb(
             metadatas=metadatas[start:end],
         )
 
+    source_files = {chunk["source_file"] for chunk in chunks}
+
+    stale_removed = _prune_stale_records(collection, source_files, ids)
+
+    if stale_removed:
+        print(f"Pruned {stale_removed} stale record(s) from a previous run")
+
     count_after = collection.count()
 
     summary = {
         "collection": collection.name,
         "chunks_embedded": len(chunks),
+        "stale_removed": stale_removed,
         "count_before": count_before,
         "count_after": count_after,
         "embedding_model": EMBEDDING_MODEL,
+        "pipeline_version": PIPELINE_VERSION,
     }
 
     print(

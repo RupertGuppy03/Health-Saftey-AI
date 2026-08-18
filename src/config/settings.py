@@ -50,3 +50,14 @@ EMBEDDING_BATCH_SIZE = 128
 # exceed this is split again, so a handful of unusually long chunks cannot push a
 # request over the edge.
 EMBEDDING_MAX_TOKENS_PER_REQUEST = 100_000
+
+# Pipeline provenance
+# Stamped onto every stored record so stale embeddings are detectable after a
+# pipeline change. Bump this when chunking, cleaning or the embedding model
+# changes in a way that invalidates vectors already in the collection.
+PIPELINE_VERSION = "2.0.0"
+
+# Chunking defaults. Kept here so the config stamped at ingestion matches the
+# config chunking actually used.
+CHUNK_SIZE = 4000
+CHUNK_OVERLAP = 800

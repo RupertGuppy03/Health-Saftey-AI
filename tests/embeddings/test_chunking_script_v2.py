@@ -8,6 +8,7 @@ Chroma collection, so the suite is free to run and never writes to
 
 import json
 from types import SimpleNamespace
+from uuid import uuid4
 
 import chromadb
 import pytest
@@ -104,11 +105,21 @@ def chunks(tmp_path, cleaned_file):
 
 @pytest.fixture
 def memory_collection(monkeypatch):
-    """An in-memory Chroma collection standing in for the persisted one."""
+    """An in-memory Chroma collection standing in for the persisted one.
 
-    collection = chromadb.EphemeralClient().get_or_create_collection("test_ingest")
-    monkeypatch.setattr(chunking, "get_collection", lambda name=None: collection)
-    return collection
+    chromadb.EphemeralClient() returns a system shared across the process, so a
+    fixed collection name would leak records between tests and make them
+    order-dependent. Give each test its own collection instead.
+    """
+
+    client = chromadb.EphemeralClient()
+    name = f"test_ingest_{uuid4().hex}"
+    collection = client.get_or_create_collection(name)
+    monkeypatch.setattr(chunking, "get_collection", lambda _name=None: collection)
+
+    yield collection
+
+    client.delete_collection(name)
 
 
 # =====================================================
@@ -353,21 +364,38 @@ def test_ingest_stores_every_chunk(chunk_file, memory_collection, chunks):
     assert summary["embedding_model"] == chunking.EMBEDDING_MODEL
 
 
-def test_ingest_namespaces_ids_by_source_document(chunk_file, memory_collection):
+def test_ingest_uses_deterministic_ids(chunk_file, memory_collection, chunks):
     chunking.ingest_to_chromadb(chunk_file, client=StubOpenAIClient())
 
-    stored = memory_collection.get()["ids"]
-
-    assert all(i.startswith("doc-a.pdf::") for i in stored)
+    assert sorted(memory_collection.get()["ids"]) == sorted(chunking.build_chunk_ids(chunks))
 
 
-def test_namespacing_prevents_collisions_between_documents():
-    # chunk_id restarts at CHUNK_00001 in every file, so without the source_file
-    # prefix two documents would overwrite each other.
-    a = {"source_file": "doc-a.pdf", "chunk_id": "CHUNK_00001"}
-    b = {"source_file": "doc-b.pdf", "chunk_id": "CHUNK_00001"}
+def test_ids_are_stable_across_builds(chunks):
+    assert chunking.build_chunk_ids(chunks) == chunking.build_chunk_ids(chunks)
 
-    assert chunking._chunk_record_id(a) != chunking._chunk_record_id(b)
+
+def test_id_format_is_stem_page_index():
+    record_id = chunking._chunk_record_id("PCBUs-Working-Together-GPG-7fcb7c71.pdf", 9, 42)
+
+    assert record_id == "PCBUs-Working-Together-GPG-7fcb7c71:p0009:0042"
+
+
+def test_ids_do_not_collide_between_documents():
+    # chunk_id restarts at CHUNK_00001 in every file, so the ID must be built
+    # from the document itself rather than from that counter.
+    assert chunking._chunk_record_id("doc-a.pdf", 1, 0) != chunking._chunk_record_id("doc-b.pdf", 1, 0)
+
+
+def test_ids_do_not_collide_within_a_page(chunks):
+    ids = chunking.build_chunk_ids(chunks)
+
+    assert len(ids) == len(set(ids))
+
+
+def test_ids_ignore_the_chunk_id_counter(chunks):
+    renumbered = [dict(c, chunk_id="CHUNK_99999") for c in chunks]
+
+    assert chunking.build_chunk_ids(renumbered) == chunking.build_chunk_ids(chunks)
 
 
 def test_ingest_stores_the_expected_metadata(chunk_file, memory_collection, chunks):
@@ -376,8 +404,8 @@ def test_ingest_stores_the_expected_metadata(chunk_file, memory_collection, chun
     stored = memory_collection.get(include=["metadatas", "documents"])
     by_id = dict(zip(stored["ids"], stored["metadatas"]))
 
-    for chunk in chunks:
-        metadata = by_id[chunking._chunk_record_id(chunk)]
+    for chunk, record_id in zip(chunks, chunking.build_chunk_ids(chunks)):
+        metadata = by_id[record_id]
 
         assert metadata["source_file"] == chunk["source_file"]
         assert metadata["page_number"] == chunk["page_number"]
@@ -408,7 +436,7 @@ def test_a_chunk_id_returns_exactly_one_record(chunk_file, memory_collection, ch
     chunking.ingest_to_chromadb(chunk_file, client=StubOpenAIClient())
     chunking.ingest_to_chromadb(chunk_file, client=StubOpenAIClient())
 
-    target = chunking._chunk_record_id(chunks[0])
+    target = chunking.build_chunk_ids(chunks)[0]
 
     assert len(memory_collection.get(ids=[target])["ids"]) == 1
 
@@ -424,3 +452,112 @@ def test_invalid_chunks_fail_before_any_embedding_is_paid_for(tmp_path, memory_c
         chunking.ingest_to_chromadb(path, client=client)
 
     assert client.calls == [], "validation must run before the API is called"
+
+
+# =====================================================
+# STALE PRUNING AND PROVENANCE (STORY 3)
+# =====================================================
+
+def _write_chunks(path, count, source_file="doc-a.pdf"):
+    """A chunk file with `count` chunks, as chunk_document would emit."""
+
+    records = [
+        {
+            "chunk_id": f"CHUNK_{i + 1:05}",
+            "text": f"chunk text {i}",
+            "source_file": source_file,
+            "page_number": (i % 3) + 1,
+            "section_heading": f"Section {i}",
+            "chunk_type": "prose",
+        }
+        for i in range(count)
+    ]
+    path.write_text(json.dumps(records), encoding="utf-8")
+    return records
+
+
+def test_shrinking_a_document_removes_the_orphans(tmp_path, memory_collection):
+    """Acceptance test 3: changed config re-embeds rather than leaving stale records.
+
+    upsert only overwrites IDs that still exist, so without pruning the two
+    dropped chunks would stay in the collection and keep being retrieved.
+    """
+
+    big = tmp_path / "big-CHUNKS.json"
+    _write_chunks(big, 5)
+    chunking.ingest_to_chromadb(big, client=StubOpenAIClient())
+    before = set(memory_collection.get()["ids"])
+
+    small = tmp_path / "small-CHUNKS.json"
+    smaller_chunks = _write_chunks(small, 3)
+    summary = chunking.ingest_to_chromadb(small, client=StubOpenAIClient())
+
+    after = set(memory_collection.get()["ids"])
+
+    assert memory_collection.count() == 3
+    assert summary["stale_removed"] == 2
+    assert after == set(chunking.build_chunk_ids(smaller_chunks))
+    assert not (after - before), "no unexpected ids introduced"
+
+
+def test_pruning_leaves_other_documents_alone(tmp_path, memory_collection):
+    other = tmp_path / "other-CHUNKS.json"
+    _write_chunks(other, 4, source_file="doc-b.pdf")
+    chunking.ingest_to_chromadb(other, client=StubOpenAIClient())
+
+    mine = tmp_path / "mine-CHUNKS.json"
+    _write_chunks(mine, 2, source_file="doc-a.pdf")
+    chunking.ingest_to_chromadb(mine, client=StubOpenAIClient())
+
+    doc_b = memory_collection.get(where={"source_file": "doc-b.pdf"})["ids"]
+
+    assert len(doc_b) == 4
+
+
+def test_nothing_is_pruned_on_an_unchanged_rerun(tmp_path, memory_collection):
+    path = tmp_path / "same-CHUNKS.json"
+    _write_chunks(path, 4)
+    chunking.ingest_to_chromadb(path, client=StubOpenAIClient())
+
+    summary = chunking.ingest_to_chromadb(path, client=StubOpenAIClient())
+
+    assert summary["stale_removed"] == 0
+    assert summary["count_before"] == summary["count_after"] == 4
+
+
+def test_records_carry_the_pipeline_provenance(chunk_file, memory_collection):
+    chunking.ingest_to_chromadb(chunk_file, client=StubOpenAIClient())
+
+    metadata = memory_collection.get(include=["metadatas"])["metadatas"][0]
+
+    assert metadata["pipeline_version"] == chunking.PIPELINE_VERSION
+    assert metadata["embedding_model"] == chunking.EMBEDDING_MODEL
+    assert metadata["chunk_size"] == chunking.CHUNK_SIZE
+    assert metadata["chunk_overlap"] == chunking.CHUNK_OVERLAP
+
+
+def test_provenance_reflects_the_config_actually_used(chunk_file, memory_collection):
+    chunking.ingest_to_chromadb(
+        chunk_file, chunk_size=1000, chunk_overlap=200, client=StubOpenAIClient()
+    )
+
+    metadata = memory_collection.get(include=["metadatas"])["metadatas"][0]
+
+    assert metadata["chunk_size"] == 1000
+    assert metadata["chunk_overlap"] == 200
+
+
+def test_provenance_does_not_displace_the_locked_schema(chunk_file, memory_collection):
+    chunking.ingest_to_chromadb(chunk_file, client=StubOpenAIClient())
+
+    for metadata in memory_collection.get(include=["metadatas"])["metadatas"]:
+        for field in ("source_file", "page_number", "section_heading"):
+            assert str(metadata[field]).strip()
+
+
+def test_summary_reports_what_happened(chunk_file, memory_collection, chunks):
+    summary = chunking.ingest_to_chromadb(chunk_file, client=StubOpenAIClient())
+
+    assert summary["chunks_embedded"] == len(chunks)
+    assert summary["stale_removed"] == 0
+    assert summary["pipeline_version"] == chunking.PIPELINE_VERSION

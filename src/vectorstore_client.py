@@ -18,7 +18,7 @@ def _ensure_persist_dir_exists() -> Path:
     return path
 
 
-def get_client() -> chromadb.Client:
+def get_client() -> chromadb.Client:  # type: ignore
     """Return a persistent Chroma client that writes to CHROMA_PERSIST_DIR.
 
     Uses chromadb.PersistentClient when available, falling back to the Client +
@@ -34,7 +34,9 @@ def get_client() -> chromadb.Client:
         try:
             from chromadb.config import Settings
 
-            settings = Settings(chroma_db_impl="duckdb+parquet", persist_directory=persist_path)
+            settings = Settings(
+                chroma_db_impl="duckdb+parquet", persist_directory=persist_path
+            )
             client = chromadb.Client(settings=settings)
             return client
         except Exception:
