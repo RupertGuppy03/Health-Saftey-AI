@@ -52,6 +52,22 @@ pip install -r requirements.txt
 ```
 
 That's it — the project is installed. ✅
+
+### 4. Environment variables
+
+Copy `.env.example` to `.env` and fill in the real values. `.env` is gitignored and
+must never be committed.
+
+| Variable | Used by | Purpose |
+|---|---|---|
+| `OPEN_AI_API_KEY` | `src/embeddings/chunking_script_v2.py` | OpenAI key for generating embeddings |
+| `UNSTRUCTURED_API_KEY` | `src/ingestion/extract.py` | Unstructured API key for PDF extraction |
+| `UNSTRUCTURED_API_URL` | `src/ingestion/extract.py` | Unstructured API endpoint |
+
+Note on the key name: this project uses `OPEN_AI_API_KEY`, but the OpenAI SDK looks for
+`OPENAI_API_KEY` by default. The code accepts **either**, so you don't need to change an
+existing `.env`.
+
 ---
 
 ---
@@ -108,4 +124,30 @@ python scripts/check_chroma_collection.py
 The collection name is defined centrally in `src/config/settings.py` as
 `CHROMA_COLLECTION_NAME`. To open a different collection name for debugging pass
 `--collection NAME` to the script.
+
+## Embeddings
+
+Configured centrally in `src/config/settings.py`:
+
+| Setting | Value | Notes |
+|---|---|---|
+| `EMBEDDING_MODEL` | `text-embedding-3-small` | Must be the same at ingestion and query time |
+| `EMBEDDING_DIMENSIONS` | `1536` | The model's native width; not truncated |
+| `EMBEDDING_BATCH_SIZE` | `128` | Texts per API call — the full corpus is ~43 calls, not ~5,400 |
+| `EMBEDDING_MAX_TOKENS_PER_REQUEST` | `100000` | A batch over this is split again |
+
+Embedding the whole corpus (~5,400 chunks) costs roughly **$0.02**.
+
+**Querying the collection:** the stored vectors are 1536-dimension OpenAI vectors, but
+ChromaDB still has its own built-in 384-dimension embedder attached. Calling
+`collection.query(query_texts=...)` would use that built-in model and fail with a
+dimension mismatch. Always embed the query yourself and pass `query_embeddings=`:
+
+```python
+from src.embeddings.chunking_script_v2 import embed_texts
+from src.vectorstore_client import get_collection
+
+vector = embed_texts(["your question here"])
+results = get_collection().query(query_embeddings=vector, n_results=5)
+```
 

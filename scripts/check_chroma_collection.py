@@ -11,6 +11,11 @@ doesn't exist yet it will be created (empty).
 
 import argparse
 import sys
+from pathlib import Path
+
+# Run directly (python scripts/check_chroma_collection.py) and only this folder
+# is on sys.path, so `src` would not resolve. Put the repo root on the path.
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from src.vectorstore_client import get_collection, count_collection
 

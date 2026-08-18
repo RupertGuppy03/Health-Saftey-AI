@@ -1,9 +1,40 @@
+"""Chunk cleaned documents and ingest them into the persisted ChromaDB collection.
+
+Two stages, usable independently:
+
+    chunk_document(...)      cleaned elements JSON -> chunk records JSON
+    ingest_to_chromadb(...)  chunk records JSON -> embedded + stored in Chroma
+
+Embeddings come from OpenAI's text-embedding-3-small at its native 1536
+dimensions. Chroma is only the store: we hand it finished vectors rather than
+letting it embed anything itself.
+"""
+
 import json
+import os
 from collections import defaultdict
 
-import chromadb
+import tiktoken
+from dotenv import load_dotenv
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from sentence_transformers import SentenceTransformer
+from openai import OpenAI
+
+from src.config.settings import (
+    EMBEDDING_BATCH_SIZE,
+    EMBEDDING_DIMENSIONS,
+    EMBEDDING_MAX_TOKENS_PER_REQUEST,
+    EMBEDDING_MODEL,
+)
+from src.vectorstore_client import get_collection
+
+
+# Used when a cleaned record has no section heading at all (front matter that
+# appears before the document's first Title element).
+FALLBACK_SECTION_HEADING = "(no section heading)"
+
+# Chroma rejects a single add/upsert larger than roughly 5,461 records, and the
+# full corpus is ~5,400 chunks. Stay comfortably under it.
+MAX_UPSERT_BATCH = 5000
 
 
 # =====================================================
@@ -31,7 +62,7 @@ def chunk_document(
     for item in data:
         key = (
             item["source_file"],
-            item["section_heading"],
+            _resolve_section_heading(item),
         )
         grouped_sections[key].append(item)
 
@@ -117,6 +148,21 @@ def chunk_document(
     return chunked_output
 
 
+def _resolve_section_heading(item):
+    """Section heading for a record, never empty.
+
+    A few records (front matter appearing before the document's first Title)
+    have no heading. They get a neutral placeholder rather than being folded
+    into whichever heading happens to come next, which in several documents is
+    an unrelated acknowledgements entry. source_file still identifies the
+    document for citation purposes.
+    """
+
+    heading = (item.get("section_heading") or "").strip()
+
+    return heading or FALLBACK_SECTION_HEADING
+
+
 # =====================================================
 # VALIDATION
 # =====================================================
@@ -124,6 +170,7 @@ def chunk_document(
 def validate_chunks(chunked_output):
 
     required_fields = [
+        "chunk_id",
         "text",
         "source_file",
         "page_number",
@@ -157,15 +204,167 @@ def validate_chunks(chunked_output):
 
 
 # =====================================================
+# SPRINT 2 - OPENAI EMBEDDINGS
+# =====================================================
+
+def _get_openai_client():
+    """Build an OpenAI client from whichever key name is in the .env.
+
+    The project's .env uses OPEN_AI_API_KEY, but the OpenAI SDK only auto-reads
+    OPENAI_API_KEY. Accept either so nobody has to edit their local .env.
+    """
+
+    load_dotenv(override=True)
+
+    api_key = (
+        os.environ.get("OPEN_AI_API_KEY")
+        or os.environ.get("OPENAI_API_KEY")
+    )
+
+    if not api_key:
+        raise RuntimeError(
+            "No OpenAI API key found. Set OPEN_AI_API_KEY "
+            "(or OPENAI_API_KEY) in your .env file."
+        )
+
+    return OpenAI(api_key=api_key)
+
+
+def _split_into_batches(texts, batch_size):
+    """Group texts into API-sized batches, capped by count and by tokens."""
+
+    encoding = tiktoken.get_encoding("cl100k_base")
+
+    batches = []
+    current = []
+    current_tokens = 0
+
+    for text in texts:
+
+        text_tokens = len(encoding.encode(text))
+
+        full_by_count = len(current) >= batch_size
+
+        full_by_tokens = (
+            current
+            and current_tokens + text_tokens > EMBEDDING_MAX_TOKENS_PER_REQUEST
+        )
+
+        if full_by_count or full_by_tokens:
+            batches.append(current)
+            current = []
+            current_tokens = 0
+
+        current.append(text)
+        current_tokens += text_tokens
+
+    if current:
+        batches.append(current)
+
+    return batches
+
+
+def embed_texts(
+    texts,
+    batch_size=EMBEDDING_BATCH_SIZE,
+    client=None,
+):
+    """Embed a list of strings, batching the API calls.
+
+    Returns one vector per input text, in the same order as the input.
+    Pass `client` to inject a stub in tests and avoid hitting the real API.
+    """
+
+    if not texts:
+        return []
+
+    if client is None:
+        client = _get_openai_client()
+
+    batches = _split_into_batches(texts, batch_size)
+
+    embeddings = []
+
+    for batch_number, batch in enumerate(batches, start=1):
+
+        print(
+            f"  embedding batch {batch_number}/{len(batches)} "
+            f"- {len(batch)} texts"
+        )
+
+        response = client.embeddings.create(
+            model=EMBEDDING_MODEL,
+            input=batch,
+        )
+
+        # The API does not promise response order, so sort by the echoed index
+        # rather than assuming it lines up with the request.
+        for item in sorted(response.data, key=lambda d: d.index):
+
+            if len(item.embedding) != EMBEDDING_DIMENSIONS:
+                raise ValueError(
+                    f"Expected {EMBEDDING_DIMENSIONS}-dimension vectors from "
+                    f"{EMBEDDING_MODEL}, got {len(item.embedding)}"
+                )
+
+            embeddings.append(item.embedding)
+
+    if len(embeddings) != len(texts):
+        raise ValueError(
+            f"Embedded {len(embeddings)} vectors "
+            f"for {len(texts)} texts"
+        )
+
+    return embeddings
+
+
+# =====================================================
 # SPRINT 2 - CHROMADB INGESTION
 # =====================================================
 
+def _chunk_record_id(chunk):
+    """Chroma ID for a chunk, namespaced by its source document.
+
+    chunk_id is a per-file counter that restarts at CHUNK_00001, so on its own
+    it collides between documents and the second document ingested would
+    overwrite the first.
+    """
+
+    return f"{chunk['source_file']}::{chunk['chunk_id']}"
+
+
+def _chunk_metadata(chunk):
+    """Metadata stored alongside a chunk, using the Sprint 1 field names."""
+
+    metadata = {
+        "source_file": chunk["source_file"],
+        "page_number": chunk["page_number"],
+        "section_heading": chunk["section_heading"],
+    }
+
+    if chunk.get("chunk_type"):
+        metadata["chunk_type"] = chunk["chunk_type"]
+
+    return metadata
+
+
 def ingest_to_chromadb(
     chunk_file,
-    collection_name="document_chunks",
-    chroma_path="./chroma_db",
-    embedding_model="all-MiniLM-L6-v2",
+    collection_name=None,
+    batch_size=EMBEDDING_BATCH_SIZE,
+    client=None,
 ):
+    """Embed a chunk file with OpenAI and upsert it into the named collection.
+
+    The collection name and on-disk location come from src.config.settings via
+    the vector store client, so they are not repeated here.
+
+    NOTE: the collection stores 1536-dimension OpenAI vectors, but Chroma still
+    has its own built-in 384-dimension embedder attached. Querying this
+    collection with query_texts= would use that built-in model and fail with a
+    dimension mismatch. Always embed the query with embed_texts() and pass
+    query_embeddings= instead.
+    """
 
     print("Loading chunk file...")
 
@@ -174,19 +373,48 @@ def ingest_to_chromadb(
 
     validate_chunks(chunks)
 
-    print("Loading embedding model...")
-    model = SentenceTransformer(embedding_model)
+    print(f"Embedding {len(chunks)} chunks with {EMBEDDING_MODEL}...")
 
-    print("Generating embeddings...")
+    embeddings = embed_texts(
+        [chunk["text"] for chunk in chunks],
+        batch_size=batch_size,
+        client=client,
+    )
 
-    texts = [
-        chunk["text"]
-        for chunk in chunks
-    ]
+    collection = get_collection(collection_name)
 
-    embeddings = model.encode(
-        texts,
-        show_progress_bar=True
-    ).tolist()
+    count_before = collection.count()
 
-    client = chromadb.PersistentClient
+    ids = [_chunk_record_id(chunk) for chunk in chunks]
+    documents = [chunk["text"] for chunk in chunks]
+    metadatas = [_chunk_metadata(chunk) for chunk in chunks]
+
+    print(f"Upserting into collection '{collection.name}'...")
+
+    for start in range(0, len(ids), MAX_UPSERT_BATCH):
+
+        end = start + MAX_UPSERT_BATCH
+
+        collection.upsert(
+            ids=ids[start:end],
+            documents=documents[start:end],
+            embeddings=embeddings[start:end],
+            metadatas=metadatas[start:end],
+        )
+
+    count_after = collection.count()
+
+    summary = {
+        "collection": collection.name,
+        "chunks_embedded": len(chunks),
+        "count_before": count_before,
+        "count_after": count_after,
+        "embedding_model": EMBEDDING_MODEL,
+    }
+
+    print(
+        f"Stored {len(chunks)} chunks. "
+        f"Collection count {count_before} -> {count_after}"
+    )
+
+    return summary

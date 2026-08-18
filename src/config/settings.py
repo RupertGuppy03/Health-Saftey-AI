@@ -30,3 +30,23 @@ SAMPLE_PDF = (
 # Change CHROMA_COLLECTION_NAME here if a new version is created (e.g. hs_construction_v2).
 CHROMA_COLLECTION_NAME = "hs_construction_v1"
 CHROMA_PERSIST_DIR = PROJECT_ROOT / "vectorstore"
+
+# OpenAI embedding configuration
+# Single source-of-truth for the embedding model used at BOTH ingestion and query
+# time. Retrieval must embed the user's question with this same model, otherwise
+# the vectors are not comparable.
+EMBEDDING_MODEL = "text-embedding-3-small"
+
+# The model's native output size. Do NOT pass dimensions= to the API to truncate:
+# the collection is built at this width and a mismatch is a hard error.
+EMBEDDING_DIMENSIONS = 1536
+
+# How many texts to send per embeddings API call. Batching keeps the request count
+# (and the per-request overhead) down: the full corpus is ~5,400 chunks, which is
+# ~43 calls at this size instead of ~5,400.
+EMBEDDING_BATCH_SIZE = 128
+
+# Safety cap well below the API's per-request token limit. A batch that would
+# exceed this is split again, so a handful of unusually long chunks cannot push a
+# request over the edge.
+EMBEDDING_MAX_TOKENS_PER_REQUEST = 100_000
