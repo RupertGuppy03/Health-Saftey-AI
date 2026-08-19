@@ -44,7 +44,7 @@ MAX_UPSERT_BATCH = 5000
 
 
 # =====================================================
-# SPRINT 1 - CHUNKING
+# CHUNKING
 # =====================================================
 
 # A heading like "1.3" or "2." — a structural signal, not a topic word.
@@ -113,9 +113,9 @@ def detect_allow_heading_shape(records):
     if not titles:
         return True
 
-    structural_share = sum(
-        _is_structural_heading(text) for text in titles
-    ) / len(titles)
+    structural_share = sum(_is_structural_heading(text) for text in titles) / len(
+        titles
+    )
 
     # A clear structural convention means anything else is probably a stray
     # Title, so do not widen the net.
@@ -168,7 +168,6 @@ def _split_table_text(text, max_chars):
     current = list(header)
 
     for line in lines[2:]:
-
         candidate = "\n".join(current + [line])
 
         if len(candidate) > max_chars and len(current) > len(header):
@@ -223,7 +222,6 @@ def _overlap_tail(elements, overlap_chars):
     size = 0
 
     for element in reversed(elements):
-
         if size >= overlap_chars:
             break
 
@@ -303,7 +301,9 @@ def chunk_document(
             # with nothing before it but another table. Hand the text back to
             # the caller to prepend onto the table instead of emitting it as
             # its own fragment.
-            caption = " ".join(e["text"].strip() for e in new_elements if e["text"].strip())
+            caption = " ".join(
+                e["text"].strip() for e in new_elements if e["text"].strip()
+            )
             buffer, buffer_chars, carried = [], 0, 0
             return caption or None
 
@@ -311,15 +311,28 @@ def chunk_document(
             # Too small to stand alone. Fold the new part into the previous
             # chunk rather than emitting a fragment.
             previous = chunks[-1]
-            extra = " ".join(e["text"].strip() for e in new_elements if e["text"].strip())
+            extra = " ".join(
+                e["text"].strip() for e in new_elements if e["text"].strip()
+            )
 
             if extra:
                 previous["text"] = f"{previous['text']} {extra}".strip()
 
-            pages = [e["page_number"] for e in new_elements if e.get("page_number") is not None]
+            pages = [
+                e["page_number"]
+                for e in new_elements
+                if e.get("page_number") is not None
+            ]
 
             if pages:
-                previous["page_end"] = max(pages + ([previous["page_end"]] if previous["page_end"] is not None else []))
+                previous["page_end"] = max(
+                    pages
+                    + (
+                        [previous["page_end"]]
+                        if previous["page_end"] is not None
+                        else []
+                    )
+                )
 
             chunk_elements[-1].extend(new_elements)
             source_elements = chunk_elements[-1]
@@ -336,7 +349,6 @@ def chunk_document(
         return None
 
     for element in data:
-
         text = element["text"].strip()
 
         if not text:
@@ -346,15 +358,15 @@ def chunk_document(
         # "appendix"/"glossary" for tables under those headings, so chunk_type
         # cannot be used to recognise a table.
         if element.get("element_type") == "Table":
-
             caption = flush(before_table=True)
             buffer, buffer_chars, carried = [], 0, 0
 
             parts = _split_table_text(text, max_chars)
 
             for part_index, part in enumerate(parts):
-
-                part_text = f"{caption}\n{part}" if caption and part_index == 0 else part
+                part_text = (
+                    f"{caption}\n{part}" if caption and part_index == 0 else part
+                )
                 table_element = dict(element, text=part_text)
 
                 chunks.append(
@@ -374,7 +386,6 @@ def chunk_document(
         if element.get("element_type") == "Title" and is_section_heading(
             text, allow_shape, previous_text
         ):
-
             section_heading = text
 
             # Only break here if what we already have is worth keeping;
@@ -394,7 +405,11 @@ def chunk_document(
         # and there is already enough worth keeping. Without this, a carried
         # overlap tail plus one large element can combine to overshoot
         # max_chars well before the target_chars check below ever fires.
-        if buffer and buffer_chars >= min_chars and buffer_chars + len(text) > max_chars:
+        if (
+            buffer
+            and buffer_chars >= min_chars
+            and buffer_chars + len(text) > max_chars
+        ):
             flush()
             if not buffer:
                 buffer_heading = section_heading
@@ -424,6 +439,7 @@ def chunk_document(
 # VALIDATION
 # =====================================================
 
+
 def validate_chunks(chunked_output):
 
     required_fields = [
@@ -436,33 +452,30 @@ def validate_chunks(chunked_output):
 
     for chunk in chunked_output:
         for field in required_fields:
-
             if field not in chunk:
                 raise ValueError(
-                    f"Missing field '{field}' "
-                    f"for chunk {chunk.get('chunk_id')}"
+                    f"Missing field '{field}' for chunk {chunk.get('chunk_id')}"
                 )
 
             value = chunk[field]
 
             if value is None:
                 raise ValueError(
-                    f"Null value for '{field}' "
-                    f"on chunk {chunk.get('chunk_id')}"
+                    f"Null value for '{field}' on chunk {chunk.get('chunk_id')}"
                 )
 
             if isinstance(value, str) and not value.strip():
                 raise ValueError(
-                    f"Empty value for '{field}' "
-                    f"on chunk {chunk.get('chunk_id')}"
+                    f"Empty value for '{field}' on chunk {chunk.get('chunk_id')}"
                 )
 
     print("Chunk validation successful")
 
 
 # =====================================================
-# SPRINT 2 - OPENAI EMBEDDINGS
+# OPENAI EMBEDDINGS
 # =====================================================
+
 
 def _get_openai_client():
     """Build an OpenAI client from whichever key name is in the .env.
@@ -473,10 +486,7 @@ def _get_openai_client():
 
     load_dotenv(override=True)
 
-    api_key = (
-        os.environ.get("OPEN_AI_API_KEY")
-        or os.environ.get("OPENAI_API_KEY")
-    )
+    api_key = os.environ.get("OPEN_AI_API_KEY") or os.environ.get("OPENAI_API_KEY")
 
     if not api_key:
         raise RuntimeError(
@@ -497,14 +507,12 @@ def _split_into_batches(texts, batch_size):
     current_tokens = 0
 
     for text in texts:
-
         text_tokens = len(encoding.encode(text))
 
         full_by_count = len(current) >= batch_size
 
         full_by_tokens = (
-            current
-            and current_tokens + text_tokens > EMBEDDING_MAX_TOKENS_PER_REQUEST
+            current and current_tokens + text_tokens > EMBEDDING_MAX_TOKENS_PER_REQUEST
         )
 
         if full_by_count or full_by_tokens:
@@ -543,11 +551,7 @@ def embed_texts(
     embeddings = []
 
     for batch_number, batch in enumerate(batches, start=1):
-
-        print(
-            f"  embedding batch {batch_number}/{len(batches)} "
-            f"- {len(batch)} texts"
-        )
+        print(f"  embedding batch {batch_number}/{len(batches)} - {len(batch)} texts")
 
         response = client.embeddings.create(
             model=EMBEDDING_MODEL,
@@ -557,7 +561,6 @@ def embed_texts(
         # The API does not promise response order, so sort by the echoed index
         # rather than assuming it lines up with the request.
         for item in sorted(response.data, key=lambda d: d.index):
-
             if len(item.embedding) != EMBEDDING_DIMENSIONS:
                 raise ValueError(
                     f"Expected {EMBEDDING_DIMENSIONS}-dimension vectors from "
@@ -567,17 +570,15 @@ def embed_texts(
             embeddings.append(item.embedding)
 
     if len(embeddings) != len(texts):
-        raise ValueError(
-            f"Embedded {len(embeddings)} vectors "
-            f"for {len(texts)} texts"
-        )
+        raise ValueError(f"Embedded {len(embeddings)} vectors for {len(texts)} texts")
 
     return embeddings
 
 
 # =====================================================
-# SPRINT 2 - CHROMADB INGESTION
+# CHROMADB INGESTION
 # =====================================================
+
 
 def _chunk_record_id(source_file, page_number, index):
     """Deterministic Chroma ID: filename stem, page, position in the document.
@@ -640,7 +641,6 @@ def _prune_stale_records(collection, source_files, current_ids):
     removed = 0
 
     for source_file in sorted(source_files):
-
         existing = collection.get(
             where={"source_file": source_file},
             include=[],
@@ -699,14 +699,12 @@ def ingest_to_chromadb(
     ids = build_chunk_ids(chunks)
     documents = [chunk["text"] for chunk in chunks]
     metadatas = [
-        _chunk_metadata(chunk, target_chars, overlap_chars)
-        for chunk in chunks
+        _chunk_metadata(chunk, target_chars, overlap_chars) for chunk in chunks
     ]
 
     print(f"Upserting into collection '{collection.name}'...")
 
     for start in range(0, len(ids), MAX_UPSERT_BATCH):
-
         end = start + MAX_UPSERT_BATCH
 
         collection.upsert(
@@ -736,8 +734,7 @@ def ingest_to_chromadb(
     }
 
     print(
-        f"Stored {len(chunks)} chunks. "
-        f"Collection count {count_before} -> {count_after}"
+        f"Stored {len(chunks)} chunks. Collection count {count_before} -> {count_after}"
     )
 
     return summary
