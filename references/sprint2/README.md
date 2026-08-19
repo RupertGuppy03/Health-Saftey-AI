@@ -97,26 +97,32 @@ As a developer, I want re-running ingestion to overwrite existing chunks instead
 
 ---
 
-## 4. Create a One-Command Ingestion Script
+## 4. Create a Repeatable Chunk → Preview → Embed Notebook
 
 **MoSCoW:** Must | **Est:** 2 days
 
-As a team member, I want a single `ingest_all.py` script so that anyone can go from cleaned chunks to a populated vector store with one command.
+As a team member, I want a single notebook so that anyone can go from cleaned chunks to a populated vector store one document at a time, checking the chunks look right before paying to embed them.
 
 **Tasks**
-- Wire chunk loading, embedding and ChromaDB storage into one entry point
-- Add progress output showing which document is being processed
-- Print a summary at the end: documents processed, chunks stored, failures
-- Handle and report a failed document without aborting the whole run
+- Show a corpus status table: every cleaned document, its chunks on disk, and its chunks already in the collection
+- Chunk the selected document to `*-CHUNKS.json` with no API call and no write to the vector store
+- Preview the chunks from memory, before anything is embedded
+- Embed and store as a separate final step, printing the collection count before and after
+- Make the notebook repeatable for the next document by editing one path
 
 **Acceptance Tests**
-- Given a populated cleaned-chunks folder, when `ingest_all.py` is run, then the vector store is populated without any further manual steps.
-- Given the script completes, when the summary is printed, then the number of documents processed and chunks stored is shown.
-- Given one document fails to process, when the script runs, then the failure is reported and the remaining documents still complete.
+- Given a document path set in the config cell, when the chunk cell runs, then chunk records are produced and written to disk with no OpenAI call and no write to `vectorstore/`.
+- Given chunked output, when the preview cell runs, then chunks are shown with their deterministic ID, page range, section heading, size and text — before any embedding.
+- Given a previewed document, when the embed cell at the end runs, then its chunks are embedded and stored, and the collection count is printed before and after.
+- Given the embed cell is run twice on the same document, then the collection count does not change on the second run.
+- Given a different document path is set, when the notebook is re-run from the top, then it chunks, previews and ingests that document with no change to any cell other than the path.
 
 **Definition of Done**
-- A team member other than the developer runs the script successfully from a clean clone
-- The final chunk count in ChromaDB matches the count reported by the script
+- A team member other than the developer runs the notebook end-to-end on a document and gets it into the collection
+- The final chunk count in ChromaDB matches the count reported by the notebook
+- The corpus status table shows the document as stored once the run completes
+
+> Note: this story previously specified a one-command `ingest_all.py` over the whole cleaned-chunks folder with "no further manual steps". It became this notebook because the manual step is the point — chunking is cheap and reversible, embedding is paid and writes to the shared store, so the chunks are inspected in between. Documents are ingested one at a time. `ingest_all.py` is not being built.
 
 ---
 
