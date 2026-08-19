@@ -859,3 +859,86 @@ def test_elements_are_read_in_document_order(tmp_path):
     assert len(produced) == 1
     positions = [produced[0]["text"].index(f"Element number {i}.") for i in range(5)]
     assert positions == sorted(positions)
+
+
+# =====================================================
+# SECTION LABEL STAYS CURRENT ACROSS A MISSED FLUSH
+# =====================================================
+
+def _title(text, page_number=1, source_file="doc.pdf"):
+    return _element(text, page_number, element_type="Title", source_file=source_file)
+
+
+def test_a_heading_swallowed_into_a_small_buffer_still_updates_the_label(tmp_path):
+    """Regression test for the stale-KEY-POINTS bug.
+
+    Heading A arrives, followed by only a few characters of body text — too
+    small to flush on its own. Heading B then arrives while that undersized
+    buffer is still open. Everything from here to the next flush is really
+    under B, so the emitted chunk must be labelled B, not the A it started
+    with.
+    """
+
+    records = [
+        _title("1. Heading A"),
+        _title("2. Heading B"),
+    ] + [_element(f"Body sentence number {i} about the topic.", 1) for i in range(10)]
+
+    source = tmp_path / "swallow-CLEANED.json"
+    source.write_text(json.dumps(records), encoding="utf-8")
+
+    produced = chunking.chunk_document(
+        source, tmp_path / "swallow-CHUNKS.json",
+        target_chars=200, max_chars=1000, min_chars=50, overlap_chars=0,
+    )
+
+    chunk = next(c for c in produced if "Body sentence number 0" in c["text"])
+    assert chunk["section_heading"] == "2. Heading B"
+
+
+def test_a_tiny_trailing_buffer_merged_back_does_not_relabel_the_host_chunk(tmp_path):
+    """Documents current, accepted behaviour for the merge-back path.
+
+    A large chunk under heading A is flushed on its own. A new heading B then
+    appears at the very end of the document with almost no body text after
+    it, so it is too small to stand alone and gets folded back into the
+    heading-A chunk. The host chunk keeps its own label — relabelling a
+    mostly-A chunk to B because of a few trailing characters would be worse,
+    not better.
+    """
+
+    records = [
+        _title("1. Heading A"),
+    ] + [
+        _element(f"Body sentence number {i} about the topic today.", 1) for i in range(5)
+    ] + [
+        _title("2. Heading B"),
+    ]
+
+    source = tmp_path / "merge-back-CLEANED.json"
+    source.write_text(json.dumps(records), encoding="utf-8")
+
+    produced = chunking.chunk_document(
+        source, tmp_path / "merge-back-CHUNKS.json",
+        target_chars=1000, max_chars=1000, min_chars=20, overlap_chars=0,
+    )
+
+    assert len(produced) == 1
+    assert produced[0]["section_heading"] == "1. Heading A"
+
+
+def test_a_chunk_with_no_heading_transition_is_unaffected(tmp_path):
+    records = [_title("1. Heading A")] + [
+        _element(f"Body sentence number {i} about the topic.", 1) for i in range(5)
+    ]
+
+    source = tmp_path / "no-transition-CLEANED.json"
+    source.write_text(json.dumps(records), encoding="utf-8")
+
+    produced = chunking.chunk_document(
+        source, tmp_path / "no-transition-CHUNKS.json",
+        target_chars=10_000, max_chars=10_000, min_chars=1, overlap_chars=0,
+    )
+
+    assert len(produced) == 1
+    assert produced[0]["section_heading"] == "1. Heading A"

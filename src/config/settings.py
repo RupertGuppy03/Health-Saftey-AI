@@ -55,7 +55,7 @@ EMBEDDING_MAX_TOKENS_PER_REQUEST = 100_000
 # Stamped onto every stored record so stale embeddings are detectable after a
 # pipeline change. Bump this when chunking, cleaning or the embedding model
 # changes in a way that invalidates vectors already in the collection.
-PIPELINE_VERSION = "3.0.0"
+PIPELINE_VERSION = "3.0.1"
 
 # Chunking configuration.
 # Chunks are built by packing whole elements in document order rather than by

@@ -378,10 +378,14 @@ def chunk_document(
             section_heading = text
 
             # Only break here if what we already have is worth keeping;
-            # otherwise the heading joins the chunk being built.
+            # otherwise the heading joins the chunk being built. Either way,
+            # the label syncs immediately — otherwise a heading swallowed into
+            # a not-yet-flushed buffer would leave that buffer (and everything
+            # appended to it afterward) mislabelled with the heading in force
+            # before this transition.
             if buffer_chars >= min_chars:
                 flush()
-                buffer_heading = section_heading
+            buffer_heading = section_heading
 
         if not buffer:
             buffer_heading = section_heading
