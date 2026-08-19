@@ -52,6 +52,22 @@ pip install -r requirements.txt
 ```
 
 That's it — the project is installed. ✅
+
+### 4. Environment variables
+
+Copy `.env.example` to `.env` and fill in the real values. `.env` is gitignored and
+must never be committed.
+
+| Variable | Used by | Purpose |
+|---|---|---|
+| `OPEN_AI_API_KEY` | `src/embeddings/chunking_script_v2.py` | OpenAI key for generating embeddings |
+| `UNSTRUCTURED_API_KEY` | `src/ingestion/extract.py` | Unstructured API key for PDF extraction |
+| `UNSTRUCTURED_API_URL` | `src/ingestion/extract.py` | Unstructured API endpoint |
+
+Note on the key name: this project uses `OPEN_AI_API_KEY`, but the OpenAI SDK looks for
+`OPENAI_API_KEY` by default. The code accepts **either**, so you don't need to change an
+existing `.env`.
+
 ---
 
 ---
@@ -81,3 +97,137 @@ We collaborate on GitHub. To keep things simple and avoid clashes:
 3. Work in your area of the project.
 4. Open a Pull Request when you're ready, so the team can review before it
    merges into `main`.
+
+---
+
+## ChromaDB persistence (vectorstore)
+
+This project uses ChromaDB as a local, on-disk vector store. The persisted files live
+under the repository root in the `vectorstore/` folder and are intentionally not
+committed to git.
+
+Why not commit the vectorstore?
+
+- The persisted embeddings are large and binary; they don't suit diffs or code review.
+- Vector stores are environment-specific and can be rebuilt by ingestion when needed.
+
+How to inspect the persisted collection locally
+
+After installing the project's dependencies (see "Getting started"), run the
+verification script which opens the named collection defined in code and prints
+its item count (works even when the collection is empty):
+
+```bash
+python scripts/check_chroma_collection.py
+```
+
+The collection name is defined centrally in `src/config/settings.py` as
+`CHROMA_COLLECTION_NAME`. To open a different collection name for debugging pass
+`--collection NAME` to the script.
+
+## Embeddings
+
+Configured centrally in `src/config/settings.py`:
+
+| Setting | Value | Notes |
+|---|---|---|
+| `EMBEDDING_MODEL` | `text-embedding-3-small` | Must be the same at ingestion and query time |
+| `EMBEDDING_DIMENSIONS` | `1536` | The model's native width; not truncated |
+| `EMBEDDING_BATCH_SIZE` | `128` | Texts per API call — the full corpus is ~43 calls, not ~5,400 |
+| `EMBEDDING_MAX_TOKENS_PER_REQUEST` | `100000` | A batch over this is split again |
+| `PIPELINE_VERSION` | `3.0.0` | Stamped on every record; bump when a change invalidates stored vectors |
+| `CHUNK_TARGET_CHARS` | `3000` | What the packer aims for per chunk (~750 tokens, inside the locked 500-1000 band) |
+| `CHUNK_MAX_CHARS` | `4000` | Hard ceiling for a single chunk |
+| `CHUNK_MIN_CHARS` | `300` | A chunk below this is folded into a neighbour rather than stored on its own |
+| `CHUNK_OVERLAP_CHARS` | `600` | Trailing context carried into the next prose chunk |
+| `HEADING_STRUCTURAL_SHARE` | `0.40` | Threshold for whether a document's headings are numbered/ALL-CAPS enough to trust on their own |
+
+Embedding the whole corpus (~3,700 chunks) costs a fraction of a cent.
+
+### How chunking works
+
+Cleaned elements are packed **in document order** into chunks — not split from a single
+joined string, the way a text splitter works. `Title` elements are candidate section
+breaks, `Table` elements are always their own chunk, and everything else accumulates
+until a chunk is worth retrieving.
+
+Not every `Title` element extracted from a PDF is a real heading — line-wrapped text is
+sometimes tagged `Title` element by element, which would turn a broken sentence into a
+string of one-word "section headings" and one-line "chunks". Two checks catch this:
+
+- **Structural test**: numbered (`1.3`, `2.1`) or short ALL CAPS text is always trusted
+  as a heading, regardless of context.
+- **Shape test**: a short, capitalised, non-numbered line (e.g. `Key terms`) is trusted
+  as a heading only if it is not a Title Case document's house style *and* the previous
+  element reads as a finished sentence. Without that second condition, a capitalised
+  line-wrap fragment (e.g. `"Work Act 2015 (HSWA), illustrate different"`, itself a
+  continuation of the previous line) would be mistaken for a new heading.
+
+Which documents get the shape test is decided **per document**: `detect_allow_heading_shape`
+measures what share of a document's own `Title` elements are structural, and only enables
+the looser shape rule where the document does not already have a clear numbered/ALL-CAPS
+convention (below `HEADING_STRUCTURAL_SHARE`). Both checks are purely typographic — they
+never look at subject matter, so behaviour does not depend on which topic a document covers.
+
+A misclassified heading only costs a slightly less precise `section_heading` in a
+citation — it never creates its own tiny chunk, since a heading always attaches to the
+body text that follows it.
+
+Tables are never split below their size cap and never merged with surrounding prose.
+Where a heading-only label sits directly before a table with nothing to merge it
+backward into (a checklist-style `Label` → `Table` → `Label` → `Table` run), the label is
+prepended to the table as a caption instead of being left as its own one-line chunk. A
+table larger than `CHUNK_MAX_CHARS` is split on row boundaries, and the header row is
+repeated at the top of every part so each stands alone.
+
+A small number of chunks (well under 1% of the corpus) remain under `CHUNK_MIN_CHARS` —
+mainly a trailing heading at the very end of a document with a table immediately before
+it and nothing after. This is accepted rather than fixed by relaxing "tables are never
+merged with prose".
+
+**Querying the collection:** the stored vectors are 1536-dimension OpenAI vectors, but
+ChromaDB still has its own built-in 384-dimension embedder attached. Calling
+`collection.query(query_texts=...)` would use that built-in model and fail with a
+dimension mismatch. Always embed the query yourself and pass `query_embeddings=`:
+
+```python
+from src.embeddings.chunking_script_v2 import embed_texts
+from src.vectorstore_client import get_collection
+
+vector = embed_texts(["your question here"])
+results = get_collection().query(query_embeddings=vector, n_results=5)
+```
+
+## Re-running ingestion and rebuilding
+
+Ingestion is safe to re-run. Every chunk gets a deterministic ID built from the
+document filename, its page number and its position in the document, so a repeat run
+overwrites the same records instead of appending duplicates.
+
+Each record also stores the pipeline that produced it: `pipeline_version`,
+`embedding_model`, `chunk_target_chars` and `chunk_overlap_chars`. That is how you tell
+whether a vector in the collection is stale.
+
+**When re-ingesting the document is enough.** If you change chunking or cleaning and
+re-ingest a document, any record the new run no longer produces is deleted. A document
+that used to yield 500 chunks and now yields 300 ends up with exactly 300 — the 200
+leftovers are removed rather than left behind to be retrieved later. This happens
+automatically; you do not need to clear anything first.
+
+**When you must rebuild everything.** Changing the embedding model, or its dimensions,
+invalidates every vector in the collection, and mixing widths in one collection is an
+error. Bump `PIPELINE_VERSION` and wipe the collection:
+
+```python
+from src.vectorstore_client import reset_collection
+
+reset_collection()   # drops and recreates hs_construction_v1, empty
+```
+
+Then re-ingest every document. A full re-embed of the corpus is roughly 3,700 chunks and
+well under a cent, so rebuilding is cheap — when in doubt, rebuild.
+
+To keep the old vectors around for comparison, change `CHROMA_COLLECTION_NAME` in
+`src/config/settings.py` to a new version (for example `hs_construction_v2`) instead of
+resetting, and ingest into that.
+
