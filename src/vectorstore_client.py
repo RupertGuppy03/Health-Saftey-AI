@@ -8,6 +8,7 @@ from typing import Optional
 from pathlib import Path
 
 import chromadb
+from chromadb.errors import NotFoundError
 
 from src.config.settings import CHROMA_COLLECTION_NAME, CHROMA_PERSIST_DIR
 
@@ -18,7 +19,7 @@ def _ensure_persist_dir_exists() -> Path:
     return path
 
 
-def get_client() -> chromadb.Client:
+def get_client() -> chromadb.Client:  # type: ignore
     """Return a persistent Chroma client that writes to CHROMA_PERSIST_DIR.
 
     Uses chromadb.PersistentClient when available, falling back to the Client +
@@ -34,7 +35,9 @@ def get_client() -> chromadb.Client:
         try:
             from chromadb.config import Settings
 
-            settings = Settings(chroma_db_impl="duckdb+parquet", persist_directory=persist_path)
+            settings = Settings(
+                chroma_db_impl="duckdb+parquet", persist_directory=persist_path
+            )
             client = chromadb.Client(settings=settings)
             return client
         except Exception:
@@ -69,3 +72,26 @@ def count_collection(name: Optional[str] = None) -> int:
             return len(ids)
         except Exception:
             return 0
+
+
+def reset_collection(name: Optional[str] = None):
+    """Drop the named collection and recreate it empty.
+
+    Use this when a pipeline change invalidates every stored vector — a new
+    embedding model, or a chunking/cleaning change affecting all documents.
+    For a change affecting one document, re-ingesting it is enough: ingestion
+    prunes records that the current run no longer produces.
+
+    Returns the fresh, empty collection.
+    """
+    client = get_client()
+    name = name or CHROMA_COLLECTION_NAME
+
+    try:
+        client.delete_collection(name)
+    except NotFoundError:
+        # Nothing to drop — resetting a collection that was never created is
+        # a no-op, not an error.
+        pass
+
+    return client.get_or_create_collection(name=name)
