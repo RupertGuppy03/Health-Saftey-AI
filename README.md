@@ -185,18 +185,50 @@ mainly a trailing heading at the very end of a document with a table immediately
 it and nothing after. This is accepted rather than fixed by relaxing "tables are never
 merged with prose".
 
-**Querying the collection:** the stored vectors are 1536-dimension OpenAI vectors, but
-ChromaDB still has its own built-in 384-dimension embedder attached. Calling
-`collection.query(query_texts=...)` would use that built-in model and fail with a
-dimension mismatch. Always embed the query yourself and pass `query_embeddings=`:
+**Querying the collection:** use `src/retrieval/retriever.py` — see
+[Retrieval](#retrieval) below. Do not call `collection.query(query_texts=...)`
+directly; the reason is explained there.
+
+## Retrieval
+
+Turning a user's question into the chunks that answer it. One function:
 
 ```python
-from src.embeddings.chunking_script_v2 import embed_texts
-from src.vectorstore_client import get_collection
+from src.retrieval import retriever
 
-vector = embed_texts(["your question here"])
-results = get_collection().query(query_embeddings=vector, n_results=5)
+results = retriever.retrieve("What edge protection is needed on a roof?")
+print(retriever.format_results(results))
 ```
+
+Each result is a plain dict:
+
+| key | what it is |
+| --- | --- |
+| `rank` | 1-based position, nearest first |
+| `chunk_id` | the deterministic ingestion ID, e.g. `working-on-roofs-GPG:p0004:0012` |
+| `text` | the chunk itself |
+| `source_file`, `page_number`, `section_heading` | the locked Sprint 1 metadata — this is what a citation is built from |
+| `chunk_type` | `prose`, `table`, `appendix` or `glossary`; `None` if the record has none |
+| `distance` | how far the chunk is from the question; smaller is nearer |
+
+**How many chunks come back** is `RETRIEVAL_TOP_K` in `src/config/settings.py`,
+currently **6**. That is the single source of truth — retrieval, the terminal
+script and the eval runs all read it rather than each passing their own number.
+Override it for one call with `retrieve(question, n_results=4)`.
+
+**The query is embedded with `EMBEDDING_MODEL`**, the same model used at
+ingestion and read from the same place in settings. A query embedded any other
+way is not comparable to what is stored and returns meaningless neighbours.
+
+**Never pass `query_texts=`.** The stored vectors are 1536-dimension OpenAI
+vectors, but ChromaDB still has its own built-in 384-dimension embedder
+attached, and `query_texts=` would use it and fail on a dimension mismatch.
+`retrieve()` embeds the question itself and passes `query_embeddings=`.
+
+Retrieval only reads. It never writes to the collection and never re-embeds a
+document — the only thing it sends to OpenAI is the question.
+
+To see it working across five documents, run `notebooks/S2_retrieval.ipynb`.
 
 ## Re-running ingestion and rebuilding
 
