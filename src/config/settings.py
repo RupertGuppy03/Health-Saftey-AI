@@ -51,6 +51,13 @@ EMBEDDING_BATCH_SIZE = 128
 # request over the edge.
 EMBEDDING_MAX_TOKENS_PER_REQUEST = 100_000
 
+# Retrieval configuration
+# How many chunks a query returns. Single source of truth: retrieval, the
+# terminal script and the eval runs all read this rather than each passing their
+# own number. Story 11 compares 4 against 6 on the golden set before the team
+# settles on a final value.
+RETRIEVAL_TOP_K = 6
+
 # Pipeline provenance
 # Stamped onto every stored record so stale embeddings are detectable after a
 # pipeline change. Bump this when chunking, cleaning or the embedding model
