@@ -14,7 +14,11 @@ __pycache__/
 venv/
 env/
 
-# --- Vector store (keep the folder, ignore the generated embeddings) ---
+# --- Vector store ---
+# The live store is never committed: Chroma rewrites chroma.sqlite3 just from
+# reading it, so tracking it would leave everyone with a permanently dirty 46MB
+# binary that git cannot merge. The team shares the store as a snapshot archive
+# (vectorstore-snapshot.tar.gz, committed) which is unpacked into this folder.
 vectorstore/*
 !vectorstore/README.md
 
