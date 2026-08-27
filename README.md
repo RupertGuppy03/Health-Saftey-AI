@@ -53,6 +53,20 @@ pip install -r requirements.txt
 
 That's it — the project is installed. ✅
 
+## Running local checks and tests
+
+A small helper script avoids the common "python: command not found" issue on systems that expose only `python3`. It runs a quick import smoke-check using `python3` when available.
+
+- Run the smoke check:
+
+    ./scripts/run_local_checks.sh
+
+- Run the retrieval→LLM unit tests (added for US-06):
+
+    python3 -m pytest tests/test_answer_chain.py -q
+
+Make sure your `.env` contains `OPEN_AI_API_KEY` or `OPENAI_API_KEY` before running any tests that call the OpenAI API. The code accepts either name.
+
 ### 4. Environment variables
 
 Copy `.env.example` to `.env` and fill in the real values. `.env` is gitignored and
