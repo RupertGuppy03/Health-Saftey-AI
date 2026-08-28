@@ -31,6 +31,12 @@ SAMPLE_PDF = (
 CHROMA_COLLECTION_NAME = "hs_construction_v1"
 CHROMA_PERSIST_DIR = PROJECT_ROOT / "vectorstore"
 
+# OpenAI model configuration
+# The project uses GPT-4o for grounded answers, while the embedding model stays
+# separate because embeddings and chat generation are different tasks.
+LLM_MODEL = "gpt-5-mini"
+LLM_TEMPERATURE = 0.1
+
 # OpenAI embedding configuration
 # Single source-of-truth for the embedding model used at BOTH ingestion and query
 # time. Retrieval must embed the user's question with this same model, otherwise
