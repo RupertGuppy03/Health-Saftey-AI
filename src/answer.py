@@ -10,7 +10,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 
 from src.config.prompts import GROUNDING_SYSTEM_PROMPT
-from src.config.settings import LLM_MODEL, RETRIEVAL_TOP_K
+from src.config.settings import LLM_MODEL, RETRIEVAL_TOP_K, LLM_TEMPERATURE
 from src.retrieval import retriever
 
 
