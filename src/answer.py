@@ -7,10 +7,16 @@ from typing import Any, Callable, Dict, Iterable, List, Optional
 
 from dotenv import load_dotenv
 from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.runnables import Runnable, RunnableLambda
 from langchain_openai import ChatOpenAI
 
 from src.config.prompts import GROUNDING_SYSTEM_PROMPT
-from src.config.settings import LLM_MODEL, RETRIEVAL_TOP_K, LLM_TEMPERATURE
+from src.config.settings import (
+    LLM_MODEL,
+    LLM_TEMPERATURE,
+    RETRIEVAL_RELEVANCE_THRESHOLD,
+    RETRIEVAL_TOP_K,
+)
 from src.retrieval import retriever
 
 
@@ -95,7 +101,25 @@ def build_answer_chain(llm=None):
         ]
     )
 
-    return prompt | llm
+    if isinstance(llm, Runnable):
+        return prompt | llm
+
+    if hasattr(llm, "invoke"):
+
+        def _invoke_with_prompt(payload):
+            if isinstance(payload, dict):
+                question = payload.get("question", "")
+                if not str(question).startswith("Question:"):
+                    payload = {
+                        "question": f"Question: {question}",
+                        "context": payload.get("context", ""),
+                    }
+                return llm.invoke(payload)
+            return llm.invoke(payload)
+
+        return RunnableLambda(_invoke_with_prompt)
+
+    raise TypeError(f"Unsupported LLM type: {type(llm).__name__}")
 
 
 def answer_question(
@@ -127,9 +151,20 @@ def answer_question(
             "error": f"Retrieval failed: {exc}",
         }
 
+    if results:
+        filtered_results = []
+        for result in results:
+            similarity_score = result.get("similarity_score")
+            if similarity_score is None:
+                filtered_results.append(result)
+                continue
+            if float(similarity_score) >= RETRIEVAL_RELEVANCE_THRESHOLD:
+                filtered_results.append(result)
+        results = filtered_results
+
     if not results:
         return {
-            "answer": "No relevant information was found for that question in the available documents.",
+            "answer": "No relevant information found in the available documents.",
             "sources": [],
             "status": "no_results",
         }

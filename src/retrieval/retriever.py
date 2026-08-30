@@ -21,6 +21,7 @@ from openai import OpenAI
 from src.config.settings import (
     EMBEDDING_DIMENSIONS,
     EMBEDDING_MODEL,
+    RETRIEVAL_RELEVANCE_THRESHOLD,
     RETRIEVAL_TOP_K,
 )
 from src.vectorstore_client import get_collection
@@ -101,6 +102,8 @@ def _result_record(rank, chunk_id, text, metadata, distance):
     """
 
     metadata = metadata or {}
+    distance = 0.0 if distance is None else float(distance)
+    similarity_score = max(0.0, 1.0 - distance)
 
     return {
         "rank": rank,
@@ -111,7 +114,22 @@ def _result_record(rank, chunk_id, text, metadata, distance):
         "section_heading": metadata.get("section_heading", ""),
         "chunk_type": metadata.get("chunk_type"),
         "distance": distance,
+        "similarity_score": similarity_score,
     }
+
+
+def _distance_to_similarity(distance):
+    """Convert Chroma cosine distance to a simple 0..1 similarity score.
+
+    Chroma's `distances` are lower-is-better, so this approximates the common
+    similarity formula used in retrieval evaluation: similarity = 1 - distance.
+    """
+
+    if distance is None:
+        return 0.0
+
+    distance = float(distance)
+    return max(0.0, 1.0 - distance)
 
 
 def retrieve(question, n_results=RETRIEVAL_TOP_K, collection_name=None, client=None):
@@ -149,12 +167,16 @@ def retrieve(question, n_results=RETRIEVAL_TOP_K, collection_name=None, client=N
     metadatas = response["metadatas"][0]
     distances = response["distances"][0]
 
-    return [
-        _result_record(rank, chunk_id, text, metadata, distance)
-        for rank, (chunk_id, text, metadata, distance) in enumerate(
-            zip(ids, documents, metadatas, distances), start=1
-        )
-    ]
+    results = []
+    for rank, (chunk_id, text, metadata, distance) in enumerate(
+        zip(ids, documents, metadatas, distances), start=1
+    ):
+        record = _result_record(rank, chunk_id, text, metadata, distance)
+        if _distance_to_similarity(record["distance"]) < RETRIEVAL_RELEVANCE_THRESHOLD:
+            continue
+        results.append(record)
+
+    return results
 
 
 # =====================================================
