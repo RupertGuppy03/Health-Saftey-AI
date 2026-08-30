@@ -64,6 +64,11 @@ EMBEDDING_MAX_TOKENS_PER_REQUEST = 100_000
 # settles on a final value.
 RETRIEVAL_TOP_K = 6
 
+# Minimum similarity score required to accept a chunk. Chroma exposes distances,
+# not similarity, so we convert them with similarity = 1 - distance for the
+# default cosine-distance case and filter results below this threshold.
+RETRIEVAL_RELEVANCE_THRESHOLD = 0.25
+
 # Pipeline provenance
 # Stamped onto every stored record so stale embeddings are detectable after a
 # pipeline change. Bump this when chunking, cleaning or the embedding model

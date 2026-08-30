@@ -66,7 +66,7 @@ def test_answer_question_reports_no_relevant_results():
     )
 
     assert result["status"] == "no_results"
-    assert "No relevant information was found" in result["answer"]
+    assert "No relevant information found in the available documents." == result["answer"]
     assert result["sources"] == []
 
 

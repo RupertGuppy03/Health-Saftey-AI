@@ -245,6 +245,34 @@ def test_an_empty_collection_returns_nothing_without_calling_the_api(
     assert stub_client.calls == []
 
 
+def test_retrieval_filters_out_chunks_below_the_similarity_threshold(monkeypatch):
+    class LowSimilarityCollection:
+        def count(self):
+            return 3
+
+        def query(self, **kwargs):
+            return {
+                "ids": [["a", "b", "c"]],
+                "documents": [["doc a", "doc b", "doc c"]],
+                "metadatas": [[
+                    {"source_file": "a.pdf", "page_number": 1, "section_heading": "Alpha"},
+                    {"source_file": "b.pdf", "page_number": 2, "section_heading": "Beta"},
+                    {"source_file": "c.pdf", "page_number": 3, "section_heading": "Gamma"},
+                ]],
+                "distances": [[0.10, 0.80, 0.99]],
+            }
+
+    monkeypatch.setattr(retriever, "get_collection", lambda _name=None: LowSimilarityCollection())
+    monkeypatch.setattr(retriever, "embed_query", lambda question, client=None: [0.0] * settings.EMBEDDING_DIMENSIONS)
+    monkeypatch.setattr(retriever, "RETRIEVAL_RELEVANCE_THRESHOLD", 0.25)
+
+    results = retriever.retrieve("What edge protection do I need?")
+
+    assert len(results) == 1
+    assert results[0]["source_file"] == "a.pdf"
+    assert results[0]["similarity_score"] >= 0.25
+
+
 # =====================================================
 # WHAT EACH RESULT CARRIES  (acceptance test 3)
 # =====================================================
