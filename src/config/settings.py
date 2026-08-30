@@ -31,6 +31,12 @@ SAMPLE_PDF = (
 CHROMA_COLLECTION_NAME = "hs_construction_v1"
 CHROMA_PERSIST_DIR = PROJECT_ROOT / "vectorstore"
 
+# OpenAI model configuration
+# The project uses GPT-4o for grounded answers, while the embedding model stays
+# separate because embeddings and chat generation are different tasks.
+LLM_MODEL = "gpt-5-mini"
+LLM_TEMPERATURE = 0.1
+
 # OpenAI embedding configuration
 # Single source-of-truth for the embedding model used at BOTH ingestion and query
 # time. Retrieval must embed the user's question with this same model, otherwise
@@ -57,6 +63,11 @@ EMBEDDING_MAX_TOKENS_PER_REQUEST = 100_000
 # own number. Story 11 compares 4 against 6 on the golden set before the team
 # settles on a final value.
 RETRIEVAL_TOP_K = 6
+
+# Minimum similarity score required to accept a chunk. Chroma exposes distances,
+# not similarity, so we convert them with similarity = 1 - distance for the
+# default cosine-distance case and filter results below this threshold.
+RETRIEVAL_RELEVANCE_THRESHOLD = 0.25
 
 # Pipeline provenance
 # Stamped onto every stored record so stale embeddings are detectable after a
