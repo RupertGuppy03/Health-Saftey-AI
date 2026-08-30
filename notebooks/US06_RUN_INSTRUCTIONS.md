@@ -45,25 +45,8 @@ OPEN_AI_API_KEY=your_key_here
 
 If you use a `.env`, keep it in the project root so the app can load it automatically.
 
-## 2) Run the notebook
 
-Open the notebook in VS Code or Jupyter:
-
-```text
-notebooks/US06_retrieval_to_gpt4o_langchain.ipynb
-```
-
-Then run the cells in order.
-
-The notebook includes:
-
-- a live retrieval attempt from ChromaDB
-- a demo fallback if the vector store is unavailable
-- a valid question example
-- a no-results example
-- a simulated API error example
-
-## 3) Run a single test question in Python
+## 2) Run a single test question in Python
 
 If you want to test one question directly from the terminal, use:
 
