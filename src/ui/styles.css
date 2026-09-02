@@ -1,0 +1,207 @@
+/* ChatGPT-style chrome for the Streamlit chat interface.
+ *
+ * Streamlit does not publish its theme colours as CSS variables, so the one
+ * colour this stylesheet needs -- the surface behind a user bubble and the chat
+ * bar -- is declared here as --hs-surface. app.py overrides it to match the
+ * theme the viewer actually has selected; the media query below is the fallback
+ * when that is not available. Both values mirror secondaryBackgroundColor in
+ * .streamlit/config.toml. */
+
+:root {
+    --hs-column: 46rem;          /* reading width for messages and the chat bar */
+    --hs-bubble-radius: 1.375rem;
+    --hs-surface: #F4F4F4;       /* light */
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --hs-surface: #303030;
+    }
+}
+
+/* ---------- page chrome ---------- */
+
+/* Let the page show through the header, and drop the "Deploy" button, which
+ * means nothing to a client. The toolbar menu itself stays: it is where the
+ * viewer switches between the light and dark themes. */
+[data-testid="stHeader"] {
+    background: transparent;
+}
+
+[data-testid="stAppDeployButton"],
+[data-testid="stDecoration"],
+footer {
+    display: none;
+}
+
+/* ---------- reading column ---------- */
+
+/* Centre the conversation and the chat bar on the same axis at the same width. */
+.st-key-hs_messages,
+.st-key-hs_hero,
+.st-key-hs_chat_bar {
+    max-width: var(--hs-column);
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+/* ---------- empty state ---------- */
+
+.st-key-hs_hero {
+    padding-top: 18vh;
+}
+
+.st-key-hs_hero h1 {
+    /* Streamlit sets text-align on headings directly, so override it here. */
+    text-align: center;
+    font-size: 1.875rem;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    padding: 0;
+    margin-bottom: 1.5rem;
+}
+
+/* ---------- messages ---------- */
+
+.stChatMessage {
+    background: transparent;
+    padding: 0.25rem 0;
+    margin-bottom: 1.25rem;
+    gap: 0.75rem;
+}
+
+/* The assistant answers flat across the column, the way ChatGPT does. Only the
+ * user's avatar carries a test id, so the assistant is "everything else". */
+.stChatMessage:not(:has([data-testid="stChatMessageAvatarUser"]))
+[data-testid="stChatMessageContent"] {
+    background: transparent;
+    padding: 0;
+}
+
+/* The user speaks in a bubble on the right, with no avatar. */
+.stChatMessage:has([data-testid="stChatMessageAvatarUser"]) {
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+}
+
+.stChatMessage [data-testid="stChatMessageAvatarUser"] {
+    display: none;
+}
+
+.stChatMessage:has([data-testid="stChatMessageAvatarUser"])
+[data-testid="stChatMessageContent"] {
+    background: var(--hs-surface);
+    border-radius: var(--hs-bubble-radius);
+    padding: 0.625rem 1.125rem;
+    /* Hug the text instead of filling the row, but never cross the column.
+     * Streamlit centres the content with auto side margins, which would strand
+     * the bubble mid-row, so clear them and let row-reverse push it right. */
+    flex: 0 1 auto;
+    width: fit-content;
+    max-width: 75%;
+    margin: 0;
+}
+
+/* Streamlit pulls markdown up by a negative bottom margin to cancel the flex
+ * gap of the block above it. Inside a bubble there is no gap to cancel, so that
+ * margin drags the text down out of the padding. Clear it. */
+.stChatMessage [data-testid="stChatMessageContent"] [data-testid="stMarkdownContainer"] {
+    margin-bottom: 0;
+}
+
+.stChatMessage [data-testid="stChatMessageContent"] p:last-child {
+    margin-bottom: 0;
+}
+
+/* ---------- chat bar ---------- */
+
+.st-key-hs_chat_bar [data-testid="stChatInput"],
+.st-key-hs_chat_bar [data-testid="stChatInput"] > div:first-child {
+    background: var(--hs-surface);
+    /* Streamlit outlines the inner wrapper when the field has focus. The bar is
+     * the only thing on the page to type into, so the ring adds nothing and
+     * breaks the shape. */
+    border: none;
+    outline: none;
+    border-radius: var(--hs-bubble-radius);
+    box-shadow: none;
+}
+
+.st-key-hs_chat_bar [data-testid="stChatInputTextArea"] {
+    padding: 0.8125rem 0.5rem 0.8125rem 1.25rem;
+    font-size: 1rem;
+}
+
+/* Streamlit paints its own band behind a bottom-pinned container and leaves a
+ * deep skirt below it; drop both so the bar sits close to the foot of the page
+ * and looks like it is floating over the conversation. */
+[data-testid="stBottom"] > div {
+    background: transparent;
+}
+
+[data-testid="stBottomBlockContainer"] {
+    padding-bottom: 1.25rem;
+}
+
+/* ---------- sidebar ---------- */
+
+[data-testid="stSidebar"] h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 0;
+}
+
+/* The documents dropdown: a plain row, not a boxed panel. */
+.stSidebar [data-testid="stExpander"] details {
+    border: none;
+    background: transparent;
+}
+
+.stSidebar [data-testid="stExpander"] summary {
+    padding: 0.375rem 0.5rem;
+    border-radius: var(--hs-bubble-radius);
+}
+
+.stSidebar [data-testid="stExpander"] summary:hover {
+    background: var(--hs-surface);
+}
+
+/* The document list reads as a list, not a stack of buttons. Streamlit centres
+ * a button's contents through two nested wrappers, so the alignment has to be
+ * set on the descendants as well as the button itself. */
+.stSidebar [data-testid="stDownloadButton"] button,
+.stSidebar [data-testid="stDownloadButton"] button > div,
+.stSidebar [data-testid="stDownloadButton"] button > div > span {
+    justify-content: flex-start;
+    text-align: left;
+    width: 100%;
+}
+
+.stSidebar [data-testid="stDownloadButton"] button {
+    padding: 0.375rem 0.5rem;
+    min-height: 0;
+    font-weight: 400;
+}
+
+/* One line per document; the full filename is on the button's tooltip. */
+.stSidebar [data-testid="stDownloadButton"] button p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.stSidebar [data-testid="stDownloadButton"] button:hover {
+    background: var(--hs-surface);
+}
+
+/* Close up the default 1rem gap between entries. The keyed container is itself
+ * the vertical block, so the gap is set on it rather than on a descendant. */
+.st-key-hs_documents {
+    gap: 0.125rem;
+}
+
+/* Put the space back in front of each industry heading. */
+.st-key-hs_documents [data-testid="stCaptionContainer"] {
+    margin-top: 0.75rem;
+}

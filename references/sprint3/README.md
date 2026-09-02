@@ -90,7 +90,6 @@ As a user, I want a chat screen where I can type a question and see the conversa
 
 **Tasks**
 - Create a Streamlit page with a title, a message area and a chat input pinned at the bottom
-- add a download button where users can download their chats in markdown file format
 - add a side bar where users can also click on a tab which displays links to all files in the corpus so users can easily see the documents the AI refers to if they want to see for themselves
 - Render user and assistant messages as distinct chat bubbles
 - Wire the input to a stubbed response so the layout can be built before the backend is connected

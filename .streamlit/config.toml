@@ -1,0 +1,46 @@
+# Streamlit configuration for the Health & Safety AI chat interface.
+#
+# Both palettes are defined so the interface follows whichever theme the viewer
+# has selected (Settings -> Appearance). Colours mirror the ChatGPT interface
+# the prototype is modelled on. Fine detail that config cannot express lives in
+# src/ui/styles.css.
+
+[theme]
+font = "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+baseRadius = "0.75rem"
+buttonRadius = "1.75rem"
+showWidgetBorder = false
+showSidebarBorder = false
+
+[theme.light]
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F4F4"
+textColor = "#0D0D0D"
+primaryColor = "#0D0D0D"
+borderColor = "#E5E5E5"
+linkColor = "#0D0D0D"
+
+[theme.light.sidebar]
+backgroundColor = "#F9F9F9"
+secondaryBackgroundColor = "#ECECEC"
+textColor = "#0D0D0D"
+primaryColor = "#0D0D0D"
+borderColor = "#E5E5E5"
+
+[theme.dark]
+backgroundColor = "#212121"
+secondaryBackgroundColor = "#303030"
+textColor = "#ECECEC"
+primaryColor = "#FFFFFF"
+borderColor = "#3A3A3A"
+linkColor = "#ECECEC"
+
+[theme.dark.sidebar]
+backgroundColor = "#181818"
+secondaryBackgroundColor = "#2A2A2A"
+textColor = "#ECECEC"
+primaryColor = "#FFFFFF"
+borderColor = "#2A2A2A"
+
+[browser]
+gatherUsageStats = false
