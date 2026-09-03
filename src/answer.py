@@ -130,7 +130,11 @@ def answer_question(
     collection_name: Optional[str] = None,
     n_results: Optional[int] = None,
 ):
-    """Retrieve relevant chunks, ask the LLM for a grounded answer, and return metadata."""
+    """Retrieve relevant chunks, ask the LLM for a grounded answer, and return metadata.
+
+    The returned dict carries the retrieved records under "chunks" so a caller
+    can show what the answer was actually built from without retrieving again.
+    """
 
     if not question or not question.strip():
         raise ValueError("Question cannot be empty")
@@ -147,6 +151,7 @@ def answer_question(
         return {
             "answer": "I could not retrieve the relevant information because the retrieval step failed.",
             "sources": [],
+            "chunks": [],
             "status": "error",
             "error": f"Retrieval failed: {exc}",
         }
@@ -166,6 +171,7 @@ def answer_question(
         return {
             "answer": "No relevant information found in the available documents.",
             "sources": [],
+            "chunks": [],
             "status": "no_results",
         }
 
@@ -177,6 +183,7 @@ def answer_question(
         return {
             "answer": "I could not generate an answer because the language model is currently unavailable.",
             "sources": [],
+            "chunks": results,
             "status": "error",
             "error": f"OpenAI API error: {exc}",
         }
@@ -184,5 +191,6 @@ def answer_question(
     return {
         "answer": answer.strip(),
         "sources": _source_metadata(results),
+        "chunks": results,
         "status": "ok",
     }

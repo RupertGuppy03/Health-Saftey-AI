@@ -259,7 +259,7 @@ def test_retrieval_filters_out_chunks_below_the_similarity_threshold(monkeypatch
                     {"source_file": "b.pdf", "page_number": 2, "section_heading": "Beta"},
                     {"source_file": "c.pdf", "page_number": 3, "section_heading": "Gamma"},
                 ]],
-                "distances": [[0.10, 0.80, 0.99]],
+                "distances": [[0.10, 1.60, 1.90]],
             }
 
     monkeypatch.setattr(retriever, "get_collection", lambda _name=None: LowSimilarityCollection())

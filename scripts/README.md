@@ -16,6 +16,7 @@ python -m scripts.terminal_test
 Enter a question when prompted.
 The script will display:
 The generated answer
+The sources used
 Retrieved chunks
 Source file
 Page number
