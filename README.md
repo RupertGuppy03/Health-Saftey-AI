@@ -84,6 +84,25 @@ existing `.env`.
 
 ---
 
+## Running the chat interface
+
+```bash
+streamlit run streamlit_app.py     # or: ./scripts/run_ui.sh
+```
+
+The backend does **not** need to be running. Answers currently come from a
+placeholder in `src/ui/responder.py`, so the interface can be built and reviewed
+while the RAG pipeline is being finished. Story 4 replaces that placeholder with
+an HTTP call to the FastAPI backend.
+
+The sidebar lists every source PDF under `data/raw/`; a document is only read
+from disk when someone clicks it.
+
+Colours, fonts and radii are set in `.streamlit/config.toml`, which defines a
+light and a dark palette. The interface follows whichever theme the viewer has
+picked under the ⋮ menu → Settings → Appearance. No environment variables or API
+keys are needed to run it.
+
 ---
 
 ## Folder map
@@ -96,6 +115,7 @@ existing `.env`.
 | `notebooks/`    | Personal experiments and scratch work                     |
 | `tests/`        | Automated tests (`pytest`) and AI evaluations (`eval/`)   |
 | `src/`          | All the application source code                            |
+| `src/ui/`       | The Streamlit chat interface (run `streamlit_app.py`)      |
 | `scripts/`      | One-command runners (e.g. ingest all docs, run evals)     |
 
 Each folder has its own short `README.md` explaining what belongs in it.
