@@ -103,7 +103,7 @@ def _result_record(rank, chunk_id, text, metadata, distance):
 
     metadata = metadata or {}
     distance = 0.0 if distance is None else float(distance)
-    similarity_score = max(0.0, 1.0 - distance)
+    similarity_score = _distance_to_similarity(distance)
 
     return {
         "rank": rank,
@@ -119,17 +119,28 @@ def _result_record(rank, chunk_id, text, metadata, distance):
 
 
 def _distance_to_similarity(distance):
-    """Convert Chroma cosine distance to a simple 0..1 similarity score.
+    """Convert a Chroma distance into a 0..1 cosine similarity.
 
-    Chroma's `distances` are lower-is-better, so this approximates the common
-    similarity formula used in retrieval evaluation: similarity = 1 - distance.
+    The collection was created without an explicit `hnsw:space`, so it uses
+    Chroma's default: SQUARED L2, not cosine. OpenAI returns unit-length
+    vectors, and for those squared L2 = 2 - 2 * cosine, which rearranges to:
+
+        cosine similarity = 1 - distance / 2
+
+    This used to be `1 - distance`, which halved every score and made the
+    relevance floor roughly twice as harsh as the number suggested. A chunk at
+    distance 0.63 is a cosine similarity of 0.69 — a strong match — but scored
+    0.37 under the old formula and was one bad query away from being dropped.
+
+    Ranking is unaffected either way: for unit vectors, L2 and cosine order
+    results identically. Only the score, and therefore the filter, was wrong.
     """
 
     if distance is None:
         return 0.0
 
     distance = float(distance)
-    return max(0.0, 1.0 - distance)
+    return max(0.0, min(1.0, 1.0 - distance / 2.0))
 
 
 def retrieve(question, n_results=RETRIEVAL_TOP_K, collection_name=None, client=None):

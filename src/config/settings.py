@@ -64,10 +64,19 @@ EMBEDDING_MAX_TOKENS_PER_REQUEST = 100_000
 # settles on a final value.
 RETRIEVAL_TOP_K = 6
 
-# Minimum similarity score required to accept a chunk. Chroma exposes distances,
-# not similarity, so we convert them with similarity = 1 - distance for the
-# default cosine-distance case and filter results below this threshold.
-RETRIEVAL_RELEVANCE_THRESHOLD = 0.25
+# Minimum cosine similarity (0..1) a chunk needs to be kept. Read this together
+# with _distance_to_similarity in src/retrieval/retriever.py: the collection uses
+# Chroma's default SQUARED L2 space, so the retriever converts with
+# cosine = 1 - distance / 2. That conversion used to be `1 - distance`, which
+# halved every score, so this number was silently acting about twice as strict as
+# it reads. That is what made "removing asbestos from my home" return nothing at
+# all despite 866 asbestos chunks in the corpus.
+#
+# With the conversion fixed, the numbers mean what they say: the scaffolding
+# query's hits sit at 0.65-0.69, and this floor only removes chunks with little
+# real overlap. Deciding a question is off-topic is the system prompt's job, not
+# this number's — the prompt can read the text, a distance cannot.
+RETRIEVAL_RELEVANCE_THRESHOLD = 0.20
 
 # Pipeline provenance
 # Stamped onto every stored record so stale embeddings are detectable after a
