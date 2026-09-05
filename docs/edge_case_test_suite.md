@@ -8,10 +8,9 @@ prompt-injection, and boundary questions. The committed cases are in
 
 1. Activate the project virtual environment and install `requirements.txt`.
 2. Open [`notebooks/US08_edge_case_prompt_testing.ipynb`](../notebooks/US08_edge_case_prompt_testing.ipynb).
-3. Run all cells with `RUN_LIVE = False` to check the harness without network calls.
-4. Set `RUN_LIVE = True` and run all cells to use the OpenAI-backed answer pipeline.
-   Live mode requires an OpenAI key in `.env` and a populated local ChromaDB collection.
-5. Review the generated [`edge_case_test_results.md`](edge_case_test_results.md) and
+3. Run all notebook cells from top to bottom. The notebook is live-only and requires an
+   OpenAI key in `.env` plus a populated local ChromaDB collection.
+4. Review the generated [`edge_case_test_results.md`](edge_case_test_results.md) and
    [`issue_register.md`](issue_register.md).
 
 The notebook uses `src.answer.answer_question`, so it exercises the same retrieval,
