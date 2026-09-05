@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import os
+import re
 from typing import Any, Callable, Dict, Iterable, List, Optional
 
 from dotenv import load_dotenv
@@ -85,6 +86,64 @@ def _source_metadata(results: Iterable[Dict[str, Any]]) -> List[Dict[str, Any]]:
     ]
 
 
+def _no_context_answer(question: str) -> str:
+    """Choose the guardrail response when retrieval returns no usable context."""
+
+    lower_question = question.casefold()
+    health_safety_signal = re.search(
+        r"\b(workplace|work|employer|employee|hazard|safety|health|injur|"
+        r"scaffold|chemical|heights?|whs|osha|iso|worksafe)\b",
+        lower_question,
+    )
+    if health_safety_signal:
+        return (
+            "I do not have information on that topic within my available health and "
+            "safety knowledge base."
+        )
+    return (
+        "I can only assist with New Zealand workplace health and safety questions. "
+        "Please ask a health and safety related question."
+    )
+
+
+def _preflight_guardrail_answer(question: str) -> Optional[str]:
+    """Handle unambiguous scope cases before retrieval can introduce noise."""
+
+    lower_question = question.casefold()
+    legal_advice_signal = re.search(
+        r"\b(sue|legal|law|lawyer|solicitor|court|compensation|claim|"
+        r"dispute|employment law|strong case|win a case)\b",
+        lower_question,
+    )
+    if legal_advice_signal:
+        return (
+            "I cannot provide legal advice. You may wish to seek advice from a "
+            "qualified legal professional."
+        )
+
+    external_scope_signal = re.search(
+        r"\b(australian?|australia|osha|singapore|iso\s*(?:45001|31000)?)\b",
+        lower_question,
+    )
+    if external_scope_signal:
+        return (
+            "I do not have information on that topic within my available health and "
+            "safety knowledge base."
+        )
+
+    health_safety_signal = re.search(
+        r"\b(workplace|work|employer|employee|hazard|safety|health|injur|"
+        r"scaffold|chemical|heights?|whs|worksafe|unsafe|accident|ppe)\b",
+        lower_question,
+    )
+    if not health_safety_signal:
+        return (
+            "I can only assist with New Zealand workplace health and safety questions. "
+            "Please ask a health and safety related question."
+        )
+    return None
+
+
 def build_answer_chain(llm=None):
     """Create a LangChain prompt-to-LLM chain for grounded answers."""
 
@@ -139,6 +198,15 @@ def answer_question(
     if not question or not question.strip():
         raise ValueError("Question cannot be empty")
 
+    preflight_answer = _preflight_guardrail_answer(question)
+    if preflight_answer is not None:
+        return {
+            "answer": preflight_answer,
+            "sources": [],
+            "chunks": [],
+            "status": "guardrail",
+        }
+
     if retriever_fn is None:
         retriever_fn = retriever.retrieve
 
@@ -169,7 +237,7 @@ def answer_question(
 
     if not results:
         return {
-            "answer": "No relevant information found in the available documents.",
+            "answer": _no_context_answer(question),
             "sources": [],
             "chunks": [],
             "status": "no_results",
