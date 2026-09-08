@@ -1,15 +1,11 @@
-import time
-
-from src.answer import answer_question
+from src.pipeline import run_query
 from src.retrieval.retriever import FALLBACK_SECTION_HEADING, format_results
 
 question = input("Enter your question: ")
 
-start_time = time.time()
-
-result = answer_question(question)
-
-end_time = time.time()
+# run_query times the pipeline itself, so the same latency the API reports is
+# the one printed here.
+result = run_query(question)
 
 print("\nANSWER")
 print("--------------------")
@@ -29,14 +25,12 @@ else:
         heading = source["section_heading"] or FALLBACK_SECTION_HEADING
         print(f"  {source['source_file']} | page {source['page_number']} | {heading}")
 
-# The chunks the answer was actually built from — answer_question hands them
-# back, so there is no second retrieval (and no second embedding call) here.
+# The chunks the answer was actually built from — run_query hands them back, so
+# there is no second retrieval (and no second embedding call) here.
 print("\nRETRIEVED CHUNKS")
 print("--------------------")
 print(format_results(result.get("chunks", [])))
 
-latency = end_time - start_time
-
 print("\nRESPONSE LATENCY")
 print("--------------------")
-print(f"{latency:.2f} seconds")
+print(f"{result['latency_seconds']:.2f} seconds")

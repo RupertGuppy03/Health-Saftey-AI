@@ -65,6 +65,11 @@ A small helper script avoids the common "python: command not found" issue on sys
 
     python3 -m pytest tests/test_answer_chain.py -q
 
+- Run the backend tests (Sprint 3, story 1). These stub the LLM and the
+  retriever, so they never call OpenAI:
+
+    python3 -m pytest tests/test_pipeline.py tests/test_api_app.py -q
+
 Make sure your `.env` contains `OPEN_AI_API_KEY` or `OPENAI_API_KEY` before running any tests that call the OpenAI API. The code accepts either name.
 
 ### 4. Environment variables
@@ -81,6 +86,55 @@ must never be committed.
 Note on the key name: this project uses `OPEN_AI_API_KEY`, but the OpenAI SDK looks for
 `OPENAI_API_KEY` by default. The code accepts **either**, so you don't need to change an
 existing `.env`.
+
+---
+
+## Running the backend (FastAPI)
+
+```bash
+./scripts/run_api.sh     # or: python3 -m uvicorn src.api.app:app --reload
+```
+
+Then open **http://localhost:8000/docs** — the interactive API page. Expand
+`POST /chat`, click "Try it out", and send a question. No UI needs to be running.
+
+The backend is the only component that holds credentials, so `OPEN_AI_API_KEY`
+(or `OPENAI_API_KEY`) must be set in `.env`, and `vectorstore/` must be populated.
+Host and port default to `0.0.0.0:8000` and can be overridden with the `HOST` and
+`PORT` environment variables.
+
+**Request**
+
+```json
+{ "question": "What edge protection do I need for work at height?" }
+```
+
+**Response**
+
+```json
+{
+  "answer": "Edge protection is required where a person could fall ...",
+  "sources": [
+    {
+      "source_file": "working-on-roofs.pdf",
+      "page_number": 4,
+      "section_heading": "Working at height",
+      "chunk_id": "doc1:p0004:0000"
+    }
+  ],
+  "latency_seconds": 3.21,
+  "status": "ok"
+}
+```
+
+`status` is `ok`, `no_results` (nothing relevant was retrieved) or `guardrail`
+(the question was out of scope). A missing or empty question returns **422** and
+a failed pipeline returns **500**, both as
+`{"status": "error", "message": "..."}` — the technical detail is logged on the
+server, never sent to the browser.
+
+`POST /ask` is the original name for the same endpoint and still works, but new
+callers should use `/chat`.
 
 ---
 

@@ -42,21 +42,36 @@ def test_end_to_end_seeded_collection(monkeypatch):
         ],
     )
 
-    # Monkeypatch get_collection to return our seeded collection
-    monkeypatch.setattr("src.vectorstore_client.get_collection", lambda name=None: collection)
+    # Point retrieval at the seeded collection. This has to patch the name the
+    # retriever module imported, not the one in src.vectorstore_client: the
+    # retriever does `from src.vectorstore_client import get_collection`, so it
+    # holds its own reference and patching the source module would leave it
+    # querying the real vectorstore on disk.
+    monkeypatch.setattr(
+        "src.retrieval.retriever.get_collection", lambda name=None: collection
+    )
 
     # Monkeypatch the embedder to return the vector we seeded so retrieval finds it
     monkeypatch.setattr("src.retrieval.retriever.embed_query", lambda q, client=None: vector)
 
-    # Inject a stub LLM via the API dependency
-    monkeypatch.setattr(api_app, "get_llm", lambda: StubLLM())
+    # Inject a stub LLM. This has to go through dependency_overrides: FastAPI
+    # captured the get_llm function object when the route was defined, so
+    # reassigning the module attribute would leave the real client in place and
+    # this test would quietly call OpenAI.
+    api_app.app.dependency_overrides[api_app.get_llm] = lambda: StubLLM()
 
-    test_client = TestClient(api_app.app)
+    try:
+        test_client = TestClient(api_app.app)
 
-    res = test_client.post("/ask", json={"question": "What edge protection do I need on a roof?"})
-    assert res.status_code == 200, res.text
-    body = res.json()
+        res = test_client.post(
+            "/chat", json={"question": "What edge protection do I need for work at height?"}
+        )
+        assert res.status_code == 200, res.text
+        body = res.json()
 
-    assert body["status"] == "ok"
-    assert "edge protection" in body["answer"].lower() or "grounded" in body["answer"].lower()
-    assert body["sources"] and body["sources"][0]["source_file"] == "working-on-roofs.pdf"
+        assert body["status"] == "ok"
+        assert "edge protection" in body["answer"].lower() or "grounded" in body["answer"].lower()
+        assert body["sources"] and body["sources"][0]["source_file"] == "working-on-roofs.pdf"
+        assert body["latency_seconds"] >= 0
+    finally:
+        api_app.app.dependency_overrides.clear()
