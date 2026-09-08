@@ -10,6 +10,8 @@ Then try it at:                    http://localhost:8000/docs
 """
 
 import logging
+import time
+from contextlib import asynccontextmanager
 from typing import Any, Dict, List, Optional, Union
 
 from fastapi import Depends, FastAPI, Request
@@ -18,9 +20,78 @@ from fastapi.responses import JSONResponse
 from pydantic import BaseModel, Field, field_validator
 
 from src.answer import _get_openai_chat_llm
+from src.config.settings import CHROMA_COLLECTION_NAME, CHROMA_PERSIST_DIR
 from src.pipeline import run_query
+from src.retrieval.retriever import _get_openai_client
+from src.vectorstore_client import count_collection
+
+# Uvicorn configures its own "uvicorn.*" loggers and leaves the root logger at
+# WARNING, so without this our INFO lines are silently dropped and only errors
+# reach the terminal (via logging's last-resort handler). This module is the
+# application entry point, so configuring logging here is its job.
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(levelname)s:     %(message)s",
+)
 
 logger = logging.getLogger(__name__)
+
+
+# =====================================================
+# STARTUP
+# =====================================================
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """Open the vector store and the model clients once, before serving.
+
+    Every client below is cached at its own definition, so calling them here is
+    what makes the first question as fast as the second: the cost is paid while
+    uvicorn is still starting rather than by whoever asks first.
+    """
+
+    started = time.perf_counter()
+
+    chunk_count = count_collection()
+
+    # Refuse to serve rather than answer "I do not have information on that
+    # topic" to every question for the rest of the process's life.
+    if chunk_count < 1:
+        raise RuntimeError(
+            f"Collection '{CHROMA_COLLECTION_NAME}' is empty or missing "
+            f"({chunk_count} chunks at {CHROMA_PERSIST_DIR}). "
+            "Run ingestion to populate the vector store before starting the API."
+        )
+
+    # A missing key is not fatal the way an empty collection is: the pipeline
+    # already turns it into a structured error, and the team can still read
+    # /docs and /health. Loud warning, not a hard stop.
+    try:
+        _get_openai_client()
+        _get_openai_chat_llm()
+    except Exception as exc:
+        logger.warning(
+            "Model clients could not be created at startup, so answers will "
+            "fail until this is fixed: %s",
+            exc,
+        )
+
+    startup_seconds = round(time.perf_counter() - started, 2)
+
+    app.state.collection_name = CHROMA_COLLECTION_NAME
+    app.state.chunk_count = chunk_count
+    app.state.startup_seconds = startup_seconds
+
+    logger.info(
+        "Ready in %ss — collection '%s', %d chunks.",
+        startup_seconds,
+        CHROMA_COLLECTION_NAME,
+        chunk_count,
+    )
+
+    yield
+
 
 app = FastAPI(
     title="Health & Safety AI API",
@@ -29,6 +100,7 @@ app = FastAPI(
         "answer grounded in the WorkSafe guidance corpus, with the documents "
         "it came from."
     ),
+    lifespan=lifespan,
 )
 
 
@@ -80,6 +152,16 @@ class ChatResponse(BaseModel):
     # "ok", "no_results" or "guardrail". The interface uses this to tell a real
     # answer from "nothing relevant was found" without parsing the answer text.
     status: str
+
+
+class HealthResponse(BaseModel):
+    # "ok" when the collection holds chunks, "unavailable" when it does not.
+    status: str
+    collection_name: str
+    chunk_count: int
+    # How long startup took. Recorded here so the cold start number does not
+    # have to be dug out of the server log.
+    startup_seconds: float
 
 
 class ErrorResponse(BaseModel):
@@ -144,8 +226,8 @@ def _error_response(message: str, detail: str) -> JSONResponse:
 def get_llm():
     """Return a chat LLM, or None so the pipeline reports the failure itself.
 
-    Constructed per request for now; story 2 moves this to application startup.
-    Tests override this dependency to inject a stub.
+    The client itself is cached and warmed at startup, so this is a lookup
+    rather than a construction. Tests override this dependency to inject a stub.
     """
 
     try:
@@ -159,6 +241,35 @@ def get_llm():
 # =====================================================
 # ROUTES
 # =====================================================
+
+
+@app.get(
+    "/health",
+    response_model=HealthResponse,
+    responses={503: {"model": HealthResponse, "description": "The collection is empty."}},
+)
+def health():
+    """Report whether the backend is ready to answer questions.
+
+    The chunk count is read live rather than served from the startup snapshot,
+    so a collection emptied while the server is running is caught. Story 8's
+    interface uses this as its readiness check, which only works if it can
+    actually go unready.
+    """
+
+    chunk_count = count_collection()
+
+    body = HealthResponse(
+        status="ok" if chunk_count > 0 else "unavailable",
+        collection_name=app.state.collection_name,
+        chunk_count=chunk_count,
+        startup_seconds=app.state.startup_seconds,
+    )
+
+    if chunk_count < 1:
+        return JSONResponse(status_code=503, content=body.model_dump())
+
+    return body
 
 
 @app.post("/chat", response_model=ChatResponse, responses=ERROR_RESPONSES)

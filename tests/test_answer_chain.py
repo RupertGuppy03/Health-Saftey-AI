@@ -59,19 +59,72 @@ def test_answer_question_returns_answer_and_sources():
 
 
 def test_answer_question_reports_no_relevant_results():
+    """An in-scope question the corpus cannot answer reaches retrieval first.
+
+    This used to ask "What is the capital of France?", but US-08 added a
+    preflight guardrail that catches an obviously off-topic question before
+    retrieval runs, so that question now returns "guardrail" and never exercises
+    the empty-results path at all. The test below covers the guardrail instead.
+    """
+
     result = answer_question(
-        "What is the capital of France?",
+        "What edge protection do I need on a roof?",
         retriever_fn=lambda question, n_results=None, collection_name=None: [],
         llm=StubLLM(),
     )
 
     assert result["status"] == "no_results"
     assert (
+        "I do not have information on that topic within my available health and "
+        "safety knowledge base."
+        == result["answer"]
+    )
+    assert result["sources"] == []
+
+
+def test_an_off_topic_question_is_stopped_before_retrieval():
+    """US-08's preflight: no embedding call is made for an off-topic question."""
+
+    retrieved = []
+
+    def recording_retriever(question, n_results=None, collection_name=None):
+        retrieved.append(question)
+        return []
+
+    result = answer_question(
+        "What is the capital of France?",
+        retriever_fn=recording_retriever,
+        llm=StubLLM(),
+    )
+
+    assert result["status"] == "guardrail"
+    assert (
         "I can only assist with New Zealand workplace health and safety questions. "
         "Please ask a health and safety related question."
         == result["answer"]
     )
-    assert result["sources"] == []
+    assert retrieved == [], "an off-topic question should never reach retrieval"
+
+
+def test_construction_questions_are_in_scope():
+    """The corpus is building and construction, so this vocabulary must pass.
+
+    "What edge protection do I need on a roof?" was refused as off topic until
+    the scope keyword list was widened: it contained no construction terms, and
+    matched only exact singulars, so "hazards" and "chemicals" missed too.
+    """
+
+    from src.answer import _preflight_guardrail_answer
+
+    for question in [
+        "What edge protection do I need on a roof?",
+        "Do I need a harness when working on a roof?",
+        "What are the rules for ladders?",
+        "How deep can a trench be before shoring is needed?",
+        "What are the hazards of scaffolding?",
+        "How should chemicals be stored?",
+    ]:
+        assert _preflight_guardrail_answer(question) is None, question
 
 
 def test_answer_question_reports_openai_errors_without_crashing():

@@ -136,6 +136,38 @@ server, never sent to the browser.
 `POST /ask` is the original name for the same endpoint and still works, but new
 callers should use `/chat`.
 
+### Readiness: `GET /health`
+
+```json
+{
+  "status": "ok",
+  "collection_name": "hs_construction_v1",
+  "chunk_count": 3646,
+  "startup_seconds": 2.14
+}
+```
+
+`status` is `ok` when the collection holds chunks and `unavailable` (with HTTP
+**503**) when it does not, so the interface can use it as a readiness check.
+`startup_seconds` is how long the backend took to open the vector store and build
+the model clients — recorded in
+[`docs/startup_and_query_timings.md`](docs/startup_and_query_timings.md).
+
+### The server will not start without a populated vector store
+
+The ChromaDB client, the embedding client and the chat model are all opened once
+at startup rather than per request, so the first question is no slower than the
+second. If the collection is missing or empty the server **refuses to start**
+rather than answering "I do not have information on that topic" to everything:
+
+```
+RuntimeError: Collection 'hs_construction_v1' is empty or missing (0 chunks at
+.../vectorstore). Run ingestion to populate the vector store before starting the API.
+```
+
+A missing API key is a loud warning rather than a hard stop, so `/docs` and
+`/health` still work while it is being sorted out.
+
 ---
 
 ## Running the chat interface

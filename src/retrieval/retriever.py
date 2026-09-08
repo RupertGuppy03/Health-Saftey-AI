@@ -14,6 +14,7 @@ src.vectorstore_client.
 """
 
 import os
+from functools import lru_cache
 
 from dotenv import load_dotenv
 from openai import OpenAI
@@ -36,11 +37,16 @@ FALLBACK_SECTION_HEADING = "(no section heading)"
 # =====================================================
 
 
+@lru_cache(maxsize=1)
 def _get_openai_client():
     """Build an OpenAI client from whichever key name is in the .env.
 
     The project's .env uses OPEN_AI_API_KEY, but the OpenAI SDK only auto-reads
     OPENAI_API_KEY. Accept either so nobody has to edit their local .env.
+
+    Cached, so the client and the load_dotenv call happen once per process
+    rather than once per question (story 2). A consequence worth knowing: an
+    edit to .env is picked up on the next restart, not the next query.
     """
 
     load_dotenv(override=True)

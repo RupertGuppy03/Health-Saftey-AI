@@ -28,9 +28,14 @@ def isolated_store(tmp_path, monkeypatch):
     # The module reads this global at call time, so patching it here is enough.
     monkeypatch.setattr(vectorstore_client, "CHROMA_PERSIST_DIR", persist_dir)
 
-    # Chroma caches a client per path; clear it so each test really starts cold.
+    # Two caches sit in front of the store and both have to go, or this test
+    # gets handed the client opened against the previous test's tmp_path:
+    # ours (get_client is lru_cached since story 2) and Chroma's own per-path
+    # system cache.
+    vectorstore_client.get_client.cache_clear()
     SharedSystemClient.clear_system_cache()
     yield persist_dir
+    vectorstore_client.get_client.cache_clear()
     SharedSystemClient.clear_system_cache()
 
 
@@ -69,6 +74,19 @@ def test_get_collection_is_idempotent(isolated_store):
     assert first.name == second.name
 
 
+def test_the_client_is_opened_once_and_reused(isolated_store):
+    """Story 2: the persisted store is opened once per process, not per query."""
+
+    first = vectorstore_client.get_client()
+    second = vectorstore_client.get_client()
+
+    assert first is second
+
+    vectorstore_client.get_client.cache_clear()
+
+    assert vectorstore_client.get_client() is not first
+
+
 def test_count_is_zero_for_a_fresh_collection(isolated_store):
     count = vectorstore_client.count_collection()
 
@@ -99,6 +117,9 @@ def test_the_collection_survives_a_restart(isolated_store):
     )
 
     # Drop every cached client so the next call genuinely reopens from disk.
+    # Ours has to go too, otherwise get_client hands back the same live object
+    # and this stops testing a restart at all.
+    vectorstore_client.get_client.cache_clear()
     SharedSystemClient.clear_system_cache()
 
     assert vectorstore_client.count_collection() == 2

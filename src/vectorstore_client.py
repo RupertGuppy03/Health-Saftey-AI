@@ -4,6 +4,7 @@ Consumers should import get_collection or count_collection and not hardcode
 collection names or paths.
 """
 
+from functools import lru_cache
 from typing import Optional
 from pathlib import Path
 
@@ -19,11 +20,19 @@ def _ensure_persist_dir_exists() -> Path:
     return path
 
 
+@lru_cache(maxsize=1)
 def get_client() -> chromadb.Client:  # type: ignore
     """Return a persistent Chroma client that writes to CHROMA_PERSIST_DIR.
 
     Uses chromadb.PersistentClient when available, falling back to the Client +
     Settings API for versions where that is preferred.
+
+    Cached: opening the persisted store reads sqlite and the HNSW index off
+    disk, and doing that per question made every answer pay a cost that belongs
+    to the first one. The API warms this at startup (story 2).
+
+    Tests that redirect CHROMA_PERSIST_DIR must call get_client.cache_clear(),
+    or they will be handed the client opened against the previous path.
     """
     persist_path = str(_ensure_persist_dir_exists())
     try:
@@ -47,6 +56,10 @@ def get_client() -> chromadb.Client:  # type: ignore
 
 def get_collection(name: Optional[str] = None):
     """Get or create the named collection using the persistent client.
+
+    Deliberately not cached, unlike get_client: reset_collection() drops and
+    recreates the collection, so a cached object would point at something that
+    no longer exists. Once the client is open this is a cheap metadata lookup.
 
     Returns the chroma collection object.
     """
