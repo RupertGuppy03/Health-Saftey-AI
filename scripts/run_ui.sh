@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Run the Streamlit chat interface (development helper). Uses python3 where available.
-# The backend does not need to be running: the interface answers from a stub.
+# Start the backend first (./scripts/run_api.sh): the interface answers by calling it.
+# Set HS_API_BASE_URL to point at a backend other than http://localhost:8000.
 
 set -euo pipefail
 
