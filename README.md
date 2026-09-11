@@ -136,26 +136,73 @@ server, never sent to the browser.
 `POST /ask` is the original name for the same endpoint and still works, but new
 callers should use `/chat`.
 
+### Readiness: `GET /health`
+
+```json
+{
+  "status": "ok",
+  "collection_name": "hs_construction_v1",
+  "chunk_count": 3646,
+  "startup_seconds": 2.14
+}
+```
+
+`status` is `ok` when the collection holds chunks and `unavailable` (with HTTP
+**503**) when it does not, so the interface can use it as a readiness check.
+`startup_seconds` is how long the backend took to open the vector store and build
+the model clients — recorded in
+[`docs/startup_and_query_timings.md`](docs/startup_and_query_timings.md).
+
+### The server will not start without a populated vector store
+
+The ChromaDB client, the embedding client and the chat model are all opened once
+at startup rather than per request, so the first question is no slower than the
+second. If the collection is missing or empty the server **refuses to start**
+rather than answering "I do not have information on that topic" to everything:
+
+```
+RuntimeError: Collection 'hs_construction_v1' is empty or missing (0 chunks at
+.../vectorstore). Run ingestion to populate the vector store before starting the API.
+```
+
+A missing API key is a loud warning rather than a hard stop, so `/docs` and
+`/health` still work while it is being sorted out.
+
 ---
 
 ## Running the chat interface
 
+The interface answers by calling the backend, so it needs both running — two
+terminals, backend first:
+
 ```bash
-streamlit run streamlit_app.py     # or: ./scripts/run_ui.sh
+./scripts/run_api.sh               # terminal 1 — backend on :8000
+./scripts/run_ui.sh                # terminal 2 — interface on :8501
 ```
 
-The backend does **not** need to be running. Answers currently come from a
-placeholder in `src/ui/responder.py`, so the interface can be built and reviewed
-while the RAG pipeline is being finished. Story 4 replaces that placeholder with
-an HTTP call to the FastAPI backend.
+Then open http://localhost:8501. Wait for the backend to log
+`Ready in Xs — collection '...', N chunks.` before asking anything; until it
+does, the interface says it could not reach the answering service.
+
+The interface holds no credentials of its own — it sends the question to
+`POST /chat` and renders what comes back, so the backend stays the only
+component with an API key and the vector store.
+
+| Variable | Default | What it does |
+| --- | --- | --- |
+| `HS_API_BASE_URL` | `http://localhost:8000` | Where the interface sends questions. Set it to point at a backend on another host or port; no code change needed. |
+
+```bash
+HS_API_BASE_URL=http://192.168.1.20:8000 ./scripts/run_ui.sh
+```
 
 The sidebar lists every source PDF under `data/raw/`; a document is only read
 from disk when someone clicks it.
 
 Colours, fonts and radii are set in `.streamlit/config.toml`, which defines a
 light and a dark palette. The interface follows whichever theme the viewer has
-picked under the ⋮ menu → Settings → Appearance. No environment variables or API
-keys are needed to run it.
+picked under the ⋮ menu → Settings → Appearance. No API keys are needed to run
+it.
 
 ---
 

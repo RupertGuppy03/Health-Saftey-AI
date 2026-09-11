@@ -5,6 +5,7 @@ hard-coding them. Everything is anchored to the repo root so it works no
 matter where a script or test is run from.
 """
 
+import os
 from pathlib import Path
 
 # Repo root: this file is at <root>/src/config/settings.py, so go up three levels.
@@ -32,7 +33,7 @@ CHROMA_COLLECTION_NAME = "hs_construction_v1"
 CHROMA_PERSIST_DIR = PROJECT_ROOT / "vectorstore"
 
 # OpenAI model configuration
-# The project uses GPT-4o for grounded answers, while the embedding model stays
+# The project uses GPT-5-mini for grounded answers, while the embedding model stays
 # separate because embeddings and chat generation are different tasks.
 LLM_MODEL = "gpt-5-mini"
 LLM_TEMPERATURE = 0.1
@@ -88,12 +89,23 @@ PIPELINE_VERSION = "3.0.1"
 # Chunks are built by packing whole elements in document order rather than by
 # splitting a joined string, so these are targets for the packer rather than
 # arguments to a text splitter.
-CHUNK_TARGET_CHARS = 3000    # aim for this; ~750 tokens, inside the locked 500-1000 band
-CHUNK_MAX_CHARS = 4000       # hard ceiling for any single chunk
-CHUNK_MIN_CHARS = 300        # never emit a chunk smaller than this; merge it backwards
-CHUNK_OVERLAP_CHARS = 600    # trailing context carried into the next prose chunk
+CHUNK_TARGET_CHARS = 3000  # aim for this; ~750 tokens, inside the locked 500-1000 band
+CHUNK_MAX_CHARS = 4000  # hard ceiling for any single chunk
+CHUNK_MIN_CHARS = 300  # never emit a chunk smaller than this; merge it backwards
+CHUNK_OVERLAP_CHARS = 600  # trailing context carried into the next prose chunk
 
 # A document whose Title elements are at least this structural (numbered, or short
 # ALL CAPS) is treated as having a clear heading convention, and only those count
 # as section breaks. Below it, the looser shape rule is enabled as well.
 HEADING_STRUCTURAL_SHARE = 0.40
+
+# FastAPI backend
+# Where the chat interface sends questions. Read from the environment so the
+# backend can move without a code edit — point the interface at another host by
+# setting HS_API_BASE_URL before starting it.
+API_BASE_URL = os.environ.get("HS_API_BASE_URL", "http://localhost:8000")
+
+# How long the interface waits for an answer. A real one runs retrieval plus a
+# gpt-5-mini call, measured at ~33s in docs/startup_and_query_timings.md, so
+# httpx's 5 second default would time out every question.
+API_TIMEOUT_SECONDS = 60.0
