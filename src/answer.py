@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import os
 import re
+from functools import lru_cache
 from typing import Any, Callable, Dict, Iterable, List, Optional
 
 from dotenv import load_dotenv
@@ -21,12 +22,16 @@ from src.config.settings import (
 from src.retrieval import retriever
 
 
+@lru_cache(maxsize=1)
 def _get_openai_chat_llm(model: Optional[str] = None, api_key: Optional[str] = None):
     """Return the configured chat model, or a caller-supplied stub for tests.
 
     Try the most commonly used constructor signature first (model_name/openai_api_key),
     then fall back to older signatures (model/api_key) so the code works across
     langchain-openai versions.
+
+    Cached: constructing the client per request made every question pay for
+    setup that belongs to the first one (story 2). The API warms it at startup.
     """
 
     if model is None:
@@ -86,15 +91,50 @@ def _source_metadata(results: Iterable[Dict[str, Any]]) -> List[Dict[str, Any]]:
     ]
 
 
+# Words that mark a question as workplace health and safety, used by both
+# guardrails below so the two cannot drift apart.
+#
+# Matched with a trailing \w* wherever a plural or derivative is likely. The
+# original list was exact singulars inside \b(...)\b, so "hazards", "chemicals",
+# "scaffolding", "accidents" and "employees" all failed to register as in scope,
+# and "injur" matched no real English word at all. The construction vocabulary
+# (roof, ladder, harness, trench, excavation) was missing entirely, which is why
+# "What edge protection do I need on a roof?" — the corpus's primary use case —
+# was being refused as off topic.
+#
+# This is a keyword allowlist, which is a blunt instrument: anything phrased
+# without one of these words still reads as out of scope. Sprint 4's out-of-scope
+# handling story is where that gets a better mechanism.
+HEALTH_SAFETY_SIGNAL = re.compile(
+    r"\b("
+    r"workplace|work\w*|employer\w*|employee\w*|hazard\w*|safety|health\w*|"
+    r"injur\w*|scaffold\w*|chemical\w*|heights?|whs|worksafe|unsafe|"
+    r"accident\w*|ppe|"
+    # Construction and site vocabulary — the corpus is building and construction.
+    r"roof\w*|ladder\w*|excavat\w*|trench\w*|asbestos|harness\w*|guardrail\w*|"
+    r"edge protection|fall|falls|falling|fallen|construction|demolition|"
+    r"machinery|plant|forklift\w*|crane\w*|silica|dust|noise|electric\w*|"
+    r"respirator\w*|protective|equipment|first aid|incident\w*|risk\w*|"
+    r"confined space\w*|lifting|manual handling|helmet\w*|toxic|fume\w*|vibration"
+    r")\b"
+)
+
+# Questions about another country's rules or an external standard. Safety
+# related, but outside this New Zealand knowledge base.
+EXTERNAL_SCOPE_SIGNAL = re.compile(
+    r"\b(australian?|australia|osha|singapore|iso\s*(?:45001|31000)?)\b"
+)
+
+
 def _no_context_answer(question: str) -> str:
     """Choose the guardrail response when retrieval returns no usable context."""
 
     lower_question = question.casefold()
-    health_safety_signal = re.search(
-        r"\b(workplace|work|employer|employee|hazard|safety|health|injur|"
-        r"scaffold|chemical|heights?|whs|osha|iso|worksafe)\b",
-        lower_question,
-    )
+    # An external-standard question is safety related, so it gets the
+    # "not in my knowledge base" answer rather than the off-topic redirect.
+    health_safety_signal = HEALTH_SAFETY_SIGNAL.search(
+        lower_question
+    ) or EXTERNAL_SCOPE_SIGNAL.search(lower_question)
     if health_safety_signal:
         return (
             "I do not have information on that topic within my available health and "
@@ -121,22 +161,13 @@ def _preflight_guardrail_answer(question: str) -> Optional[str]:
             "qualified legal professional."
         )
 
-    external_scope_signal = re.search(
-        r"\b(australian?|australia|osha|singapore|iso\s*(?:45001|31000)?)\b",
-        lower_question,
-    )
-    if external_scope_signal:
+    if EXTERNAL_SCOPE_SIGNAL.search(lower_question):
         return (
             "I do not have information on that topic within my available health and "
             "safety knowledge base."
         )
 
-    health_safety_signal = re.search(
-        r"\b(workplace|work|employer|employee|hazard|safety|health|injur|"
-        r"scaffold|chemical|heights?|whs|worksafe|unsafe|accident|ppe)\b",
-        lower_question,
-    )
-    if not health_safety_signal:
+    if not HEALTH_SAFETY_SIGNAL.search(lower_question):
         return (
             "I can only assist with New Zealand workplace health and safety questions. "
             "Please ask a health and safety related question."

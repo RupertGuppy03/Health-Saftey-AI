@@ -2,21 +2,22 @@
 
 The Streamlit chat interface — the ChatGPT-style web app users interact with.
 
-Run it from the repo root:
+Run it from the repo root, with the backend already running:
 
 ```bash
-streamlit run streamlit_app.py     # or: ./scripts/run_ui.sh
+./scripts/run_api.sh               # terminal 1 — backend on :8000
+./scripts/run_ui.sh                # terminal 2 — interface on :8501
 ```
 
-The backend does not need to be running. Answers currently come from a
-placeholder, so the layout can be built and reviewed while the RAG pipeline is
-still being finished.
+Answers come from the backend's `/chat` endpoint. With it stopped the interface
+still runs, but every question returns the "could not reach the answering
+service" fallback.
 
 | File          | What it does                                                       |
 | ------------- | ------------------------------------------------------------------ |
 | `app.py`      | Draws the page: sidebar, conversation, chat input                   |
 | `state.py`    | Holds the message history in the browser session                    |
-| `responder.py`| **Placeholder.** Where answers come from — the one file that changes |
+| `responder.py`| Calls the backend over HTTP — the one file that talks to it         |
 | `corpus.py`   | Lists the source PDFs under `data/raw/` for the sidebar             |
 | `styles.css`  | The ChatGPT-like styling `app.py` loads                             |
 
@@ -32,5 +33,9 @@ that, so the interface stays deployable on its own and the backend remains the
 only component holding the vector store and credentials.
 
 `responder.py` is the single seam between the interface and whatever answers a
-question. Story 4 replaces the body of `stream_reply` with an HTTP call to the
-FastAPI `/chat` endpoint; nothing else in this folder changes.
+question. It reaches the pipeline over HTTP rather than importing it, which is
+what keeps the credentials and the vector store on the backend side.
+
+The backend URL is `API_BASE_URL` in `src/config/settings.py`, overridable with
+the `HS_API_BASE_URL` environment variable — `src/config` is the one project
+module the interface is allowed to import.
