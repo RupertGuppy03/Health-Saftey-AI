@@ -58,6 +58,52 @@ def test_answer_question_returns_answer_and_sources():
     assert "Roof work requires edge protection" in llm.calls[0]["context"]
 
 
+def test_answer_question_removes_model_source_block_from_answer():
+    result = answer_question(
+        "What edge protection do I need on a roof?",
+        retriever_fn=lambda question, n_results=None, collection_name=None: [
+            _result(
+                "working-on-roofs.pdf",
+                4,
+                "Working at height",
+                "Roof work requires edge protection and guardrails.",
+            )
+        ],
+        llm=StubLLM(response_text="Use edge protection.\n\nSource:\nworking-on-roofs.pdf"),
+    )
+
+    assert result["answer"] == "Use edge protection."
+
+
+def test_answer_question_drops_sources_when_model_reports_no_support():
+    answer = (
+        "The retrieved corpus contains WorkSafe guidance on excavation safety, "
+        "working in extreme temperatures, and exposure/health monitoring, but it "
+        "does not include any guidance about operating a commercial submarine or "
+        "any material specific to Antarctica. This question is outside the scope "
+        "of this assistant, which is limited to New Zealand workplace health and "
+        "safety guidance."
+    )
+
+    result = answer_question(
+        "What WorkSafe guidance covers operating a commercial submarine in Antarctica?",
+        retriever_fn=lambda question, n_results=None, collection_name=None: [
+            _result(
+                "excavation-safety.pdf",
+                2,
+                "GUIDANCE",
+                "Excavation safety guidance.",
+            )
+        ],
+        llm=StubLLM(response_text=answer),
+    )
+
+    assert result["status"] == "no_results"
+    assert result["sources"] == []
+    assert result["chunks"] == []
+    assert result["answer"] == answer
+
+
 def test_answer_question_reports_no_relevant_results():
     """An in-scope question the corpus cannot answer reaches retrieval first.
 

@@ -23,10 +23,10 @@ STUB_REPLY = "A stubbed answer."
 # FIXTURES
 # =====================================================
 
-def _stub_stream(question, history=None):
-    """Stands in for responder.stream_reply: one chunk, no waiting."""
+def _stub_fetch(question, history=None):
+    """Stands in for responder.fetch_reply: one answer with no sources."""
 
-    yield STUB_REPLY
+    return {"answer": STUB_REPLY, "sources": [], "status": "ok"}
 
 
 @pytest.fixture
@@ -59,7 +59,7 @@ def documents(tmp_path):
 def app(monkeypatch, documents):
     """The page, with the responder and the corpus listing stubbed out."""
 
-    monkeypatch.setattr(app_module, "stream_reply", _stub_stream)
+    monkeypatch.setattr(app_module, "fetch_reply", _stub_fetch)
     monkeypatch.setattr(app_module.corpus, "list_documents", lambda *a, **k: documents)
 
     return AppTest.from_file(str(ENTRYPOINT), default_timeout=10)
@@ -123,6 +123,47 @@ def test_the_reply_renders_as_an_assistant_message_below_the_question(app):
 
     assert _roles(app) == [state.USER, state.ASSISTANT]
     assert STUB_REPLY in _texts(app)[1]
+
+
+def test_an_answer_without_sources_explains_that_supporting_guidance_was_not_found(app):
+    app.run()
+    _ask(app, "Do I need edge protection on a roof?")
+
+    captions = [caption.value for caption in app.chat_message[1].caption]
+
+    assert app_module.NO_SUPPORTING_GUIDANCE in captions
+
+
+def test_sources_show_document_page_and_section_and_collapse_duplicate_chunks(app, monkeypatch):
+    monkeypatch.setattr(
+        app_module,
+        "fetch_reply",
+        lambda question, history=None: {
+            "answer": STUB_REPLY,
+            "status": "ok",
+            "sources": [
+                {
+                    "source_file": "working-on-roofs.pdf",
+                    "page_number": 4,
+                    "section_heading": "Working at height",
+                },
+                {
+                    "source_file": "working-on-roofs.pdf",
+                    "page_number": 5,
+                    "section_heading": "Working at height",
+                },
+            ],
+        },
+    )
+
+    app.run()
+    _ask(app, "Do I need edge protection on a roof?")
+
+    markdown = _texts(app)[1]
+
+    assert markdown.count("**Working on Roofs**") == 1
+    assert "pages 4, 5" in markdown
+    assert "section: Working at height" in markdown
 
 
 def test_the_greeting_makes_way_for_the_conversation(app):
@@ -218,7 +259,7 @@ def test_the_sidebar_names_each_industry(app, documents):
 
 def test_the_page_still_opens_when_the_corpus_is_missing(monkeypatch):
     # A clean clone has no data/raw/, and the app must not fall over.
-    monkeypatch.setattr(app_module, "stream_reply", _stub_stream)
+    monkeypatch.setattr(app_module, "fetch_reply", _stub_fetch)
     monkeypatch.setattr(app_module.corpus, "list_documents", lambda *a, **k: [])
 
     app = AppTest.from_file(str(ENTRYPOINT), default_timeout=10).run()

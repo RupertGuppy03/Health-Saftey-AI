@@ -7,7 +7,7 @@ prompt-injection, and boundary questions. The committed cases are in
 ## Running the notebook
 
 1. Activate the project virtual environment and install `requirements.txt`.
-2. Open [`notebooks/US08_edge_case_prompt_testing.ipynb`](../notebooks/US08_edge_case_prompt_testing.ipynb).
+2. Open [`notebooks/US08_Sprint2_edge_case_prompt_testing.ipynb`](../notebooks/US08_Sprint2_edge_case_prompt_testing.ipynb).
 3. Run all notebook cells from top to bottom. The notebook is live-only and requires an
    OpenAI key in `.env` plus a populated local ChromaDB collection.
 4. Review the generated [`edge_case_test_results.md`](edge_case_test_results.md) and

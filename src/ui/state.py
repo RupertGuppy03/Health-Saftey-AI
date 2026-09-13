@@ -26,12 +26,17 @@ def get_messages():
     return st.session_state.get(MESSAGES_KEY, [])
 
 
-def add_message(role, content):
+def add_message(role, content, *, sources=None, status=None):
     """Append one message and return it."""
 
     init_state()
 
     message = {"role": role, "content": content}
+
+    if role == ASSISTANT:
+        message["sources"] = sources or []
+        message["status"] = status or "ok"
+
     st.session_state[MESSAGES_KEY].append(message)
 
     return message

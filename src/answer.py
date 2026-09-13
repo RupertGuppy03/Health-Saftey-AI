@@ -91,6 +91,31 @@ def _source_metadata(results: Iterable[Dict[str, Any]]) -> List[Dict[str, Any]]:
     ]
 
 
+def _strip_inline_citations(answer: str) -> str:
+    """Keep model-written source blocks out of the answer shown by the UI."""
+
+    return re.split(r"(?im)^\s*Sources?:\s*$", answer, maxsplit=1)[0].strip()
+
+
+def _answer_has_no_support(answer: str) -> bool:
+    """Detect a grounded response that says the retrieved context is insufficient."""
+
+    return bool(
+        re.search(
+            r"\b("
+            r"not enough information|"
+            r"does not (?:include|contain|provide)|"
+            r"do not have information|"
+            r"cannot answer|"
+            r"can't answer|"
+            r"outside (?:the )?(?:scope|available)"
+            r")\b",
+            answer,
+            flags=re.IGNORECASE,
+        )
+    )
+
+
 # Words that mark a question as workplace health and safety, used by both
 # guardrails below so the two cannot drift apart.
 #
@@ -186,7 +211,7 @@ def build_answer_chain(llm=None):
             ("system", GROUNDING_SYSTEM_PROMPT),
             (
                 "human",
-                "Question: {question}\n\nRetrieved context:\n{context}\n\nAnswer using only the supplied context, and cite the source document and section heading for each relevant point.",
+                "Question: {question}\n\nRetrieved context:\n{context}\n\nAnswer using only the supplied context. Do not include a source list in the answer; the interface renders source citations separately.",
             ),
         ]
     )
@@ -287,8 +312,18 @@ def answer_question(
             "error": f"OpenAI API error: {exc}",
         }
 
+    cleaned_answer = _strip_inline_citations(answer)
+
+    if _answer_has_no_support(cleaned_answer):
+        return {
+            "answer": cleaned_answer,
+            "sources": [],
+            "chunks": [],
+            "status": "no_results",
+        }
+
     return {
-        "answer": answer.strip(),
+        "answer": cleaned_answer,
         "sources": _source_metadata(results),
         "chunks": results,
         "status": "ok",

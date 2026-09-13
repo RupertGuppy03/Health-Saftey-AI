@@ -72,6 +72,18 @@ def test_the_shared_gpg_suffix_is_dropped():
     assert "gpg" not in corpus.document_title("excavation-safety-gpg.pdf").lower()
 
 
+def test_the_vectorstore_document_identifier_is_dropped():
+    assert corpus.document_title(
+        "scaffolding-in-New-Zealand-gpg-ad00ce75.pdf"
+    ) == "Scaffolding in New Zealand"
+
+
+def test_gpg_and_document_identifier_are_dropped_together():
+    assert corpus.document_title(
+        "scaffolding-in-New-Zealand-gpg-ad00ce75"
+    ) == "Scaffolding in New Zealand"
+
+
 def test_an_acronym_keeps_its_own_capitalisation():
     assert corpus.document_title("PCBUs-Working-Together-GPG.pdf") == "PCBUs Working Together"
 

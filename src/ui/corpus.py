@@ -9,6 +9,7 @@ corpus costs nothing even though the files themselves are large.
 """
 
 from pathlib import Path
+import re
 
 from src.config.settings import DATA_RAW_DIR
 
@@ -41,6 +42,7 @@ def document_title(filename):
     """
 
     stem = Path(filename).stem
+    stem = re.sub(r"-(?:gpg)(?:-[0-9a-f]{8})?$", "", stem, flags=re.IGNORECASE)
 
     words = [word for word in stem.split("-") if word]
 
