@@ -58,6 +58,23 @@ def test_answer_question_returns_answer_and_sources():
     assert "Roof work requires edge protection" in llm.calls[0]["context"]
 
 
+def test_answer_question_removes_model_source_block_from_answer():
+    result = answer_question(
+        "What edge protection do I need on a roof?",
+        retriever_fn=lambda question, n_results=None, collection_name=None: [
+            _result(
+                "working-on-roofs.pdf",
+                4,
+                "Working at height",
+                "Roof work requires edge protection and guardrails.",
+            )
+        ],
+        llm=StubLLM(response_text="Use edge protection.\n\nSource:\nworking-on-roofs.pdf"),
+    )
+
+    assert result["answer"] == "Use edge protection."
+
+
 def test_answer_question_reports_no_relevant_results():
     """An in-scope question the corpus cannot answer reaches retrieval first.
 

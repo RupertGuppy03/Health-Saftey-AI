@@ -177,15 +177,16 @@ def _citation_entries(sources):
 def _render_sources(sources):
     """Render the source block separately from the answer text."""
 
-    st.caption("Sources")
-    entries = _citation_entries(sources)
+    with st.container(border=True):
+        st.caption("Sources")
+        entries = _citation_entries(sources)
 
-    if not entries:
-        st.caption(NO_SUPPORTING_GUIDANCE)
-        return
+        if not entries:
+            st.caption(NO_SUPPORTING_GUIDANCE)
+            return
 
-    for entry in entries:
-        st.markdown(entry)
+        for entry in entries:
+            st.markdown(entry)
 
 
 def _render_conversation(messages):

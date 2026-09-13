@@ -91,6 +91,12 @@ def _source_metadata(results: Iterable[Dict[str, Any]]) -> List[Dict[str, Any]]:
     ]
 
 
+def _strip_inline_citations(answer: str) -> str:
+    """Keep model-written source blocks out of the answer shown by the UI."""
+
+    return re.split(r"(?im)^\s*Sources?:\s*$", answer, maxsplit=1)[0].strip()
+
+
 # Words that mark a question as workplace health and safety, used by both
 # guardrails below so the two cannot drift apart.
 #
@@ -186,7 +192,7 @@ def build_answer_chain(llm=None):
             ("system", GROUNDING_SYSTEM_PROMPT),
             (
                 "human",
-                "Question: {question}\n\nRetrieved context:\n{context}\n\nAnswer using only the supplied context, and cite the source document and section heading for each relevant point.",
+                "Question: {question}\n\nRetrieved context:\n{context}\n\nAnswer using only the supplied context. Do not include a source list in the answer; the interface renders source citations separately.",
             ),
         ]
     )
@@ -288,7 +294,7 @@ def answer_question(
         }
 
     return {
-        "answer": answer.strip(),
+        "answer": _strip_inline_citations(answer),
         "sources": _source_metadata(results),
         "chunks": results,
         "status": "ok",
