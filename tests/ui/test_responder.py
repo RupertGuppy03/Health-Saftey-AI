@@ -68,6 +68,26 @@ def test_the_answer_shown_is_the_answer_the_backend_returned(monkeypatch):
     assert _reply() == ANSWER
 
 
+def test_fetch_reply_preserves_backend_sources(monkeypatch):
+    sources = [{
+        "source_file": "working-on-roofs.pdf",
+        "page_number": 4,
+        "section_heading": "Working at height",
+    }]
+    _capture(monkeypatch, _response({
+        "answer": ANSWER,
+        "sources": sources,
+        "latency_seconds": 3.2,
+        "status": "ok",
+    }))
+
+    assert responder.fetch_reply("What edge protection do I need?") == {
+        "answer": ANSWER,
+        "sources": sources,
+        "status": "ok",
+    }
+
+
 def test_the_placeholder_reply_is_gone():
     """The stub sentence must not survive anywhere in the module."""
 

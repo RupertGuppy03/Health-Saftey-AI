@@ -15,9 +15,9 @@ service" fallback.
 
 | File          | What it does                                                       |
 | ------------- | ------------------------------------------------------------------ |
-| `app.py`      | Draws the page: sidebar, conversation, chat input                   |
-| `state.py`    | Holds the message history in the browser session                    |
-| `responder.py`| Calls the backend over HTTP — the one file that talks to it         |
+| `app.py`      | Draws the page: sidebar, conversation, citations, and chat input     |
+| `state.py`    | Holds message text and source metadata in the browser session        |
+| `responder.py`| Calls the backend and preserves answer source metadata               |
 | `corpus.py`   | Lists the source PDFs under `data/raw/` for the sidebar             |
 | `styles.css`  | The ChatGPT-like styling `app.py` loads                             |
 
@@ -39,3 +39,8 @@ what keeps the credentials and the vector store on the backend side.
 The backend URL is `API_BASE_URL` in `src/config/settings.py`, overridable with
 the `HS_API_BASE_URL` environment variable — `src/config` is the one project
 module the interface is allowed to import.
+
+Each successful backend response stores its source metadata with the assistant
+message. The page renders citations separately from the answer, grouping
+retrieved chunks by document and section and formatting stored filenames into
+readable document titles.

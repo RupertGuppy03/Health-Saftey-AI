@@ -1,8 +1,8 @@
 """The Health & Safety AI chat interface.
 
 The only module that draws the page. It renders the conversation, takes the next
-question and streams the reply back — it does not know or care where that reply
-comes from. Everything to do with answering lives behind responder.stream_reply,
+question and streams the reply back while displaying the source metadata
+returned with it. Everything to do with answering lives behind the responder,
 so the pipeline can be connected without touching the layout.
 
 Run it from the repo root with:  streamlit run streamlit_app.py
@@ -15,7 +15,7 @@ from pathlib import Path
 import streamlit as st
 
 from src.ui import corpus, state
-from src.ui.responder import stream_reply
+from src.ui.responder import fetch_reply, stream_answer
 
 PAGE_TITLE = "Health & Safety AI"
 PAGE_ICON = "🦺"
@@ -29,6 +29,7 @@ SIDEBAR_BLURB = "Guidance from WorkSafe New Zealand"
 DOCUMENTS_LABEL = "Documents"
 DOCUMENTS_BLURB = "The guidance answers are drawn from. Open one to read it yourself."
 NO_DOCUMENTS = "No documents found under data/raw/."
+NO_SUPPORTING_GUIDANCE = "No supporting guidance was found in the retrieved documents."
 
 STYLES = Path(__file__).with_name("styles.css")
 
@@ -138,6 +139,54 @@ def _render_message(message):
     with st.chat_message(message["role"], avatar=avatar):
         st.markdown(message["content"])
 
+        if message["role"] != state.ASSISTANT:
+            return
+
+        _render_sources(message.get("sources", []))
+
+
+def _citation_entries(sources):
+    """Collapse chunks by document and section into readable citation lines."""
+
+    grouped = {}
+
+    for source in sources:
+        source_file = source.get("source_file") or "Unknown document"
+        section = source.get("section_heading") or "Section heading unavailable"
+        key = (source_file, section)
+        pages = grouped.setdefault(key, set())
+
+        if source.get("page_number") is not None:
+            pages.add(source["page_number"])
+
+    entries = []
+
+    for (source_file, section), pages in grouped.items():
+        title = corpus.document_title(source_file)
+        if pages:
+            page_values = ", ".join(str(page) for page in sorted(pages))
+            page_reference = f"page {page_values}" if len(pages) == 1 else f"pages {page_values}"
+        else:
+            page_reference = "page reference unavailable"
+
+        entries.append(f"- **{title}** — {page_reference}; section: {section}")
+
+    return entries
+
+
+def _render_sources(sources):
+    """Render the source block separately from the answer text."""
+
+    st.caption("Sources")
+    entries = _citation_entries(sources)
+
+    if not entries:
+        st.caption(NO_SUPPORTING_GUIDANCE)
+        return
+
+    for entry in entries:
+        st.markdown(entry)
+
 
 def _render_conversation(messages):
     """The whole history, oldest first, plus a reply if the last turn needs one.
@@ -155,10 +204,18 @@ def _render_conversation(messages):
         if messages[-1]["role"] != state.USER:
             return
 
-        with st.chat_message(state.ASSISTANT, avatar=ASSISTANT_AVATAR):
-            reply = st.write_stream(stream_reply(messages[-1]["content"], messages[:-1]))
+        response = fetch_reply(messages[-1]["content"], messages[:-1])
 
-        state.add_message(state.ASSISTANT, reply)
+        with st.chat_message(state.ASSISTANT, avatar=ASSISTANT_AVATAR):
+            reply = st.write_stream(stream_answer(response["answer"]))
+            _render_sources(response.get("sources", []))
+
+        state.add_message(
+            state.ASSISTANT,
+            reply,
+            sources=response.get("sources", []),
+            status=response.get("status"),
+        )
 
 
 # =====================================================

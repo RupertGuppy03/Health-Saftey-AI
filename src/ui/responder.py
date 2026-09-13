@@ -5,7 +5,7 @@ backend over HTTP rather than importing it, which is what keeps ChromaDB,
 LangChain and the OpenAI credentials out of the interface process entirely —
 the backend is the only component that holds them.
 
-app.py only ever calls stream_reply().
+app.py fetches the structured response once, then streams only its answer text.
 """
 
 import time
@@ -28,16 +28,8 @@ FALLBACK_REPLY = (
 )
 
 
-def stream_reply(question, history=None):
-    """Yield an answer to `question` in chunks, oldest history first.
-
-    A generator rather than a plain string so st.write_stream can render the
-    reply as it arrives.
-
-    `history` is accepted but unused — the backend answers each question on its
-    own, and sending the conversation with it is story 10.
-    """
-
+def fetch_reply(question, history=None):
+    """Return the backend answer and its source metadata in one request."""
     try:
         response = httpx.post(
             f"{settings.API_BASE_URL}/chat",
@@ -45,19 +37,32 @@ def stream_reply(question, history=None):
             timeout=settings.API_TIMEOUT_SECONDS,
         )
     except httpx.RequestError:
-        yield FALLBACK_REPLY
-        return
+        return {"answer": FALLBACK_REPLY, "sources": [], "status": "error"}
 
     # A 200 carries a user-facing answer whether the pipeline answered it, found
     # nothing, or refused it as out of scope, so all three render the same way.
     # Anything else is a validation or server error whose message is written for
     # a developer, not for whoever is asking the question.
     if response.status_code != 200:
-        yield FALLBACK_REPLY
-        return
+        return {"answer": FALLBACK_REPLY, "sources": [], "status": "error"}
 
-    answer = response.json().get("answer", "")
+    payload = response.json()
+    return {
+        "answer": payload.get("answer", ""),
+        "sources": payload.get("sources", []),
+        "status": payload.get("status", "ok"),
+    }
+
+
+def stream_answer(answer):
+    """Yield an already-fetched answer in chunks for Streamlit."""
 
     for word in answer.split(" "):
         time.sleep(WORD_DELAY)
         yield word + " "
+
+
+def stream_reply(question, history=None):
+    """Backward-compatible answer-only wrapper around :func:`fetch_reply`."""
+
+    yield from stream_answer(fetch_reply(question, history)["answer"])
