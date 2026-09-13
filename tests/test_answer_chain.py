@@ -75,6 +75,35 @@ def test_answer_question_removes_model_source_block_from_answer():
     assert result["answer"] == "Use edge protection."
 
 
+def test_answer_question_drops_sources_when_model_reports_no_support():
+    answer = (
+        "The retrieved corpus contains WorkSafe guidance on excavation safety, "
+        "working in extreme temperatures, and exposure/health monitoring, but it "
+        "does not include any guidance about operating a commercial submarine or "
+        "any material specific to Antarctica. This question is outside the scope "
+        "of this assistant, which is limited to New Zealand workplace health and "
+        "safety guidance."
+    )
+
+    result = answer_question(
+        "What WorkSafe guidance covers operating a commercial submarine in Antarctica?",
+        retriever_fn=lambda question, n_results=None, collection_name=None: [
+            _result(
+                "excavation-safety.pdf",
+                2,
+                "GUIDANCE",
+                "Excavation safety guidance.",
+            )
+        ],
+        llm=StubLLM(response_text=answer),
+    )
+
+    assert result["status"] == "no_results"
+    assert result["sources"] == []
+    assert result["chunks"] == []
+    assert result["answer"] == answer
+
+
 def test_answer_question_reports_no_relevant_results():
     """An in-scope question the corpus cannot answer reaches retrieval first.
 

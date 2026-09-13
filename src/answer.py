@@ -97,6 +97,25 @@ def _strip_inline_citations(answer: str) -> str:
     return re.split(r"(?im)^\s*Sources?:\s*$", answer, maxsplit=1)[0].strip()
 
 
+def _answer_has_no_support(answer: str) -> bool:
+    """Detect a grounded response that says the retrieved context is insufficient."""
+
+    return bool(
+        re.search(
+            r"\b("
+            r"not enough information|"
+            r"does not (?:include|contain|provide)|"
+            r"do not have information|"
+            r"cannot answer|"
+            r"can't answer|"
+            r"outside (?:the )?(?:scope|available)"
+            r")\b",
+            answer,
+            flags=re.IGNORECASE,
+        )
+    )
+
+
 # Words that mark a question as workplace health and safety, used by both
 # guardrails below so the two cannot drift apart.
 #
@@ -293,8 +312,18 @@ def answer_question(
             "error": f"OpenAI API error: {exc}",
         }
 
+    cleaned_answer = _strip_inline_citations(answer)
+
+    if _answer_has_no_support(cleaned_answer):
+        return {
+            "answer": cleaned_answer,
+            "sources": [],
+            "chunks": [],
+            "status": "no_results",
+        }
+
     return {
-        "answer": _strip_inline_citations(answer),
+        "answer": cleaned_answer,
         "sources": _source_metadata(results),
         "chunks": results,
         "status": "ok",
