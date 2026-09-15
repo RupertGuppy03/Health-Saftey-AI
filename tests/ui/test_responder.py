@@ -102,7 +102,7 @@ def test_the_question_is_posted_to_the_chat_endpoint(monkeypatch):
 
     assert len(calls) == 1
     assert calls[0]["url"] == f"{settings.API_BASE_URL}/chat"
-    assert calls[0]["json"] == {"question": "Do I need a harness on a scaffold?"}
+    assert calls[0]["json"] == {"question": "Do I need a harness on a scaffold?", "history": []}
 
 
 def test_the_request_waits_longer_than_the_httpx_default(monkeypatch):
@@ -192,3 +192,80 @@ def test_a_validation_error_falls_back(monkeypatch):
     ))
 
     assert _reply("") == responder.FALLBACK_REPLY.strip()
+
+
+# =====================================================
+# THE CONVERSATION TRAVELS WITH THE QUESTION (story 10)
+# =====================================================
+
+CONVERSATION = [
+    {"role": "user", "content": "What edge protection do I need on a roof?"},
+    {"role": "assistant", "content": "Guardrails are required.", "sources": [], "status": "ok"},
+]
+
+
+def test_the_conversation_is_sent_with_the_question(monkeypatch):
+    calls = _capture(monkeypatch, _response({"answer": ANSWER, "sources": [],
+                                             "latency_seconds": 3.2, "status": "ok"}))
+
+    responder.fetch_reply("What about on a smaller one?", CONVERSATION)
+
+    assert calls[0]["json"]["question"] == "What about on a smaller one?"
+    assert calls[0]["json"]["history"] == [
+        {"role": "user", "content": "What edge protection do I need on a roof?"},
+        {"role": "assistant", "content": "Guardrails are required."},
+    ]
+
+
+def test_only_the_role_and_text_of_a_message_are_sent(monkeypatch):
+    """Sources and status are how the UI draws a bubble; the backend has no use for them."""
+
+    calls = _capture(monkeypatch, _response({"answer": ANSWER, "sources": [],
+                                             "latency_seconds": 3.2, "status": "ok"}))
+
+    responder.fetch_reply("What about on a smaller one?", CONVERSATION)
+
+    for turn in calls[0]["json"]["history"]:
+        assert set(turn) == {"role", "content"}
+
+
+def test_a_first_question_sends_an_empty_conversation(monkeypatch):
+    calls = _capture(monkeypatch, _response({"answer": ANSWER, "sources": [],
+                                             "latency_seconds": 3.2, "status": "ok"}))
+
+    responder.fetch_reply("What edge protection do I need?")
+
+    assert calls[0]["json"]["history"] == []
+
+
+def test_a_long_conversation_is_trimmed_before_it_is_sent(monkeypatch):
+    """The interface does not post a whole session's worth of text on every question."""
+
+    monkeypatch.setattr(responder.conversation, "HISTORY_TOKEN_LIMIT", 12)
+
+    calls = _capture(monkeypatch, _response({"answer": ANSWER, "sources": [],
+                                             "latency_seconds": 3.2, "status": "ok"}))
+
+    long_history = []
+    for index in range(50):
+        long_history.append({"role": "user", "content": f"Question number {index}"})
+        long_history.append({"role": "assistant", "content": f"Answer number {index}"})
+
+    responder.fetch_reply("And after that?", long_history)
+
+    sent = calls[0]["json"]["history"]
+    assert 0 < len(sent) < len(long_history)
+    assert sent[-1] == {"role": "assistant", "content": "Answer number 49"}
+
+
+def test_the_responder_keeps_no_conversation_of_its_own(monkeypatch):
+    """Two sessions share this module; neither may leave anything behind in it."""
+
+    calls = _capture(monkeypatch, _response({"answer": ANSWER, "sources": [],
+                                             "latency_seconds": 3.2, "status": "ok"}))
+
+    responder.fetch_reply("Asbestos handling?", CONVERSATION)
+    responder.fetch_reply("Scaffold inspection?")
+
+    assert calls[0]["json"]["history"] != []
+    assert calls[1]["json"]["history"] == []

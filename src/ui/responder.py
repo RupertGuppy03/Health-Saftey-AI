@@ -12,6 +12,7 @@ import time
 
 import httpx
 
+from src import conversation
 from src.config import settings
 
 # Pause between words when replaying an answer, in seconds. The backend returns
@@ -29,11 +30,20 @@ FALLBACK_REPLY = (
 
 
 def fetch_reply(question, history=None):
-    """Return the backend answer and its source metadata in one request."""
+    """Return the backend answer and its source metadata in one request.
+
+    `history` is the conversation so far from this browser session's state. It is
+    sent with the question so a follow-up can be understood, and it goes no
+    further than this request: the backend keeps none of it, so one session's
+    conversation cannot appear in another's.
+    """
     try:
         response = httpx.post(
             f"{settings.API_BASE_URL}/chat",
-            json={"question": question},
+            json={
+                "question": question,
+                "history": conversation.trim(history),
+            },
             timeout=settings.API_TIMEOUT_SECONDS,
         )
     except httpx.RequestError:

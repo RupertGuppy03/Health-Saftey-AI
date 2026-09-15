@@ -266,3 +266,100 @@ def test_the_page_still_opens_when_the_corpus_is_missing(monkeypatch):
 
     assert not app.exception
     assert app_module.NO_DOCUMENTS in [caption.value for caption in app.sidebar.caption]
+
+
+# =====================================================
+# THE CONVERSATION IS THE SESSION'S OWN (story 10)
+# =====================================================
+
+def _recording_fetch(calls):
+    """A responder stub that records the history it was handed."""
+
+    def fetch(question, history=None):
+        calls.append({"question": question, "history": [dict(turn) for turn in history or []]})
+        return {"answer": STUB_REPLY, "sources": [], "status": "ok"}
+
+    return fetch
+
+
+@pytest.fixture
+def two_sessions(monkeypatch, documents):
+    """Two independent app instances, as two browsers on two machines would be."""
+
+    monkeypatch.setattr(app_module.corpus, "list_documents", lambda *a, **k: documents)
+
+    return (
+        AppTest.from_file(str(ENTRYPOINT), default_timeout=10),
+        AppTest.from_file(str(ENTRYPOINT), default_timeout=10),
+    )
+
+
+def test_the_earlier_conversation_is_sent_with_a_follow_up(app, monkeypatch):
+    calls = []
+    monkeypatch.setattr(app_module, "fetch_reply", _recording_fetch(calls))
+
+    app.run()
+    _ask(app, "Do I need edge protection on a roof?")
+    _ask(app, "What about on a smaller one?")
+
+    assert calls[0]["history"] == []
+    assert calls[1]["question"] == "What about on a smaller one?"
+    # The reply is stored as it was streamed, so compare on the text not the spacing.
+    assert [(turn["role"], turn["content"].strip()) for turn in calls[1]["history"]] == [
+        (state.USER, "Do I need edge protection on a roof?"),
+        (state.ASSISTANT, STUB_REPLY),
+    ]
+
+
+def test_one_session_never_sees_another_sessions_conversation(two_sessions, monkeypatch):
+    """Acceptance: a conversation on one machine cannot affect one on another."""
+
+    calls = []
+    monkeypatch.setattr(app_module, "fetch_reply", _recording_fetch(calls))
+
+    first, second = two_sessions
+
+    first.run()
+    _ask(first, "How do I remove asbestos safely?")
+
+    second.run()
+    _ask(second, "When must a scaffold be inspected?")
+
+    _ask(first, "And what about the disposal?")
+
+    # The second session asked its first question with nothing behind it, even
+    # though the first session already had a conversation going.
+    assert calls[1]["history"] == []
+
+    # The first session's follow-up carries its own conversation and only its own.
+    followed_up = " ".join(turn["content"] for turn in calls[2]["history"])
+    assert "asbestos" in followed_up
+    assert "scaffold" not in followed_up
+
+
+def test_each_session_keeps_its_own_messages_on_screen(two_sessions, monkeypatch):
+    monkeypatch.setattr(app_module, "fetch_reply", _stub_fetch)
+
+    first, second = two_sessions
+
+    first.run()
+    _ask(first, "How do I remove asbestos safely?")
+
+    second.run()
+    _ask(second, "When must a scaffold be inspected?")
+
+    assert "asbestos" in " ".join(_texts(first))
+    assert "asbestos" not in " ".join(_texts(second))
+    assert "scaffold" in " ".join(_texts(second))
+    assert "scaffold" not in " ".join(_texts(first))
+
+
+def test_the_history_is_not_cached_across_sessions():
+    """A Streamlit cache is shared by every session, so messages must never be in one."""
+
+    from src.ui import state
+
+    source = Path(state.__file__).read_text(encoding="utf-8")
+
+    assert "cache_data" not in source
+    assert "cache_resource" not in source
