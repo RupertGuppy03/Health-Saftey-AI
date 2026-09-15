@@ -78,6 +78,10 @@ def _open_pdf(path):
 
     return lambda: path.read_bytes()
 
+def _render_clear_control():
+    if st.sidebar.button("Clear conversation", type="secondary"):
+        state.clear_messages()
+        st.rerun()
 
 def _render_sidebar():
     """Branding, and the source documents the answers are drawn from.
@@ -224,18 +228,18 @@ def _render_conversation(messages):
 # =====================================================
 
 def _submit_question():
-    """Record the submitted question before the page is drawn again.
+    question = st.session_state.get(QUESTION_KEY, "").strip()
 
-    Streamlit calls a widget's callback ahead of the script body, so by the time
-    the layout below runs, the conversation already contains the new question.
-    That is what lets the greeting give way to the conversation in a single
-    pass, with no explicit rerun.
-    """
+    if not question:
+        return
 
-    question = st.session_state.get(QUESTION_KEY, "")
+    messages = state.get_messages()
 
-    if question:
-        state.add_message(state.USER, question)
+    if messages and messages[-1]["role"] == state.USER:
+        if messages[-1]["content"] == question:
+            return
+
+    state.add_message(state.USER, question)
 
 
 def _render_chat_input():
@@ -268,6 +272,7 @@ def main():
 
     _apply_styles()
     _render_sidebar()
+    _render_clear_control()
     state.init_state()
 
     messages = state.get_messages()
