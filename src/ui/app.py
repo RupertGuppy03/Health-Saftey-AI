@@ -221,9 +221,13 @@ def _render_conversation(messages):
         if messages[-1]["role"] != state.USER:
             return
 
-        response = fetch_reply(messages[-1]["content"], messages[:-1])
-
+        # The reply's bubble is opened before the backend is called, not after. On
+        # the first question the page swaps the greeting for the conversation, and
+        # Streamlit leaves whatever has not been redrawn yet on screen, faded. The
+        # bubble takes the old chat bar's place, so without this the bar and its
+        # transcript linger for the whole ~30s wait.
         with st.chat_message(state.ASSISTANT, avatar=ASSISTANT_AVATAR):
+            response = fetch_reply(messages[-1]["content"], messages[:-1])
             reply = st.write_stream(stream_answer(response["answer"]))
             _render_sources(response.get("sources", []))
 
