@@ -35,8 +35,20 @@ CHROMA_PERSIST_DIR = PROJECT_ROOT / "vectorstore"
 # OpenAI model configuration
 # The project uses GPT-5-mini for grounded answers, while the embedding model stays
 # separate because embeddings and chat generation are different tasks.
+#
+# Model, temperature and reasoning effort are all read from here, so swapping the
+# answering model or retuning it is a settings edit rather than a code change.
 LLM_MODEL = "gpt-5-mini"
 LLM_TEMPERATURE = 0.1
+
+# Reasoning effort for the answering model: "minimal", "low", "medium", "high", or
+# None to send nothing and let the API pick its own default.
+#
+# None is what the code has always done, and it is what the Sprint 2 edge case set
+# was signed off against, so it stays the default. "minimal" cuts a query from ~32s
+# to ~11.7s (issue S3-01 in docs/issue_register.md) — a tempting lever, but changing
+# it needs the edge case set re-run and H&S lead sign-off first.
+LLM_REASONING_EFFORT = None
 
 # OpenAI embedding configuration
 # Single source-of-truth for the embedding model used at BOTH ingestion and query
@@ -109,3 +121,53 @@ API_BASE_URL = os.environ.get("HS_API_BASE_URL", "http://localhost:8000")
 # gpt-5-mini call, measured at ~33s in docs/startup_and_query_timings.md, so
 # httpx's 5 second default would time out every question.
 API_TIMEOUT_SECONDS = 60.0
+
+# Conversation history
+# How much of the conversation travels with each question, measured in tokens by
+# the same cl100k_base counter the ingestion pipeline uses. History is trimmed
+# newest-first and only ever in whole user/assistant exchanges, so the model never
+# sees a question whose answer was dropped.
+#
+# 16,000 tokens is roughly 60-80 exchanges. It is set deliberately high: a user
+# should never notice the limit part-way through a normal conversation. The cost of
+# a long conversation is a larger request body and a longer rewrite prompt, not a
+# larger answer — history is trimmed before it reaches either model.
+HISTORY_TOKEN_LIMIT = 16_000
+
+# The model that rewrites a follow-up ("what about on a smaller site?") into a
+# question that stands on its own, before the scope guardrail and retrieval run.
+#
+# Its own settings rather than the answering model's, so the rewrite can be moved to
+# a cheaper or faster model without touching the answer path. Minimal effort because
+# the rewrite is a mechanical edit: default effort is what makes a full answer take
+# ~32s, and paying that twice per follow-up is not worth it.
+HISTORY_CONDENSE_MODEL = LLM_MODEL
+HISTORY_CONDENSE_TEMPERATURE = LLM_TEMPERATURE
+HISTORY_CONDENSE_REASONING_EFFORT = "minimal"
+
+# Voice input (Sprint 3, story 13)
+# A spoken question is transcribed by the backend and put in the chat box for the
+# user to check before sending, so it reaches /chat as ordinary typed text.
+TRANSCRIPTION_MODEL = "gpt-4o-transcribe"
+
+# Pinned rather than auto-detected: the corpus and the users are NZ English, and a
+# short, accented clip is where language detection guesses wrong.
+TRANSCRIPTION_LANGUAGE = "en"
+
+# "auto" has the API normalise loudness and run its own voice activity detection
+# before transcribing, so stretches with no speech in them (a sniff, a cough, wind)
+# are not handed to the model to guess at.
+TRANSCRIPTION_CHUNKING_STRATEGY = "auto"
+
+# A recording stops itself after this many seconds, so a mic left running cannot
+# send an ever-growing clip.
+VOICE_MAX_SECONDS = 60
+
+# A recording is only sent for transcription if it holds at least
+# VOICE_MIN_SPEECH_SECONDS of sound louder than VOICE_SILENCE_LEVEL, added up across
+# the whole clip. Total time rather than the loudest moment, because a sniff or a
+# bump of the mic is loud but brief; a spoken question is louder than this level for
+# well over a second. The level is RMS from 0 (silence) to 1 (full scale): a quiet
+# room sits well under 0.01 and normal speech well above 0.05.
+VOICE_MIN_SPEECH_SECONDS = 0.6
+VOICE_SILENCE_LEVEL = 0.02

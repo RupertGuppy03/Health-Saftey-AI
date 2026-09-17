@@ -109,6 +109,19 @@ Host and port default to `0.0.0.0:8000` and can be overridden with the `HOST` an
 { "question": "What edge protection do I need for work at height?" }
 ```
 
+`history` is optional. Send it to ask a follow-up that leans on what was asked
+before — see [Follow-up questions](#follow-up-questions) below.
+
+```json
+{
+  "question": "What about on a smaller one?",
+  "history": [
+    { "role": "user",      "content": "What edge protection do I need on a roof?" },
+    { "role": "assistant", "content": "Guardrails are required where a person could fall." }
+  ]
+}
+```
+
 **Response**
 
 ```json
@@ -135,6 +148,78 @@ server, never sent to the browser.
 
 `POST /ask` is the original name for the same endpoint and still works, but new
 callers should use `/chat`.
+
+### Follow-up questions
+
+Send `history` and a follow-up can lean on what came before, so "what about on a
+smaller one?" is understood instead of being refused as off topic.
+
+Before anything is retrieved, the question is rewritten into one that stands on
+its own — "what about on a smaller one?" becomes "what edge protection is needed
+on a smaller roof?". That rewritten question is what the scope guardrail reads and
+what the corpus is searched on, which is why the citations under a follow-up
+belong to the follow-up rather than to the question before it. The earlier turns
+are also given to the answering model, as messages rather than as pasted text, so
+it can follow a reference without treating an old turn as an instruction.
+
+Two behaviours worth knowing:
+
+- **A question with no history costs nothing extra.** No rewrite call is made, and
+  the pipeline behaves exactly as it did before follow-ups existed.
+- **Refusals are still judged on what the user typed.** Legal-advice and
+  external-standard questions are refused before the rewrite runs, so a rewrite
+  cannot soften them.
+
+**History never leaves the browser session.** The backend stores none of it: the
+conversation travels in each request and is discarded when the response is sent,
+so there is no server-side store for one person's conversation to leak out of.
+The interface keeps it in Streamlit session state, which means it lives as long as
+the tab does and no longer. Nothing is written to disk, and nothing is shared
+between users.
+
+**Configuration** — all in `src/config/settings.py`:
+
+| Value | Default | What it does |
+|---|---|---|
+| `HISTORY_TOKEN_LIMIT` | `16000` | How much conversation travels with a question. Roughly 60–80 exchanges; older turns are dropped first, always in whole question-and-answer pairs. Enforced by the interface *and* the backend. |
+| `HISTORY_CONDENSE_MODEL` | `LLM_MODEL` | The model that rewrites a follow-up. Its own setting, so the rewrite can move to a cheaper model without touching the answer path. |
+| `HISTORY_CONDENSE_TEMPERATURE` | `LLM_TEMPERATURE` | Temperature for that rewrite. |
+| `HISTORY_CONDENSE_REASONING_EFFORT` | `"minimal"` | Reasoning effort for the rewrite. Minimal because rewriting is a mechanical edit; the default effort is what makes a full answer take ~32s. |
+| `LLM_REASONING_EFFORT` | `None` | Reasoning effort for the **answering** model. `None` sends nothing, which is the API default and what the Sprint 2 edge case set was signed off against. `"minimal"` cuts a query to ~11.7s (issue S3-01) but needs the edge case set re-run and H&S lead sign-off first. |
+
+### Voice questions: `POST /transcribe`
+
+The chat bar has a mic button (Sprint 3, story 13). A recording is sent here as a
+multipart `audio` file and comes back as text:
+
+```json
+{ "text": "Do I need edge protection on a roof?", "status": "ok" }
+```
+
+`status` is `empty` when nothing was said. The endpoint **only transcribes**: the
+interface puts the transcript in the chat box for the user to check and correct,
+and it is then sent to `POST /chat` like any typed question, so voice has no
+answer path of its own and no spoken reply. A missing or unreadable file is a
+**422**; a failed transcription is a **500** with a plain message.
+
+Recordings that are too short or never louder than silence are caught in the
+browser and never sent, so they cost nothing. Browsers only allow the mic on
+`localhost` or over HTTPS.
+
+| Value | Default | What it does |
+|---|---|---|
+| `TRANSCRIPTION_MODEL` | `"gpt-4o-transcribe"` | The OpenAI model that transcribes a recording. |
+| `TRANSCRIPTION_LANGUAGE` | `"en"` | Pinned rather than detected, since short accented clips are where detection guesses wrong. |
+| `VOICE_MAX_SECONDS` | `60` | A recording stops itself after this long. |
+| `TRANSCRIPTION_CHUNKING_STRATEGY` | `"auto"` | The API's own voice detection runs first, so non-speech is not handed to the model to guess at. |
+| `VOICE_MIN_SPEECH_SECONDS` | `0.6` | Total time a recording must be louder than `VOICE_SILENCE_LEVEL` to be sent. Stops a sniff or a bump of the mic, which is loud but brief. |
+| `VOICE_SILENCE_LEVEL` | `0.02` | The loudness (0–1) that counts as sound rather than silence. |
+
+`TRANSCRIPTION_PROMPT` in `src/config/prompts.py` lists acronyms (PCBU, HSWA,
+WorkSafe…) so the model spells them correctly. It is deliberately spellings only:
+worded as a topic, it gave the model material to invent a question from when a
+recording held no speech. The accuracy spot check is in
+[`docs/voice_transcription_spot_check.md`](docs/voice_transcription_spot_check.md).
 
 ### Readiness: `GET /health`
 

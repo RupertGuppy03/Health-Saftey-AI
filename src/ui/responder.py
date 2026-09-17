@@ -12,6 +12,7 @@ import time
 
 import httpx
 
+from src import conversation
 from src.config import settings
 
 # Pause between words when replaying an answer, in seconds. The backend returns
@@ -29,11 +30,20 @@ FALLBACK_REPLY = (
 
 
 def fetch_reply(question, history=None):
-    """Return the backend answer and its source metadata in one request."""
+    """Return the backend answer and its source metadata in one request.
+
+    `history` is the conversation so far from this browser session's state. It is
+    sent with the question so a follow-up can be understood, and it goes no
+    further than this request: the backend keeps none of it, so one session's
+    conversation cannot appear in another's.
+    """
     try:
         response = httpx.post(
             f"{settings.API_BASE_URL}/chat",
-            json={"question": question},
+            json={
+                "question": question,
+                "history": conversation.trim(history),
+            },
             timeout=settings.API_TIMEOUT_SECONDS,
         )
     except httpx.RequestError:
@@ -52,6 +62,47 @@ def fetch_reply(question, history=None):
         "sources": payload.get("sources", []),
         "status": payload.get("status", "ok"),
     }
+
+
+# The file extension the backend reads the audio format from, by browser MIME type.
+# The type can carry a codec suffix ("audio/webm;codecs=opus"), so it is matched on
+# the part before the semicolon.
+AUDIO_EXTENSIONS = {
+    "audio/webm": "webm",
+    "audio/ogg": "ogg",
+    "audio/mp4": "mp4",
+    "audio/wav": "wav",
+    "audio/mpeg": "mp3",
+}
+
+
+def transcribe(audio_bytes, mime):
+    """Return {"text", "status"} for a recorded question.
+
+    "ok" carries the transcript, "empty" means nothing was said, and "error" covers
+    everything else: an unreachable backend, a timeout, or a failed transcription.
+    Nothing here answers the question; the transcript is only shown to the user.
+    """
+
+    base_type = (mime or "").split(";")[0].strip().lower()
+    extension = AUDIO_EXTENSIONS.get(base_type, "webm")
+
+    try:
+        response = httpx.post(
+            f"{settings.API_BASE_URL}/transcribe",
+            files={"audio": (f"question.{extension}", audio_bytes, base_type or "audio/webm")},
+            timeout=settings.API_TIMEOUT_SECONDS,
+        )
+    except httpx.RequestError:
+        return {"text": "", "status": "error"}
+
+    if response.status_code != 200:
+        return {"text": "", "status": "error"}
+
+    payload = response.json()
+    text = (payload.get("text") or "").strip()
+
+    return {"text": text, "status": "ok" if text else "empty"}
 
 
 def stream_answer(answer):
