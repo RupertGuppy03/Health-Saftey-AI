@@ -269,3 +269,61 @@ def test_the_responder_keeps_no_conversation_of_its_own(monkeypatch):
 
     assert calls[0]["json"]["history"] != []
     assert calls[1]["json"]["history"] == []
+
+
+# =====================================================
+# VOICE: TRANSCRIBING A RECORDING (story 13)
+# =====================================================
+
+AUDIO = b"fake webm bytes"
+
+
+def test_a_recording_is_posted_to_the_transcribe_endpoint(monkeypatch):
+    calls = _capture(monkeypatch, _response({"text": "Who is a PCBU?", "status": "ok"}))
+
+    responder.transcribe(AUDIO, "audio/webm;codecs=opus")
+
+    assert calls[0]["url"] == f"{settings.API_BASE_URL}/transcribe"
+    # The codec suffix is dropped; the backend reads the format from the extension.
+    assert calls[0]["files"]["audio"] == ("question.webm", AUDIO, "audio/webm")
+
+
+@pytest.mark.parametrize(
+    "mime, filename",
+    [("audio/ogg;codecs=opus", "question.ogg"), ("audio/mp4", "question.mp4"), ("", "question.webm")],
+)
+def test_each_browser_format_gets_the_matching_extension(monkeypatch, mime, filename):
+    calls = _capture(monkeypatch, _response({"text": "Who is a PCBU?", "status": "ok"}))
+
+    responder.transcribe(AUDIO, mime)
+
+    assert calls[0]["files"]["audio"][0] == filename
+
+
+def test_the_transcript_is_returned_as_ok(monkeypatch):
+    _capture(monkeypatch, _response({"text": " Who is a PCBU? ", "status": "ok"}))
+
+    assert responder.transcribe(AUDIO, "audio/webm") == {"text": "Who is a PCBU?", "status": "ok"}
+
+
+def test_an_empty_transcript_is_passed_through_as_empty(monkeypatch):
+    _capture(monkeypatch, _response({"text": "", "status": "empty"}))
+
+    assert responder.transcribe(AUDIO, "audio/webm") == {"text": "", "status": "empty"}
+
+
+@pytest.mark.parametrize("error", [httpx.ConnectError("refused"), httpx.ReadTimeout("slow")])
+def test_an_unreachable_backend_is_an_error_not_an_exception(monkeypatch, error):
+    def fake_post(url, **kwargs):
+        raise error
+
+    monkeypatch.setattr(responder.httpx, "post", fake_post)
+
+    assert responder.transcribe(AUDIO, "audio/webm") == {"text": "", "status": "error"}
+
+
+@pytest.mark.parametrize("status_code", [422, 500])
+def test_a_failed_transcription_is_an_error(monkeypatch, status_code):
+    _capture(monkeypatch, _response({"status": "error", "message": "nope"}, status_code))
+
+    assert responder.transcribe(AUDIO, "audio/webm") == {"text": "", "status": "error"}

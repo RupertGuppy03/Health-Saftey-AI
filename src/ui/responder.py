@@ -64,6 +64,47 @@ def fetch_reply(question, history=None):
     }
 
 
+# The file extension the backend reads the audio format from, by browser MIME type.
+# The type can carry a codec suffix ("audio/webm;codecs=opus"), so it is matched on
+# the part before the semicolon.
+AUDIO_EXTENSIONS = {
+    "audio/webm": "webm",
+    "audio/ogg": "ogg",
+    "audio/mp4": "mp4",
+    "audio/wav": "wav",
+    "audio/mpeg": "mp3",
+}
+
+
+def transcribe(audio_bytes, mime):
+    """Return {"text", "status"} for a recorded question.
+
+    "ok" carries the transcript, "empty" means nothing was said, and "error" covers
+    everything else: an unreachable backend, a timeout, or a failed transcription.
+    Nothing here answers the question; the transcript is only shown to the user.
+    """
+
+    base_type = (mime or "").split(";")[0].strip().lower()
+    extension = AUDIO_EXTENSIONS.get(base_type, "webm")
+
+    try:
+        response = httpx.post(
+            f"{settings.API_BASE_URL}/transcribe",
+            files={"audio": (f"question.{extension}", audio_bytes, base_type or "audio/webm")},
+            timeout=settings.API_TIMEOUT_SECONDS,
+        )
+    except httpx.RequestError:
+        return {"text": "", "status": "error"}
+
+    if response.status_code != 200:
+        return {"text": "", "status": "error"}
+
+    payload = response.json()
+    text = (payload.get("text") or "").strip()
+
+    return {"text": text, "status": "ok" if text else "empty"}
+
+
 def stream_answer(answer):
     """Yield an already-fetched answer in chunks for Streamlit."""
 

@@ -325,3 +325,102 @@ def test_a_request_with_history_does_not_reach_the_real_rewrite_model(monkeypatc
     response = client.post("/chat", json={"question": QUESTION, "history": CONVERSATION})
 
     assert response.status_code == 200
+
+
+# =====================================================
+# VOICE: POST /transcribe (story 13)
+# =====================================================
+
+
+class StubTranscriber:
+    """Stands in for the OpenAI client's transcription call."""
+
+    def __init__(self, text="Do I need edge protection on a roof?", error=None):
+        self.calls = 0
+        self.text = text
+        self.error = error
+        self.audio = SimpleNamespace(transcriptions=SimpleNamespace(create=self._create))
+
+    def _create(self, **kwargs):
+        self.calls += 1
+        if self.error:
+            raise self.error
+        return SimpleNamespace(text=self.text)
+
+
+def _voice_client(monkeypatch, transcriber):
+    """A TestClient whose transcription client is the stub, and whose pipeline must not run."""
+
+    def pipeline_must_not_run(*args, **kwargs):
+        raise AssertionError("/transcribe reached the answering pipeline")
+
+    monkeypatch.setattr(api_app, "run_query", pipeline_must_not_run)
+    api_app.app.dependency_overrides[api_app.get_transcription_client] = lambda: transcriber
+
+    client = TestClient(api_app.app)
+    yield client
+
+    api_app.app.dependency_overrides.clear()
+
+
+def _recording(name="question.webm", data=b"fake webm bytes"):
+    return {"audio": (name, data, "audio/webm")}
+
+
+def test_a_recording_is_returned_as_a_transcript(monkeypatch):
+    client = next(_voice_client(monkeypatch, StubTranscriber()))
+
+    response = client.post("/transcribe", files=_recording())
+
+    assert response.status_code == 200
+    assert response.json() == {"text": "Do I need edge protection on a roof?", "status": "ok"}
+
+
+def test_a_blank_transcript_is_reported_as_empty(monkeypatch):
+    client = next(_voice_client(monkeypatch, StubTranscriber(text="  ")))
+
+    response = client.post("/transcribe", files=_recording())
+
+    assert response.status_code == 200
+    assert response.json() == {"text": "", "status": "empty"}
+
+
+def test_a_failed_transcription_is_a_plain_500(monkeypatch):
+    client = next(_voice_client(monkeypatch, StubTranscriber(error=RuntimeError("openai is down"))))
+
+    response = client.post("/transcribe", files=_recording())
+
+    assert response.status_code == 500
+    assert response.json()["status"] == "error"
+    assert "openai is down" not in response.text
+    assert "Traceback" not in response.text
+
+
+def test_no_transcription_client_is_a_plain_500(monkeypatch):
+    client = next(_voice_client(monkeypatch, None))
+
+    response = client.post("/transcribe", files=_recording())
+
+    assert response.status_code == 500
+    assert response.json()["status"] == "error"
+
+
+def test_a_missing_recording_is_a_readable_422(monkeypatch):
+    client = next(_voice_client(monkeypatch, StubTranscriber()))
+
+    response = client.post("/transcribe")
+
+    assert response.status_code == 422
+    assert response.json()["message"] == "An audio recording is required."
+
+
+@pytest.mark.parametrize("name, data", [("question.webm", b""), ("question.txt", b"not audio")])
+def test_an_unreadable_recording_is_a_422_and_never_transcribed(monkeypatch, name, data):
+    transcriber = StubTranscriber()
+    client = next(_voice_client(monkeypatch, transcriber))
+
+    response = client.post("/transcribe", files=_recording(name, data))
+
+    assert response.status_code == 422
+    assert response.json()["message"] == "The recording could not be read."
+    assert transcriber.calls == 0

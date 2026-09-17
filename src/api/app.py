@@ -14,7 +14,7 @@ import time
 from contextlib import asynccontextmanager
 from typing import Any, Dict, List, Literal, Optional, Union
 
-from fastapi import Depends, FastAPI, Request
+from fastapi import Depends, FastAPI, File, Request, UploadFile
 from fastapi.exceptions import RequestValidationError
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel, Field, field_validator
@@ -24,6 +24,7 @@ from src.answer import _get_condense_llm, _get_openai_chat_llm
 from src.config.settings import CHROMA_COLLECTION_NAME, CHROMA_PERSIST_DIR
 from src.pipeline import run_query
 from src.retrieval.retriever import _get_openai_client
+from src.transcription import transcribe
 from src.vectorstore_client import count_collection
 
 # Uvicorn configures its own "uvicorn.*" loggers and leaves the root logger at
@@ -185,6 +186,14 @@ class HealthResponse(BaseModel):
     startup_seconds: float
 
 
+class TranscriptResponse(BaseModel):
+    """What a recorded question was heard as, for the user to check before sending."""
+
+    text: str
+    # "ok" with a transcript, or "empty" when nothing was said.
+    status: Literal["ok", "empty"]
+
+
 class ErrorResponse(BaseModel):
     status: str = "error"
     message: str
@@ -196,6 +205,12 @@ class ErrorResponse(BaseModel):
 ERROR_RESPONSES: Dict[Union[int, str], Dict[str, Any]] = {
     422: {"model": ErrorResponse, "description": "The question was missing or empty."},
     500: {"model": ErrorResponse, "description": "The pipeline failed."},
+}
+
+
+TRANSCRIBE_ERROR_RESPONSES: Dict[Union[int, str], Dict[str, Any]] = {
+    422: {"model": ErrorResponse, "description": "The recording was missing or could not be read."},
+    500: {"model": ErrorResponse, "description": "Transcription failed."},
 }
 
 
@@ -217,6 +232,8 @@ def _validation_message(exc: RequestValidationError) -> str:
         location = [str(part) for part in error.get("loc", ())]
 
         if error.get("type") == "missing":
+            if "audio" in location:
+                return "An audio recording is required."
             if "history" in location:
                 return "Each history entry needs a role and content."
             return "A question is required."
@@ -242,10 +259,10 @@ async def _handle_validation_error(request: Request, exc: RequestValidationError
     )
 
 
-def _error_response(message: str, detail: str) -> JSONResponse:
+def _error_response(message: str, detail: str, failure: str = "Pipeline") -> JSONResponse:
     """Log the technical detail here; send the browser the plain sentence only."""
 
-    logger.error("Pipeline failure: %s", detail)
+    logger.error("%s failure: %s", failure, detail)
 
     return JSONResponse(
         status_code=500,
@@ -284,6 +301,19 @@ def get_condense_llm():
 
     try:
         return _get_condense_llm()
+    except Exception:
+        return None
+
+
+def get_transcription_client():
+    """Return the OpenAI client for transcription, or None if it cannot be built.
+
+    The same cached client retrieval uses. A dependency so tests can inject a stub
+    instead of reaching the real API.
+    """
+
+    try:
+        return _get_openai_client()
     except Exception:
         return None
 
@@ -355,3 +385,34 @@ def chat(request: ChatRequest, llm=Depends(get_llm), condense_llm=Depends(get_co
         )
 
     return result
+
+
+TRANSCRIBE_FAILED = "Transcription failed. Please try again or type your question."
+
+
+@app.post("/transcribe", response_model=TranscriptResponse, responses=TRANSCRIBE_ERROR_RESPONSES)
+def transcribe_recording(
+    audio: UploadFile = File(description="The recorded question, e.g. question.webm."),
+    client=Depends(get_transcription_client),
+):
+    """Turn a recorded question into text (story 13).
+
+    Only transcribes. The transcript goes back to the interface for the user to
+    check, and is then sent to /chat like any typed question, so voice has no
+    answer path of its own.
+    """
+
+    audio_bytes = audio.file.read()
+
+    if client is None:
+        return _error_response(TRANSCRIBE_FAILED, "no OpenAI client", failure="Transcription")
+
+    try:
+        return transcribe(audio_bytes, audio.filename, client)
+    except ValueError:
+        return JSONResponse(
+            status_code=422,
+            content=ErrorResponse(message="The recording could not be read.").model_dump(),
+        )
+    except Exception as exc:
+        return _error_response(TRANSCRIBE_FAILED, f"Unhandled exception: {exc!r}", failure="Transcription")

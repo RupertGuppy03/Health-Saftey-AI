@@ -144,3 +144,30 @@ HISTORY_TOKEN_LIMIT = 16_000
 HISTORY_CONDENSE_MODEL = LLM_MODEL
 HISTORY_CONDENSE_TEMPERATURE = LLM_TEMPERATURE
 HISTORY_CONDENSE_REASONING_EFFORT = "minimal"
+
+# Voice input (Sprint 3, story 13)
+# A spoken question is transcribed by the backend and put in the chat box for the
+# user to check before sending, so it reaches /chat as ordinary typed text.
+TRANSCRIPTION_MODEL = "gpt-4o-transcribe"
+
+# Pinned rather than auto-detected: the corpus and the users are NZ English, and a
+# short, accented clip is where language detection guesses wrong.
+TRANSCRIPTION_LANGUAGE = "en"
+
+# "auto" has the API normalise loudness and run its own voice activity detection
+# before transcribing, so stretches with no speech in them (a sniff, a cough, wind)
+# are not handed to the model to guess at.
+TRANSCRIPTION_CHUNKING_STRATEGY = "auto"
+
+# A recording stops itself after this many seconds, so a mic left running cannot
+# send an ever-growing clip.
+VOICE_MAX_SECONDS = 60
+
+# A recording is only sent for transcription if it holds at least
+# VOICE_MIN_SPEECH_SECONDS of sound louder than VOICE_SILENCE_LEVEL, added up across
+# the whole clip. Total time rather than the loudest moment, because a sniff or a
+# bump of the mic is loud but brief; a spoken question is louder than this level for
+# well over a second. The level is RMS from 0 (silence) to 1 (full scale): a quiet
+# room sits well under 0.01 and normal speech well above 0.05.
+VOICE_MIN_SPEECH_SECONDS = 0.6
+VOICE_SILENCE_LEVEL = 0.02

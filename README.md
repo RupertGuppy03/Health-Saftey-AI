@@ -187,6 +187,40 @@ between users.
 | `HISTORY_CONDENSE_REASONING_EFFORT` | `"minimal"` | Reasoning effort for the rewrite. Minimal because rewriting is a mechanical edit; the default effort is what makes a full answer take ~32s. |
 | `LLM_REASONING_EFFORT` | `None` | Reasoning effort for the **answering** model. `None` sends nothing, which is the API default and what the Sprint 2 edge case set was signed off against. `"minimal"` cuts a query to ~11.7s (issue S3-01) but needs the edge case set re-run and H&S lead sign-off first. |
 
+### Voice questions: `POST /transcribe`
+
+The chat bar has a mic button (Sprint 3, story 13). A recording is sent here as a
+multipart `audio` file and comes back as text:
+
+```json
+{ "text": "Do I need edge protection on a roof?", "status": "ok" }
+```
+
+`status` is `empty` when nothing was said. The endpoint **only transcribes**: the
+interface puts the transcript in the chat box for the user to check and correct,
+and it is then sent to `POST /chat` like any typed question, so voice has no
+answer path of its own and no spoken reply. A missing or unreadable file is a
+**422**; a failed transcription is a **500** with a plain message.
+
+Recordings that are too short or never louder than silence are caught in the
+browser and never sent, so they cost nothing. Browsers only allow the mic on
+`localhost` or over HTTPS.
+
+| Value | Default | What it does |
+|---|---|---|
+| `TRANSCRIPTION_MODEL` | `"gpt-4o-transcribe"` | The OpenAI model that transcribes a recording. |
+| `TRANSCRIPTION_LANGUAGE` | `"en"` | Pinned rather than detected, since short accented clips are where detection guesses wrong. |
+| `VOICE_MAX_SECONDS` | `60` | A recording stops itself after this long. |
+| `TRANSCRIPTION_CHUNKING_STRATEGY` | `"auto"` | The API's own voice detection runs first, so non-speech is not handed to the model to guess at. |
+| `VOICE_MIN_SPEECH_SECONDS` | `0.6` | Total time a recording must be louder than `VOICE_SILENCE_LEVEL` to be sent. Stops a sniff or a bump of the mic, which is loud but brief. |
+| `VOICE_SILENCE_LEVEL` | `0.02` | The loudness (0–1) that counts as sound rather than silence. |
+
+`TRANSCRIPTION_PROMPT` in `src/config/prompts.py` lists acronyms (PCBU, HSWA,
+WorkSafe…) so the model spells them correctly. It is deliberately spellings only:
+worded as a topic, it gave the model material to invent a question from when a
+recording held no speech. The accuracy spot check is in
+[`docs/voice_transcription_spot_check.md`](docs/voice_transcription_spot_check.md).
+
 ### Readiness: `GET /health`
 
 ```json

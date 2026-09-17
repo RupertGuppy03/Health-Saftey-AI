@@ -88,3 +88,12 @@ In every case:
 
 Output the rewritten question and nothing else.
 """.strip()
+
+
+# Spelling hint for the transcription model, so acronyms from the corpus come out
+# right (PCBU rather than "PCB you"). The model reads it as text that came before
+# the recording, so it holds spellings only: an earlier version described "a
+# question about health and safety", and a recording of a sniff came back as an
+# invented question built from these very terms. Keep it to acronyms and names that
+# are easy to mishear, and never phrase it as a question or a topic.
+TRANSCRIPTION_PROMPT = "WorkSafe, PCBU, HSWA, SDS, PPE."
