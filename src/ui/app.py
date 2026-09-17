@@ -14,7 +14,7 @@ from pathlib import Path
 
 import streamlit as st
 
-from src.ui import corpus, state
+from src.ui import browser_store, corpus, state
 from src.ui.responder import fetch_reply, stream_answer
 
 PAGE_TITLE = "Health & Safety AI"
@@ -94,6 +94,8 @@ def _render_sidebar():
 
         st.markdown(f"### {PAGE_TITLE}")
         st.caption(SIDEBAR_BLURB)
+
+        _render_clear_control()
 
         documents = corpus.list_documents()
 
@@ -272,22 +274,34 @@ def main():
 
     _apply_styles()
     _render_sidebar()
-    _render_clear_control()
     state.init_state()
 
-    messages = state.get_messages()
+    # One fixed, hidden slot for the browser copy, so loading and saving mount
+    # the same element. Until the tab's copy arrives after a reload, draw nothing:
+    # a greeting would flash, and saving an empty history would overwrite it.
+    store_slot = st.container(key="hs_store")
 
-    if not messages:
-        _render_empty_state()
+    if not browser_store.restore(store_slot):
         return
 
-    # Once the conversation has started the input drops to the foot of the page.
-    # It is drawn before the messages so that it stays on screen while a reply
-    # streams in; st.bottom pins it there whatever the script order.
-    with st.bottom:
-        _render_chat_input()
+    try:
+        messages = state.get_messages()
 
-    _render_conversation(messages)
+        if not messages:
+            _render_empty_state()
+            return
+
+        # Once the conversation has started the input drops to the foot of the page.
+        # It is drawn before the messages so that it stays on screen while a reply
+        # streams in; st.bottom pins it there whatever the script order.
+        with st.bottom:
+            _render_chat_input()
+
+        _render_conversation(messages)
+
+    finally:
+        # Saved after rendering so a reply stored during this run is included.
+        browser_store.save(store_slot, state.get_messages())
 
 
 if __name__ == "__main__":

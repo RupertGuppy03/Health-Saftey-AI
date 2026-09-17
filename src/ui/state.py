@@ -9,6 +9,9 @@ import streamlit as st
 
 MESSAGES_KEY = "messages"
 
+# Set once the tab's stored copy has been read back after a reload (browser_store).
+RESTORED_KEY = "conversation_restored"
+
 USER = "user"
 ASSISTANT = "assistant"
 
@@ -40,6 +43,12 @@ def add_message(role, content, *, sources=None, status=None):
     st.session_state[MESSAGES_KEY].append(message)
 
     return message
+
+
+def replace_messages(messages):
+    """Swap the whole history, as when it is restored after a reload."""
+
+    st.session_state[MESSAGES_KEY] = list(messages)
 
 
 def clear_messages():

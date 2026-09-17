@@ -30,7 +30,9 @@
 
 [data-testid="stAppDeployButton"],
 [data-testid="stDecoration"],
-footer {
+footer,
+.st-key-hs_store {
+    /* hs_store holds browser_store's invisible component. */
     display: none;
 }
 

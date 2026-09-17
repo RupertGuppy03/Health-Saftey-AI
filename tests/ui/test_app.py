@@ -1,17 +1,20 @@
 """Behavioural tests for the chat page, driven by Streamlit's own AppTest.
 
-The app is run in-process, with no browser and no server. Two things are
-stubbed: the responder, so nothing tries to answer for real, and the corpus
+The app is run in-process, with no browser and no server. Three things are
+stubbed: the responder, so nothing tries to answer for real, the corpus
 listing, so the sidebar shows documents built under tmp_path rather than the
-committed PDFs.
+committed PDFs, and the browser tab's storage, which AppTest cannot run.
 """
 
+from collections import defaultdict
 from pathlib import Path
 
 import pytest
+import streamlit as st
 from streamlit.testing.v1 import AppTest
 
 from src.ui import app as app_module
+from src.ui import browser_store
 from src.ui import state
 
 ENTRYPOINT = Path(__file__).resolve().parents[2] / "streamlit_app.py"
@@ -27,6 +30,54 @@ def _stub_fetch(question, history=None):
     """Stands in for responder.fetch_reply: one answer with no sources."""
 
     return {"answer": STUB_REPLY, "sources": [], "status": "ok"}
+
+
+# The session state entry naming which fake tab an AppTest belongs to. A reload
+# is a new AppTest in the same tab; another browser is a different tab.
+TAB_KEY = "test_tab"
+
+
+class FakeTab:
+    """Stands in for one browser tab's sessionStorage."""
+
+    def __init__(self):
+        self.stored = None
+        self.saves = []
+        self.ready = True
+
+    def mount(self, mode, messages):
+        if mode == browser_store.SAVE:
+            self.stored = messages
+            self.saves.append(messages)
+            return None
+
+        if not self.ready:
+            return None
+
+        return self.stored if self.stored is not None else "[]"
+
+
+@pytest.fixture(autouse=True)
+def tabs(monkeypatch):
+    """Every browser tab the test opens, by name."""
+
+    tabs = defaultdict(FakeTab)
+
+    def mount(slot, mode, messages=None):
+        return tabs[st.session_state.get(TAB_KEY, "default")].mount(mode, messages)
+
+    monkeypatch.setattr(browser_store, "_mount", mount)
+
+    return tabs
+
+
+def _open(tab="default"):
+    """The page as a fresh session in `tab`, which is what a reload gives you."""
+
+    app = AppTest.from_file(str(ENTRYPOINT), default_timeout=10)
+    app.session_state[TAB_KEY] = tab
+
+    return app
 
 
 @pytest.fixture
@@ -288,10 +339,8 @@ def two_sessions(monkeypatch, documents):
 
     monkeypatch.setattr(app_module.corpus, "list_documents", lambda *a, **k: documents)
 
-    return (
-        AppTest.from_file(str(ENTRYPOINT), default_timeout=10),
-        AppTest.from_file(str(ENTRYPOINT), default_timeout=10),
-    )
+    # Separate machines have separate browser storage, so separate tabs.
+    return _open("first"), _open("second")
 
 
 def test_the_earlier_conversation_is_sent_with_a_follow_up(app, monkeypatch):
@@ -363,3 +412,116 @@ def test_the_history_is_not_cached_across_sessions():
 
     assert "cache_data" not in source
     assert "cache_resource" not in source
+
+
+# =====================================================
+# THE CONVERSATION SURVIVES A RELOAD
+# =====================================================
+
+def _clear(app):
+    button = next(b for b in app.sidebar.button if b.label == "Clear conversation")
+    button.click().run()
+
+    return app
+
+
+@pytest.fixture
+def stubbed(monkeypatch, documents):
+    """The responder and corpus stubs, for tests that open their own sessions."""
+
+    monkeypatch.setattr(app_module, "fetch_reply", _stub_fetch)
+    monkeypatch.setattr(app_module.corpus, "list_documents", lambda *a, **k: documents)
+
+
+def test_earlier_messages_come_back_in_order_after_a_reload(stubbed):
+    before = _open().run()
+    _ask(before, "How do I remove asbestos safely?")
+    _ask(before, "When must a scaffold be inspected?")
+
+    after = _open().run()
+
+    assert not after.exception
+    assert _roles(after) == _roles(before)
+    assert _texts(after) == _texts(before)
+
+
+def test_a_restored_reply_is_not_generated_again(stubbed, monkeypatch):
+    before = _open().run()
+    _ask(before, "How do I remove asbestos safely?")
+
+    calls = []
+    monkeypatch.setattr(app_module, "fetch_reply", _recording_fetch(calls))
+
+    _open().run()
+
+    assert calls == []
+
+
+def test_a_follow_up_after_a_reload_carries_the_restored_conversation(stubbed, monkeypatch):
+    before = _open().run()
+    _ask(before, "Do I need edge protection on a roof?")
+
+    calls = []
+    monkeypatch.setattr(app_module, "fetch_reply", _recording_fetch(calls))
+
+    after = _open().run()
+    _ask(after, "What about on a smaller one?")
+
+    assert [(turn["role"], turn["content"].strip()) for turn in calls[0]["history"]] == [
+        (state.USER, "Do I need edge protection on a roof?"),
+        (state.ASSISTANT, STUB_REPLY),
+    ]
+
+
+def test_a_cleared_conversation_stays_cleared_after_a_reload(stubbed):
+    before = _open().run()
+    _ask(before, "How do I remove asbestos safely?")
+    _clear(before)
+
+    after = _open().run()
+
+    assert after.chat_message == []
+    assert app_module.GREETING in [title.value for title in after.title]
+
+
+def test_a_reload_in_one_tab_never_brings_back_another_tabs_conversation(stubbed):
+    first = _open("first").run()
+    _ask(first, "How do I remove asbestos safely?")
+
+    second = _open("second").run()
+    _ask(second, "When must a scaffold be inspected?")
+
+    first_reloaded = _open("first").run()
+    second_reloaded = _open("second").run()
+
+    assert "scaffold" not in " ".join(_texts(first_reloaded))
+    assert "asbestos" not in " ".join(_texts(second_reloaded))
+
+
+def test_nothing_is_drawn_or_saved_while_the_tab_copy_is_on_its_way(stubbed, tabs):
+    tabs["default"].ready = False
+
+    app = _open().run()
+
+    assert not app.exception
+    assert app.title == []
+    assert app.chat_message == []
+    assert tabs["default"].saves == []
+
+
+@pytest.mark.parametrize(
+    "stored",
+    [
+        "not json",
+        '{"role": "user", "content": "not a list"}',
+        '[{"role": "system", "content": "wrong role"}, 5, {"role": "user"}]',
+    ],
+)
+def test_a_broken_stored_copy_starts_an_empty_conversation(stubbed, tabs, stored):
+    tabs["default"].stored = stored
+
+    app = _open().run()
+
+    assert not app.exception
+    assert app.chat_message == []
+    assert app_module.GREETING in [title.value for title in app.title]

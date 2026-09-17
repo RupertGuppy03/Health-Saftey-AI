@@ -17,6 +17,7 @@ service" fallback.
 | ------------- | ------------------------------------------------------------------ |
 | `app.py`      | Draws the page: sidebar, conversation, citations, and chat input     |
 | `state.py`    | Holds message text and source metadata in the browser session        |
+| `browser_store.py` | Copies the conversation into the browser tab so a reload keeps it |
 | `responder.py`| Calls the backend and preserves answer source metadata               |
 | `corpus.py`   | Lists the source PDFs under `data/raw/` for the sidebar             |
 | `styles.css`  | The ChatGPT-like styling `app.py` loads                             |
@@ -44,3 +45,13 @@ Each successful backend response stores its source metadata with the assistant
 message. The page renders citations separately from the answer, grouping
 retrieved chunks by document and section and formatting stored filenames into
 readable document titles.
+
+## Surviving a reload
+
+Streamlit session state is lost on a page reload, because a reload opens a new
+session. `browser_store.py` keeps a copy of the conversation in the tab's
+`sessionStorage` and reads it back when the new session starts, so a refresh
+brings the conversation back. Nothing is stored on the server: the copy belongs
+to that tab and is gone when the tab is closed, and Clear conversation empties
+it too. A reload while a reply is still streaming loses that last question,
+because the copy is written once each run finishes.
