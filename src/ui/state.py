@@ -40,3 +40,11 @@ def add_message(role, content, *, sources=None, status=None):
     st.session_state[MESSAGES_KEY].append(message)
 
     return message
+
+
+def clear_messages():
+    """Remove the conversation history for this browser session."""
+
+    st.session_state[MESSAGES_KEY] = []
+
+
