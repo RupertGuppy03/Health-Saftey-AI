@@ -9,9 +9,9 @@ Run it from the repo root, with the backend already running:
 ./scripts/run_ui.sh                # terminal 2 — interface on :8501
 ```
 
-Answers come from the backend's `/chat` endpoint. With it stopped the interface
-still runs, but every question returns the "could not reach the answering
-service" fallback.
+Answers come from the backend's `/chat` endpoint. With it stopped the interface still runs and shows a plain-language
+"could not reach the answering service" message. Slow requests show a separate
+timeout message that invites the user to retry.
 
 | File          | What it does                                                       |
 | ------------- | ------------------------------------------------------------------ |
@@ -40,8 +40,10 @@ question. It reaches the pipeline over HTTP rather than importing it, which is
 what keeps the credentials and the vector store on the backend side.
 
 The backend URL is `API_BASE_URL` in `src/config/settings.py`, overridable with
-the `HS_API_BASE_URL` environment variable — `src/config` is the one project
-module the interface is allowed to import.
+the `HS_API_BASE_URL` environment variable. `API_TIMEOUT_SECONDS` controls the
+readiness and answer request timeout. Set it with `HS_API_TIMEOUT_SECONDS` before
+starting the interface. These settings are the one project module
+the interface is allowed to import.
 
 Each successful backend response stores its source metadata with the assistant
 message. The page renders citations separately from the answer, grouping

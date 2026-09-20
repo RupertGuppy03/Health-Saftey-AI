@@ -8,6 +8,7 @@ the backend is the only component that holds them.
 app.py fetches the structured response once, then streams only its answer text.
 """
 
+import logging
 import time
 
 import httpx
@@ -20,23 +21,75 @@ from src.config import settings
 # instead of dropping the whole block in at once.
 WORD_DELAY = 0.02
 
-# Shown when the backend cannot be reached or fails. Deliberately plain: story 8
-# owns real error handling, the readiness check and the loading indicator, and
-# replaces this with messages that distinguish the failures from each other.
-FALLBACK_REPLY = (
+logger = logging.getLogger(__name__)
+
+UNAVAILABLE_REPLY = (
     "I could not reach the answering service, so I cannot answer that right "
     "now. Check that the backend is running, then try again."
 )
+TIMEOUT_REPLY = (
+    "That took too long to answer. Please try again, and consider asking a "
+    "shorter or more specific question."
+)
+ERROR_REPLY = (
+    "The answering service could not complete that request. Please try again "
+    "in a moment."
+)
+NO_RESULTS_REPLY = (
+    "I could not find supporting guidance for that question. Please try "
+    "different wording or ask another workplace health and safety question."
+)
+
+# Kept for callers that used the old single fallback constant.
+FALLBACK_REPLY = UNAVAILABLE_REPLY
+
+
+def _result(answer, status, sources=None):
+    return {"answer": answer, "sources": sources or [], "status": status}
+
+
+def _health_check():
+    """Return whether the backend is ready, without exposing its diagnostics."""
+
+    try:
+        response = httpx.get(
+            f"{settings.API_BASE_URL}/health",
+            timeout=settings.API_TIMEOUT_SECONDS,
+        )
+    except httpx.TimeoutException as exc:
+        logger.warning("Backend readiness check timed out: %s", exc)
+        return "timeout"
+    except httpx.RequestError as exc:
+        logger.warning("Backend readiness check failed: %s", exc)
+        return "unavailable"
+
+    if response.status_code != 200:
+        logger.warning("Backend is not ready (HTTP %s).", response.status_code)
+        return "unavailable"
+
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        logger.warning("Backend readiness response was invalid: %s", exc)
+        return "error"
+
+    if not isinstance(payload, dict):
+        logger.warning("Backend readiness response had an invalid shape.")
+        return "error"
+
+    return "ok" if payload.get("status") == "ok" else "unavailable"
 
 
 def fetch_reply(question, history=None):
-    """Return the backend answer and its source metadata in one request.
+    """Return the backend answer and its source metadata in one request."""
+    readiness = _health_check()
+    if readiness == "timeout":
+        return _result(TIMEOUT_REPLY, "timeout")
+    if readiness == "unavailable":
+        return _result(UNAVAILABLE_REPLY, "unavailable")
+    if readiness != "ok":
+        return _result(ERROR_REPLY, "error")
 
-    `history` is the conversation so far from this browser session's state. It is
-    sent with the question so a follow-up can be understood, and it goes no
-    further than this request: the backend keeps none of it, so one session's
-    conversation cannot appear in another's.
-    """
     try:
         response = httpx.post(
             f"{settings.API_BASE_URL}/chat",
@@ -46,22 +99,38 @@ def fetch_reply(question, history=None):
             },
             timeout=settings.API_TIMEOUT_SECONDS,
         )
-    except httpx.RequestError:
-        return {"answer": FALLBACK_REPLY, "sources": [], "status": "error"}
+    except httpx.TimeoutException as exc:
+        logger.warning("Backend answer request timed out: %s", exc)
+        return _result(TIMEOUT_REPLY, "timeout")
+    except httpx.RequestError as exc:
+        logger.warning("Backend answer request failed: %s", exc)
+        return _result(UNAVAILABLE_REPLY, "unavailable")
 
-    # A 200 carries a user-facing answer whether the pipeline answered it, found
-    # nothing, or refused it as out of scope, so all three render the same way.
-    # Anything else is a validation or server error whose message is written for
-    # a developer, not for whoever is asking the question.
     if response.status_code != 200:
-        return {"answer": FALLBACK_REPLY, "sources": [], "status": "error"}
+        logger.warning("Backend answer request returned HTTP %s.", response.status_code)
+        return _result(ERROR_REPLY, "error")
 
-    payload = response.json()
-    return {
-        "answer": payload.get("answer", ""),
-        "sources": payload.get("sources", []),
-        "status": payload.get("status", "ok"),
-    }
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        logger.warning("Backend answer response was invalid: %s", exc)
+        return _result(ERROR_REPLY, "error")
+
+    if not isinstance(payload, dict):
+        logger.warning("Backend answer response had an invalid shape.")
+        return _result(ERROR_REPLY, "error")
+
+    status = payload.get("status", "ok")
+    answer = payload.get("answer", "")
+    if status == "no_results" and not answer:
+        answer = NO_RESULTS_REPLY
+
+    if not isinstance(answer, str) or not isinstance(payload.get("sources", []), list):
+        logger.warning("Backend answer response had an invalid shape.")
+        return _result(ERROR_REPLY, "error")
+
+    sources = payload.get("sources", []) if status == "ok" else []
+    return _result(answer, status, sources)
 
 
 # The file extension the backend reads the audio format from, by browser MIME type.

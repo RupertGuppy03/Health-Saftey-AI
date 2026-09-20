@@ -8,6 +8,7 @@ knows about the pipeline — a message is just a role and some text.
 import streamlit as st
 
 MESSAGES_KEY = "messages"
+REQUEST_IN_FLIGHT_KEY = "request_in_flight"
 
 # Set once the tab's stored copy has been read back after a reload (browser_store).
 RESTORED_KEY = "conversation_restored"
@@ -21,6 +22,8 @@ def init_state():
 
     if MESSAGES_KEY not in st.session_state:
         st.session_state[MESSAGES_KEY] = []
+    if REQUEST_IN_FLIGHT_KEY not in st.session_state:
+        st.session_state[REQUEST_IN_FLIGHT_KEY] = False
 
 
 def get_messages():
@@ -56,4 +59,15 @@ def clear_messages():
 
     st.session_state[MESSAGES_KEY] = []
 
+
+def request_in_flight():
+    """Whether the interface is currently waiting for a backend response."""
+
+    return bool(st.session_state.get(REQUEST_IN_FLIGHT_KEY, False))
+
+
+def set_request_in_flight(value):
+    """Set the request guard used to prevent duplicate submissions."""
+
+    st.session_state[REQUEST_IN_FLIGHT_KEY] = value
 

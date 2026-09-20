@@ -161,7 +161,7 @@ def _answer_has_no_support(answer: str) -> bool:
             r"does not (?:include|contain|provide)|"
             r"do not have information|"
             r"cannot answer|"
-            r"can't answer|"
+            r"(?:cannot|can['’]t) answer|"
             r"outside (?:the )?(?:scope|available)"
             r")\b",
             answer,
