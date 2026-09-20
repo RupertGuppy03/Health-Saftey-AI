@@ -32,6 +32,15 @@ def test_new_conversation_keeps_the_previous_messages(session_state):
     assert [message["content"] for message in state.get_messages()] == ["First question"]
 
 
+def test_replacing_messages_updates_the_active_conversation(session_state):
+    state.init_state()
+
+    messages = [{"role": state.USER, "content": "Restored question"}]
+    state.replace_messages(messages)
+
+    assert state.get_messages() == messages
+
+
 def test_label_uses_and_truncates_the_first_user_question():
     question = "A" * 50
 

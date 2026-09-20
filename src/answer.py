@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import os
 import re
+from difflib import SequenceMatcher
 from functools import lru_cache
 from typing import Any, Callable, Dict, Iterable, List, Optional
 
@@ -198,6 +199,62 @@ HEALTH_SAFETY_SIGNAL = re.compile(
     r")\b"
 )
 
+# Common standalone terms used by the guardrail. The regex above remains the
+# authoritative exact match; these terms only provide a small edit-distance
+# tolerance for misspellings such as "scafolding".
+HEALTH_SAFETY_FUZZY_TERMS = (
+    "workplace",
+    "employer",
+    "employee",
+    "hazard",
+    "safety",
+    "health",
+    "injury",
+    "scaffolding",
+    "chemical",
+    "heights",
+    "worksafe",
+    "accident",
+    "construction",
+    "demolition",
+    "machinery",
+    "forklift",
+    "crane",
+    "asbestos",
+    "harness",
+    "guardrail",
+    "respirator",
+    "protective",
+    "equipment",
+    "incident",
+    "risk",
+    "lifting",
+    "helmet",
+    "toxic",
+    "fume",
+    "vibration",
+)
+
+
+def _has_health_safety_signal(question: str) -> bool:
+    """Recognise safety vocabulary while allowing one typo in a long word."""
+
+    if HEALTH_SAFETY_SIGNAL.search(question.casefold()):
+        return True
+
+    words = re.findall(r"[a-z]+", question.casefold())
+
+    return any(
+        len(word) >= 6
+        and any(
+            len(term) >= 6
+            and abs(len(word) - len(term)) <= 1
+            and SequenceMatcher(None, word, term).ratio() >= 0.88
+            for term in HEALTH_SAFETY_FUZZY_TERMS
+        )
+        for word in words
+    )
+
 # Questions about another country's rules or an external standard. Safety
 # related, but outside this New Zealand knowledge base.
 EXTERNAL_SCOPE_SIGNAL = re.compile(
@@ -265,7 +322,7 @@ def _scope_refusal(question: str) -> Optional[str]:
     rewritten question rather than the raw one (issue S3-02).
     """
 
-    if not HEALTH_SAFETY_SIGNAL.search(question.casefold()):
+    if not _has_health_safety_signal(question):
         return (
             "I can only assist with New Zealand workplace health and safety questions. "
             "Please ask a health and safety related question."

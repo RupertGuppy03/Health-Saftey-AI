@@ -122,7 +122,8 @@ def add_message(role, content, *, sources=None, status=None):
 def replace_messages(messages):
     """Swap the whole history, as when it is restored after a reload."""
 
-    st.session_state[MESSAGES_KEY] = list(messages)
+    init_state()
+    get_conversations()[active_conversation_id()] = list(messages)
 
 
 def clear_messages():
