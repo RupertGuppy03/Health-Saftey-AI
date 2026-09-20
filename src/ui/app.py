@@ -26,6 +26,9 @@ INPUT_PLACEHOLDER = "Ask about NZ health and safety"
 QUESTION_KEY = "hs_question"
 
 SIDEBAR_BLURB = "Guidance from WorkSafe New Zealand"
+CONVERSATIONS_LABEL = "Conversations"
+NEW_CHAT_LABEL = "New chat"
+NON_PERSISTENCE_NOTICE = "Conversations are not saved once this browser tab is closed."
 DOCUMENTS_LABEL = "Documents"
 DOCUMENTS_BLURB = "The guidance answers are drawn from. Open one to read it yourself."
 NO_DOCUMENTS = "No documents found under data/raw/."
@@ -78,10 +81,47 @@ def _open_pdf(path):
 
     return lambda: path.read_bytes()
 
-def _render_clear_control():
-    if st.sidebar.button("Clear conversation", type="secondary"):
-        state.clear_messages()
-        st.rerun()
+def _render_conversation_controls():
+    """Render local-only conversation creation, selection, and deletion."""
+
+    st.caption(CONVERSATIONS_LABEL)
+
+    if any(state.get_conversations().values()):
+        if st.button(NEW_CHAT_LABEL, key="new_conversation", width="stretch"):
+            state.create_conversation()
+            st.rerun()
+
+    with st.container(key="hs_conversations"):
+        for conversation_id, messages in state.get_conversations().items():
+            if not messages:
+                continue
+
+            label = state.conversation_label(messages)
+            selected = conversation_id == state.active_conversation_id()
+            columns = st.columns([5, 1], vertical_alignment="center")
+
+            with columns[0]:
+                if st.button(
+                    label,
+                    key=f"select_{conversation_id}",
+                    type="secondary" if selected else "tertiary",
+                    width="stretch",
+                    help="Switch conversation",
+                ):
+                    state.select_conversation(conversation_id)
+                    st.rerun()
+
+            with columns[1]:
+                if st.button(
+                    ":material/delete:",
+                    key=f"delete_{conversation_id}",
+                    help="Delete conversation",
+                    type="tertiary",
+                ):
+                    state.delete_conversation(conversation_id)
+                    st.rerun()
+
+    st.caption(NON_PERSISTENCE_NOTICE)
 
 def _render_sidebar():
     """Branding, and the source documents the answers are drawn from.
@@ -94,6 +134,7 @@ def _render_sidebar():
 
         st.markdown(f"### {PAGE_TITLE}")
         st.caption(SIDEBAR_BLURB)
+        _render_conversation_controls()
 
         documents = corpus.list_documents()
 
@@ -288,9 +329,8 @@ def main():
     )
 
     _apply_styles()
-    _render_sidebar()
-    _render_clear_control()
     state.init_state()
+    _render_sidebar()
 
     messages = state.get_messages()
 

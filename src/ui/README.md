@@ -16,7 +16,7 @@ timeout message that invites the user to retry.
 | File          | What it does                                                       |
 | ------------- | ------------------------------------------------------------------ |
 | `app.py`      | Draws the page: sidebar, conversation, citations, and chat input     |
-| `state.py`    | Holds message text and source metadata in the browser session        |
+| `state.py`    | Holds conversations, message text, and source metadata in the browser session |
 | `responder.py`| Calls the backend and preserves answer source metadata               |
 | `corpus.py`   | Lists the source PDFs under `data/raw/` for the sidebar             |
 | `styles.css`  | The ChatGPT-like styling `app.py` loads                             |
@@ -46,3 +46,8 @@ Each successful backend response stores its source metadata with the assistant
 message. The page renders citations separately from the answer, grouping
 retrieved chunks by document and section and formatting stored filenames into
 readable document titles.
+
+Conversations are held only in Streamlit's browser session state. The sidebar
+can start, switch, and delete conversations without contacting the backend, but
+conversations are not saved once the browser tab is closed. Accounts and
+persistent conversation history are future work.
