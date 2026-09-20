@@ -161,6 +161,14 @@ def _texts(app):
     ]
 
 
+def _sidebar_button(app, label):
+    return next(button for button in app.sidebar.button if button.label == label)
+
+
+def _sidebar_button_by_key(app, key):
+    return next(button for button in app.sidebar.button if button.key == key)
+
+
 # =====================================================
 # THE PAGE OPENS
 # =====================================================
@@ -307,6 +315,107 @@ def test_an_earlier_answer_is_not_regenerated_on_a_later_run(app):
     _ask(app, "Second question")
 
     assert _texts(app)[1] == first_answer
+
+
+# =====================================================
+# CONVERSATIONS
+# =====================================================
+
+def test_new_chat_preserves_the_previous_conversation_in_the_sidebar(app):
+    app.run()
+
+    assert app_module.NEW_CHAT_LABEL not in [button.label for button in app.sidebar.button]
+
+    _ask(app, "What is the first question?")
+    assert app_module.NEW_CHAT_LABEL in [button.label for button in app.sidebar.button]
+
+    _sidebar_button(app, app_module.NEW_CHAT_LABEL).click().run()
+
+    assert app.chat_message == []
+    assert any(
+        button.label == "What is the first question?"
+        for button in app.sidebar.button
+    )
+
+
+def test_sources_remain_with_an_earlier_conversation_when_switching(app, monkeypatch):
+    first_sources = [{
+        "source_file": "first-guide.pdf",
+        "page_number": 2,
+        "section_heading": "First guidance",
+    }]
+    second_sources = [{
+        "source_file": "second-guide.pdf",
+        "page_number": 7,
+        "section_heading": "Second guidance",
+    }]
+
+    def fetch_with_sources(question, history=None):
+        sources = second_sources if "Second" in question else first_sources
+        return {"answer": f"Answer to {question}", "sources": sources, "status": "ok"}
+
+    monkeypatch.setattr(app_module, "fetch_reply", fetch_with_sources)
+    app.run()
+    _ask(app, "First question")
+
+    _sidebar_button(app, app_module.NEW_CHAT_LABEL).click().run()
+    _ask(app, "Second question")
+
+    _sidebar_button(app, "First question").click().run()
+
+    assert "First guidance" in _texts(app)[1]
+    assert "page 2" in _texts(app)[1]
+    assert "Second guidance" not in _texts(app)[1]
+
+
+def test_switching_conversations_restores_messages_without_fetching(app, monkeypatch):
+    calls = []
+
+    def record_fetch(question, history=None):
+        calls.append(question)
+        return _stub_fetch(question, history)
+
+    monkeypatch.setattr(app_module, "fetch_reply", record_fetch)
+    app.run()
+    _ask(app, "First conversation question")
+    _sidebar_button(app, app_module.NEW_CHAT_LABEL).click().run()
+    _ask(app, "Second conversation question")
+    calls_before_switch = len(calls)
+
+    _sidebar_button(app, "First conversation question").click().run()
+
+    assert len(calls) == calls_before_switch
+    assert _texts(app) == ["First conversation question", STUB_REPLY]
+
+
+def test_long_first_question_is_truncated_in_the_sidebar(app):
+    app.run()
+    question = "A" * 50
+    _ask(app, question)
+
+    assert any(button.label == ("A" * 39) + "…" for button in app.sidebar.button)
+
+
+def test_deleting_a_conversation_leaves_the_other_conversation_untouched(app):
+    app.run()
+    _ask(app, "Keep this conversation")
+    first_id = app.session_state[state.ACTIVE_CONVERSATION_KEY]
+    _sidebar_button(app, app_module.NEW_CHAT_LABEL).click().run()
+    _ask(app, "Delete this conversation")
+    second_id = app.session_state[state.ACTIVE_CONVERSATION_KEY]
+
+    _sidebar_button_by_key(app, f"delete_{second_id}").click().run()
+
+    assert app.session_state[state.ACTIVE_CONVERSATION_KEY] == first_id
+    assert _texts(app) == ["Keep this conversation", STUB_REPLY]
+
+
+def test_sidebar_explains_that_conversations_are_not_persistent(app):
+    app.run()
+
+    assert app_module.NON_PERSISTENCE_NOTICE in [
+        caption.value for caption in app.sidebar.caption
+    ]
 
 
 # =====================================================

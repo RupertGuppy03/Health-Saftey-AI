@@ -3,6 +3,7 @@
 from types import SimpleNamespace
 
 from src.answer import answer_question
+from src.answer import _scope_refusal
 
 
 class StubLLM:
@@ -150,6 +151,33 @@ def test_an_off_topic_question_is_stopped_before_retrieval():
         == result["answer"]
     )
     assert retrieved == [], "an off-topic question should never reach retrieval"
+
+
+def test_a_common_misspelling_of_a_safety_term_stays_in_scope():
+    assert _scope_refusal("What is scafolding?") is None
+
+
+def test_a_short_follow_up_keeps_retrieved_sources():
+    result = answer_question(
+        "scaffolding",
+        history=[
+            {"role": "user", "content": "What is scafolding?"},
+            {"role": "assistant", "content": "Scaffolding is temporary work equipment."},
+        ],
+        retriever_fn=lambda question, n_results=None, collection_name=None: [
+            _result(
+                "scaffolding-gpg.pdf",
+                9,
+                "Scaffold inspection",
+                "A scaffold must be inspected before first use.",
+            )
+        ],
+        llm=StubLLM(response_text="Scaffolds must be inspected before first use."),
+        condense_llm=StubLLM(response_text="What is scaffolding?"),
+    )
+
+    assert result["status"] == "ok"
+    assert result["sources"][0]["source_file"] == "scaffolding-gpg.pdf"
 
 
 def test_construction_questions_are_in_scope():

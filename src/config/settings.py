@@ -121,3 +121,26 @@ API_BASE_URL = os.environ.get("HS_API_BASE_URL", "http://localhost:8000")
 # gpt-5-mini call, measured at ~33s in docs/startup_and_query_timings.md, so
 # httpx's 5 second default would time out every question.
 API_TIMEOUT_SECONDS = float(os.environ.get("HS_API_TIMEOUT_SECONDS", "60"))
+
+# Conversation history
+# Keep the same token budget at the interface, API and answering layers. History
+# is trimmed in whole turns before it reaches either model.
+HISTORY_TOKEN_LIMIT = 16_000
+
+# Follow-up question rewriting. These settings are separate from the answering
+# model so the rewrite can be tuned without changing answer generation.
+HISTORY_CONDENSE_MODEL = LLM_MODEL
+HISTORY_CONDENSE_TEMPERATURE = LLM_TEMPERATURE
+HISTORY_CONDENSE_REASONING_EFFORT = "minimal"
+
+# Voice input
+# A spoken question is transcribed by the backend and returned to the interface
+# for review before it is sent through the ordinary chat path.
+TRANSCRIPTION_MODEL = "gpt-4o-transcribe"
+TRANSCRIPTION_LANGUAGE = "en"
+TRANSCRIPTION_CHUNKING_STRATEGY = "auto"
+
+# Browser recording limits and silence detection.
+VOICE_MAX_SECONDS = 60
+VOICE_MIN_SPEECH_SECONDS = 0.6
+VOICE_SILENCE_LEVEL = 0.02

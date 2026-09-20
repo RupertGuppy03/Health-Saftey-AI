@@ -119,6 +119,13 @@ def test_the_default_limit_is_the_single_configured_value():
     )
 
 
+def test_conversation_settings_contract_is_complete():
+    assert settings.HISTORY_TOKEN_LIMIT == 16_000
+    assert settings.HISTORY_CONDENSE_MODEL == settings.LLM_MODEL
+    assert settings.HISTORY_CONDENSE_TEMPERATURE == settings.LLM_TEMPERATURE
+    assert settings.HISTORY_CONDENSE_REASONING_EFFORT == "minimal"
+
+
 def test_the_configured_limit_holds_far_more_than_a_handful_of_questions():
     """A user should not meet the limit part-way through a normal conversation."""
 

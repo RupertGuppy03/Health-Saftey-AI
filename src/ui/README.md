@@ -16,7 +16,7 @@ timeout message that invites the user to retry.
 | File          | What it does                                                       |
 | ------------- | ------------------------------------------------------------------ |
 | `app.py`      | Draws the page: sidebar, conversation, citations, and chat input     |
-| `state.py`    | Holds message text and source metadata in the browser session        |
+| `state.py`    | Holds conversations, message text, and source metadata in the browser session |
 | `browser_store.py` | Copies the conversation into the browser tab so a reload keeps it |
 | `voice.py`    | Handles a recorded question: nothing heard, failed, or a transcript for the chat box |
 | `voice.js`    | The mic button, the recording and the live waveform in the chat bar   |
@@ -49,6 +49,11 @@ Each successful backend response stores its source metadata with the assistant
 message. The page renders citations separately from the answer, grouping
 retrieved chunks by document and section and formatting stored filenames into
 readable document titles.
+
+Conversations are held only in Streamlit's browser session state. The sidebar
+can start, switch, and delete conversations without contacting the backend, but
+conversations are not saved once the browser tab is closed. Accounts and
+persistent conversation history are future work.
 
 ## Surviving a reload
 
