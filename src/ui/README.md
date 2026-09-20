@@ -17,6 +17,9 @@ timeout message that invites the user to retry.
 | ------------- | ------------------------------------------------------------------ |
 | `app.py`      | Draws the page: sidebar, conversation, citations, and chat input     |
 | `state.py`    | Holds conversations, message text, and source metadata in the browser session |
+| `browser_store.py` | Copies the conversation into the browser tab so a reload keeps it |
+| `voice.py`    | Handles a recorded question: nothing heard, failed, or a transcript for the chat box |
+| `voice.js`    | The mic button, the recording and the live waveform in the chat bar   |
 | `responder.py`| Calls the backend and preserves answer source metadata               |
 | `corpus.py`   | Lists the source PDFs under `data/raw/` for the sidebar             |
 | `styles.css`  | The ChatGPT-like styling `app.py` loads                             |
@@ -51,3 +54,31 @@ Conversations are held only in Streamlit's browser session state. The sidebar
 can start, switch, and delete conversations without contacting the backend, but
 conversations are not saved once the browser tab is closed. Accounts and
 persistent conversation history are future work.
+
+## Surviving a reload
+
+Streamlit session state is lost on a page reload, because a reload opens a new
+session. `browser_store.py` keeps a copy of the conversation in the tab's
+`sessionStorage` and reads it back when the new session starts, so a refresh
+brings the conversation back. Nothing is stored on the server: the copy belongs
+to that tab and is gone when the tab is closed, and Clear conversation empties
+it too. A reload while a reply is still streaming loses that last question,
+because the copy is written once each run finishes.
+
+## Voice input
+
+The mic button on the left of the chat bar records a question. While it records,
+a waveform fills the bar and moves with your voice; tap the mic again or press
+Enter to stop. The recording is transcribed by the backend's `POST /transcribe`
+and the transcript is put in the chat box. **Nothing is sent until you press
+Enter**, so a mistake can be corrected first, and the question then goes through
+`/chat` exactly as if it had been typed.
+
+A recording that is too short or silent is reported as nothing heard without
+calling the backend. A failed transcription, or a mic the browser will not open,
+is reported plainly, and typing keeps working.
+
+`voice.js` attaches the button to Streamlit's chat bar by its `data-testid`
+attributes, so a Streamlit upgrade that renames them would need a matching change
+there. pytest cannot run the JavaScript: `tests/ui/test_app.py` replaces the
+component with a fake, and the button and waveform are checked in the browser.

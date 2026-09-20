@@ -30,7 +30,10 @@
 
 [data-testid="stAppDeployButton"],
 [data-testid="stDecoration"],
-footer {
+footer,
+.st-key-hs_store,
+.st-key-hs_voice {
+    /* hs_store and hs_voice hold invisible components (browser_store, voice). */
     display: none;
 }
 
@@ -131,6 +134,110 @@ footer {
 .st-key-hs_chat_bar [data-testid="stChatInputTextArea"] {
     padding: 0.8125rem 0.5rem 0.8125rem 1.25rem;
     font-size: 1rem;
+}
+
+/* ---------- voice ---------- */
+
+/* voice.js puts a mic button inside the left edge of the bar, and a waveform over
+ * the middle of it while recording. Room is made for the button by widening the
+ * text's left padding. */
+.st-key-hs_chat_bar [data-testid="stChatInput"].hs-voice-host {
+    position: relative;
+}
+
+/* The text box already sits ~1.5rem in from the bar's edge, so this only needs to
+ * add enough to clear the button. */
+.st-key-hs_chat_bar .hs-voice-host [data-testid="stChatInputTextArea"] {
+    padding-left: 1.75rem;
+}
+
+.hs-voice-button {
+    position: absolute;
+    left: 0.625rem;
+    /* Centred on the bar, the way Streamlit centres its send button. */
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    border: none;
+    border-radius: 50%;
+    background: transparent;
+    color: inherit;
+    cursor: pointer;
+    transition: background-color 120ms ease;
+}
+
+.hs-voice-button:hover {
+    background: color-mix(in srgb, currentColor 10%, transparent);
+}
+
+/* Recording: a filled circle in the text colour, with the mic cut out of it. */
+.hs-voice-button.hs-voice-active,
+.hs-voice-button.hs-voice-active:hover {
+    background: currentColor;
+}
+
+.hs-voice-button.hs-voice-active svg {
+    stroke: var(--hs-surface);
+}
+
+.hs-voice-button:disabled {
+    cursor: default;
+    opacity: 0.5;
+}
+
+.hs-voice-wave {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 3.25rem;
+    right: 3.5rem;       /* clear of Streamlit's send button */
+    z-index: 1;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    height: 1.5rem;
+    margin: auto 0;
+    pointer-events: none;
+}
+
+.hs-voice-listening .hs-voice-wave,
+.hs-voice-busy .hs-voice-wave {
+    display: flex;
+}
+
+/* The box underneath keeps its size, so the bar does not jump when it hides. */
+.hs-voice-listening [data-testid="stChatInputTextArea"],
+.hs-voice-busy [data-testid="stChatInputTextArea"] {
+    visibility: hidden;
+}
+
+.hs-voice-bar {
+    flex: 0 0 3px;
+    height: 12%;
+    border-radius: 999px;
+    background: currentColor;
+    transition: height 60ms linear;
+}
+
+.hs-voice-status {
+    display: none;
+    font-size: 0.875rem;
+    opacity: 0.7;
+}
+
+.hs-voice-busy .hs-voice-bar {
+    display: none;
+}
+
+.hs-voice-busy .hs-voice-status {
+    display: inline;
 }
 
 /* Streamlit paints its own band behind a bottom-pinned container and leaves a
