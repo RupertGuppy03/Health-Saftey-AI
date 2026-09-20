@@ -108,4 +108,4 @@ API_BASE_URL = os.environ.get("HS_API_BASE_URL", "http://localhost:8000")
 # How long the interface waits for an answer. A real one runs retrieval plus a
 # gpt-5-mini call, measured at ~33s in docs/startup_and_query_timings.md, so
 # httpx's 5 second default would time out every question.
-API_TIMEOUT_SECONDS = 60.0
+API_TIMEOUT_SECONDS = float(os.environ.get("HS_API_TIMEOUT_SECONDS", "60"))

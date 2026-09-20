@@ -25,6 +25,11 @@ def no_word_delay(monkeypatch):
     """Replay answers instantly; the pacing is cosmetic and not under test."""
 
     monkeypatch.setattr(responder, "WORD_DELAY", 0)
+    monkeypatch.setattr(
+        responder.httpx,
+        "get",
+        lambda url, **kwargs: _response({"status": "ok"}),
+    )
 
 
 def _response(payload, status_code=200):
@@ -49,6 +54,10 @@ def _capture(monkeypatch, response):
     monkeypatch.setattr(responder.httpx, "post", fake_post)
 
     return calls
+
+
+def _capture_health(monkeypatch, response):
+    monkeypatch.setattr(responder.httpx, "get", lambda url, **kwargs: response)
 
 
 def _reply(question="What edge protection do I need for work at height?"):
@@ -150,6 +159,18 @@ def test_every_successful_status_renders_its_answer(monkeypatch, status):
     assert _reply("What is the capital of France?") == text
 
 
+def test_non_answer_statuses_do_not_preserve_backend_sources(monkeypatch):
+    sources = [{"source_file": "irrelevant.pdf", "page_number": 1}]
+
+    for status in ["no_results", "guardrail"]:
+        _capture(
+            monkeypatch,
+            _response({"answer": "I cannot answer that.", "sources": sources, "status": status}),
+        )
+
+        assert responder.fetch_reply("What is this?")["sources"] == []
+
+
 # =====================================================
 # FAILURES DO NOT REACH THE USER RAW
 # =====================================================
@@ -169,7 +190,56 @@ def test_a_timeout_falls_back_instead_of_raising(monkeypatch):
 
     monkeypatch.setattr(responder.httpx, "post", time_out)
 
-    assert _reply() == responder.FALLBACK_REPLY.strip()
+    assert _reply() == responder.TIMEOUT_REPLY.strip()
+
+
+def test_an_unready_backend_returns_a_plain_language_message(monkeypatch):
+    _capture_health(monkeypatch, _response({"status": "unavailable"}, status_code=503))
+
+    assert _reply() == responder.UNAVAILABLE_REPLY.strip()
+
+
+def test_a_readiness_timeout_invites_a_retry(monkeypatch):
+    def time_out(url, **kwargs):
+        raise httpx.ReadTimeout("timed out")
+
+    monkeypatch.setattr(responder.httpx, "get", time_out)
+
+    assert _reply() == responder.TIMEOUT_REPLY.strip()
+
+
+def test_the_health_check_uses_the_configured_timeout(monkeypatch):
+    calls = []
+
+    def healthy(url, **kwargs):
+        calls.append({"url": url, **kwargs})
+        return _response({"status": "ok"})
+
+    monkeypatch.setattr(responder.httpx, "get", healthy)
+    _capture(monkeypatch, _response({"answer": ANSWER, "sources": [], "status": "ok"}))
+
+    _reply()
+
+    assert calls[0]["timeout"] == settings.API_TIMEOUT_SECONDS
+
+
+def test_empty_retrieval_gets_a_plain_language_message(monkeypatch):
+    _capture(
+        monkeypatch,
+        _response({"answer": "", "sources": [], "status": "no_results"}),
+    )
+
+    assert _reply() == responder.NO_RESULTS_REPLY.strip()
+
+
+def test_malformed_backend_json_does_not_reach_the_user(monkeypatch):
+    _capture(monkeypatch, httpx.Response(
+        status_code=200,
+        content=b"not json",
+        request=httpx.Request("POST", "http://testserver/chat"),
+    ))
+
+    assert _reply() == responder.ERROR_REPLY.strip()
 
 
 def test_a_server_error_does_not_show_the_user_the_server_message(monkeypatch):
@@ -181,7 +251,7 @@ def test_a_server_error_does_not_show_the_user_the_server_message(monkeypatch):
 
     reply = _reply()
 
-    assert reply == responder.FALLBACK_REPLY.strip()
+    assert reply == responder.ERROR_REPLY.strip()
     assert "Something went wrong" not in reply
 
 
@@ -191,4 +261,4 @@ def test_a_validation_error_falls_back(monkeypatch):
         status_code=422,
     ))
 
-    assert _reply("") == responder.FALLBACK_REPLY.strip()
+    assert _reply("") == responder.ERROR_REPLY.strip()

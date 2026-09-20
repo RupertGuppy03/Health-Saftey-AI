@@ -191,6 +191,7 @@ component with an API key and the vector store.
 | Variable | Default | What it does |
 | --- | --- | --- |
 | `HS_API_BASE_URL` | `http://localhost:8000` | Where the interface sends questions. Set it to point at a backend on another host or port; no code change needed. |
+| `HS_API_TIMEOUT_SECONDS` | `60` | Maximum time the interface waits for the readiness check or answer before inviting a retry. |
 
 ```bash
 HS_API_BASE_URL=http://192.168.1.20:8000 ./scripts/run_ui.sh
@@ -397,4 +398,3 @@ well under a cent, so rebuilding is cheap — when in doubt, rebuild.
 To keep the old vectors around for comparison, change `CHROMA_COLLECTION_NAME` in
 `src/config/settings.py` to a new version (for example `hs_construction_v2`) instead of
 resetting, and ingest into that.
-

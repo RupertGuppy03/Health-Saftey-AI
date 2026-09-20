@@ -146,7 +146,7 @@ def _render_message(message):
         if message["role"] != state.ASSISTANT:
             return
 
-        _render_sources(message.get("sources", []))
+        _render_sources(message.get("sources", []), message.get("status"))
 
 
 def _citation_entries(sources):
@@ -178,11 +178,15 @@ def _citation_entries(sources):
     return entries
 
 
-def _render_sources(sources):
+def _render_sources(sources, status="ok"):
     """Render the source block separately from the answer text."""
 
     with st.container(border=True):
         st.caption("Sources")
+        if status != "ok":
+            st.caption(NO_SUPPORTING_GUIDANCE)
+            return
+
         entries = _citation_entries(sources)
 
         if not entries:
@@ -209,11 +213,16 @@ def _render_conversation(messages):
         if messages[-1]["role"] != state.USER:
             return
 
-        response = fetch_reply(messages[-1]["content"], messages[:-1])
-
         with st.chat_message(state.ASSISTANT, avatar=ASSISTANT_AVATAR):
+            with st.spinner("Checking the answering service and preparing your answer..."):
+                state.set_request_in_flight(True)
+                try:
+                    response = fetch_reply(messages[-1]["content"], messages[:-1])
+                finally:
+                    state.set_request_in_flight(False)
+
             reply = st.write_stream(stream_answer(response["answer"]))
-            _render_sources(response.get("sources", []))
+            _render_sources(response.get("sources", []), response.get("status"))
 
         state.add_message(
             state.ASSISTANT,
@@ -228,6 +237,9 @@ def _render_conversation(messages):
 # =====================================================
 
 def _submit_question():
+    if state.request_in_flight():
+        return
+
     question = st.session_state.get(QUESTION_KEY, "").strip()
 
     if not question:
@@ -246,7 +258,12 @@ def _render_chat_input():
     """The question box."""
 
     with st.container(key="hs_chat_bar"):
-        st.chat_input(INPUT_PLACEHOLDER, key=QUESTION_KEY, on_submit=_submit_question)
+        st.chat_input(
+            INPUT_PLACEHOLDER,
+            key=QUESTION_KEY,
+            on_submit=_submit_question,
+            disabled=state.request_in_flight(),
+        )
 
 
 def _render_empty_state():

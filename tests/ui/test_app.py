@@ -166,6 +166,33 @@ def test_sources_show_document_page_and_section_and_collapse_duplicate_chunks(ap
     assert "section: Working at height" in markdown
 
 
+def test_guardrail_answers_do_not_show_sources(app, monkeypatch):
+    monkeypatch.setattr(
+        app_module,
+        "fetch_reply",
+        lambda question, history=None: {
+            "answer": "I cannot answer that because the topic is outside the available guidance.",
+            "status": "guardrail",
+            "sources": [
+                {
+                    "source_file": "scaffolding-in-new-zealand.pdf",
+                    "page_number": 136,
+                    "section_heading": "APPENDIX C: FURTHER INFORMATION",
+                }
+            ],
+        },
+    )
+
+    app.run()
+    _ask(app, "What are the workplace safety rules for operating a fishing vessel in Norway?")
+
+    markdown = _texts(app)[1]
+    assert "Scaffolding in New Zealand" not in markdown
+    assert app_module.NO_SUPPORTING_GUIDANCE in [
+        caption.value for caption in app.chat_message[1].caption
+    ]
+
+
 def test_the_greeting_makes_way_for_the_conversation(app):
     app.run()
     _ask(app, "Do I need edge protection on a roof?")
@@ -266,3 +293,18 @@ def test_the_page_still_opens_when_the_corpus_is_missing(monkeypatch):
 
     assert not app.exception
     assert app_module.NO_DOCUMENTS in [caption.value for caption in app.sidebar.caption]
+
+
+def test_a_second_submission_is_ignored_while_a_request_is_in_flight(app, monkeypatch):
+    calls = []
+
+    def record_fetch(question, history=None):
+        calls.append(question)
+        return _stub_fetch(question, history)
+
+    monkeypatch.setattr(app_module, "fetch_reply", record_fetch)
+    monkeypatch.setattr(app_module.state, "request_in_flight", lambda: True)
+    app.session_state[app_module.QUESTION_KEY] = "Do I need edge protection on a roof?"
+    app_module._submit_question()
+
+    assert calls == []
