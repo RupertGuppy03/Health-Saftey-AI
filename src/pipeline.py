@@ -20,8 +20,10 @@ from src.answer import answer_question
 def run_query(
     question: str,
     *,
+    history=None,
     retriever_fn: Optional[Callable[..., List[Dict[str, Any]]]] = None,
     llm=None,
+    condense_llm=None,
     collection_name: Optional[str] = None,
     n_results: Optional[int] = None,
 ) -> Dict[str, Any]:
@@ -30,6 +32,10 @@ def run_query(
     Returns answer, sources, latency_seconds, status and chunks. "chunks" is the
     full retrieved text, kept for the terminal script and the evals — the API
     response model drops it rather than sending several KB per request.
+
+    `history` is the caller's conversation so far and is passed straight through.
+    Nothing is kept here between calls: the latency measured below is the only
+    state this function has, and it lives for one call.
 
     Raises ValueError on an empty question so the caller decides how to report
     it: the API turns that into a readable 422, the terminal script lets it
@@ -45,8 +51,10 @@ def run_query(
 
     result = answer_question(
         question,
+        history=history,
         retriever_fn=retriever_fn,
         llm=llm,
+        condense_llm=condense_llm,
         collection_name=collection_name,
         n_results=n_results,
     )

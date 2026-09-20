@@ -35,8 +35,20 @@ CHROMA_PERSIST_DIR = PROJECT_ROOT / "vectorstore"
 # OpenAI model configuration
 # The project uses GPT-5-mini for grounded answers, while the embedding model stays
 # separate because embeddings and chat generation are different tasks.
+#
+# Model, temperature and reasoning effort are all read from here, so swapping the
+# answering model or retuning it is a settings edit rather than a code change.
 LLM_MODEL = "gpt-5-mini"
 LLM_TEMPERATURE = 0.1
+
+# Reasoning effort for the answering model: "minimal", "low", "medium", "high", or
+# None to send nothing and let the API pick its own default.
+#
+# None is what the code has always done, and it is what the Sprint 2 edge case set
+# was signed off against, so it stays the default. "minimal" cuts a query from ~32s
+# to ~11.7s (issue S3-01 in docs/issue_register.md) — a tempting lever, but changing
+# it needs the edge case set re-run and H&S lead sign-off first.
+LLM_REASONING_EFFORT = None
 
 # OpenAI embedding configuration
 # Single source-of-truth for the embedding model used at BOTH ingestion and query

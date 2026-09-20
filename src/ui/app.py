@@ -14,22 +14,29 @@ from pathlib import Path
 
 import streamlit as st
 
-from src.ui import corpus, state
+from src.ui import browser_store, corpus, state, voice
 from src.ui.responder import fetch_reply, stream_answer
 
 PAGE_TITLE = "Health & Safety AI"
 PAGE_ICON = "🦺"
 ASSISTANT_AVATAR = "🦺"
 
-GREETING = "What do you need to know?"
-INPUT_PLACEHOLDER = "Ask about NZ health and safety"
+GREETING = "What would you like to know?"
+INPUT_PLACEHOLDER = "Want to ask about NZ health and safety?"
 QUESTION_KEY = "hs_question"
 
-SIDEBAR_BLURB = "Guidance from WorkSafe New Zealand"
+SIDEBAR_BLURB = "Guidance from First Step Solutions"
 DOCUMENTS_LABEL = "Documents"
-DOCUMENTS_BLURB = "The guidance answers are drawn from. Open one to read it yourself."
+DOCUMENTS_BLURB = "The guidance answers are drawn from. Download one to read it yourself and see where the sources are drawn from."
 NO_DOCUMENTS = "No documents found under data/raw/."
 NO_SUPPORTING_GUIDANCE = "No supporting guidance was found in the retrieved documents."
+
+# What the user is told after recording a question by voice (story 13).
+VOICE_NOTICES = {
+    voice.HEARD: "Check the transcript, then press Enter to send.",
+    voice.NOTHING_HEARD: "I didn't catch anything. Try recording again, or type your question.",
+    voice.FAILED: "Voice input isn't available right now. Please type your question.",
+}
 
 STYLES = Path(__file__).with_name("styles.css")
 
@@ -40,7 +47,7 @@ SURFACE = {"light": "#F4F4F4", "dark": "#303030"}
 
 
 def _active_theme():
-    """"light" or "dark", or None if Streamlit cannot say (e.g. under AppTest)."""
+    """ "light" or "dark", or None if Streamlit cannot say (e.g. under AppTest)."""
 
     try:
         return st.context.theme.type
@@ -57,7 +64,7 @@ def _apply_styles():
     """
 
     css = STYLES.read_text(encoding="utf-8")
-    surface = SURFACE.get(_active_theme())
+    surface = SURFACE.get(_active_theme())  # type: ignore
 
     if surface:
         css += f"\n:root {{ --hs-surface: {surface}; }}\n"
@@ -69,6 +76,7 @@ def _apply_styles():
 # SIDEBAR
 # =====================================================
 
+
 def _open_pdf(path):
     """A no-argument reader for st.download_button.
 
@@ -78,10 +86,12 @@ def _open_pdf(path):
 
     return lambda: path.read_bytes()
 
+
 def _render_clear_control():
     if st.sidebar.button("Clear conversation", type="secondary"):
         state.clear_messages()
         st.rerun()
+
 
 def _render_sidebar():
     """Branding, and the source documents the answers are drawn from.
@@ -91,16 +101,16 @@ def _render_sidebar():
     """
 
     with st.sidebar:
-
         st.markdown(f"### {PAGE_TITLE}")
         st.caption(SIDEBAR_BLURB)
+
+        _render_clear_control()
 
         documents = corpus.list_documents()
 
         # No custom icon: Streamlit puts one where the chevron goes, which
         # leaves a closed dropdown looking like it does not open.
         with st.expander(f"{DOCUMENTS_LABEL} ({len(documents)})"):
-
             if not documents:
                 st.caption(NO_DOCUMENTS)
                 return
@@ -110,9 +120,9 @@ def _render_sidebar():
             # The list gets its own container so the stylesheet can tighten the
             # spacing between entries without touching the rest of the sidebar.
             with st.container(key="hs_documents"):
-
-                for label, group in groupby(documents, key=itemgetter("industry_label")):
-
+                for label, group in groupby(
+                    documents, key=itemgetter("industry_label")
+                ):
                     st.caption(label)
 
                     for document in group:
@@ -134,6 +144,7 @@ def _render_sidebar():
 # =====================================================
 # CONVERSATION
 # =====================================================
+
 
 def _render_message(message):
     """Draw one stored message in its own bubble."""
@@ -169,7 +180,9 @@ def _citation_entries(sources):
         title = corpus.document_title(source_file)
         if pages:
             page_values = ", ".join(str(page) for page in sorted(pages))
-            page_reference = f"page {page_values}" if len(pages) == 1 else f"pages {page_values}"
+            page_reference = (
+                f"page {page_values}" if len(pages) == 1 else f"pages {page_values}"
+            )
         else:
             page_reference = "page reference unavailable"
 
@@ -206,7 +219,6 @@ def _render_conversation(messages):
     """
 
     with st.container(key="hs_messages"):
-
         for message in messages:
             _render_message(message)
 
@@ -236,6 +248,7 @@ def _render_conversation(messages):
 # INPUT
 # =====================================================
 
+
 def _submit_question():
     if state.request_in_flight():
         return
@@ -255,7 +268,11 @@ def _submit_question():
 
 
 def _render_chat_input():
-    """The question box."""
+    """The question box, with its mic button and what came of the last recording.
+
+    The recording is handled before the input is drawn, because a transcript can
+    only be written into the input before the widget exists in this run.
+    """
 
     with st.container(key="hs_chat_bar"):
         st.chat_input(
@@ -279,6 +296,7 @@ def _render_empty_state():
 # PAGE
 # =====================================================
 
+
 def main():
     st.set_page_config(
         page_title=PAGE_TITLE,
@@ -289,22 +307,34 @@ def main():
 
     _apply_styles()
     _render_sidebar()
-    _render_clear_control()
     state.init_state()
 
-    messages = state.get_messages()
+    # One fixed, hidden slot for the browser copy, so loading and saving mount
+    # the same element. Until the tab's copy arrives after a reload, draw nothing:
+    # a greeting would flash, and saving an empty history would overwrite it.
+    store_slot = st.container(key="hs_store")
 
-    if not messages:
-        _render_empty_state()
+    if not browser_store.restore(store_slot):
         return
 
-    # Once the conversation has started the input drops to the foot of the page.
-    # It is drawn before the messages so that it stays on screen while a reply
-    # streams in; st.bottom pins it there whatever the script order.
-    with st.bottom:
-        _render_chat_input()
+    try:
+        messages = state.get_messages()
 
-    _render_conversation(messages)
+        if not messages:
+            _render_empty_state()
+            return
+
+        # Once the conversation has started the input drops to the foot of the page.
+        # It is drawn before the messages so that it stays on screen while a reply
+        # streams in; st.bottom pins it there whatever the script order.
+        with st.bottom:
+            _render_chat_input()
+
+        _render_conversation(messages)
+
+    finally:
+        # Saved after rendering so a reply stored during this run is included.
+        browser_store.save(store_slot, state.get_messages())
 
 
 if __name__ == "__main__":

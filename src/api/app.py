@@ -12,17 +12,19 @@ Then try it at:                    http://localhost:8000/docs
 import logging
 import time
 from contextlib import asynccontextmanager
-from typing import Any, Dict, List, Optional, Union
+from typing import Any, Dict, List, Literal, Optional, Union
 
-from fastapi import Depends, FastAPI, Request
+from fastapi import Depends, FastAPI, File, Request, UploadFile
 from fastapi.exceptions import RequestValidationError
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel, Field, field_validator
 
-from src.answer import _get_openai_chat_llm
+from src import conversation
+from src.answer import _get_condense_llm, _get_openai_chat_llm
 from src.config.settings import CHROMA_COLLECTION_NAME, CHROMA_PERSIST_DIR
 from src.pipeline import run_query
 from src.retrieval.retriever import _get_openai_client
+from src.transcription import transcribe
 from src.vectorstore_client import count_collection
 
 # Uvicorn configures its own "uvicorn.*" loggers and leaves the root logger at
@@ -70,6 +72,7 @@ async def lifespan(app: FastAPI):
     try:
         _get_openai_client()
         _get_openai_chat_llm()
+        _get_condense_llm()
     except Exception as exc:
         logger.warning(
             "Model clients could not be created at startup, so answers will "
@@ -111,16 +114,35 @@ app = FastAPI(
 # against cannot drift between endpoints.
 
 
+class Turn(BaseModel):
+    """One earlier message in the caller's conversation."""
+
+    role: Literal["user", "assistant"]
+    content: str
+
+
 class ChatRequest(BaseModel):
-    """A question, and nothing else.
+    """A question, and optionally the conversation it follows.
 
     The collection and top-k are deliberately not part of the HTTP contract.
     They stay as arguments on run_query for tests and scripts: exposing them
     here let the /docs page fill them with placeholders ("string", 0), which
     silently searched an empty collection and returned no results.
+
+    History is sent by the caller on every request rather than held here against
+    a session id. That is what keeps the backend stateless, and it is the reason
+    one person's conversation cannot reach another's: there is no store to reach
+    into. It also means history survives exactly as long as the browser tab does.
     """
 
     question: str = Field(description="The health and safety question to answer.")
+    history: List[Turn] = Field(
+        default_factory=list,
+        description=(
+            "The conversation so far, oldest first. Optional — send nothing for a "
+            "standalone question. Trimmed to the configured token limit on arrival."
+        ),
+    )
 
     @field_validator("question")
     @classmethod
@@ -164,6 +186,14 @@ class HealthResponse(BaseModel):
     startup_seconds: float
 
 
+class TranscriptResponse(BaseModel):
+    """What a recorded question was heard as, for the user to check before sending."""
+
+    text: str
+    # "ok" with a transcript, or "empty" when nothing was said.
+    status: Literal["ok", "empty"]
+
+
 class ErrorResponse(BaseModel):
     status: str = "error"
     message: str
@@ -178,17 +208,39 @@ ERROR_RESPONSES: Dict[Union[int, str], Dict[str, Any]] = {
 }
 
 
+TRANSCRIBE_ERROR_RESPONSES: Dict[Union[int, str], Dict[str, Any]] = {
+    422: {"model": ErrorResponse, "description": "The recording was missing or could not be read."},
+    500: {"model": ErrorResponse, "description": "Transcription failed."},
+}
+
+
 # =====================================================
 # ERROR HANDLING
 # =====================================================
 
 
 def _validation_message(exc: RequestValidationError) -> str:
-    """Turn pydantic's error list into one sentence a person can act on."""
+    """Turn pydantic's error list into one sentence a person can act on.
+
+    The request body has more than one field now, so "missing" has to say which
+    one: reporting a malformed history turn as a missing question sends whoever
+    is reading it looking in the wrong place.
+    """
 
     for error in exc.errors():
+        # ("body", "question") or ("body", "history", 0, "content").
+        location = [str(part) for part in error.get("loc", ())]
+
         if error.get("type") == "missing":
+            if "audio" in location:
+                return "An audio recording is required."
+            if "history" in location:
+                return "Each history entry needs a role and content."
             return "A question is required."
+
+        if "history" in location:
+            return "History must be a list of {role, content} entries, where role is user or assistant."
+
         # Errors raised by our own validators arrive prefixed by pydantic.
         message = str(error.get("msg", "")).removeprefix("Value error, ")
         if message:
@@ -207,10 +259,10 @@ async def _handle_validation_error(request: Request, exc: RequestValidationError
     )
 
 
-def _error_response(message: str, detail: str) -> JSONResponse:
+def _error_response(message: str, detail: str, failure: str = "Pipeline") -> JSONResponse:
     """Log the technical detail here; send the browser the plain sentence only."""
 
-    logger.error("Pipeline failure: %s", detail)
+    logger.error("%s failure: %s", failure, detail)
 
     return JSONResponse(
         status_code=500,
@@ -235,6 +287,34 @@ def get_llm():
     except Exception:
         # Returning None lets answer_question produce a structured error rather
         # than the whole API failing to serve.
+        return None
+
+
+def get_condense_llm():
+    """Return the model that rewrites a follow-up, or None to skip the rewrite.
+
+    A dependency for the same reason get_llm is one: without it the rewrite model
+    is constructed inside the pipeline, and a test that sends history would reach
+    the real API. None is a safe answer — condense_question falls back to the
+    question as asked.
+    """
+
+    try:
+        return _get_condense_llm()
+    except Exception:
+        return None
+
+
+def get_transcription_client():
+    """Return the OpenAI client for transcription, or None if it cannot be built.
+
+    The same cached client retrieval uses. A dependency so tests can inject a stub
+    instead of reaching the real API.
+    """
+
+    try:
+        return _get_openai_client()
+    except Exception:
         return None
 
 
@@ -274,15 +354,24 @@ def health():
 
 @app.post("/chat", response_model=ChatResponse, responses=ERROR_RESPONSES)
 @app.post("/ask", response_model=ChatResponse, responses=ERROR_RESPONSES, include_in_schema=False)
-def chat(request: ChatRequest, llm=Depends(get_llm)):
+def chat(request: ChatRequest, llm=Depends(get_llm), condense_llm=Depends(get_condense_llm)):
     """Answer a health and safety question from the WorkSafe corpus.
 
     /ask is the original name for this route, kept so nothing that already calls
     it breaks. New callers should use /chat.
     """
 
+    # Trimmed again here even though the interface already trimmed it: the limit is
+    # the backend's to enforce, and /docs and any other caller are not the interface.
+    history = conversation.trim([turn.model_dump() for turn in request.history])
+
     try:
-        result = run_query(request.question, llm=llm)
+        result = run_query(
+            request.question,
+            history=history,
+            llm=llm,
+            condense_llm=condense_llm,
+        )
     except Exception as exc:
         return _error_response(
             "Something went wrong while answering that question. Please try again.",
@@ -296,3 +385,34 @@ def chat(request: ChatRequest, llm=Depends(get_llm)):
         )
 
     return result
+
+
+TRANSCRIBE_FAILED = "Transcription failed. Please try again or type your question."
+
+
+@app.post("/transcribe", response_model=TranscriptResponse, responses=TRANSCRIBE_ERROR_RESPONSES)
+def transcribe_recording(
+    audio: UploadFile = File(description="The recorded question, e.g. question.webm."),
+    client=Depends(get_transcription_client),
+):
+    """Turn a recorded question into text (story 13).
+
+    Only transcribes. The transcript goes back to the interface for the user to
+    check, and is then sent to /chat like any typed question, so voice has no
+    answer path of its own.
+    """
+
+    audio_bytes = audio.file.read()
+
+    if client is None:
+        return _error_response(TRANSCRIBE_FAILED, "no OpenAI client", failure="Transcription")
+
+    try:
+        return transcribe(audio_bytes, audio.filename, client)
+    except ValueError:
+        return JSONResponse(
+            status_code=422,
+            content=ErrorResponse(message="The recording could not be read.").model_dump(),
+        )
+    except Exception as exc:
+        return _error_response(TRANSCRIBE_FAILED, f"Unhandled exception: {exc!r}", failure="Transcription")

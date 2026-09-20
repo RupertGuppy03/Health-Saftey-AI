@@ -111,7 +111,7 @@ def test_the_question_is_posted_to_the_chat_endpoint(monkeypatch):
 
     assert len(calls) == 1
     assert calls[0]["url"] == f"{settings.API_BASE_URL}/chat"
-    assert calls[0]["json"] == {"question": "Do I need a harness on a scaffold?"}
+    assert calls[0]["json"] == {"question": "Do I need a harness on a scaffold?", "history": []}
 
 
 def test_the_request_waits_longer_than_the_httpx_default(monkeypatch):

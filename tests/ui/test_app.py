@@ -1,22 +1,31 @@
 """Behavioural tests for the chat page, driven by Streamlit's own AppTest.
 
-The app is run in-process, with no browser and no server. Two things are
-stubbed: the responder, so nothing tries to answer for real, and the corpus
+The app is run in-process, with no browser and no server. Three things are
+stubbed: the responder, so nothing tries to answer for real, the corpus
 listing, so the sidebar shows documents built under tmp_path rather than the
-committed PDFs.
+committed PDFs, and the two browser components (the tab's storage and the mic),
+whose JavaScript AppTest cannot run.
 """
 
+import base64
+from collections import defaultdict
 from pathlib import Path
+from types import SimpleNamespace
 
 import pytest
+import streamlit as st
 from streamlit.testing.v1 import AppTest
 
 from src.ui import app as app_module
+from src.ui import browser_store, voice
 from src.ui import state
 
 ENTRYPOINT = Path(__file__).resolve().parents[2] / "streamlit_app.py"
 
 STUB_REPLY = "A stubbed answer."
+
+# The real mic bridge, kept before the autouse fixture below replaces it.
+REAL_VOICE_MOUNT = voice._mount
 
 
 # =====================================================
@@ -27,6 +36,75 @@ def _stub_fetch(question, history=None):
     """Stands in for responder.fetch_reply: one answer with no sources."""
 
     return {"answer": STUB_REPLY, "sources": [], "status": "ok"}
+
+
+# The session state entry naming which fake tab an AppTest belongs to. A reload
+# is a new AppTest in the same tab; another browser is a different tab.
+TAB_KEY = "test_tab"
+
+
+class FakeTab:
+    """Stands in for one browser tab's sessionStorage."""
+
+    def __init__(self):
+        self.stored = None
+        self.saves = []
+        self.ready = True
+
+    def mount(self, mode, messages):
+        if mode == browser_store.SAVE:
+            self.stored = messages
+            self.saves.append(messages)
+            return None
+
+        if not self.ready:
+            return None
+
+        return self.stored if self.stored is not None else "[]"
+
+
+@pytest.fixture(autouse=True)
+def tabs(monkeypatch):
+    """Every browser tab the test opens, by name."""
+
+    tabs = defaultdict(FakeTab)
+
+    def mount(slot, mode, messages=None):
+        return tabs[st.session_state.get(TAB_KEY, "default")].mount(mode, messages)
+
+    monkeypatch.setattr(browser_store, "_mount", mount)
+
+    return tabs
+
+
+class FakeMic:
+    """Stands in for voice.js: hands over each queued browser event once."""
+
+    def __init__(self):
+        self.events = []
+
+    def mount(self, slot):
+        if not self.events:
+            return None, None
+
+        return self.events.pop(0)
+
+
+@pytest.fixture(autouse=True)
+def mic(monkeypatch):
+    mic = FakeMic()
+    monkeypatch.setattr(voice, "_mount", mic.mount)
+
+    return mic
+
+
+def _open(tab="default"):
+    """The page as a fresh session in `tab`, which is what a reload gives you."""
+
+    app = AppTest.from_file(str(ENTRYPOINT), default_timeout=10)
+    app.session_state[TAB_KEY] = tab
+
+    return app
 
 
 @pytest.fixture
