@@ -16,6 +16,12 @@ import streamlit as st
 
 from src.ui import browser_store, corpus, state, voice
 from src.ui.responder import fetch_reply, stream_answer
+from src.config.interface import (
+    DISCLAIMER_TEXT,
+    SCOPE_TEXT,
+    DOCUMENT_SET_TEXT,
+    EXAMPLE_QUESTIONS,
+)
 
 PAGE_TITLE = "Health & Safety AI"
 PAGE_ICON = "🦺"
@@ -147,6 +153,9 @@ def _render_sidebar():
     with st.sidebar:
         st.markdown(f"### {PAGE_TITLE}")
         st.caption(SIDEBAR_BLURB)
+
+        st.warning(DISCLAIMER_TEXT)
+        
         _render_conversation_controls()
 
         _render_clear_control()
@@ -329,10 +338,18 @@ def _render_chat_input():
 
 
 def _render_empty_state():
-    """The first thing a user sees: a greeting with the input under it."""
+    """The first thing a user sees: a greeting with scope and examples."""
 
     with st.container(key="hs_hero"):
         st.title(GREETING, anchor=False)
+
+        st.markdown(SCOPE_TEXT)
+        st.caption(DOCUMENT_SET_TEXT)
+
+        st.markdown("### Example questions")
+
+        for question in EXAMPLE_QUESTIONS:
+            st.markdown(f"- {question}")
 
         _render_chat_input()
 
@@ -353,6 +370,8 @@ def main():
     _apply_styles()
     state.init_state()
     _render_sidebar()
+
+    st.warning(DISCLAIMER_TEXT)
 
     # One fixed, hidden slot for the browser copy, so loading and saving mount
     # the same element. Until the tab's copy arrives after a reload, draw nothing:
