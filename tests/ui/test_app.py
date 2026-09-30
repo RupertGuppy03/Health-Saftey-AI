@@ -410,6 +410,42 @@ def test_deleting_a_conversation_leaves_the_other_conversation_untouched(app):
     assert _texts(app) == ["Keep this conversation", STUB_REPLY]
 
 
+def test_a_reload_keeps_every_conversation_and_the_open_one(app):
+    app.run()
+    _ask(app, "First conversation")
+    _sidebar_button(app, app_module.NEW_CHAT_LABEL).click().run()
+    _ask(app, "Second conversation")
+    _sidebar_button(app, app_module.NEW_CHAT_LABEL).click().run()
+    _ask(app, "Third conversation")
+    _sidebar_button(app, "Second conversation").click().run()
+
+    reloaded = AppTest.from_file(str(ENTRYPOINT), default_timeout=10)
+    reloaded.run()
+    reloaded.run()
+
+    labels = [button.label for button in reloaded.sidebar.button]
+    for question in ["First conversation", "Second conversation", "Third conversation"]:
+        assert question in labels
+    assert _texts(reloaded) == ["Second conversation", STUB_REPLY]
+
+
+def test_a_new_chat_after_a_reload_does_not_overwrite_a_restored_one(app):
+    app.run()
+    _ask(app, "First conversation")
+    _sidebar_button(app, app_module.NEW_CHAT_LABEL).click().run()
+    _ask(app, "Second conversation")
+
+    reloaded = AppTest.from_file(str(ENTRYPOINT), default_timeout=10)
+    reloaded.run()
+    reloaded.run()
+    _sidebar_button(reloaded, app_module.NEW_CHAT_LABEL).click().run()
+    _ask(reloaded, "Third conversation")
+
+    labels = [button.label for button in reloaded.sidebar.button]
+    for question in ["First conversation", "Second conversation", "Third conversation"]:
+        assert question in labels
+
+
 def test_sidebar_explains_that_conversations_are_not_persistent(app):
     app.run()
 

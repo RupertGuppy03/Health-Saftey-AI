@@ -1,9 +1,9 @@
-"""Keeps a copy of the conversation in the browser tab so it survives a reload.
+"""Keeps a copy of the conversations in the browser tab so they survive a reload.
 
 st.session_state belongs to the websocket connection, and a reload opens a new
 one, so on its own the history is gone the moment the page is refreshed. This
-module mirrors the history into the tab's sessionStorage and reads it back once
-at the start of each new session.
+module mirrors every conversation, and which one is open, into the tab's
+sessionStorage and reads them back once at the start of each new session.
 
 sessionStorage is per tab and cleared when the tab closes, so the conversation
 is still scoped to one browser session and nothing is kept on the server.
@@ -25,9 +25,9 @@ COMPONENT_KEY = "hs_conversation_store"
 LOAD = "load"
 SAVE = "save"
 
-# Load sends the stored copy back (or "[]" for a fresh tab), which reruns the
-# script. Save writes the current history over it. A storage error on load still
-# answers "[]" so the page is never left waiting.
+# Load sends the stored copy back (or "{}" for a fresh tab), which reruns the
+# script. Save writes the current conversations over it. A storage error on load
+# still answers "{}" so the page is never left waiting.
 JS = """
 const KEY = "hs_conversation";
 
@@ -41,7 +41,7 @@ export default function ({ data, setTriggerValue }) {
 
     let raw = null;
     try { raw = sessionStorage.getItem(KEY); } catch (e) {}
-    setTriggerValue("loaded", raw ?? "[]");
+    setTriggerValue("loaded", raw ?? "{}");
 }
 """
 
@@ -61,13 +61,31 @@ def _mount(slot, mode, messages=None):
     return result.loaded
 
 
-def _valid_messages(raw):
-    """Parse the stored copy, keeping only well-formed messages."""
+def _valid_store(raw):
+    """Parse the stored copy into (conversations, active ID), keeping only well-formed messages."""
 
     try:
         stored = json.loads(raw)
     except (TypeError, ValueError):
-        return []
+        return {}, None
+
+    # A tab saved before there were several conversations holds one bare list.
+    if isinstance(stored, list):
+        stored = {"conversations": {"conversation-1": stored}}
+
+    if not isinstance(stored, dict) or not isinstance(stored.get("conversations"), dict):
+        return {}, None
+
+    conversations = {
+        conversation_id: _valid_messages(messages)
+        for conversation_id, messages in stored["conversations"].items()
+    }
+
+    return conversations, stored.get("active")
+
+
+def _valid_messages(stored):
+    """Keep only the well-formed messages of one stored conversation."""
 
     if not isinstance(stored, list):
         return []
@@ -104,7 +122,7 @@ def restore(slot):
     if raw is None:
         return False
 
-    state.replace_messages(_valid_messages(raw))
+    state.restore_conversations(*_valid_store(raw))
     st.session_state[state.RESTORED_KEY] = True
 
     # Start over rather than carry on, so the bridge is mounted only once per run
@@ -112,7 +130,7 @@ def restore(slot):
     st.rerun()
 
 
-def save(slot, messages):
-    """Write the current conversation over the tab's copy."""
+def save(slot, snapshot):
+    """Write the current conversations over the tab's copy."""
 
-    _mount(slot, SAVE, json.dumps(messages))
+    _mount(slot, SAVE, json.dumps(snapshot))

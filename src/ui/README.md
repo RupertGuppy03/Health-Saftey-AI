@@ -58,11 +58,11 @@ persistent conversation history are future work.
 ## Surviving a reload
 
 Streamlit session state is lost on a page reload, because a reload opens a new
-session. `browser_store.py` keeps a copy of the conversation in the tab's
+session. `browser_store.py` keeps a copy of every conversation in the tab's
 `sessionStorage` and reads it back when the new session starts, so a refresh
-brings the conversation back. Nothing is stored on the server: the copy belongs
-to that tab and is gone when the tab is closed, and Clear conversation empties
-it too. A reload while a reply is still streaming loses that last question,
+brings the conversations back. Nothing is stored on the server: the copy belongs
+to that tab and is gone when the tab is closed, and deleting a conversation
+removes it from the copy too. A reload while a reply is still streaming loses that last question,
 because the copy is written once each run finishes.
 
 ## Voice input

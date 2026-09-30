@@ -136,6 +136,16 @@ footer,
     font-size: 1rem;
 }
 
+/* The disclaimer: one quiet, centred line tucked under the bar. */
+.st-key-hs_disclaimer {
+    margin-top: -0.5rem;
+}
+
+.st-key-hs_disclaimer [data-testid="stCaptionContainer"] {
+    text-align: center;
+    font-size: 0.75rem;
+}
+
 /* ---------- voice ---------- */
 
 /* voice.js puts a mic button inside the left edge of the bar, and a waveform over
@@ -253,10 +263,44 @@ footer,
 
 /* ---------- sidebar ---------- */
 
+/* The collapse arrow's bar takes a row of its own above the sidebar. Lift it out
+ * of the flow so the logo can sit at the very top, with the arrow over its corner. */
+[data-testid="stSidebarHeader"] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+
+[data-testid="stSidebarUserContent"] {
+    padding-top: 1rem;
+}
+
+/* The logo, centred and scaled down by the browser from full resolution. */
+.st-key-hs_logo {
+    align-items: center;
+}
+
+.st-key-hs_logo img {
+    width: 10rem;
+    height: auto;
+}
+
+/* No fullscreen button on hover: it is a logo, not a figure. */
+.st-key-hs_logo [data-testid="stElementToolbar"] {
+    display: none;
+}
+
 [data-testid="stSidebar"] h3 {
     font-size: 1rem;
     font-weight: 600;
     padding: 0;
+}
+
+/* Section dividers: Streamlit spaces an hr for a long page, which stretches a
+ * sidebar this short, so close them up. */
+[data-testid="stSidebar"] hr {
+    margin: 0.25rem 0;
 }
 
 /* The documents dropdown: a plain row, not a boxed panel. */

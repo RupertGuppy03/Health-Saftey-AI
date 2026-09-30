@@ -48,6 +48,9 @@ VOICE_NOTICES = {
 }
 
 STYLES = Path(__file__).with_name("styles.css")
+# Drawn at its own size and scaled in styles.css: given a width, st.image
+# shrinks the file to that many pixels, which blurs it on a high-DPI screen.
+LOGO = Path(__file__).parents[2] / "sprites" / "AI-logo.avif"
 
 # The surface behind a user bubble and the chat bar, per theme. These mirror
 # secondaryBackgroundColor in .streamlit/config.toml, which Streamlit applies to
@@ -137,11 +140,6 @@ def _render_conversation_controls():
 
     st.caption(NON_PERSISTENCE_NOTICE)
 
-def _render_clear_control():
-    if st.sidebar.button("Clear conversation", type="secondary"):
-        state.clear_messages()
-        st.rerun()
-
 
 def _render_sidebar():
     """Branding, and the source documents the answers are drawn from.
@@ -151,14 +149,15 @@ def _render_sidebar():
     """
 
     with st.sidebar:
+        with st.container(key="hs_logo"):
+            st.image(str(LOGO))
+
         st.markdown(f"### {PAGE_TITLE}")
         st.caption(SIDEBAR_BLURB)
+        st.divider()
 
-        st.warning(DISCLAIMER_TEXT)
-        
         _render_conversation_controls()
-
-        _render_clear_control()
+        st.divider()
 
         documents = corpus.list_documents()
 
@@ -211,7 +210,7 @@ def _render_message(message):
         if message["role"] != state.ASSISTANT:
             return
 
-        _render_sources(message.get("sources", []), message.get("status"))
+        _render_sources(message.get("sources", []), message.get("status", "ok"))
 
 
 def _citation_entries(sources):
@@ -288,7 +287,7 @@ def _render_conversation(messages):
                     state.set_request_in_flight(False)
 
             reply = st.write_stream(stream_answer(response["answer"]))
-            _render_sources(response.get("sources", []), response.get("status"))
+            _render_sources(response.get("sources", []), response.get("status", "ok"))
 
         state.add_message(
             state.ASSISTANT,
@@ -322,19 +321,30 @@ def _submit_question():
 
 
 def _render_chat_input():
-    """The question box, with its mic button and what came of the last recording.
+    """The question box, with its mic button, what came of the last recording
+    and the disclaimer beneath it.
 
     The recording is handled before the input is drawn, because a transcript can
     only be written into the input before the widget exists in this run.
     """
 
     with st.container(key="hs_chat_bar"):
+        voice.take_recording(st.container(key="hs_voice"), QUESTION_KEY)
+
+        notice = voice.pop_notice()
+
+        if notice:
+            st.caption(VOICE_NOTICES[notice])
+
         st.chat_input(
             INPUT_PLACEHOLDER,
             key=QUESTION_KEY,
             on_submit=_submit_question,
             disabled=state.request_in_flight(),
         )
+
+        with st.container(key="hs_disclaimer"):
+            st.caption(DISCLAIMER_TEXT)
 
 
 def _render_empty_state():
@@ -371,8 +381,6 @@ def main():
     state.init_state()
     _render_sidebar()
 
-    st.warning(DISCLAIMER_TEXT)
-
     # One fixed, hidden slot for the browser copy, so loading and saving mount
     # the same element. Until the tab's copy arrives after a reload, draw nothing:
     # a greeting would flash, and saving an empty history would overwrite it.
@@ -381,11 +389,17 @@ def main():
     if not browser_store.restore(store_slot):
         return
 
+    # The greeting and the conversation take turns in one slot. Filling it swaps
+    # out the whole of the last view at once; otherwise, while the first answer
+    # streams, the leftover greeting and its chat bar linger faded on the page.
+    body = st.empty()
+
     try:
         messages = state.get_messages()
 
         if not messages:
-            _render_empty_state()
+            with body.container():
+                _render_empty_state()
             return
 
         # Once the conversation has started the input drops to the foot of the page.
@@ -394,11 +408,12 @@ def main():
         with st.bottom:
             _render_chat_input()
 
-        _render_conversation(messages)
+        with body.container():
+            _render_conversation(messages)
 
     finally:
         # Saved after rendering so a reply stored during this run is included.
-        browser_store.save(store_slot, state.get_messages())
+        browser_store.save(store_slot, state.snapshot())
 
 
 if __name__ == "__main__":
