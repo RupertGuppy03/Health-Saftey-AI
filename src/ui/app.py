@@ -35,6 +35,8 @@ SIDEBAR_BLURB = "Guidance from WorkSafe New Zealand"
 CONVERSATIONS_LABEL = "Conversations"
 NEW_CHAT_LABEL = "New chat"
 NON_PERSISTENCE_NOTICE = "Conversations are not saved once this browser tab is closed."
+ABOUT_LABEL = "About"
+EXAMPLES_HEADING = "Example questions"
 DOCUMENTS_LABEL = "Documents"
 DOCUMENTS_BLURB = "The guidance answers are drawn from. Download one to read it yourself and see where the sources are drawn from."
 NO_DOCUMENTS = "No documents found under data/raw/."
@@ -57,6 +59,10 @@ LOGO = Path(__file__).parents[2] / "sprites" / "AI-logo.avif"
 # its own widgets but does not publish to CSS for us to reuse.
 SURFACE = {"light": "#F4F4F4", "dark": "#303030"}
 
+# The logo is dark grey, which all but disappears on a dark sidebar, so dark
+# mode lifts it. Brightening keeps its two tones apart, where a flat tint would not.
+LOGO_FILTER = {"light": "none", "dark": "brightness(2)"}
+
 
 def _active_theme():
     """ "light" or "dark", or None if Streamlit cannot say (e.g. under AppTest)."""
@@ -76,10 +82,13 @@ def _apply_styles():
     """
 
     css = STYLES.read_text(encoding="utf-8")
-    surface = SURFACE.get(_active_theme())  # type: ignore
+    theme = _active_theme()
 
-    if surface:
-        css += f"\n:root {{ --hs-surface: {surface}; }}\n"
+    if theme in SURFACE:
+        css += (
+            f"\n:root {{ --hs-surface: {SURFACE[theme]}; "
+            f"--hs-logo-filter: {LOGO_FILTER[theme]}; }}\n"
+        )
 
     st.html(f"<style>{css}</style>")
 
@@ -101,7 +110,8 @@ def _open_pdf(path):
 def _render_conversation_controls():
     """Render local-only conversation creation, selection, and deletion."""
 
-    st.caption(CONVERSATIONS_LABEL)
+    with st.container(key="hs_conversations_label"):
+        st.caption(CONVERSATIONS_LABEL)
 
     if any(state.get_conversations().values()):
         if st.button(NEW_CHAT_LABEL, key="new_conversation", width="stretch"):
@@ -141,12 +151,48 @@ def _render_conversation_controls():
     st.caption(NON_PERSISTENCE_NOTICE)
 
 
-def _render_sidebar():
-    """Branding, and the source documents the answers are drawn from.
+def _render_documents():
+    """The source documents, folded away behind a dropdown.
 
-    The document list is folded away behind a dropdown: there are 25 of them,
-    which is more than the sidebar can show at once without becoming the page.
+    There are 25 of them, which is more than the sidebar can show at once
+    without becoming the page.
     """
+
+    documents = corpus.list_documents()
+
+    # No custom icon: Streamlit puts one where the chevron goes, which
+    # leaves a closed dropdown looking like it does not open.
+    with st.expander(f"{DOCUMENTS_LABEL} ({len(documents)})"):
+        if not documents:
+            st.caption(NO_DOCUMENTS)
+            return
+
+        st.caption(DOCUMENTS_BLURB)
+
+        # The list gets its own container so the stylesheet can tighten the
+        # spacing between entries without touching the rest of the sidebar.
+        with st.container(key="hs_documents"):
+            for label, group in groupby(documents, key=itemgetter("industry_label")):
+                st.caption(label)
+
+                for document in group:
+                    path = document["path"]
+
+                    st.download_button(
+                        document["title"],
+                        data=_open_pdf(path),
+                        file_name=path.name,
+                        mime="application/pdf",
+                        key=f"doc_{document['industry']}_{path.stem}",
+                        help=f"Open {path.name}",
+                        icon=":material/description:",
+                        type="tertiary",
+                        width="stretch",
+                    )
+
+
+def _render_sidebar():
+    """Branding, conversations, the source documents and what the assistant covers."""
 
     with st.sidebar:
         with st.container(key="hs_logo"):
@@ -159,39 +205,12 @@ def _render_sidebar():
         _render_conversation_controls()
         st.divider()
 
-        documents = corpus.list_documents()
+        _render_documents()
 
-        # No custom icon: Streamlit puts one where the chevron goes, which
-        # leaves a closed dropdown looking like it does not open.
-        with st.expander(f"{DOCUMENTS_LABEL} ({len(documents)})"):
-            if not documents:
-                st.caption(NO_DOCUMENTS)
-                return
-
-            st.caption(DOCUMENTS_BLURB)
-
-            # The list gets its own container so the stylesheet can tighten the
-            # spacing between entries without touching the rest of the sidebar.
-            with st.container(key="hs_documents"):
-                for label, group in groupby(
-                    documents, key=itemgetter("industry_label")
-                ):
-                    st.caption(label)
-
-                    for document in group:
-                        path = document["path"]
-
-                        st.download_button(
-                            document["title"],
-                            data=_open_pdf(path),
-                            file_name=path.name,
-                            mime="application/pdf",
-                            key=f"doc_{document['industry']}_{path.stem}",
-                            help=f"Open {path.name}",
-                            icon=":material/description:",
-                            type="tertiary",
-                            width="stretch",
-                        )
+        # What the assistant covers, folded away so the greeting stays short.
+        with st.expander(ABOUT_LABEL, key="hs_about"):
+            st.markdown(SCOPE_TEXT)
+            st.caption(DOCUMENT_SET_TEXT)
 
 
 # =====================================================
@@ -348,18 +367,15 @@ def _render_chat_input():
 
 
 def _render_empty_state():
-    """The first thing a user sees: a greeting with scope and examples."""
+    """The first thing a user sees: a greeting and some example questions."""
 
     with st.container(key="hs_hero"):
         st.title(GREETING, anchor=False)
 
-        st.markdown(SCOPE_TEXT)
-        st.caption(DOCUMENT_SET_TEXT)
-
-        st.markdown("### Example questions")
-
-        for question in EXAMPLE_QUESTIONS:
-            st.markdown(f"- {question}")
+        # One list, so the questions sit together rather than a block apart.
+        with st.container(key="hs_examples"):
+            st.title(EXAMPLES_HEADING, anchor=False)
+            st.markdown("\n".join(f"- {question}" for question in EXAMPLE_QUESTIONS))
 
         _render_chat_input()
 
@@ -389,16 +405,20 @@ def main():
     if not browser_store.restore(store_slot):
         return
 
-    # The greeting and the conversation take turns in one slot. Filling it swaps
-    # out the whole of the last view at once; otherwise, while the first answer
-    # streams, the leftover greeting and its chat bar linger faded on the page.
-    body = st.empty()
+    # The greeting and the conversation each get a slot of their own, and the one
+    # not in use is left empty. Sharing one slot does not work: the browser keeps
+    # the old container's contents when a new one lands in its place, and only
+    # sweeps the leftovers when the run ends, which for the first answer is after
+    # the backend replies. Until then the greeting and its chat bar stay faded on
+    # the page. An empty slot drops them the moment it arrives.
+    greeting_slot = st.empty()
+    conversation_slot = st.empty()
 
     try:
         messages = state.get_messages()
 
         if not messages:
-            with body.container():
+            with greeting_slot.container():
                 _render_empty_state()
             return
 
@@ -408,7 +428,7 @@ def main():
         with st.bottom:
             _render_chat_input()
 
-        with body.container():
+        with conversation_slot.container():
             _render_conversation(messages)
 
     finally:
