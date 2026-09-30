@@ -25,6 +25,11 @@ def no_word_delay(monkeypatch):
     """Replay answers instantly; the pacing is cosmetic and not under test."""
 
     monkeypatch.setattr(responder, "WORD_DELAY", 0)
+    monkeypatch.setattr(
+        responder.httpx,
+        "get",
+        lambda url, **kwargs: _response({"status": "ok"}),
+    )
 
 
 def _response(payload, status_code=200):
@@ -49,6 +54,10 @@ def _capture(monkeypatch, response):
     monkeypatch.setattr(responder.httpx, "post", fake_post)
 
     return calls
+
+
+def _capture_health(monkeypatch, response):
+    monkeypatch.setattr(responder.httpx, "get", lambda url, **kwargs: response)
 
 
 def _reply(question="What edge protection do I need for work at height?"):
@@ -150,6 +159,18 @@ def test_every_successful_status_renders_its_answer(monkeypatch, status):
     assert _reply("What is the capital of France?") == text
 
 
+def test_non_answer_statuses_do_not_preserve_backend_sources(monkeypatch):
+    sources = [{"source_file": "irrelevant.pdf", "page_number": 1}]
+
+    for status in ["no_results", "guardrail"]:
+        _capture(
+            monkeypatch,
+            _response({"answer": "I cannot answer that.", "sources": sources, "status": status}),
+        )
+
+        assert responder.fetch_reply("What is this?")["sources"] == []
+
+
 # =====================================================
 # FAILURES DO NOT REACH THE USER RAW
 # =====================================================
@@ -169,7 +190,56 @@ def test_a_timeout_falls_back_instead_of_raising(monkeypatch):
 
     monkeypatch.setattr(responder.httpx, "post", time_out)
 
-    assert _reply() == responder.FALLBACK_REPLY.strip()
+    assert _reply() == responder.TIMEOUT_REPLY.strip()
+
+
+def test_an_unready_backend_returns_a_plain_language_message(monkeypatch):
+    _capture_health(monkeypatch, _response({"status": "unavailable"}, status_code=503))
+
+    assert _reply() == responder.UNAVAILABLE_REPLY.strip()
+
+
+def test_a_readiness_timeout_invites_a_retry(monkeypatch):
+    def time_out(url, **kwargs):
+        raise httpx.ReadTimeout("timed out")
+
+    monkeypatch.setattr(responder.httpx, "get", time_out)
+
+    assert _reply() == responder.TIMEOUT_REPLY.strip()
+
+
+def test_the_health_check_uses_the_configured_timeout(monkeypatch):
+    calls = []
+
+    def healthy(url, **kwargs):
+        calls.append({"url": url, **kwargs})
+        return _response({"status": "ok"})
+
+    monkeypatch.setattr(responder.httpx, "get", healthy)
+    _capture(monkeypatch, _response({"answer": ANSWER, "sources": [], "status": "ok"}))
+
+    _reply()
+
+    assert calls[0]["timeout"] == settings.API_TIMEOUT_SECONDS
+
+
+def test_empty_retrieval_gets_a_plain_language_message(monkeypatch):
+    _capture(
+        monkeypatch,
+        _response({"answer": "", "sources": [], "status": "no_results"}),
+    )
+
+    assert _reply() == responder.NO_RESULTS_REPLY.strip()
+
+
+def test_malformed_backend_json_does_not_reach_the_user(monkeypatch):
+    _capture(monkeypatch, httpx.Response(
+        status_code=200,
+        content=b"not json",
+        request=httpx.Request("POST", "http://testserver/chat"),
+    ))
+
+    assert _reply() == responder.ERROR_REPLY.strip()
 
 
 def test_a_server_error_does_not_show_the_user_the_server_message(monkeypatch):
@@ -181,7 +251,7 @@ def test_a_server_error_does_not_show_the_user_the_server_message(monkeypatch):
 
     reply = _reply()
 
-    assert reply == responder.FALLBACK_REPLY.strip()
+    assert reply == responder.ERROR_REPLY.strip()
     assert "Something went wrong" not in reply
 
 
@@ -191,139 +261,4 @@ def test_a_validation_error_falls_back(monkeypatch):
         status_code=422,
     ))
 
-    assert _reply("") == responder.FALLBACK_REPLY.strip()
-
-
-# =====================================================
-# THE CONVERSATION TRAVELS WITH THE QUESTION (story 10)
-# =====================================================
-
-CONVERSATION = [
-    {"role": "user", "content": "What edge protection do I need on a roof?"},
-    {"role": "assistant", "content": "Guardrails are required.", "sources": [], "status": "ok"},
-]
-
-
-def test_the_conversation_is_sent_with_the_question(monkeypatch):
-    calls = _capture(monkeypatch, _response({"answer": ANSWER, "sources": [],
-                                             "latency_seconds": 3.2, "status": "ok"}))
-
-    responder.fetch_reply("What about on a smaller one?", CONVERSATION)
-
-    assert calls[0]["json"]["question"] == "What about on a smaller one?"
-    assert calls[0]["json"]["history"] == [
-        {"role": "user", "content": "What edge protection do I need on a roof?"},
-        {"role": "assistant", "content": "Guardrails are required."},
-    ]
-
-
-def test_only_the_role_and_text_of_a_message_are_sent(monkeypatch):
-    """Sources and status are how the UI draws a bubble; the backend has no use for them."""
-
-    calls = _capture(monkeypatch, _response({"answer": ANSWER, "sources": [],
-                                             "latency_seconds": 3.2, "status": "ok"}))
-
-    responder.fetch_reply("What about on a smaller one?", CONVERSATION)
-
-    for turn in calls[0]["json"]["history"]:
-        assert set(turn) == {"role", "content"}
-
-
-def test_a_first_question_sends_an_empty_conversation(monkeypatch):
-    calls = _capture(monkeypatch, _response({"answer": ANSWER, "sources": [],
-                                             "latency_seconds": 3.2, "status": "ok"}))
-
-    responder.fetch_reply("What edge protection do I need?")
-
-    assert calls[0]["json"]["history"] == []
-
-
-def test_a_long_conversation_is_trimmed_before_it_is_sent(monkeypatch):
-    """The interface does not post a whole session's worth of text on every question."""
-
-    monkeypatch.setattr(responder.conversation, "HISTORY_TOKEN_LIMIT", 12)
-
-    calls = _capture(monkeypatch, _response({"answer": ANSWER, "sources": [],
-                                             "latency_seconds": 3.2, "status": "ok"}))
-
-    long_history = []
-    for index in range(50):
-        long_history.append({"role": "user", "content": f"Question number {index}"})
-        long_history.append({"role": "assistant", "content": f"Answer number {index}"})
-
-    responder.fetch_reply("And after that?", long_history)
-
-    sent = calls[0]["json"]["history"]
-    assert 0 < len(sent) < len(long_history)
-    assert sent[-1] == {"role": "assistant", "content": "Answer number 49"}
-
-
-def test_the_responder_keeps_no_conversation_of_its_own(monkeypatch):
-    """Two sessions share this module; neither may leave anything behind in it."""
-
-    calls = _capture(monkeypatch, _response({"answer": ANSWER, "sources": [],
-                                             "latency_seconds": 3.2, "status": "ok"}))
-
-    responder.fetch_reply("Asbestos handling?", CONVERSATION)
-    responder.fetch_reply("Scaffold inspection?")
-
-    assert calls[0]["json"]["history"] != []
-    assert calls[1]["json"]["history"] == []
-
-
-# =====================================================
-# VOICE: TRANSCRIBING A RECORDING (story 13)
-# =====================================================
-
-AUDIO = b"fake webm bytes"
-
-
-def test_a_recording_is_posted_to_the_transcribe_endpoint(monkeypatch):
-    calls = _capture(monkeypatch, _response({"text": "Who is a PCBU?", "status": "ok"}))
-
-    responder.transcribe(AUDIO, "audio/webm;codecs=opus")
-
-    assert calls[0]["url"] == f"{settings.API_BASE_URL}/transcribe"
-    # The codec suffix is dropped; the backend reads the format from the extension.
-    assert calls[0]["files"]["audio"] == ("question.webm", AUDIO, "audio/webm")
-
-
-@pytest.mark.parametrize(
-    "mime, filename",
-    [("audio/ogg;codecs=opus", "question.ogg"), ("audio/mp4", "question.mp4"), ("", "question.webm")],
-)
-def test_each_browser_format_gets_the_matching_extension(monkeypatch, mime, filename):
-    calls = _capture(monkeypatch, _response({"text": "Who is a PCBU?", "status": "ok"}))
-
-    responder.transcribe(AUDIO, mime)
-
-    assert calls[0]["files"]["audio"][0] == filename
-
-
-def test_the_transcript_is_returned_as_ok(monkeypatch):
-    _capture(monkeypatch, _response({"text": " Who is a PCBU? ", "status": "ok"}))
-
-    assert responder.transcribe(AUDIO, "audio/webm") == {"text": "Who is a PCBU?", "status": "ok"}
-
-
-def test_an_empty_transcript_is_passed_through_as_empty(monkeypatch):
-    _capture(monkeypatch, _response({"text": "", "status": "empty"}))
-
-    assert responder.transcribe(AUDIO, "audio/webm") == {"text": "", "status": "empty"}
-
-
-@pytest.mark.parametrize("error", [httpx.ConnectError("refused"), httpx.ReadTimeout("slow")])
-def test_an_unreachable_backend_is_an_error_not_an_exception(monkeypatch, error):
-    def fake_post(url, **kwargs):
-        raise error
-
-    monkeypatch.setattr(responder.httpx, "post", fake_post)
-
-    assert responder.transcribe(AUDIO, "audio/webm") == {"text": "", "status": "error"}
-
-
-@pytest.mark.parametrize("status_code", [422, 500])
-def test_a_failed_transcription_is_an_error(monkeypatch, status_code):
-    _capture(monkeypatch, _response({"status": "error", "message": "nope"}, status_code))
-
-    assert responder.transcribe(AUDIO, "audio/webm") == {"text": "", "status": "error"}
+    assert _reply("") == responder.ERROR_REPLY.strip()

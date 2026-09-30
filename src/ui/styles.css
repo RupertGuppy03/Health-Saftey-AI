@@ -308,6 +308,21 @@ footer,
     gap: 0.125rem;
 }
 
+.st-key-hs_conversations {
+    gap: 0.125rem;
+}
+
+.st-key-hs_conversations button {
+    min-height: 0;
+    padding: 0.375rem 0.5rem;
+}
+
+.st-key-hs_conversations button p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 /* Put the space back in front of each industry heading. */
 .st-key-hs_documents [data-testid="stCaptionContainer"] {
     margin-top: 0.75rem;

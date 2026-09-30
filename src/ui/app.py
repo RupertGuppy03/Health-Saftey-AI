@@ -16,6 +16,12 @@ import streamlit as st
 
 from src.ui import browser_store, corpus, state, voice
 from src.ui.responder import fetch_reply, stream_answer
+from src.config.interface import (
+    DISCLAIMER_TEXT,
+    SCOPE_TEXT,
+    DOCUMENT_SET_TEXT,
+    EXAMPLE_QUESTIONS,
+)
 
 PAGE_TITLE = "Health & Safety AI"
 PAGE_ICON = "🦺"
@@ -25,7 +31,10 @@ GREETING = "What would you like to know?"
 INPUT_PLACEHOLDER = "Want to ask about NZ health and safety?"
 QUESTION_KEY = "hs_question"
 
-SIDEBAR_BLURB = "Guidance from First Step Solutions"
+SIDEBAR_BLURB = "Guidance from WorkSafe New Zealand"
+CONVERSATIONS_LABEL = "Conversations"
+NEW_CHAT_LABEL = "New chat"
+NON_PERSISTENCE_NOTICE = "Conversations are not saved once this browser tab is closed."
 DOCUMENTS_LABEL = "Documents"
 DOCUMENTS_BLURB = "The guidance answers are drawn from. Download one to read it yourself and see where the sources are drawn from."
 NO_DOCUMENTS = "No documents found under data/raw/."
@@ -86,6 +95,47 @@ def _open_pdf(path):
 
     return lambda: path.read_bytes()
 
+def _render_conversation_controls():
+    """Render local-only conversation creation, selection, and deletion."""
+
+    st.caption(CONVERSATIONS_LABEL)
+
+    if any(state.get_conversations().values()):
+        if st.button(NEW_CHAT_LABEL, key="new_conversation", width="stretch"):
+            state.create_conversation()
+            st.rerun()
+
+    with st.container(key="hs_conversations"):
+        for conversation_id, messages in state.get_conversations().items():
+            if not messages:
+                continue
+
+            label = state.conversation_label(messages)
+            selected = conversation_id == state.active_conversation_id()
+            columns = st.columns([5, 1], vertical_alignment="center")
+
+            with columns[0]:
+                if st.button(
+                    label,
+                    key=f"select_{conversation_id}",
+                    type="secondary" if selected else "tertiary",
+                    width="stretch",
+                    help="Switch conversation",
+                ):
+                    state.select_conversation(conversation_id)
+                    st.rerun()
+
+            with columns[1]:
+                if st.button(
+                    ":material/delete:",
+                    key=f"delete_{conversation_id}",
+                    help="Delete conversation",
+                    type="tertiary",
+                ):
+                    state.delete_conversation(conversation_id)
+                    st.rerun()
+
+    st.caption(NON_PERSISTENCE_NOTICE)
 
 def _render_clear_control():
     if st.sidebar.button("Clear conversation", type="secondary"):
@@ -103,6 +153,10 @@ def _render_sidebar():
     with st.sidebar:
         st.markdown(f"### {PAGE_TITLE}")
         st.caption(SIDEBAR_BLURB)
+
+        st.warning(DISCLAIMER_TEXT)
+        
+        _render_conversation_controls()
 
         _render_clear_control()
 
@@ -157,7 +211,7 @@ def _render_message(message):
         if message["role"] != state.ASSISTANT:
             return
 
-        _render_sources(message.get("sources", []))
+        _render_sources(message.get("sources", []), message.get("status"))
 
 
 def _citation_entries(sources):
@@ -191,11 +245,15 @@ def _citation_entries(sources):
     return entries
 
 
-def _render_sources(sources):
+def _render_sources(sources, status="ok"):
     """Render the source block separately from the answer text."""
 
     with st.container(border=True):
         st.caption("Sources")
+        if status != "ok":
+            st.caption(NO_SUPPORTING_GUIDANCE)
+            return
+
         entries = _citation_entries(sources)
 
         if not entries:
@@ -221,15 +279,16 @@ def _render_conversation(messages):
         if messages[-1]["role"] != state.USER:
             return
 
-        # The reply's bubble is opened before the backend is called, not after. On
-        # the first question the page swaps the greeting for the conversation, and
-        # Streamlit leaves whatever has not been redrawn yet on screen, faded. The
-        # bubble takes the old chat bar's place, so without this the bar and its
-        # transcript linger for the whole ~30s wait.
         with st.chat_message(state.ASSISTANT, avatar=ASSISTANT_AVATAR):
-            response = fetch_reply(messages[-1]["content"], messages[:-1])
+            with st.spinner("Checking the answering service and preparing your answer..."):
+                state.set_request_in_flight(True)
+                try:
+                    response = fetch_reply(messages[-1]["content"], messages[:-1])
+                finally:
+                    state.set_request_in_flight(False)
+
             reply = st.write_stream(stream_answer(response["answer"]))
-            _render_sources(response.get("sources", []))
+            _render_sources(response.get("sources", []), response.get("status"))
 
         state.add_message(
             state.ASSISTANT,
@@ -245,6 +304,9 @@ def _render_conversation(messages):
 
 
 def _submit_question():
+    if state.request_in_flight():
+        return
+
     question = st.session_state.get(QUESTION_KEY, "").strip()
 
     if not question:
@@ -267,21 +329,27 @@ def _render_chat_input():
     """
 
     with st.container(key="hs_chat_bar"):
-        voice.take_recording(st.container(key="hs_voice"), QUESTION_KEY)
-
-        notice = voice.pop_notice()
-
-        if notice:
-            st.caption(VOICE_NOTICES[notice])
-
-        st.chat_input(INPUT_PLACEHOLDER, key=QUESTION_KEY, on_submit=_submit_question)
+        st.chat_input(
+            INPUT_PLACEHOLDER,
+            key=QUESTION_KEY,
+            on_submit=_submit_question,
+            disabled=state.request_in_flight(),
+        )
 
 
 def _render_empty_state():
-    """The first thing a user sees: a greeting with the input under it."""
+    """The first thing a user sees: a greeting with scope and examples."""
 
     with st.container(key="hs_hero"):
         st.title(GREETING, anchor=False)
+
+        st.markdown(SCOPE_TEXT)
+        st.caption(DOCUMENT_SET_TEXT)
+
+        st.markdown("### Example questions")
+
+        for question in EXAMPLE_QUESTIONS:
+            st.markdown(f"- {question}")
 
         _render_chat_input()
 
@@ -300,8 +368,10 @@ def main():
     )
 
     _apply_styles()
-    _render_sidebar()
     state.init_state()
+    _render_sidebar()
+
+    st.warning(DISCLAIMER_TEXT)
 
     # One fixed, hidden slot for the browser copy, so loading and saving mount
     # the same element. Until the tab's copy arrives after a reload, draw nothing:
