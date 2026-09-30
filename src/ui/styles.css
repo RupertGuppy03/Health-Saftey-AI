@@ -58,11 +58,20 @@ footer,
 .st-key-hs_hero h1 {
     /* Streamlit sets text-align on headings directly, so override it here. */
     text-align: center;
-    font-size: 1.875rem;
+    font-size: 2.25rem;
     font-weight: 500;
     letter-spacing: -0.01em;
     padding: 0;
     margin-bottom: 1.5rem;
+}
+
+/* The examples heading sits under the greeting, smaller, and reads left with
+ * its list. */
+.st-key-hs_examples h1 {
+    text-align: left;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 0;
 }
 
 /* ---------- messages ---------- */
@@ -134,6 +143,16 @@ footer,
 .st-key-hs_chat_bar [data-testid="stChatInputTextArea"] {
     padding: 0.8125rem 0.5rem 0.8125rem 1.25rem;
     font-size: 1rem;
+}
+
+/* The disclaimer: one quiet, centred line tucked under the bar. */
+.st-key-hs_disclaimer {
+    margin-top: -0.5rem;
+}
+
+.st-key-hs_disclaimer [data-testid="stCaptionContainer"] {
+    text-align: center;
+    font-size: 0.75rem;
 }
 
 /* ---------- voice ---------- */
@@ -253,10 +272,44 @@ footer,
 
 /* ---------- sidebar ---------- */
 
+/* The collapse arrow's bar takes a row of its own above the sidebar. Lift it out
+ * of the flow so the logo can sit at the very top, with the arrow over its corner. */
+[data-testid="stSidebarHeader"] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+
+[data-testid="stSidebarUserContent"] {
+    padding-top: 1rem;
+}
+
+/* The logo, centred and scaled down by the browser from full resolution. */
+.st-key-hs_logo {
+    align-items: center;
+}
+
+.st-key-hs_logo img {
+    width: 10rem;
+    height: auto;
+}
+
+/* No fullscreen button on hover: it is a logo, not a figure. */
+.st-key-hs_logo [data-testid="stElementToolbar"] {
+    display: none;
+}
+
 [data-testid="stSidebar"] h3 {
     font-size: 1rem;
     font-weight: 600;
     padding: 0;
+}
+
+/* Section dividers: Streamlit spaces an hr for a long page, which stretches a
+ * sidebar this short, so close them up. */
+[data-testid="stSidebar"] hr {
+    margin: 0.25rem 0;
 }
 
 /* The documents dropdown: a plain row, not a boxed panel. */
@@ -308,6 +361,12 @@ footer,
     gap: 0.125rem;
 }
 
+/* The section heading keeps caption size but reads in the body colour, like
+ * the Documents dropdown label. */
+.st-key-hs_conversations_label [data-testid="stCaptionContainer"] {
+    color: inherit;
+}
+
 .st-key-hs_conversations {
     gap: 0.125rem;
 }
@@ -321,6 +380,12 @@ footer,
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+}
+
+/* The About text at caption size, so it reads as a note like the rest of the
+ * sidebar rather than as page copy. */
+.st-key-hs_about [data-testid="stMarkdownContainer"] p {
+    font-size: 0.875rem;
 }
 
 /* Put the space back in front of each industry heading. */
