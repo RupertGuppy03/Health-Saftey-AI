@@ -52,16 +52,15 @@ VOICE_NOTICES = {
 STYLES = Path(__file__).with_name("styles.css")
 # Drawn at its own size and scaled in styles.css: given a width, st.image
 # shrinks the file to that many pixels, which blurs it on a high-DPI screen.
-LOGO = Path(__file__).parents[2] / "sprites" / "AI-logo.avif"
+# The logo is dark grey, which all but disappears on a dark sidebar, so dark
+# mode swaps in a lightened copy of the same file.
+SPRITES = Path(__file__).parents[2] / "sprites"
+LOGO = {"light": SPRITES / "AI-logo.png", "dark": SPRITES / "AI-logo-dark.png"}
 
 # The surface behind a user bubble and the chat bar, per theme. These mirror
 # secondaryBackgroundColor in .streamlit/config.toml, which Streamlit applies to
 # its own widgets but does not publish to CSS for us to reuse.
 SURFACE = {"light": "#F4F4F4", "dark": "#303030"}
-
-# The logo is dark grey, which all but disappears on a dark sidebar, so dark
-# mode lifts it. Brightening keeps its two tones apart, where a flat tint would not.
-LOGO_FILTER = {"light": "none", "dark": "brightness(2)"}
 
 
 def _active_theme():
@@ -85,10 +84,7 @@ def _apply_styles():
     theme = _active_theme()
 
     if theme in SURFACE:
-        css += (
-            f"\n:root {{ --hs-surface: {SURFACE[theme]}; "
-            f"--hs-logo-filter: {LOGO_FILTER[theme]}; }}\n"
-        )
+        css += f"\n:root {{ --hs-surface: {SURFACE[theme]}; }}\n"
 
     st.html(f"<style>{css}</style>")
 
@@ -196,7 +192,7 @@ def _render_sidebar():
 
     with st.sidebar:
         with st.container(key="hs_logo"):
-            st.image(str(LOGO))
+            st.image(str(LOGO.get(_active_theme(), LOGO["light"])))  # type: ignore
 
         st.markdown(f"### {PAGE_TITLE}")
         st.caption(SIDEBAR_BLURB)

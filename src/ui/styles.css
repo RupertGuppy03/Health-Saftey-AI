@@ -5,20 +5,17 @@
  * bar -- is declared here as --hs-surface. app.py overrides it to match the
  * theme the viewer actually has selected; the media query below is the fallback
  * when that is not available. Both values mirror secondaryBackgroundColor in
- * .streamlit/config.toml. --hs-logo-filter, which lightens the logo in dark
- * mode, is switched the same way. */
+ * .streamlit/config.toml. */
 
 :root {
     --hs-column: 46rem;          /* reading width for messages and the chat bar */
     --hs-bubble-radius: 1.375rem;
     --hs-surface: #F4F4F4;       /* light */
-    --hs-logo-filter: none;
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
         --hs-surface: #303030;
-        --hs-logo-filter: brightness(2);
     }
 }
 
@@ -296,7 +293,6 @@ footer,
 .st-key-hs_logo img {
     width: 10rem;
     height: auto;
-    filter: var(--hs-logo-filter);
 }
 
 /* No fullscreen button on hover: it is a logo, not a figure. */
