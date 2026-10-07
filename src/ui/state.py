@@ -150,7 +150,9 @@ def restore_conversations(conversations, active=None):
 
     numbers = [
         int(suffix)
-        for suffix in (conversation_id.rsplit("-", 1)[-1] for conversation_id in conversations)
+        for suffix in (
+            conversation_id.rsplit("-", 1)[-1] for conversation_id in conversations
+        )
         if suffix.isdigit()
     ]
     st.session_state[NEXT_CONVERSATION_NUMBER_KEY] = max(numbers, default=1) + 1
