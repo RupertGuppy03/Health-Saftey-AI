@@ -46,8 +46,9 @@ def _resolve_api_key(api_key: Optional[str] = None) -> str:
 
 def _build_chat_llm(
     model: str,
-    temperature: float,
+    temperature: Optional[float] = None,
     reasoning_effort: Optional[str] = None,
+    verbosity: Optional[str] = None,
     api_key: Optional[str] = None,
 ):
     """Construct a ChatOpenAI from settings — the only place that does.
@@ -56,18 +57,24 @@ def _build_chat_llm(
     then fall back to older signatures (model/api_key) so the code works across
     langchain-openai versions.
 
-    reasoning_effort is only passed when one is configured. Sending nothing is not
-    the same as sending a value the caller happens to think is the default, and the
-    answering model's signed-off behaviour is the behaviour it has with the
-    parameter absent.
+    temperature, reasoning_effort and verbosity are only passed when one is
+    configured. Sending nothing is not the same as sending a value the caller
+    happens to think is the default, and the answering model's signed-off behaviour
+    is the behaviour it has with the parameter absent.
     """
 
     api_key = _resolve_api_key(api_key)
 
-    options = {"temperature": temperature}
+    options = {}
+
+    if temperature is not None:
+        options["temperature"] = temperature
 
     if reasoning_effort is not None:
         options["reasoning_effort"] = reasoning_effort
+
+    if verbosity is not None:
+        options["verbosity"] = verbosity
 
     # Try modern signature first
     try:

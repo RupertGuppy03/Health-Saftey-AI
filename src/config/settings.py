@@ -39,7 +39,11 @@ CHROMA_PERSIST_DIR = PROJECT_ROOT / "vectorstore"
 # Model, temperature and reasoning effort are all read from here, so swapping the
 # answering model or retuning it is a settings edit rather than a code change.
 LLM_MODEL = "gpt-5-mini"
-LLM_TEMPERATURE = 0.1
+
+# None sends no temperature. Reasoning models (gpt-5 family and newer) only accept
+# the default of 1 and reject anything else; langchain-openai was already silently
+# dropping the old 0.1 for gpt-5-mini, so None changes nothing it actually receives.
+LLM_TEMPERATURE = None
 
 # Reasoning effort for the answering model: "minimal", "low", "medium", "high", or
 # None to send nothing and let the API pick its own default.

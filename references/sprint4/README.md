@@ -13,20 +13,15 @@ mitigation, out-of-scope query handling, and construction document tagging. See
 As a developer, I want one notebook that measures latency and answer quality in the same run so that every configuration we try is judged on speed and quality together.
 
 **Tasks**
-- Create a notebook that takes a model, a reasoning effort and a verbosity level for each run
-- Include the candidate models: `gpt-5-mini` (current), `gpt-5.4-mini` and `gpt-5.4-nano`
-- For each run, record the latency and score the answer with G-Eval
-- Use 3 questions from the golden set, the same for every run
-- Include the current configuration as the baseline that every other run is compared against
+- Create a notebook that lets you pick a model, a reasoning effort and a verbosity level for each run so we can test the best configuration
+- Include candidate models: `gpt-5-mini` (current), `gpt-6-luna` and `gpt-6.1-sol`
+- For the test run, record the latency and score the answer with only the DeepEval metrics from previous testing
+- Use 3 questions from the golden set, for the test run
+- Make sure we can get DeepEval metrics so we can later compare against the baseline for choosing the right model settings
 
 **Acceptance Tests**
-- Given a model, reasoning effort and verbosity level, when the notebook is run, then a latency and a G-Eval score are recorded for each question.
+- Given a model, reasoning effort and verbosity level, when the notebook is run, then a latency and Faithfulness, Contextual Relevancy and Answer Relevancy scores are recorded for each question.
 - Given two configurations, when their results are compared, then both answered the same questions.
-- Given the current configuration, when the notebook is run, then its results are recorded as the baseline.
-
-**Definition of Done**
-- A different setting can be tested by changing its values, with no code edits
-- Another team member can run the notebook from a clean clone
 
 ---
 

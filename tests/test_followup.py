@@ -407,3 +407,27 @@ def test_a_configured_reasoning_effort_reaches_the_client():
     )
 
     assert built.reasoning_effort == "minimal"
+
+
+def test_no_temperature_is_sent_when_none_is_configured():
+    built = answer_module._build_chat_llm(
+        model="gpt-6-luna", temperature=None, api_key="test-key"
+    )
+
+    assert built.temperature is None
+
+
+def test_no_verbosity_is_sent_when_none_is_configured():
+    built = answer_module._build_chat_llm(
+        model="gpt-5-mini", temperature=0.1, verbosity=None, api_key="test-key"
+    )
+
+    assert built.verbosity is None
+
+
+def test_a_configured_verbosity_reaches_the_client():
+    built = answer_module._build_chat_llm(
+        model="gpt-5-mini", temperature=0.1, verbosity="low", api_key="test-key"
+    )
+
+    assert built.verbosity == "low"
