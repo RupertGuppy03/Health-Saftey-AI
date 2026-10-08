@@ -126,10 +126,36 @@ def replace_messages(messages):
     get_conversations()[active_conversation_id()] = list(messages)
 
 
-def clear_messages():
-    """Remove the active conversation's message history."""
+def snapshot():
+    """Everything a reload needs back: every conversation and which one is open."""
 
-    get_messages().clear()
+    init_state()
+    return {"conversations": get_conversations(), "active": active_conversation_id()}
+
+
+def restore_conversations(conversations, active=None):
+    """Swap in every conversation, as when they are restored after a reload.
+
+    Numbering carries on past the highest restored ID, so a new chat never
+    reuses one that is already in the sidebar.
+    """
+
+    if not conversations:
+        return
+
+    st.session_state[CONVERSATIONS_KEY] = dict(conversations)
+    st.session_state[ACTIVE_CONVERSATION_KEY] = (
+        active if active in conversations else next(reversed(conversations))
+    )
+
+    numbers = [
+        int(suffix)
+        for suffix in (
+            conversation_id.rsplit("-", 1)[-1] for conversation_id in conversations
+        )
+        if suffix.isdigit()
+    ]
+    st.session_state[NEXT_CONVERSATION_NUMBER_KEY] = max(numbers, default=1) + 1
 
 
 def request_in_flight():
