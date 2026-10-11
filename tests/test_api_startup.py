@@ -140,6 +140,11 @@ def test_the_chat_model_is_built_once_for_two_questions(monkeypatch):
             }
         ],
     )
+    monkeypatch.setattr(
+        api_app,
+        "score_citation_accuracy",
+        lambda *args, **kwargs: (1.0, "Citation matches."),
+    )
 
     # No dependency override here: get_llm has to run for real, or the cache
     # under test is never exercised.
@@ -187,6 +192,11 @@ def test_the_vector_store_is_opened_once_for_two_questions(tmp_path, monkeypatch
 
     monkeypatch.setattr(chromadb, "PersistentClient", counting_persistent_client)
     monkeypatch.setattr("src.retrieval.retriever.embed_query", lambda q, client=None: vector)
+    monkeypatch.setattr(
+        api_app,
+        "score_citation_accuracy",
+        lambda *args, **kwargs: (1.0, "Citation matches."),
+    )
 
     api_app.app.dependency_overrides[api_app.get_llm] = lambda: StubLLM()
     client = TestClient(api_app.app)

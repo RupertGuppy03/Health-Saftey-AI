@@ -59,6 +59,11 @@ def test_end_to_end_seeded_collection(monkeypatch):
     # reassigning the module attribute would leave the real client in place and
     # this test would quietly call OpenAI.
     api_app.app.dependency_overrides[api_app.get_llm] = lambda: StubLLM()
+    monkeypatch.setattr(
+        api_app,
+        "score_citation_accuracy",
+        lambda *args, **kwargs: (1.0, "Citation matches."),
+    )
 
     try:
         test_client = TestClient(api_app.app)

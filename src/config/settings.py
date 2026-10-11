@@ -117,10 +117,12 @@ HEADING_STRUCTURAL_SHARE = 0.40
 # setting HS_API_BASE_URL before starting it.
 API_BASE_URL = os.environ.get("HS_API_BASE_URL", "http://localhost:8000")
 
-# How long the interface waits for an answer. A real one runs retrieval plus a
-# gpt-5-mini call, measured at ~33s in docs/startup_and_query_timings.md, so
-# httpx's 5 second default would time out every question.
-API_TIMEOUT_SECONDS = float(os.environ.get("HS_API_TIMEOUT_SECONDS", "60"))
+# How long the interface waits for an answer plus its citation judge. The judge
+# adds an LLM request after generation; keep this configurable for slower calls.
+API_TIMEOUT_SECONDS = float(os.environ.get("HS_API_TIMEOUT_SECONDS", "240"))
+
+# DeepEval judge used to report citation accuracy with each chat answer.
+DAG_JUDGE_MODEL = os.environ.get("HS_DAG_JUDGE_MODEL", "gpt-4.1")
 
 # Conversation history
 # Keep the same token budget at the interface, API and answering layers. History

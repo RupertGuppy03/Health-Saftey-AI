@@ -35,7 +35,14 @@ REAL_VOICE_MOUNT = voice._mount
 def _stub_fetch(question, history=None):
     """Stands in for responder.fetch_reply: one answer with no sources."""
 
-    return {"answer": STUB_REPLY, "sources": [], "status": "ok"}
+    return {
+        "answer": STUB_REPLY,
+        "sources": [],
+        "status": "ok",
+        "citation_present": False,
+        "dag_score": 0.0,
+        "dag_status": "scored",
+    }
 
 
 # The session state entry naming which fake tab an AppTest belongs to. A reload
@@ -233,6 +240,39 @@ def test_the_reply_renders_as_an_assistant_message_below_the_question(app):
     assert STUB_REPLY in _texts(app)[1]
 
 
+def test_the_reply_shows_citation_presence_and_dag_score(app):
+    app.run()
+    _ask(app, "Do I need edge protection on a roof?")
+
+    captions = [caption.value for caption in app.chat_message[1].caption]
+
+    assert (
+        "Citation source: not found · DeepEval DAG citation score: "
+        "0.00 / 1.00 (FAIL)"
+    ) in captions
+
+
+def test_the_reply_explains_when_dag_scoring_is_unavailable(app, monkeypatch):
+    monkeypatch.setattr(
+        app_module,
+        "fetch_reply",
+        lambda question, history=None: {
+            "answer": STUB_REPLY,
+            "sources": [{"source_file": "working-on-roofs.pdf"}],
+            "status": "ok",
+            "citation_present": True,
+            "dag_score": None,
+            "dag_status": "unavailable",
+        },
+    )
+    app.run()
+    _ask(app, "Do I need edge protection on a roof?")
+
+    captions = [caption.value for caption in app.chat_message[1].caption]
+
+    assert "Citation source: found · DeepEval DAG score unavailable; see backend logs" in captions
+
+
 def test_an_answer_without_sources_explains_that_supporting_guidance_was_not_found(app):
     app.run()
     _ask(app, "Do I need edge protection on a roof?")
@@ -249,6 +289,9 @@ def test_sources_show_document_page_and_section_and_collapse_duplicate_chunks(ap
         lambda question, history=None: {
             "answer": STUB_REPLY,
             "status": "ok",
+            "citation_present": True,
+            "dag_score": 1.0,
+            "dag_status": "scored",
             "sources": [
                 {
                     "source_file": "working-on-roofs.pdf",
@@ -272,6 +315,10 @@ def test_sources_show_document_page_and_section_and_collapse_duplicate_chunks(ap
     assert markdown.count("**Working on Roofs**") == 1
     assert "pages 4, 5" in markdown
     assert "section: Working at height" in markdown
+    assert (
+        "Citation source: found · DeepEval DAG citation score: "
+        "1.00 / 1.00 (PASS)"
+    ) in [caption.value for caption in app.chat_message[1].caption]
 
 
 def test_guardrail_answers_do_not_show_sources(app, monkeypatch):

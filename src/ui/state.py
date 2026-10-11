@@ -103,7 +103,16 @@ def get_messages():
     return get_conversations()[active_conversation_id()]
 
 
-def add_message(role, content, *, sources=None, status=None):
+def add_message(
+    role,
+    content,
+    *,
+    sources=None,
+    status=None,
+    citation_present=None,
+    dag_score=None,
+    dag_status=None,
+):
     """Append one message and return it."""
 
     init_state()
@@ -113,6 +122,18 @@ def add_message(role, content, *, sources=None, status=None):
     if role == ASSISTANT:
         message["sources"] = sources or []
         message["status"] = status or "ok"
+        if citation_present is not None:
+            if not isinstance(citation_present, bool):
+                raise TypeError("citation_present must be a boolean or None")
+            message["citation_present"] = citation_present
+        if dag_score is not None:
+            if isinstance(dag_score, bool) or not isinstance(dag_score, (int, float)):
+                raise TypeError("dag_score must be a number or None")
+            message["dag_score"] = dag_score
+        if dag_status is not None:
+            if dag_status not in {"scored", "not_scored", "unavailable"}:
+                raise ValueError(f"Unknown DAG score status: {dag_status}")
+            message["dag_status"] = dag_status
 
     get_messages().append(message)
 
