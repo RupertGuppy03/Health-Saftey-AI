@@ -225,7 +225,39 @@ def _render_message(message):
         if message["role"] != state.ASSISTANT:
             return
 
+        _render_citation_evaluation(
+            message.get("citation_present"),
+            message.get("dag_score"),
+            message.get("dag_status", "unavailable"),
+        )
         _render_sources(message.get("sources", []), message.get("status", "ok"))
+
+
+def _render_citation_evaluation(citation_present, dag_score, dag_status):
+    """Show whether this answer has a source and its DeepEval DAG score."""
+
+    if citation_present is True:
+        citation_label = "Citation source: found"
+    elif citation_present is False:
+        citation_label = "Citation source: not found"
+    else:
+        citation_label = "Citation source: unavailable"
+
+    if (
+        dag_status == "scored"
+        and isinstance(dag_score, (int, float))
+        and not isinstance(dag_score, bool)
+        and 0 <= dag_score <= 1
+    ):
+        verdict = "PASS" if dag_score >= 1.0 else "FAIL"
+        st.caption(
+            f"{citation_label} · DeepEval DAG citation score: "
+            f"{dag_score:.2f} / 1.00 ({verdict})"
+        )
+    elif dag_status == "not_scored":
+        st.caption(f"{citation_label} · DeepEval DAG score: not scored for this response")
+    else:
+        st.caption(f"{citation_label} · DeepEval DAG score unavailable; see backend logs")
 
 
 def _citation_entries(sources):
@@ -302,6 +334,11 @@ def _render_conversation(messages):
                     state.set_request_in_flight(False)
 
             reply = st.write_stream(stream_answer(response["answer"]))
+            _render_citation_evaluation(
+                response.get("citation_present"),
+                response.get("dag_score"),
+                response.get("dag_status", "unavailable"),
+            )
             _render_sources(response.get("sources", []), response.get("status", "ok"))
 
         state.add_message(
@@ -309,6 +346,9 @@ def _render_conversation(messages):
             reply,
             sources=response.get("sources", []),
             status=response.get("status"),
+            citation_present=response.get("citation_present"),
+            dag_score=response.get("dag_score"),
+            dag_status=response.get("dag_status"),
         )
 
 

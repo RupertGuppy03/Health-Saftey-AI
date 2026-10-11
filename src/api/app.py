@@ -21,7 +21,8 @@ from pydantic import BaseModel, Field, field_validator
 
 from src import conversation
 from src.answer import _get_condense_llm, _get_openai_chat_llm
-from src.config.settings import CHROMA_COLLECTION_NAME, CHROMA_PERSIST_DIR
+from src.config.settings import CHROMA_COLLECTION_NAME, CHROMA_PERSIST_DIR, DAG_JUDGE_MODEL
+from src.evaluation.citations import has_citation_source, score_citation_accuracy
 from src.pipeline import run_query
 from src.retrieval.retriever import _get_openai_client
 from src.transcription import transcribe
@@ -171,6 +172,9 @@ class ChatResponse(BaseModel):
     answer: str
     sources: List[Source]
     latency_seconds: float
+    citation_present: bool
+    dag_score: Optional[float] = None
+    dag_status: Literal["scored", "not_scored", "unavailable"]
     # "ok", "no_results" or "guardrail". The interface uses this to tell a real
     # answer from "nothing relevant was found" without parsing the answer text.
     status: str
@@ -383,6 +387,25 @@ def chat(request: ChatRequest, llm=Depends(get_llm), condense_llm=Depends(get_co
             "Something went wrong while answering that question. Please try again.",
             result.get("error") or "no detail reported",
         )
+
+    result["citation_present"] = has_citation_source(result)
+    if result["status"] != "ok":
+        result["dag_score"] = None
+        result["dag_status"] = "not_scored"
+    else:
+        try:
+            result["dag_score"], _ = score_citation_accuracy(
+                request.question,
+                result["answer"],
+                result["sources"],
+                result["chunks"],
+                model=DAG_JUDGE_MODEL,
+            )
+            result["dag_status"] = "scored"
+        except Exception as exc:
+            logger.warning("DeepEval citation DAG scoring failed: %s", exc)
+            result["dag_score"] = None
+            result["dag_status"] = "unavailable"
 
     return result
 

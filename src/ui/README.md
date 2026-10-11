@@ -49,6 +49,10 @@ Each successful backend response stores its source metadata with the assistant
 message. The page renders citations separately from the answer, grouping
 retrieved chunks by document and section and formatting stored filenames into
 readable document titles.
+It also displays whether a citation source was returned and the backend's
+DeepEval DAG citation score. DAG scoring uses an LLM judge on the backend, so
+each grounded answer takes an additional model call and incurs its associated
+latency and API cost.
 
 Conversations are held only in Streamlit's browser session state. The sidebar
 can start, switch, and delete conversations without contacting the backend, but

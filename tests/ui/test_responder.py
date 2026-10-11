@@ -88,13 +88,45 @@ def test_fetch_reply_preserves_backend_sources(monkeypatch):
         "sources": sources,
         "latency_seconds": 3.2,
         "status": "ok",
+        "citation_present": True,
+        "dag_score": 0.9,
+        "dag_status": "scored",
     }))
 
     assert responder.fetch_reply("What edge protection do I need?") == {
         "answer": ANSWER,
         "sources": sources,
         "status": "ok",
+        "citation_present": True,
+        "dag_score": 0.9,
+        "dag_status": "scored",
     }
+
+
+def test_fetch_reply_marks_an_old_backend_without_evaluation_fields_unavailable(monkeypatch):
+    _capture(monkeypatch, _response({"answer": ANSWER, "sources": [], "status": "ok"}))
+
+    reply = responder.fetch_reply("What edge protection do I need?")
+
+    assert reply["citation_present"] is None
+    assert reply["dag_score"] is None
+    assert reply["dag_status"] == "unavailable"
+
+
+@pytest.mark.parametrize(
+    "evaluation",
+    [
+        {"citation_present": "yes", "dag_score": 0.9, "dag_status": "scored"},
+        {"citation_present": True, "dag_score": 1.5, "dag_status": "scored"},
+        {"citation_present": True, "dag_score": None, "dag_status": "scored"},
+        {"citation_present": True, "dag_score": 0.5, "dag_status": "unavailable"},
+    ],
+)
+def test_fetch_reply_rejects_invalid_citation_evaluation_shape(monkeypatch, evaluation):
+    payload = {"answer": ANSWER, "sources": [], "status": "ok", **evaluation}
+    _capture(monkeypatch, _response(payload))
+
+    assert responder.fetch_reply("What edge protection do I need?")["status"] == "error"
 
 
 def test_the_placeholder_reply_is_gone():
