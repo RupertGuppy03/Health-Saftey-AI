@@ -14,14 +14,20 @@ from langchain_core.runnables import Runnable, RunnableLambda
 from langchain_openai import ChatOpenAI
 
 from src import conversation
-from src.config.prompts import CONDENSE_QUESTION_PROMPT, GROUNDING_SYSTEM_PROMPT
+from src.config.prompts import (
+    ABOUT_ASSISTANT_ANSWER,
+    CONDENSE_QUESTION_PROMPT,
+    GROUNDING_SYSTEM_PROMPT,
+)
 from src.config.settings import (
     HISTORY_CONDENSE_MODEL,
     HISTORY_CONDENSE_REASONING_EFFORT,
     HISTORY_CONDENSE_TEMPERATURE,
+    HISTORY_CONDENSE_VERBOSITY,
     LLM_MODEL,
     LLM_REASONING_EFFORT,
     LLM_TEMPERATURE,
+    LLM_VERBOSITY,
     RETRIEVAL_RELEVANCE_THRESHOLD,
     RETRIEVAL_TOP_K,
 )
@@ -99,6 +105,7 @@ def _get_openai_chat_llm(model: Optional[str] = None, api_key: Optional[str] = N
         model=model if model is not None else LLM_MODEL,
         temperature=LLM_TEMPERATURE,
         reasoning_effort=LLM_REASONING_EFFORT,
+        verbosity=LLM_VERBOSITY,
         api_key=api_key,
     )
 
@@ -116,6 +123,7 @@ def _get_condense_llm(model: Optional[str] = None, api_key: Optional[str] = None
         model=model if model is not None else HISTORY_CONDENSE_MODEL,
         temperature=HISTORY_CONDENSE_TEMPERATURE,
         reasoning_effort=HISTORY_CONDENSE_REASONING_EFFORT,
+        verbosity=HISTORY_CONDENSE_VERBOSITY,
         api_key=api_key,
     )
 
@@ -338,10 +346,43 @@ def _scope_refusal(question: str) -> Optional[str]:
     return None
 
 
+# Questions about the assistant itself rather than about a subject (issue S3-05).
+# They carry no health and safety keyword, so without this they were refused as
+# off topic.
+ABOUT_ASSISTANT_SIGNAL = re.compile(
+    r"\b(?:what|who)\s+(?:are\s+you|you\s+are)\b|"
+    r"\bwhat\s+(?:can|do)\s+you\s+do\b|"
+    r"\bhow\s+(?:can|could|do|will)\s+you\s+help\b|"
+    r"\bwhy\s+(?:are\s+you|you\s+are|would\s+you\s+be)\s+(?:helpful|useful)\b|"
+    r"\btell\s+me\s+about\s+yourself\b|"
+    r"\bwhat\s+is\s+this\s+(?:app|assistant|tool|chatbot)\b"
+)
+
+
+def _about_assistant_answer(question: str) -> Optional[str]:
+    """Answer "what are you?" with the fixed description, without retrieval.
+
+    Only when the question has no health and safety signal: "how can you help with
+    asbestos?" is a question about asbestos, and goes to retrieval as normal.
+    """
+
+    if _has_health_safety_signal(question):
+        return None
+
+    if ABOUT_ASSISTANT_SIGNAL.search(question.casefold()):
+        return ABOUT_ASSISTANT_ANSWER
+
+    return None
+
+
 def _preflight_guardrail_answer(question: str) -> Optional[str]:
     """Handle unambiguous scope cases before retrieval can introduce noise."""
 
-    return _intent_refusal(question) or _scope_refusal(question)
+    return (
+        _intent_refusal(question)
+        or _about_assistant_answer(question)
+        or _scope_refusal(question)
+    )
 
 
 def build_condense_chain(llm=None):

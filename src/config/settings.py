@@ -33,12 +33,12 @@ CHROMA_COLLECTION_NAME = "hs_construction_v1"
 CHROMA_PERSIST_DIR = PROJECT_ROOT / "vectorstore"
 
 # OpenAI model configuration
-# The project uses GPT-5-mini for grounded answers, while the embedding model stays
+# The project uses gpt-6-luna for grounded answers, while the embedding model stays
 # separate because embeddings and chat generation are different tasks.
 #
 # Model, temperature and reasoning effort are all read from here, so swapping the
 # answering model or retuning it is a settings edit rather than a code change.
-LLM_MODEL = "gpt-5-mini"
+LLM_MODEL = "gpt-6-luna"
 
 # None sends no temperature. Reasoning models (gpt-5 family and newer) only accept
 # the default of 1 and reject anything else; langchain-openai was already silently
@@ -48,11 +48,15 @@ LLM_TEMPERATURE = None
 # Reasoning effort for the answering model: "minimal", "low", "medium", "high", or
 # None to send nothing and let the API pick its own default.
 #
-# None is what the code has always done, and it is what the Sprint 2 edge case set
-# was signed off against, so it stays the default. "minimal" cuts a query from ~32s
-# to ~11.7s (issue S3-01 in docs/issue_register.md) — a tempting lever, but changing
-# it needs the edge case set re-run and H&S lead sign-off first.
-LLM_REASONING_EFFORT = None
+# "medium" is the configuration chosen in Sprint 4 story 2 (the latency and quality
+# notebook, S4_latency_quality_eval.ipynb) as the fastest that held answer quality.
+# Changing it needs the edge case set re-run and H&S lead sign-off (issue S3-01).
+LLM_REASONING_EFFORT = "medium"
+
+# Answer length for the answering model: "low", "medium", "high", or None to send
+# nothing. Story 2 picked "medium", but answers read too brief in the app, so this
+# was raised to "high"; it still needs a notebook run to confirm latency and quality.
+LLM_VERBOSITY = "high"
 
 # OpenAI embedding configuration
 # Single source-of-truth for the embedding model used at BOTH ingestion and query
@@ -135,7 +139,8 @@ HISTORY_TOKEN_LIMIT = 16_000
 # model so the rewrite can be tuned without changing answer generation.
 HISTORY_CONDENSE_MODEL = LLM_MODEL
 HISTORY_CONDENSE_TEMPERATURE = LLM_TEMPERATURE
-HISTORY_CONDENSE_REASONING_EFFORT = "minimal"
+HISTORY_CONDENSE_REASONING_EFFORT = "low"
+HISTORY_CONDENSE_VERBOSITY = "medium"
 
 # Voice input
 # A spoken question is transcribed by the backend and returned to the interface
