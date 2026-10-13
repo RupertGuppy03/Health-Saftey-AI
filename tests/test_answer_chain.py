@@ -291,3 +291,50 @@ def test_compensation_question_is_refused_before_retrieval():
 
     assert result["status"] == "guardrail"
     assert "cannot provide legal advice" in result["answer"].lower()
+
+
+def test_a_question_about_the_assistant_gets_the_fixed_description():
+    """S3-05: "what are you?" has no safety keyword but should not be refused."""
+
+    from src.config.prompts import ABOUT_ASSISTANT_ANSWER
+
+    retrieved = []
+
+    def recording_retriever(question, n_results=None, collection_name=None):
+        retrieved.append(question)
+        return []
+
+    for question in [
+        "can you explain to me what you are and why you are helpful to me and my small business?",
+        "What are you?",
+        "Who are you?",
+        "What can you do?",
+        "How can you help me?",
+        "Tell me about yourself",
+    ]:
+        result = answer_question(
+            question, retriever_fn=recording_retriever, llm=StubLLM()
+        )
+
+        assert result["answer"] == ABOUT_ASSISTANT_ANSWER, question
+        assert result["status"] == "guardrail", question
+        assert result["sources"] == [], question
+
+    assert retrieved == [], "a question about the assistant should never reach retrieval"
+
+
+def test_a_safety_question_phrased_to_the_assistant_still_goes_to_retrieval():
+    from src.answer import _about_assistant_answer
+
+    assert _about_assistant_answer("How can you help me manage asbestos on site?") is None
+
+
+def test_off_topic_questions_are_still_refused_alongside_the_assistant_reply():
+    from src.answer import _preflight_guardrail_answer
+
+    refusal = (
+        "I can only assist with New Zealand workplace health and safety questions. "
+        "Please ask a health and safety related question."
+    )
+
+    assert _preflight_guardrail_answer("What is the capital of France?") == refusal

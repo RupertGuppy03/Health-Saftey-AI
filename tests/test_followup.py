@@ -330,9 +330,14 @@ def _built(monkeypatch):
 
     calls = []
 
-    def fake_build(model, temperature, reasoning_effort=None, api_key=None):
+    def fake_build(model, temperature, reasoning_effort=None, verbosity=None, api_key=None):
         calls.append(
-            {"model": model, "temperature": temperature, "reasoning_effort": reasoning_effort}
+            {
+                "model": model,
+                "temperature": temperature,
+                "reasoning_effort": reasoning_effort,
+                "verbosity": verbosity,
+            }
         )
         return StubLLM()
 
@@ -362,6 +367,7 @@ def test_the_answering_model_comes_from_settings(monkeypatch):
             "model": settings.LLM_MODEL,
             "temperature": settings.LLM_TEMPERATURE,
             "reasoning_effort": settings.LLM_REASONING_EFFORT,
+            "verbosity": settings.LLM_VERBOSITY,
         }
     ]
 
@@ -376,6 +382,7 @@ def test_the_rewrite_model_comes_from_its_own_settings(monkeypatch):
             "model": settings.HISTORY_CONDENSE_MODEL,
             "temperature": settings.HISTORY_CONDENSE_TEMPERATURE,
             "reasoning_effort": settings.HISTORY_CONDENSE_REASONING_EFFORT,
+            "verbosity": settings.HISTORY_CONDENSE_VERBOSITY,
         }
     ]
 
@@ -383,12 +390,14 @@ def test_the_rewrite_model_comes_from_its_own_settings(monkeypatch):
 def test_changing_the_answering_model_in_settings_needs_no_code_change(monkeypatch):
     monkeypatch.setattr(answer_module, "LLM_MODEL", "gpt-4.1-mini")
     monkeypatch.setattr(answer_module, "LLM_REASONING_EFFORT", "minimal")
+    monkeypatch.setattr(answer_module, "LLM_VERBOSITY", "low")
     calls = _built(monkeypatch)
 
     answer_module._get_openai_chat_llm()
 
     assert calls[0]["model"] == "gpt-4.1-mini"
     assert calls[0]["reasoning_effort"] == "minimal"
+    assert calls[0]["verbosity"] == "low"
 
 
 def test_no_reasoning_effort_is_sent_when_none_is_configured():
@@ -407,3 +416,27 @@ def test_a_configured_reasoning_effort_reaches_the_client():
     )
 
     assert built.reasoning_effort == "minimal"
+
+
+def test_no_temperature_is_sent_when_none_is_configured():
+    built = answer_module._build_chat_llm(
+        model="gpt-6-luna", temperature=None, api_key="test-key"
+    )
+
+    assert built.temperature is None
+
+
+def test_no_verbosity_is_sent_when_none_is_configured():
+    built = answer_module._build_chat_llm(
+        model="gpt-5-mini", temperature=0.1, verbosity=None, api_key="test-key"
+    )
+
+    assert built.verbosity is None
+
+
+def test_a_configured_verbosity_reaches_the_client():
+    built = answer_module._build_chat_llm(
+        model="gpt-5-mini", temperature=0.1, verbosity="low", api_key="test-key"
+    )
+
+    assert built.verbosity == "low"
