@@ -1,0 +1,21 @@
+# Health & Safety AI — backend-only dependencies, for the Docker image.
+#
+# Only the packages the FastAPI backend imports. No versions here on purpose:
+# install it with requirements.txt as a constraints file so every package, and
+# every sub-dependency pip pulls in, gets the exact pin from that one list:
+#
+#     pip install -r requirements-api.txt -c requirements.txt
+#
+# Add a package here only if src/api (or something it imports) starts using it.
+
+chromadb
+deepeval
+fastapi
+langchain-core
+langchain-openai
+openai
+pydantic
+python-dotenv
+python-multipart
+tiktoken
+uvicorn

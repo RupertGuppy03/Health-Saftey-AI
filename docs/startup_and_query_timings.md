@@ -98,3 +98,49 @@ model's default effort a rewrite would cost roughly what an answer costs (~32s,
 issue S3-01), which would double the wait on every follow-up for what is a
 mechanical edit. Both the model and the effort are settings — see
 `HISTORY_CONDENSE_MODEL` and `HISTORY_CONDENSE_REASONING_EFFORT`.
+
+---
+
+# Docker image
+
+Sprint 5, story 1. The backend image that is deployed to Azure Container Apps.
+Story 2 adds the deployed latency next to the local figures above.
+
+## How to measure
+
+1. Build for Azure's architecture: `docker build --platform linux/amd64 -t hs-ai-api .`
+2. **Image size** — `docker image ls hs-ai-api`
+3. **Cold start** — run the container (`docker run -p 8001:8000 hs-ai-api`), call
+   `GET /health` and read `startup_seconds`.
+
+## Results
+
+- **Date measured:** 14/10/26
+- **Machine:** Macbook Air: M1 chip (amd64 image running under emulation)
+- **Base image:** `python:3.14-slim`
+- **Image size:** 1.02 GB (`v1`); 1.1 GB (`v2`, adds deepeval for the citation judge)
+- **Cold start (`startup_seconds`):** 0.88s
+- **Collection:** `hs_construction_v1`, 3,646 chunks, unpacked from `vectorstore-snapshot.tar.gz`
+
+## Notes
+
+The cold start is slightly above the native 0.65s because an amd64 image runs
+under emulation on an M1; Azure runs it natively. Most of the image size is
+chromadb's own dependencies (onnxruntime, numpy, grpcio, kubernetes), which it
+pulls in even though the backend embeds queries through OpenAI. Only the
+backend's packages are installed (`requirements-api.txt`), pinned by
+`requirements.txt`.
+
+## Deployed (Azure Container Apps)
+
+Sprint 5, story 2. The same image running on Azure, called from the Streamlit
+interface on a laptop with `HS_API_BASE_URL` pointed at the Azure URL.
+
+- **Date measured:** 14/10/26
+- **Where:** Azure Container Apps, Australia East, 0.5 vCPU / 1 GiB, min replicas 1
+- **Cold start (`startup_seconds`):** 0.37s and 0.71s across two revisions
+- **Query latency:** ~10s, timed by hand, for *"What edge protection do I need for work at height?"*
+
+The ~10s is well below the ~33s in the first section because that was measured on
+`gpt-5-mini` before Sprint 4 changed the answering model and settings, not because
+Azure is faster than the laptop.
