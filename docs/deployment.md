@@ -114,4 +114,56 @@ picks up the new value.
 
 ## Frontend
 
-Streamlit Community Cloud — see Sprint 5, story 3.
+| | |
+|---|---|
+| **Public URL** | https://first-step-ai.streamlit.app/ |
+| **Host** | Streamlit Community Cloud (free), deployed from `main`, entry point `streamlit_app.py` |
+| **Secret** | `HS_API_BASE_URL = "<backend public URL>"` — no OpenAI key |
+| **Dependencies** | the full root `requirements.txt`, so the client can redeploy it unchanged |
+
+### Sleep and wake-up
+
+Free Streamlit apps go to sleep after roughly 12 hours without visitors. The
+first person to open it then sees a "wake up" button and waits a minute or so
+while it restarts. Nothing is lost and no redeploy is needed. There is no paid
+option to keep it awake; before a demo, open the link yourself first.
+
+The backend never sleeps (min replicas 1), so once the interface is awake,
+answers are as fast as usual.
+
+### Updating it
+
+Push to `main` — Streamlit Cloud redeploys on its own. Code-only changes are
+quick; a change to `requirements.txt` reinstalls everything and takes several
+minutes.
+
+### Changing the backend URL
+
+App menu (**⋮**) → **Settings → Secrets** → edit `HS_API_BASE_URL` → **Save**,
+then **⋮ → Reboot app**. The reboot matters: `settings.py` reads the variable
+once at startup, so a saved secret is not picked up until the app restarts. An
+app that answers *"I could not reach the answering service"* while the backend's
+`/health` is fine is almost always this.
+
+### Redeploying or self-hosting it
+
+- **Another Streamlit Cloud account:** connect the repo, pick the branch and
+  `streamlit_app.py`, choose Python 3.14 under Advanced settings, add the
+  `HS_API_BASE_URL` secret, deploy. The URL subdomain can be changed later in
+  Settings; repo, branch, entry point and Python version cannot — delete and
+  redeploy instead.
+- **Anywhere else that runs Python** (a server, a VM, an always-on host):
+  ```bash
+  pip install -r requirements.txt
+  HS_API_BASE_URL=<backend public URL> streamlit run streamlit_app.py
+  ```
+  This avoids the sleep entirely. Voice input needs the page served over HTTPS.
+
+### Deployed checks (14/10/26)
+
+| Check | Result |
+|---|---|
+| Grounded question (*"What edge protection do I need for work at height?"*) | Answer with Working at Height / Scaffolding sources |
+| Follow-up (*"What about on scaffolding?"*) | Answered in context; DAG citation score 1.00 (PASS) |
+| Out-of-scope (*"What's a good pasta recipe?"*) | Declined; DAG "not scored for this response" |
+| Voice input | Works — transcribed and answered |

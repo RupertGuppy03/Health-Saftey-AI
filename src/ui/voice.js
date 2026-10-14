@@ -99,6 +99,27 @@ function createController() {
 
         host.append(button, wave);
         render();
+
+        resizeObserver?.disconnect();
+        resizeObserver = new ResizeObserver(() => requestAnimationFrame(alignWithSend));
+        resizeObserver.observe(host);
+        alignWithSend();
+    }
+
+    // Keep the mic level with Streamlit's send button. On one line the send button
+    // is centred in the bar; once the text wraps, Streamlit moves it down to its own
+    // row at the bottom. Following its position covers both without copying
+    // Streamlit's layout into the stylesheet. Streamlit moves the button after the
+    // bar has already resized, so this runs a frame later and again on DOM changes.
+    let resizeObserver = null;
+
+    function alignWithSend() {
+        const sendButton = host?.querySelector('[data-testid="stChatInputSubmitButton"]');
+        if (!sendButton) return;
+
+        const offset = sendButton.getBoundingClientRect().top - host.getBoundingClientRect().top;
+        button.style.top = `${offset}px`;
+        button.style.transform = "none";
     }
 
     function render() {
@@ -128,6 +149,7 @@ function createController() {
         requestAnimationFrame(() => {
             attachQueued = false;
             attach();
+            alignWithSend();
         });
     }).observe(document.body, { childList: true, subtree: true });
 
