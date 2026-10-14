@@ -98,3 +98,35 @@ model's default effort a rewrite would cost roughly what an answer costs (~32s,
 issue S3-01), which would double the wait on every follow-up for what is a
 mechanical edit. Both the model and the effort are settings — see
 `HISTORY_CONDENSE_MODEL` and `HISTORY_CONDENSE_REASONING_EFFORT`.
+
+---
+
+# Docker image
+
+Sprint 5, story 1. The backend image that is deployed to Azure Container Apps.
+Story 2 adds the deployed latency next to the local figures above.
+
+## How to measure
+
+1. Build for Azure's architecture: `docker build --platform linux/amd64 -t hs-ai-api .`
+2. **Image size** — `docker image ls hs-ai-api`
+3. **Cold start** — run the container (`docker run -p 8001:8000 hs-ai-api`), call
+   `GET /health` and read `startup_seconds`.
+
+## Results
+
+- **Date measured:** 14/10/26
+- **Machine:** Macbook Air: M1 chip (amd64 image running under emulation)
+- **Base image:** `python:3.14-slim`
+- **Image size:** 1.02 GB
+- **Cold start (`startup_seconds`):** 0.88s
+- **Collection:** `hs_construction_v1`, 3,646 chunks, unpacked from `vectorstore-snapshot.tar.gz`
+
+## Notes
+
+The cold start is slightly above the native 0.65s because an amd64 image runs
+under emulation on an M1; Azure runs it natively. Most of the image size is
+chromadb's own dependencies (onnxruntime, numpy, grpcio, kubernetes), which it
+pulls in even though the backend embeds queries through OpenAI. Only the
+backend's packages are installed (`requirements-api.txt`), pinned by
+`requirements.txt`.

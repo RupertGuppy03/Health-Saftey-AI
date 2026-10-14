@@ -1,14 +1,18 @@
-.git
-.venv
-venv
-env
-__pycache__
-*.py[cod]
-.pytest_cache
-.ipynb_checkpoints
-.env
-notebooks
-tests
-vectorstore
-data/raw
-.DS_Store
+# Allowlist: ignore everything, then let back in only what the backend image
+# uses. Anything new in the repo stays out of the image unless added here.
+*
+
+!requirements.txt
+!requirements-api.txt
+!vectorstore-snapshot.tar.gz
+!src/
+
+# Parts of src/ the API never imports.
+src/ui
+src/embeddings
+src/ingestion
+src/evaluation
+
+**/__pycache__
+**/*.py[cod]
+**/README.md
