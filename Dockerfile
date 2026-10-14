@@ -13,6 +13,7 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
     PIP_NO_CACHE_DIR=1 \
     PIP_DISABLE_PIP_VERSION_CHECK=1 \
+    DEEPEVAL_TELEMETRY_OPT_OUT=YES \
     PORT=8000
 
 WORKDIR /app
@@ -27,9 +28,10 @@ ADD vectorstore-snapshot.tar.gz vectorstore/
 
 COPY src/ src/
 
-# Run as a non-root user. Chroma writes to chroma.sqlite3 even when only reading,
-# so that user has to own the vector store.
-RUN useradd --create-home appuser && chown -R appuser /app/vectorstore
+# Run as a non-root user. It has to own /app: Chroma writes to chroma.sqlite3
+# even when only reading, and the DeepEval citation judge writes a .deepeval
+# folder into the working directory.
+RUN useradd --create-home appuser && chown -R appuser /app
 USER appuser
 
 EXPOSE 8000

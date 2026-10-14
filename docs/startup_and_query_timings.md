@@ -118,7 +118,7 @@ Story 2 adds the deployed latency next to the local figures above.
 - **Date measured:** 14/10/26
 - **Machine:** Macbook Air: M1 chip (amd64 image running under emulation)
 - **Base image:** `python:3.14-slim`
-- **Image size:** 1.02 GB
+- **Image size:** 1.02 GB (`v1`); 1.1 GB (`v2`, adds deepeval for the citation judge)
 - **Cold start (`startup_seconds`):** 0.88s
 - **Collection:** `hs_construction_v1`, 3,646 chunks, unpacked from `vectorstore-snapshot.tar.gz`
 

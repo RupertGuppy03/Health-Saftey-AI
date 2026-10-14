@@ -11,7 +11,7 @@
 src/ui
 src/embeddings
 src/ingestion
-src/evaluation
+src/evaluation/edge_cases.py
 
 **/__pycache__
 **/*.py[cod]

@@ -21,7 +21,7 @@ lives only in the backend.
 | **Public URL** | https://hs-ai-api.orangetree-99264325.australiaeast.azurecontainerapps.io |
 | **Health check** | `<url>/health` — should report `hs_construction_v1`, 3,646 chunks |
 | **API docs** | `<url>/docs` |
-| **Image** | `rupertguppy03/hs-ai-api` on Docker Hub (public), current tag `v1` |
+| **Image** | `rupertguppy03/hs-ai-api` on Docker Hub (public), current tag `v2` |
 | **Azure subscription** | Azure for Students |
 | **Container App** | `hs-ai-api`, resource group `hs-ai-rg`, region Australia East |
 | **Environment** | `managedEnvironment-plpredictorrg-9d77` (shared, see below) |
@@ -44,6 +44,10 @@ lives only in the backend.
   East and its region cannot be changed; moving to New Zealand North would mean
   deleting it (and every app in it) and recreating the app. Australia East adds
   roughly 30 ms per request, which is negligible next to an answer.
+- **Citation judge.** Every answered question also runs the DeepEval DAG citation
+  check (`DAG_JUDGE_MODEL`, default `gpt-4.1`), so each answer costs one extra
+  OpenAI call and takes a few seconds longer. `v1` was built before this feature
+  and returns no score.
 - **Azure for Students:** when the credit runs out the
   resources are switched off — no card is charged.
 
