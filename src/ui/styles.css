@@ -167,13 +167,15 @@ footer,
 /* The text box already sits ~1.5rem in from the bar's edge, so this only needs to
  * add enough to clear the button. */
 .st-key-hs_chat_bar .hs-voice-host [data-testid="stChatInputTextArea"] {
-    padding-left: 1.75rem;
+    padding-left: 2.125rem;
 }
 
 .hs-voice-button {
     position: absolute;
-    left: 0.625rem;
-    /* Centred on the bar, the way Streamlit centres its send button. */
+    /* The same inset from the left edge as the send button has from the right. */
+    left: 1rem;
+    /* Centred until voice.js lines it up with the send button, which drops to the
+     * bottom of the bar once the text wraps. */
     top: 50%;
     transform: translateY(-50%);
     z-index: 2;
