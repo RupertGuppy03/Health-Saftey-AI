@@ -130,3 +130,17 @@ chromadb's own dependencies (onnxruntime, numpy, grpcio, kubernetes), which it
 pulls in even though the backend embeds queries through OpenAI. Only the
 backend's packages are installed (`requirements-api.txt`), pinned by
 `requirements.txt`.
+
+## Deployed (Azure Container Apps)
+
+Sprint 5, story 2. The same image running on Azure, called from the Streamlit
+interface on a laptop with `HS_API_BASE_URL` pointed at the Azure URL.
+
+- **Date measured:** 14/10/26
+- **Where:** Azure Container Apps, Australia East, 0.5 vCPU / 1 GiB, min replicas 1
+- **Cold start (`startup_seconds`):** 0.37s and 0.71s across two revisions
+- **Query latency:** ~10s, timed by hand, for *"What edge protection do I need for work at height?"*
+
+The ~10s is well below the ~33s in the first section because that was measured on
+`gpt-5-mini` before Sprint 4 changed the answering model and settings, not because
+Azure is faster than the laptop.
