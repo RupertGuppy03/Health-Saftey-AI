@@ -62,6 +62,11 @@ def _client(monkeypatch, llm=None, retriever=None, condense_llm=None):
     api_app.app.dependency_overrides[api_app.get_condense_llm] = (
         lambda: condense_llm or StubCondenser()
     )
+    monkeypatch.setattr(
+        api_app,
+        "score_citation_accuracy",
+        lambda *args, **kwargs: (1.0, "Citation matches."),
+    )
 
     client = TestClient(api_app.app)
     yield client
@@ -100,6 +105,56 @@ def test_each_source_has_document_page_and_section(client):
         assert source["source_file"] == "working-on-roofs.pdf"
         assert source["page_number"] == 4
         assert source["section_heading"] == "Working at height"
+
+
+def test_chat_returns_citation_presence_and_dag_score(client):
+    body = client.post("/chat", json={"question": QUESTION}).json()
+
+    assert body["citation_present"] is True
+    assert body["dag_score"] == 1.0
+    assert body["dag_status"] == "scored"
+
+
+def test_chat_passes_retrieved_source_data_to_the_dag_judge(monkeypatch):
+    received = {}
+
+    def score(question, answer, sources, chunks, *, model):
+        received.update(
+            question=question,
+            answer=answer,
+            sources=sources,
+            chunks=chunks,
+            model=model,
+        )
+        return 0.75, "Partially matched."
+
+    client = next(_client(monkeypatch))
+    monkeypatch.setattr(api_app, "score_citation_accuracy", score)
+
+    body = client.post("/chat", json={"question": QUESTION}).json()
+
+    assert received["question"] == QUESTION
+    assert received["answer"] == "Edge protection is required on roofs."
+    assert received["sources"][0]["source_file"] == CHUNK["source_file"]
+    assert received["chunks"][0]["page_number"] == CHUNK["page_number"]
+    assert body["dag_score"] == 0.75
+    assert body["dag_status"] == "scored"
+
+
+def test_chat_answer_is_preserved_when_dag_judging_is_unavailable(monkeypatch):
+    def fail_judge(*args, **kwargs):
+        raise RuntimeError("judge unavailable")
+
+    client = next(_client(monkeypatch))
+    monkeypatch.setattr(api_app, "score_citation_accuracy", fail_judge)
+
+    response = client.post("/chat", json={"question": QUESTION})
+
+    assert response.status_code == 200
+    assert response.json()["answer"] == "Edge protection is required on roofs."
+    assert response.json()["citation_present"] is True
+    assert response.json()["dag_score"] is None
+    assert response.json()["dag_status"] == "unavailable"
 
 
 # =====================================================
@@ -181,12 +236,25 @@ def test_response_shape_is_fixed(client):
     body = client.post("/chat", json={"question": QUESTION}).json()
 
     # "chunks" carries several KB of retrieved text — it stays server-side.
-    assert set(body) == {"answer", "sources", "latency_seconds", "status"}
+    assert set(body) == {
+        "answer",
+        "sources",
+        "latency_seconds",
+        "citation_present",
+        "dag_score",
+        "dag_status",
+        "status",
+    }
     assert body["status"] == "ok"
 
 
 def test_no_retrieved_chunks_reports_no_results(monkeypatch):
-    client = next(_client(monkeypatch, retriever=lambda q, n_results=None, collection_name=None: []))
+    client = next(
+        _client(
+            monkeypatch,
+            retriever=lambda q, n_results=None, collection_name=None: [],
+        )
+    )
 
     response = client.post("/chat", json={"question": QUESTION})
 
@@ -194,6 +262,27 @@ def test_no_retrieved_chunks_reports_no_results(monkeypatch):
     body = response.json()
     assert body["status"] == "no_results"
     assert body["sources"] == []
+    assert body["citation_present"] is False
+    assert body["dag_score"] is None
+    assert body["dag_status"] == "not_scored"
+
+
+def test_no_results_does_not_call_dag_judge(monkeypatch):
+    def fail_judge(*args, **kwargs):
+        raise AssertionError("a no-results response must not invoke the judge")
+
+    client = next(
+        _client(
+            monkeypatch,
+            retriever=lambda q, n_results=None, collection_name=None: [],
+        )
+    )
+    monkeypatch.setattr(api_app, "score_citation_accuracy", fail_judge)
+
+    response = client.post("/chat", json={"question": QUESTION})
+
+    assert response.status_code == 200
+    assert response.json()["dag_status"] == "not_scored"
 
 
 def test_ask_alias_returns_the_same_shape(client):
@@ -229,8 +318,7 @@ def test_a_question_can_carry_the_conversation_it_follows(client):
     assert response.status_code == 200
     body = response.json()
     assert body["status"] == "ok"
-    # The response shape is unchanged: history goes in, nothing new comes back.
-    assert set(body) == {"answer", "sources", "latency_seconds", "status"}
+    assert body["dag_status"] == "scored"
 
 
 def test_the_history_reaches_the_pipeline(monkeypatch):

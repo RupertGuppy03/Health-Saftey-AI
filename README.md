@@ -136,9 +136,18 @@ before — see [Follow-up questions](#follow-up-questions) below.
     }
   ],
   "latency_seconds": 3.21,
+  "citation_present": true,
+  "dag_score": 1.0,
+  "dag_status": "scored",
   "status": "ok"
 }
 ```
+
+`dag_score` is DeepEval's 0–1 citation accuracy score. It is `null` when the
+response is not eligible for scoring or the judge is unavailable; `dag_status`
+distinguishes those cases. Each successful grounded answer invokes the
+configured citation judge, adding latency and API cost. `latency_seconds`
+measures the answer pipeline and does not include the judge call.
 
 `status` is `ok`, `no_results` (nothing relevant was retrieved) or `guardrail`
 (the question was out of scope). A missing or empty question returns **422** and

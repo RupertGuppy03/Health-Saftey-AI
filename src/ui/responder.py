@@ -44,8 +44,23 @@ NO_RESULTS_REPLY = (
 FALLBACK_REPLY = UNAVAILABLE_REPLY
 
 
-def _result(answer, status, sources=None):
-    return {"answer": answer, "sources": sources or [], "status": status}
+def _result(
+    answer,
+    status,
+    sources=None,
+    *,
+    citation_present=None,
+    dag_score=None,
+    dag_status="unavailable",
+):
+    return {
+        "answer": answer,
+        "sources": sources or [],
+        "status": status,
+        "citation_present": citation_present,
+        "dag_score": dag_score,
+        "dag_status": dag_status,
+    }
 
 
 def _health_check():
@@ -130,7 +145,35 @@ def fetch_reply(question, history=None):
         return _result(ERROR_REPLY, "error")
 
     sources = payload.get("sources", []) if status == "ok" else []
-    return _result(answer, status, sources)
+    citation_present = payload.get("citation_present")
+    dag_score = payload.get("dag_score")
+    dag_status = payload.get("dag_status", "unavailable")
+
+    if (
+        (citation_present is not None and not isinstance(citation_present, bool))
+        or dag_status not in {"scored", "not_scored", "unavailable"}
+        or (
+            dag_score is not None
+            and (
+                isinstance(dag_score, bool)
+                or not isinstance(dag_score, (int, float))
+                or not 0 <= dag_score <= 1
+            )
+        )
+        or (dag_status == "scored" and dag_score is None)
+        or (dag_status != "scored" and dag_score is not None)
+    ):
+        logger.warning("Backend citation evaluation response had an invalid shape.")
+        return _result(ERROR_REPLY, "error")
+
+    return _result(
+        answer,
+        status,
+        sources,
+        citation_present=citation_present,
+        dag_score=dag_score,
+        dag_status=dag_status,
+    )
 
 
 # The file extension the backend reads the audio format from, by browser MIME type.
