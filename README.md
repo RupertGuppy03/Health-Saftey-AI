@@ -1,494 +1,107 @@
-# Health & Safety AI — Compliance Chatbot
+# Health & Safety AI
 
-A Retrieval-Augmented Generation (RAG) chatbot that helps New Zealand small and
-medium businesses understand and apply workplace health & safety requirements.
-Users ask questions in plain language and get accurate, NZ-specific guidance
-grounded in official sources (WorkSafe NZ + the Health and Safety at Work Act
-2015), with citations back to the source document and page. It also identifies
-workplace hazards from a description and suggests mitigation strategies.
+A chatbot that helps New Zealand small businesses understand their workplace health and safety obligations. Ask a question in plain language, by text or voice, and get a clear answer grounded in WorkSafe NZ guidance and the Health and Safety at Work Act 2015, with citations to the exact document and page.
 
-See [`PROJECT-BREIF.md`](PROJECT-BREIF.md) for the full project brief.
+**Live demo:** [first-step-ai.streamlit.app](https://first-step-ai.streamlit.app)
 
----
-
-## Tech stack
-
-- **Python** throughout
-- **OpenAI API** (GPT-4o) as the LLM, plus OpenAI embeddings
-- **LangChain** for orchestration
-- **ChromaDB** as the vector store (persisted to disk)
-- **PyMuPDF / pdfplumber** for PDF text extraction
-- **FastAPI** backend (the RAG pipeline), decoupled from...
-- **Streamlit** frontend (the chat UI)
-- **pytest** for unit tests, **DeepEval** for AI evaluation
-- **Docker** for containerising the backend
-- **GitHub** for version control
+<p align="center">
+  <img src="docs/screenshots/home.png" alt="The chat interface home screen" width="49%">
+  <img src="docs/screenshots/chat.png" alt="An answer with a passing citation score" width="49%">
+</p>
 
 ---
 
-## Getting started (local setup)
+## Running locally
 
-This project runs on **Python 3.14**. First, check you have it:
-
-```bash
-python3 --version        # should print 3.14.something
-```
-
-If it doesn't, install Python 3.14 from [python.org](https://www.python.org/downloads/)
-(or with `pyenv`), then continue.
-
-Now copy-paste these commands one block at a time:
+**Requirements:** Python 3.14 and an OpenAI API key.
 
 ```bash
+# 1. Clone and enter the repo
+git clone https://github.com/RupertGuppy03/Health-Saftey-AI.git
+cd Health-Saftey-AI
 
-# 1. Create a private space for this project's packages
+# 2. Create a virtual environment and install dependencies
 python3 -m venv .venv
-
-# 2. Switch that space on
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
-
-# 3. Install everything the project needs (exact, tested versions)
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+
+# 3. Add your API key
+cp .env.example .env               # then set OPENAI_API_KEY in .env
+
+# 4. Unpack the pre-built vector store
+tar -xzf vectorstore-snapshot.tar.gz -C vectorstore
 ```
 
-That's it — the project is installed. ✅
-
-## Running local checks and tests
-
-A small helper script avoids the common "python: command not found" issue on systems that expose only `python3`. It runs a quick import smoke-check using `python3` when available.
-
-- Run the smoke check:
-
-    ./scripts/run_local_checks.sh
-
-- Run the retrieval→LLM unit tests (added for US-06):
-
-    python3 -m pytest tests/test_answer_chain.py -q
-
-- Run the backend tests (Sprint 3, story 1). These stub the LLM and the
-  retriever, so they never call OpenAI:
-
-    python3 -m pytest tests/test_pipeline.py tests/test_api_app.py -q
-
-Make sure your `.env` contains `OPEN_AI_API_KEY` or `OPENAI_API_KEY` before running any tests that call the OpenAI API. The code accepts either name.
-
-### 4. Environment variables
-
-Copy `.env.example` to `.env` and fill in the real values. `.env` is gitignored and
-must never be committed.
-
-| Variable | Used by | Purpose |
-|---|---|---|
-| `OPEN_AI_API_KEY` | `src/embeddings/chunking_script_v2.py` | OpenAI key for generating embeddings |
-| `UNSTRUCTURED_API_KEY` | `src/ingestion/extract.py` | Unstructured API key for PDF extraction |
-| `UNSTRUCTURED_API_URL` | `src/ingestion/extract.py` | Unstructured API endpoint |
-
-Note on the key name: this project uses `OPEN_AI_API_KEY`, but the OpenAI SDK looks for
-`OPENAI_API_KEY` by default. The code accepts **either**, so you don't need to change an
-existing `.env`.
-
----
-
-## Running the backend (FastAPI)
+Then start the backend and the interface in two terminals:
 
 ```bash
-./scripts/run_api.sh     # or: python3 -m uvicorn src.api.app:app --reload
+./scripts/run_api.sh               # backend  → http://localhost:8000
+./scripts/run_ui.sh                # frontend → http://localhost:8501
 ```
 
-Then open **http://localhost:8000/docs** — the interactive API page. Expand
-`POST /chat`, click "Try it out", and send a question. No UI needs to be running.
+Open **http://localhost:8501** once the backend logs `Ready`.
 
-The backend is the only component that holds credentials, so `OPEN_AI_API_KEY`
-(or `OPENAI_API_KEY`) must be set in `.env`, and `vectorstore/` must be populated.
-Host and port default to `0.0.0.0:8000` and can be overridden with the `HOST` and
-`PORT` environment variables.
-
-**Request**
-
-```json
-{ "question": "What edge protection do I need for work at height?" }
-```
-
-`history` is optional. Send it to ask a follow-up that leans on what was asked
-before — see [Follow-up questions](#follow-up-questions) below.
-
-```json
-{
-  "question": "What about on a smaller one?",
-  "history": [
-    { "role": "user",      "content": "What edge protection do I need on a roof?" },
-    { "role": "assistant", "content": "Guardrails are required where a person could fall." }
-  ]
-}
-```
-
-**Response**
-
-```json
-{
-  "answer": "Edge protection is required where a person could fall ...",
-  "sources": [
-    {
-      "source_file": "working-on-roofs.pdf",
-      "page_number": 4,
-      "section_heading": "Working at height",
-      "chunk_id": "doc1:p0004:0000"
-    }
-  ],
-  "latency_seconds": 3.21,
-  "citation_present": true,
-  "dag_score": 1.0,
-  "dag_status": "scored",
-  "status": "ok"
-}
-```
-
-`dag_score` is DeepEval's 0–1 citation accuracy score. It is `null` when the
-response is not eligible for scoring or the judge is unavailable; `dag_status`
-distinguishes those cases. Each successful grounded answer invokes the
-configured citation judge, adding latency and API cost. `latency_seconds`
-measures the answer pipeline and does not include the judge call.
-
-`status` is `ok`, `no_results` (nothing relevant was retrieved) or `guardrail`
-(the question was out of scope). A missing or empty question returns **422** and
-a failed pipeline returns **500**, both as
-`{"status": "error", "message": "..."}` — the technical detail is logged on the
-server, never sent to the browser.
-
-`POST /ask` is the original name for the same endpoint and still works, but new
-callers should use `/chat`.
-
-### Follow-up questions
-
-Send `history` and a follow-up can lean on what came before, so "what about on a
-smaller one?" is understood instead of being refused as off topic.
-
-Before anything is retrieved, the question is rewritten into one that stands on
-its own — "what about on a smaller one?" becomes "what edge protection is needed
-on a smaller roof?". That rewritten question is what the scope guardrail reads and
-what the corpus is searched on, which is why the citations under a follow-up
-belong to the follow-up rather than to the question before it. The earlier turns
-are also given to the answering model, as messages rather than as pasted text, so
-it can follow a reference without treating an old turn as an instruction.
-
-Two behaviours worth knowing:
-
-- **A question with no history costs nothing extra.** No rewrite call is made, and
-  the pipeline behaves exactly as it did before follow-ups existed.
-- **Refusals are still judged on what the user typed.** Legal-advice and
-  external-standard questions are refused before the rewrite runs, so a rewrite
-  cannot soften them.
-
-**History never leaves the browser session.** The backend stores none of it: the
-conversation travels in each request and is discarded when the response is sent,
-so there is no server-side store for one person's conversation to leak out of.
-The interface keeps it in Streamlit session state, which means it lives as long as
-the tab does and no longer. Nothing is written to disk, and nothing is shared
-between users.
-
-**Configuration** — all in `src/config/settings.py`:
-
-| Value | Default | What it does |
-|---|---|---|
-| `HISTORY_TOKEN_LIMIT` | `16000` | How much conversation travels with a question. Roughly 60–80 exchanges; older turns are dropped first, always in whole question-and-answer pairs. Enforced by the interface *and* the backend. |
-| `HISTORY_CONDENSE_MODEL` | `LLM_MODEL` | The model that rewrites a follow-up. Its own setting, so the rewrite can move to a cheaper model without touching the answer path. |
-| `HISTORY_CONDENSE_TEMPERATURE` | `LLM_TEMPERATURE` | Temperature for that rewrite. |
-| `HISTORY_CONDENSE_REASONING_EFFORT` | `"minimal"` | Reasoning effort for the rewrite. Minimal because rewriting is a mechanical edit; the default effort is what makes a full answer take ~32s. |
-| `LLM_REASONING_EFFORT` | `None` | Reasoning effort for the **answering** model. `None` sends nothing, which is the API default and what the Sprint 2 edge case set was signed off against. `"minimal"` cuts a query to ~11.7s (issue S3-01) but needs the edge case set re-run and H&S lead sign-off first. |
-
-### Voice questions: `POST /transcribe`
-
-The chat bar has a mic button (Sprint 3, story 13). A recording is sent here as a
-multipart `audio` file and comes back as text:
-
-```json
-{ "text": "Do I need edge protection on a roof?", "status": "ok" }
-```
-
-`status` is `empty` when nothing was said. The endpoint **only transcribes**: the
-interface puts the transcript in the chat box for the user to check and correct,
-and it is then sent to `POST /chat` like any typed question, so voice has no
-answer path of its own and no spoken reply. A missing or unreadable file is a
-**422**; a failed transcription is a **500** with a plain message.
-
-Recordings that are too short or never louder than silence are caught in the
-browser and never sent, so they cost nothing. Browsers only allow the mic on
-`localhost` or over HTTPS.
-
-| Value | Default | What it does |
-|---|---|---|
-| `TRANSCRIPTION_MODEL` | `"gpt-4o-transcribe"` | The OpenAI model that transcribes a recording. |
-| `TRANSCRIPTION_LANGUAGE` | `"en"` | Pinned rather than detected, since short accented clips are where detection guesses wrong. |
-| `VOICE_MAX_SECONDS` | `60` | A recording stops itself after this long. |
-| `TRANSCRIPTION_CHUNKING_STRATEGY` | `"auto"` | The API's own voice detection runs first, so non-speech is not handed to the model to guess at. |
-| `VOICE_MIN_SPEECH_SECONDS` | `0.6` | Total time a recording must be louder than `VOICE_SILENCE_LEVEL` to be sent. Stops a sniff or a bump of the mic, which is loud but brief. |
-| `VOICE_SILENCE_LEVEL` | `0.02` | The loudness (0–1) that counts as sound rather than silence. |
-
-`TRANSCRIPTION_PROMPT` in `src/config/prompts.py` lists acronyms (PCBU, HSWA,
-WorkSafe…) so the model spells them correctly. It is deliberately spellings only:
-worded as a topic, it gave the model material to invent a question from when a
-recording held no speech. The accuracy spot check is in
-[`docs/voice_transcription_spot_check.md`](docs/voice_transcription_spot_check.md).
-
-### Readiness: `GET /health`
-
-```json
-{
-  "status": "ok",
-  "collection_name": "hs_construction_v1",
-  "chunk_count": 3646,
-  "startup_seconds": 2.14
-}
-```
-
-`status` is `ok` when the collection holds chunks and `unavailable` (with HTTP
-**503**) when it does not, so the interface can use it as a readiness check.
-`startup_seconds` is how long the backend took to open the vector store and build
-the model clients — recorded in
-[`docs/startup_and_query_timings.md`](docs/startup_and_query_timings.md).
-
-### The server will not start without a populated vector store
-
-The ChromaDB client, the embedding client and the chat model are all opened once
-at startup rather than per request, so the first question is no slower than the
-second. If the collection is missing or empty the server **refuses to start**
-rather than answering "I do not have information on that topic" to everything:
-
-```
-RuntimeError: Collection 'hs_construction_v1' is empty or missing (0 chunks at
-.../vectorstore). Run ingestion to populate the vector store before starting the API.
-```
-
-A missing API key is a loud warning rather than a hard stop, so `/docs` and
-`/health` still work while it is being sorted out.
-
----
-
-## Running the chat interface
-
-The interface answers by calling the backend, so it needs both running — two
-terminals, backend first:
+To run the tests:
 
 ```bash
-./scripts/run_api.sh               # terminal 1 — backend on :8000
-./scripts/run_ui.sh                # terminal 2 — interface on :8501
+python3 -m pytest
 ```
-
-Then open http://localhost:8501. Wait for the backend to log
-`Ready in Xs — collection '...', N chunks.` before asking anything; until it
-does, the interface says it could not reach the answering service.
-
-The interface holds no credentials of its own — it sends the question to
-`POST /chat` and renders what comes back, so the backend stays the only
-component with an API key and the vector store.
-
-| Variable | Default | What it does |
-| --- | --- | --- |
-| `HS_API_BASE_URL` | `http://localhost:8000` | Where the interface sends questions. Set it to point at a backend on another host or port; no code change needed. |
-| `HS_API_TIMEOUT_SECONDS` | `60` | Maximum time the interface waits for the readiness check or answer before inviting a retry. |
-
-```bash
-HS_API_BASE_URL=http://192.168.1.20:8000 ./scripts/run_ui.sh
-```
-
-The sidebar lists every source PDF under `data/raw/`; a document is only read
-from disk when someone clicks it.
-
-Colours, fonts and radii are set in `.streamlit/config.toml`, which defines a
-light and a dark palette. The interface follows whichever theme the viewer has
-picked under the ⋮ menu → Settings → Appearance. No API keys are needed to run
-it.
 
 ---
 
-## Folder map
+## Repository layout
 
-| Folder          | What's in it                                              |
-| --------------- | --------------------------------------------------------- |
-| `data/`         | Source PDFs (`raw/`) and cleaned text (`processed/`)      |
-| `vectorstore/`  | The persisted ChromaDB embeddings (not committed to git)  |
-| `references/`   | User stories and planning docs, grouped by sprint         |
-| `notebooks/`    | Personal experiments and scratch work                     |
-| `tests/`        | Automated tests (`pytest`) and AI evaluations (`eval/`)   |
-| `src/`          | All the application source code                            |
-| `src/ui/`       | The Streamlit chat interface (run `streamlit_app.py`)      |
-| `scripts/`      | One-command runners (e.g. ingest all docs, run evals)     |
-
-Each folder has its own short `README.md` explaining what belongs in it.
+```
+Health-Safety-AI/
+├── src/
+│   ├── api/            FastAPI backend
+│   ├── ui/             Streamlit chat interface
+│   ├── retrieval/      Finds the relevant guidance for a question
+│   ├── ingestion/      PDF extraction and cleaning
+│   ├── embeddings/     Chunking and embedding the corpus
+│   ├── evaluation/     Citation and edge-case evaluation
+│   └── config/         Settings and prompts
+├── data/raw/           Source PDFs from WorkSafe NZ
+├── tests/              Unit tests and AI evaluations
+├── notebooks/          Sprint experiments and evaluation runs
+├── scripts/            One-command runners for the API, UI and checks
+├── docs/               Deployment guide, test results and timings
+├── references/         User stories and sprint planning
+├── streamlit_app.py    Frontend entry point
+└── Dockerfile          Backend container image
+```
 
 ---
 
-## Working together
+## Model and tech stack
 
-We collaborate on GitHub. To keep things simple and avoid clashes:
+| | |
+|---|---|
+| **Answering model** | OpenAI `gpt-6-luna` |
+| **Embeddings** | OpenAI `text-embedding-3-small` |
+| **Voice transcription** | OpenAI `gpt-4o-transcribe` |
+| **Orchestration** | LangChain |
+| **Vector store** | ChromaDB |
+| **Backend** | FastAPI, containerised with Docker |
+| **Frontend** | Streamlit |
+| **Evaluation** | pytest and DeepEval |
+| **Hosting** | Azure Container Apps (backend), Streamlit Community Cloud (frontend) |
 
-1. Always start from an up-to-date `main` branch.
-2. Create your own branch for the work you're doing.
-3. Work in your area of the project.
-4. Open a Pull Request when you're ready, so the team can review before it
-   merges into `main`.
+See [`docs/deployment.md`](docs/deployment.md) for deployment details.
 
 ---
 
-## ChromaDB persistence (vectorstore)
+## About
 
-This project uses ChromaDB as a local, on-disk vector store. The persisted files live
-under the repository root in the `vectorstore/` folder and are intentionally not
-committed to git.
+**How it works.** The assistant is a Retrieval-Augmented Generation (RAG) system. 25 WorkSafe NZ PDFs were extracted with Unstructured, cleaned, split into ~750-token chunks and embedded into ChromaDB. When a question comes in, it is checked against a scope guardrail, embedded, and matched to the six closest chunks. The model answers only from those chunks and cites each source's document and page. DeepEval then scores every answer for citation accuracy.
 
-Why not commit the vectorstore?
+Follow-up questions are rewritten so they make sense on their own before retrieval. Conversation history stays in the browser tab and is never stored on the server. Voice questions are transcribed into the chat box for the user to check before sending.
 
-- The persisted embeddings are large and binary; they don't suit diffs or code review.
-- Vector stores are environment-specific and can be rebuilt by ingestion when needed.
+**Adding documents.**
 
-How to inspect the persisted collection locally
+1. Put the PDF in `data/raw/building_and_construction/<doc>/`.
+2. Extract it with `python -m src.ingestion.extract`, then clean it with `python -m src.ingestion.clean`.
+3. Chunk it with `notebooks/S2_pipeline.ipynb`.
+4. Embed it with `python -m src.ingestion.backfill_vectorstore`.
 
-After installing the project's dependencies (see "Getting started"), run the
-verification script which opens the named collection defined in code and prints
-its item count (works even when the collection is empty):
-
-```bash
-python scripts/check_chroma_collection.py
-```
-
-The collection name is defined centrally in `src/config/settings.py` as
-`CHROMA_COLLECTION_NAME`. To open a different collection name for debugging pass
-`--collection NAME` to the script.
-
-## Embeddings
-
-Configured centrally in `src/config/settings.py`:
-
-| Setting | Value | Notes |
-|---|---|---|
-| `EMBEDDING_MODEL` | `text-embedding-3-small` | Must be the same at ingestion and query time |
-| `EMBEDDING_DIMENSIONS` | `1536` | The model's native width; not truncated |
-| `EMBEDDING_BATCH_SIZE` | `128` | Texts per API call — the full corpus is ~43 calls, not ~5,400 |
-| `EMBEDDING_MAX_TOKENS_PER_REQUEST` | `100000` | A batch over this is split again |
-| `PIPELINE_VERSION` | `3.0.0` | Stamped on every record; bump when a change invalidates stored vectors |
-| `CHUNK_TARGET_CHARS` | `3000` | What the packer aims for per chunk (~750 tokens, inside the locked 500-1000 band) |
-| `CHUNK_MAX_CHARS` | `4000` | Hard ceiling for a single chunk |
-| `CHUNK_MIN_CHARS` | `300` | A chunk below this is folded into a neighbour rather than stored on its own |
-| `CHUNK_OVERLAP_CHARS` | `600` | Trailing context carried into the next prose chunk |
-| `HEADING_STRUCTURAL_SHARE` | `0.40` | Threshold for whether a document's headings are numbered/ALL-CAPS enough to trust on their own |
-
-Embedding the whole corpus (~3,700 chunks) costs a fraction of a cent.
-
-### How chunking works
-
-Cleaned elements are packed **in document order** into chunks — not split from a single
-joined string, the way a text splitter works. `Title` elements are candidate section
-breaks, `Table` elements are always their own chunk, and everything else accumulates
-until a chunk is worth retrieving.
-
-Not every `Title` element extracted from a PDF is a real heading — line-wrapped text is
-sometimes tagged `Title` element by element, which would turn a broken sentence into a
-string of one-word "section headings" and one-line "chunks". Two checks catch this:
-
-- **Structural test**: numbered (`1.3`, `2.1`) or short ALL CAPS text is always trusted
-  as a heading, regardless of context.
-- **Shape test**: a short, capitalised, non-numbered line (e.g. `Key terms`) is trusted
-  as a heading only if it is not a Title Case document's house style *and* the previous
-  element reads as a finished sentence. Without that second condition, a capitalised
-  line-wrap fragment (e.g. `"Work Act 2015 (HSWA), illustrate different"`, itself a
-  continuation of the previous line) would be mistaken for a new heading.
-
-Which documents get the shape test is decided **per document**: `detect_allow_heading_shape`
-measures what share of a document's own `Title` elements are structural, and only enables
-the looser shape rule where the document does not already have a clear numbered/ALL-CAPS
-convention (below `HEADING_STRUCTURAL_SHARE`). Both checks are purely typographic — they
-never look at subject matter, so behaviour does not depend on which topic a document covers.
-
-A misclassified heading only costs a slightly less precise `section_heading` in a
-citation — it never creates its own tiny chunk, since a heading always attaches to the
-body text that follows it.
-
-Tables are never split below their size cap and never merged with surrounding prose.
-Where a heading-only label sits directly before a table with nothing to merge it
-backward into (a checklist-style `Label` → `Table` → `Label` → `Table` run), the label is
-prepended to the table as a caption instead of being left as its own one-line chunk. A
-table larger than `CHUNK_MAX_CHARS` is split on row boundaries, and the header row is
-repeated at the top of every part so each stands alone.
-
-A small number of chunks (well under 1% of the corpus) remain under `CHUNK_MIN_CHARS` —
-mainly a trailing heading at the very end of a document with a table immediately before
-it and nothing after. This is accepted rather than fixed by relaxing "tables are never
-merged with prose".
-
-**Querying the collection:** use `src/retrieval/retriever.py` — see
-[Retrieval](#retrieval) below. Do not call `collection.query(query_texts=...)`
-directly; the reason is explained there.
-
-## Retrieval
-
-Turning a user's question into the chunks that answer it. One function:
-
-```python
-from src.retrieval import retriever
-
-results = retriever.retrieve("What edge protection is needed on a roof?")
-print(retriever.format_results(results))
-```
-
-Each result is a plain dict:
-
-| key | what it is |
-| --- | --- |
-| `rank` | 1-based position, nearest first |
-| `chunk_id` | the deterministic ingestion ID, e.g. `working-on-roofs-GPG:p0004:0012` |
-| `text` | the chunk itself |
-| `source_file`, `page_number`, `section_heading` | the locked Sprint 1 metadata — this is what a citation is built from |
-| `chunk_type` | `prose`, `table`, `appendix` or `glossary`; `None` if the record has none |
-| `distance` | how far the chunk is from the question; smaller is nearer |
-
-**How many chunks come back** is `RETRIEVAL_TOP_K` in `src/config/settings.py`,
-currently **6**. That is the single source of truth — retrieval, the terminal
-script and the eval runs all read it rather than each passing their own number.
-Override it for one call with `retrieve(question, n_results=4)`.
-
-**The query is embedded with `EMBEDDING_MODEL`**, the same model used at
-ingestion and read from the same place in settings. A query embedded any other
-way is not comparable to what is stored and returns meaningless neighbours.
-
-**Never pass `query_texts=`.** The stored vectors are 1536-dimension OpenAI
-vectors, but ChromaDB still has its own built-in 384-dimension embedder
-attached, and `query_texts=` would use it and fail on a dimension mismatch.
-`retrieve()` embeds the question itself and passes `query_embeddings=`.
-
-Retrieval only reads. It never writes to the collection and never re-embeds a
-document — the only thing it sends to OpenAI is the question.
-
-To see it working across five documents, run `notebooks/S2_retrieval.ipynb`.
-
-## Re-running ingestion and rebuilding
-
-Ingestion is safe to re-run. Every chunk gets a deterministic ID built from the
-document filename, its page number and its position in the document, so a repeat run
-overwrites the same records instead of appending duplicates.
-
-Each record also stores the pipeline that produced it: `pipeline_version`,
-`embedding_model`, `chunk_target_chars` and `chunk_overlap_chars`. That is how you tell
-whether a vector in the collection is stale.
-
-**When re-ingesting the document is enough.** If you change chunking or cleaning and
-re-ingest a document, any record the new run no longer produces is deleted. A document
-that used to yield 500 chunks and now yields 300 ends up with exactly 300 — the 200
-leftovers are removed rather than left behind to be retrieved later. This happens
-automatically; you do not need to clear anything first.
-
-**When you must rebuild everything.** Changing the embedding model, or its dimensions,
-invalidates every vector in the collection, and mixing widths in one collection is an
-error. Bump `PIPELINE_VERSION` and wipe the collection:
-
-```python
-from src.vectorstore_client import reset_collection
-
-reset_collection()   # drops and recreates hs_construction_v1, empty
-```
-
-Then re-ingest every document. A full re-embed of the corpus is roughly 3,700 chunks and
-well under a cent, so rebuilding is cheap — when in doubt, rebuild.
-
-To keep the old vectors around for comparison, change `CHROMA_COLLECTION_NAME` in
-`src/config/settings.py` to a new version (for example `hs_construction_v2`) instead of
-resetting, and ingest into that.
+Re-running ingestion is safe because chunk IDs are deterministic. Extraction and embedding are paid API calls. Embedding the whole corpus costs a few cents.
